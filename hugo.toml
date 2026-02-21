@@ -1,0 +1,77 @@
+
+baseURL = "https://geprompt.nl/"
+languageCode = "nl"
+defaultContentLanguage = "nl"
+title = "Geprompt — AI-nieuws voor het MKB"
+theme = "PaperMod"
+paginate = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  env = "production"
+  description = "Dagelijks AI-nieuws voor Nederlandse ondernemers. Kort, feitelijk, toepasbaar."
+  author = "Geprompt Redactie"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = true
+
+  [params.homeInfoParams]
+    Title = "Word dagelijks geprompt."
+    Content = "AI-nieuws voor het Nederlandse MKB. Kort. Feitelijk. Toepasbaar."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[params.assets]
+  favicon = "/favicon.ico"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  identifier = "ai-nieuws"
+  name = "AI Nieuws"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "zoeken"
+  name = "Zoeken"
+  url = "/search/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "over"
+  name = "Over"
+  url = "/over/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "commercieel"
+  name = "Partners"
+  url = "/commercieel/"
+  weight = 4
+
+[taxonomies]
+  tag = "tags"
+  categorie = "categorieen"
+
+[markup.goldmark.renderer]
+  unsafe = true
