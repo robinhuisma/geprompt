@@ -1,7 +1,7 @@
 baseURL = "https://geprompt.pages.dev/"
 languageCode = "nl"
 defaultContentLanguage = "nl"
-title = "Geprompt — AI-nieuws voor het MKB"
+title = "Geprompt.nl | Business, Tech, & Lifestyle"
 theme = "PaperMod"
 paginate = 10
 
