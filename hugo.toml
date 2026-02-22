@@ -32,8 +32,8 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "Become a true insider."
-    Content = "AI, tech, zakelijk & lifestyle nieuws voor professionals."
+    Title = "True insider."
+    Content = "Tech, business & lifestyle nieuws voor professionals."
 
 [params.assets]
   favicon = "/favicon.ico"
