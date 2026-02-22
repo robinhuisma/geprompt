@@ -32,11 +32,6 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "Become an insider."
-    Content = "AI-tech & lifestyle nieuws voor winners."
-
-
-  [params.homeInfoParams]
     Title = "Become a true insider."
     Content = "AI-tech & lifestyle nieuws voor winners."
 
