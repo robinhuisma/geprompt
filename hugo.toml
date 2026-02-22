@@ -1,9 +1,9 @@
 baseURL = "https://geprompt.pages.dev/"
 languageCode = "nl"
 defaultContentLanguage = "nl"
-title = "Geprompt.nl | Business, Tech, & Lifestyle"
+title = "GEPROMPT"
 theme = "PaperMod"
-paginate = 10
+paginate = 9999
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -24,13 +24,21 @@ buildFuture = false
   disableThemeToggle = true
   ShowMenu = true
 
-  [params.homeInfoParams]
-    Title = "Word dagelijks geprompt."
-    Content = "AI-nieuws voor het Nederlandse MKB. Kort. Feitelijk. Toepasbaar."
 
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
+
+
+
+  [params.homeInfoParams]
+    Title = "Become an insider."
+    Content = "AI-tech & lifestyle nieuws voor winners."
+
+
+  [params.homeInfoParams]
+    Title = "Become a true insider."
+    Content = "AI-tech & lifestyle nieuws voor winners."
 
 [params.assets]
   favicon = "/favicon.ico"

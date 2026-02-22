@@ -1,0 +1,10 @@
+.logo a {
+  font-family: "Futura", "Futura-Bold", "Arial Black", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: #1E6F6B !important;
+  font-size: 3em;
+  padding-top: 20px;
+  display: inline-block;
+}
