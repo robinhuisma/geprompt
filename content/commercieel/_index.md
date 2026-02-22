@@ -3,7 +3,7 @@ title: "Voor Partners"
 hidemeta: true
 ---
 
-GEPROMPT biedt ruimte voor advertorials en advertising. Wilt u zichtbaar zijn in het hart van uw doelgroep? Informeer naar de mogelijkheden om gericht te adverteren binnen een scherp gedefinieerd segment.
+GEPROMPT.nl biedt ruimte voor advertorials en advertising. Wilt u zichtbaar zijn in het hart van uw doelgroep? Informeer naar de mogelijkheden om gericht te adverteren binnen een scherp gedefinieerd segment.
 
 **Doelgroep**
 
