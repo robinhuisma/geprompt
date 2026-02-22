@@ -25,9 +25,7 @@ buildFuture = false
   ShowMenu = true
 
 
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
+
 
 
 
