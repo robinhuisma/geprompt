@@ -3,12 +3,8 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: -0.02em;
-  color: #0F3057 !important;
+  color: #0000FE !important;
   font-size: 3em;
   padding-top: 20px;
   display: inline-block;
-}
-.logo a::after {
-  content: ".nl";
-  color: #B4F000;
 }
