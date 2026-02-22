@@ -30,7 +30,7 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "True insider."
+    Title = "Achterlopen laat je aan anderen over"
     Content = "Tech, business & lifestyle nieuws voor professionals."
 
 [params.assets]
