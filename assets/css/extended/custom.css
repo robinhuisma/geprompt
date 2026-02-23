@@ -7,7 +7,10 @@
   letter-spacing: -2px !important;
 }
 
-/* Vorige/Volgende navigatie kleur */
-.paginav a {
+/* Vorige/Volgende labels kleur */
+.paginav .title {
   color: #34E4CB !important;
+}
+.paginav a {
+  color: white !important;
 }
