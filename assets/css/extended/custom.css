@@ -1,7 +1,8 @@
 /* Artikelpagina: 1000px breed gecentreerd */
 .post-single {
-  max-width: 1000px;
-  margin: 0 auto;
+  --main-width: 1000px;
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: auto;
 }
 
 /* Homepage: breed + 3 kolommen */
