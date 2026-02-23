@@ -30,8 +30,8 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "AI-nieuws voor op de werkvloer."
-    Content = "Tech, business & lifestyle nieuws voor professionals."
+    Title = "AI-nieuws voor op de werkvloer"
+    Content = "De AI-bron, zodat je altijd up-to-date blijft van alle (inter)nationale ontwikkelingen"
 
 [params.assets]
   favicon = "/favicon.ico"
