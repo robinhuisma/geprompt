@@ -10,3 +10,23 @@
   max-width: 750px;
   margin: 0 auto;
 }
+
+/* Homepage 3 kolommen grid */
+.home-info + .post-entry,
+.home-info ~ .post-entry {
+  display: inline-block;
+}
+
+body:not(.post-single) .main {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+body:not(.post-single) .main .home-info {
+  grid-column: 1 / -1;
+}
+
+body:not(.post-single) .main .post-entry {
+  margin: 0;
+}
