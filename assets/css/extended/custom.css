@@ -1,32 +1,41 @@
-.post-single .post-content {
-  max-width: 750px;
-  margin: 0 auto;
-}
-.post-single .post-header {
-  max-width: 750px;
-  margin: 0 auto;
-}
+/* Artikelpagina: 750px breed gecentreerd */
+.post-single .post-content,
+.post-single .post-header,
 .post-single .post-footer {
   max-width: 750px;
   margin: 0 auto;
 }
 
-/* Homepage 3 kolommen grid */
-.home-info + .post-entry,
-.home-info ~ .post-entry {
-  display: inline-block;
-}
-
+/* Homepage: breed + 3 kolommen */
 body:not(.post-single) .main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 
+/* Titel/intro over volle breedte */
 body:not(.post-single) .main .home-info {
   grid-column: 1 / -1;
 }
 
+/* Kaarten vullen de grid */
 body:not(.post-single) .main .post-entry {
   margin: 0;
+}
+
+/* Tablet: 2 kolommen */
+@media (max-width: 960px) {
+  body:not(.post-single) .main {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobiel: 1 kolom */
+@media (max-width: 600px) {
+  body:not(.post-single) .main {
+    grid-template-columns: 1fr;
+  }
 }
