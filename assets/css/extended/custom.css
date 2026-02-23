@@ -1,14 +1,12 @@
-/* Artikelpagina: 750px breed gecentreerd */
-.post-single .post-content,
-.post-single .post-header,
-.post-single .post-footer {
+/* Artikelpagina: 1000px breed gecentreerd */
+.post-single {
   max-width: 1000px;
   margin: 0 auto;
 }
 
 /* Homepage: breed + 3 kolommen */
 body:not(.post-single) .main {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 20px;
   display: grid;
@@ -16,24 +14,20 @@ body:not(.post-single) .main {
   gap: 20px;
 }
 
-/* Titel/intro over volle breedte */
 body:not(.post-single) .main .home-info {
   grid-column: 1 / -1;
 }
 
-/* Kaarten vullen de grid */
 body:not(.post-single) .main .post-entry {
   margin: 0;
 }
 
-/* Tablet: 2 kolommen */
 @media (max-width: 960px) {
   body:not(.post-single) .main {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* Mobiel: 1 kolom */
 @media (max-width: 600px) {
   body:not(.post-single) .main {
     grid-template-columns: 1fr;
