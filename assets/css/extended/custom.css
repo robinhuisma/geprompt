@@ -1,1 +1,5 @@
-/* Leeg — standaard PaperMod layout */
+/* Logo styling */
+.logo a {
+  font-size: 300% !important;
+  color: #34E4CB !important;
+}
