@@ -30,7 +30,7 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "Vooroplopen begin hier"
+    Title = "AI-nieuws voor op de werkvloer."
     Content = "Tech, business & lifestyle nieuws voor professionals."
 
 [params.assets]
