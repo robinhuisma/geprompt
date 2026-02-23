@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:52.687Z
 tags: ["ai", "filmindustrie", "creativiteit", "mkb"]
 summary: "AI-tools bieden indie-filmmakers nieuwe mogelijkheden, maar de nadruk op efficiëntie en een vloed aan AI-content kan de artistieke creativiteit ondermijnen."
 cover:
-  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/18069490/pexels-photo-18069490.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Abstract digital visualization of AI, featuring colorful 3D elements and modern design."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 ---
 

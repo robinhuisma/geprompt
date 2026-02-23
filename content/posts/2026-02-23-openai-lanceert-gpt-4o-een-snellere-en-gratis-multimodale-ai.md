@@ -4,9 +4,9 @@ date: 2026-02-23T13:02:07.642Z
 tags: ["openai", "gpt-4o", "ai-model", "multimodaal"]
 summary: "OpenAI heeft GPT-4o gepresenteerd, een nieuwe, snellere en gratis te gebruiken AI-model dat tekst, audio en beeld in real-time kan verwerken."
 cover:
-  image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/15863066/pexels-photo-15863066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "OpenAI Website with Introduction to ChatGPT on Computer Monitor"
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 ---
 

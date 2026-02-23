@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:59.465Z
 tags: ["google", "gemini", "ai", "enterprise"]
 summary: "Google heeft een incrementele upgrade van zijn AI-model uitgebracht, Gemini 3.1 Pro, dat specifiek is gericht op het aantrekken en bedienen van zakelijke klanten."
 cover:
-  image: "https://images.pexels.com/photos/30869081/pexels-photo-30869081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scrabble tiles spelling out Google and Gemini on a wooden table, focusing on AI concepts."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/18068462/pexels-photo-18068462.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Vibrant 3D abstract artwork showcasing metallic textures against a clear sky."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 ---
 

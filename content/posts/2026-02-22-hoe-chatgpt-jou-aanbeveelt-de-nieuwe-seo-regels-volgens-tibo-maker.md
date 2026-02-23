@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:28.292Z
 tags: ["ai", "seo", "chatgpt", "contentmarketing"]
 summary: "In een AI-first wereld is het cruciaal om zowel op Google als in ChatGPT-antwoorden te ranken, waarbij Tibo Maker een systeem deelt voor het vinden van keywords, snel creëren van content en het opbouwen van relevante backlinks."
 cover:
-  image: "https://images.pexels.com/photos/15863103/pexels-photo-15863103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a monitor displaying ChatGPT Plus introduction on a green background."
-  caption: "Foto: Andrew Neel via Pexels"
+  image: "https://images.pexels.com/photos/30530426/pexels-photo-30530426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a smartphone with AI assistant interface on screen over a laptop."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

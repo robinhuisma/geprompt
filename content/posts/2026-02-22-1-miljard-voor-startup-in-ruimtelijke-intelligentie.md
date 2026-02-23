@@ -4,9 +4,9 @@ date: 2026-02-22T11:00:47.477Z
 tags: ["investering", "startup", "ruimtelijke intelligentie", "ai"]
 summary: "Een startup gespecialiseerd in ruimtelijke intelligentie heeft een investering van 1 miljard dollar opgehaald, wat duidt op groot vertrouwen in deze opkomende AI-tak."
 cover:
-  image: "https://images.pexels.com/photos/18789427/pexels-photo-18789427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Detailed view of a Formula 1 car's front wing with Mercedes-Benz logos at Indianapolis."
-  caption: "Foto: Adriaan Greyling via Pexels"
+  image: "https://images.pexels.com/photos/30530407/pexels-photo-30530407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of an AI-driven chat interface on a computer screen, showcasing modern AI technology."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

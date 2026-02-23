@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:07.113Z
 tags: ["ai", "open source", "llm", "latijns-amerika"]
 summary: "Er is een nieuw open source AI-model, Latam-GPT, gelanceerd dat specifiek is ontwikkeld voor de Latijns-Amerikaanse regio, als onderdeel van een trend naar meer regionale AI-ontwikkeling."
 cover:
-  image: "https://images.pexels.com/photos/30869075/pexels-photo-30869075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scrabble tiles spelling \"CHATGPT\" on wooden surface, emphasizing AI language models."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

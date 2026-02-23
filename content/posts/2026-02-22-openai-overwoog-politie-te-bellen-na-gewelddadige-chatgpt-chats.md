@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:45.417Z
 tags: ["openai", "chatgpt", "ai-veiligheid", "contentmoderatie"]
 summary: "OpenAI's interne monitoringtools signaleerden verontrustende berichten over geweld in ChatGPT-gesprekken van een Canadees account, wat leidde tot een intern debat over het al dan niet inschakelen van de autoriteiten."
 cover:
-  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/15863066/pexels-photo-15863066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "OpenAI Website with Introduction to ChatGPT on Computer Monitor"
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 ---
 

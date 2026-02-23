@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:03.494Z
 tags: ["anthropic", "ai-agent", "productiviteit", "automatisering"]
 summary: "Anthropic heeft Cowork gelanceerd, een nieuwe AI-agent-functie in de Claude Desktop-app voor macOS waarmee gebruikers, zonder te programmeren, taken zoals het ordenen van mappen of maken van rapporten uit bestanden kunnen automatiseren via een aangewezen map op hun computer."
 cover:
-  image: "https://images.pexels.com/photos/6803552/pexels-photo-6803552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Two men collaborating in a modern office setting, focusing on teamwork and productivity."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A modern humanoid robot with digital face and luminescent screen, symbolizing innovation in technology."
+  caption: "Foto: Kindel Media via Pexels"
 draft: false
 ---
 

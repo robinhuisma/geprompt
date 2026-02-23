@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:26.615Z
 tags: ["ai", "automatisering", "workflow", "mkb"]
 summary: "No-code AI agents voeren nu concrete werkzaamheden uit, zoals het annuleren van abonnementen, facturen sturen en tools als Stripe koppelen, waardoor MKB'ers processen kunnen automatiseren zonder technische hulp."
 cover:
-  image: "https://images.pexels.com/photos/34804018/pexels-photo-34804018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of AI-assisted coding with menu options for debugging and problem-solving."
-  caption: "Foto: Daniil Komov via Pexels"
+  image: "https://images.pexels.com/photos/18068462/pexels-photo-18068462.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Vibrant 3D abstract artwork showcasing metallic textures against a clear sky."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 ---
 

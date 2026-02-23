@@ -4,9 +4,9 @@ date: 2026-02-23T12:55:38.698Z
 tags: ["ai", "robotica", "funding", "automatisering"]
 summary: "Het Amerikaanse Covariant haalt een miljard dollar op om AI-modellen te ontwikkelen die de fysieke wereld begrijpen, gericht op robotica en automatisering."
 cover:
-  image: "https://images.pexels.com/photos/30869083/pexels-photo-30869083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of wooden Scrabble tiles spelling OpenAI and DeepSeek on wooden table."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/30530428/pexels-photo-30530428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a smartphone displaying an AI chat interface with the DeepSeek app."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

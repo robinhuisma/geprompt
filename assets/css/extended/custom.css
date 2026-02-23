@@ -6,3 +6,8 @@
   font-weight: bold !important;
   letter-spacing: -2px !important;
 }
+
+/* Vorige/Volgende navigatie kleur */
+.paginav a {
+  color: #34E4CB !important;
+}

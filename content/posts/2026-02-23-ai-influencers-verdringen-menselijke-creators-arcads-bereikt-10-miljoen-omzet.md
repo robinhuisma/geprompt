@@ -4,9 +4,9 @@ date: 2026-02-23T07:26:32.401Z
 tags: ["ai"]
 summary: "Het AI-bedrijf Arcads, opgericht door Romain Torres, genereerde binnen een jaar $10 miljoen omzet met een app waarmee gebruikers realistische AI-avatars en UGC-video's kunnen maken, wat een fundamentele verschuiving in contentcreatie en influencer marketing inluidt."
 cover:
-  image: "https://images.pexels.com/photos/16474955/pexels-photo-16474955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Smartphone showing OpenAI ChatGPT in focus, on top of an open book, highlighting technology and learning."
-  caption: "Foto: Shantanu Kumar via Pexels"
+  image: "https://images.pexels.com/photos/30530414/pexels-photo-30530414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a digital assistant interface on a dark screen, showcasing AI technology communication."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

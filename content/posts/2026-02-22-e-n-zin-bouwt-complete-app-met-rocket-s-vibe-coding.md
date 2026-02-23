@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:29.154Z
 tags: ["app ontwikkeling", "ai", "no-code", "mkb"]
 summary: "Rocket.new laat met 'vibe coding' uit één zin een complete productie-app ontstaan, inclusief frontend, backend, database, mobiele app en betaalomgeving, wat de ontwikkeltijd dramatisch verkort."
 cover:
-  image: "https://images.pexels.com/photos/5559878/pexels-photo-5559878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Explore the breathtaking cliffs and serene water reflections in Israel's desert canyon."
-  caption: "Foto: Uri Baruch via Pexels"
+  image: "https://images.pexels.com/photos/20870805/pexels-photo-20870805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a hand holding a smartphone with AI applications on screen."
+  caption: "Foto: Solen Feyissa via Pexels"
 draft: false
 ---
 

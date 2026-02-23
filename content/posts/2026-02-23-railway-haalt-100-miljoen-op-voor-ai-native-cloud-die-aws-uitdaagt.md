@@ -4,9 +4,9 @@ date: 2026-02-23T07:26:08.974Z
 tags: ["cloud computing", "ai", "startup", "infrastructuur"]
 summary: "Het cloudplatform Railway heeft $100 miljoen aan groeikapitaal opgehaald om met een AI-native infrastructuur, die applicaties in minder dan een seconde live zet, de gevestigde cloudreuzen zoals AWS en Google Cloud uit te dagen."
 cover:
-  image: "https://images.pexels.com/photos/9454347/pexels-photo-9454347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A close-up of books focused on design and UX research stacked on a glass table."
-  caption: "Foto: Karl Solano via Pexels"
+  image: "https://images.pexels.com/photos/92905/pexels-photo-92905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of CSS code displayed on a computer monitor, showcasing web development."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 ---
 

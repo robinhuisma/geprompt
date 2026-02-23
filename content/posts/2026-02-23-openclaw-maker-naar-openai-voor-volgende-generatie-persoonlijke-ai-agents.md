@@ -4,9 +4,9 @@ date: 2026-02-23T12:47:42.628Z
 tags: ["ai"]
 summary: "De ontwikkelaar achter het veelbelovende OpenClaw-project is nu in dienst bij OpenAI om te werken aan de volgende generatie persoonlijke AI-agents, wat een mogelijke doorbraak voor de agent-technologie kan betekenen."
 cover:
-  image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/18068462/pexels-photo-18068462.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Vibrant 3D abstract artwork showcasing metallic textures against a clear sky."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:44.401Z
 tags: ["tarieven", "handel", "beleggen", "rechtspraak"]
 summary: "Beleggingsfondsen die speculeerden op het vernietigen van de tarieven van ex-president Trump door het Hooggerechtshof, staan nu een aanzienlijk financieel rendement te wachten."
 cover:
-  image: "https://images.pexels.com/photos/33092906/pexels-photo-33092906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A blue SIM card on a dark background with vibrant red and purple accents."
-  caption: "Foto: Pascal 📷 via Pexels"
+  image: "https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "3D rendered abstract brain concept with neural network."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:02.058Z
 tags: ["nvidia", "meta", "ai-chips", "samenwerking"]
 summary: "Nvidia en Meta hebben een nieuwe, brede overeenkomst gesloten voor de levering van AI-chips, waarmee ze hun reeds nauwe samenwerking op het gebied van kunstmatige intelligentie verder uitbreiden."
 cover:
-  image: "https://images.pexels.com/photos/343239/pexels-photo-343239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Detailed close-up of a laptop keyboard featuring Intel Core i7 and NVIDIA GeForce stickers, highlighting technology components."
-  caption: "Foto: Jordan Harrison via Pexels"
+  image: "https://images.pexels.com/photos/8294566/pexels-photo-8294566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A small humanoid robot with glowing eyes on a reflective table in a dark setting."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 ---
 

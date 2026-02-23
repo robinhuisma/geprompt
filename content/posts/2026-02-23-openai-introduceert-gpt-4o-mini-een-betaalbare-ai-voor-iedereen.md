@@ -4,9 +4,9 @@ date: 2026-02-23T09:00:27.561Z
 tags: ["openai", "ai-model", "api", "mkb"]
 summary: "OpenAI heeft GPT-4o mini gelanceerd, een compact en kostenefficiënt AI-model dat via API beschikbaar is voor ontwikkelaars en bedrijven om eenvoudig slimme functies in apps te integreren."
 cover:
-  image: "https://images.pexels.com/photos/30869075/pexels-photo-30869075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scrabble tiles spelling \"CHATGPT\" on wooden surface, emphasizing AI language models."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/16027820/pexels-photo-16027820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Screen displaying ChatGPT examples, capabilities, and limitations."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:02.660Z
 tags: ["ai", "marktonderzoek", "funding", "mkb"]
 summary: "Het AI-bedrijf Listen Labs heeft een Series B-financieringsronde van $69 miljoen opgehaald, mede dankzij een opvallende wervingscampagne met een gecodeerd billboard, en groeide in negen maanden naar een jaaromzet van tientallen miljoenen dollars door AI-gedreven klantinterviews."
 cover:
-  image: "https://images.pexels.com/photos/9574456/pexels-photo-9574456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scientist in a lab gown interacting with equipment in a modern laboratory setting."
-  caption: "Foto: Tima Miroshnichenko via Pexels"
+  image: "https://images.pexels.com/photos/18799044/pexels-photo-18799044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a futuristic humanoid robot with metallic armor and blue LED eyes."
+  caption: "Foto: igovar igovar via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:46.234Z
 tags: ["ai", "chatbot", "concurrentie", "india"]
 summary: "Het Indiase AI-bedrijf Sarvam heeft een bètaversie gelanceerd van zijn nieuwe chat-app genaamd Indus, waarmee het de concurrentie aangaat in de snel groeiende markt voor AI-assistenten."
 cover:
-  image: "https://images.pexels.com/photos/34293906/pexels-photo-34293906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Aerial view of colorful river confluence in mountainous Ladakh landscape under a clear blue sky."
-  caption: "Foto: Raj Gautam via Pexels"
+  image: "https://images.pexels.com/photos/30530429/pexels-photo-30530429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of smartphone screen showing DeepSeek AI chatbot interface on a modern device."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

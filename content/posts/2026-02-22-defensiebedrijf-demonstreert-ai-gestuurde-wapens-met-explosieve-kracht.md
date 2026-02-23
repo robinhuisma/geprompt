@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:49.562Z
 tags: ["defensie", "kunstmatige intelligentie", "autonome systemen", "ethiek"]
 summary: "Het defensiebedrijf Scout AI gebruikt machine learning en autonome systemen, oorspronkelijk ontwikkeld voor civiele AI, om geavanceerde wapens te creëren die onlangs hun explosieve potentieel hebben gedemonstreerd."
 cover:
-  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/9026301/pexels-photo-9026301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A sleek robotic device on a rock outdoors, showcasing advanced AI technology."
+  caption: "Foto: Kindel Media via Pexels"
 draft: false
 ---
 

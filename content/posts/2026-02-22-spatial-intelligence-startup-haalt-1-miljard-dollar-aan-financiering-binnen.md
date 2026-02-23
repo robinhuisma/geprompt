@@ -4,8 +4,8 @@ date: 2026-02-22T12:34:05.066Z
 tags: ["startup", "financiering", "spatial intelligence", "ai"]
 summary: "Een startup gespecialiseerd in ruimtelijke intelligentie heeft een investeringsronde van 1 miljard dollar voltooid, wat duidt op groot vertrouwen in de groeiverwachtingen voor deze technologie."
 cover:
-  image: "https://images.pexels.com/photos/4584836/pexels-photo-4584836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A vintage typewriter displaying a page with the words 'Startup Investments,' ideal for business and entrepreneurship themes."
+  image: "https://images.pexels.com/photos/30855412/pexels-photo-30855412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of wooden Scrabble tiles spelling 'China' and 'Deepseek' on a wooden surface."
   caption: "Foto: Markus Winkler via Pexels"
 draft: false
 ---

@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:34.100Z
 tags: ["ai", "data engineering", "mkb", "automatisering"]
 summary: "AI neemt taken van de data engineer over door via prompts in een IDE direct data pipelines, tests en monitors te genereren, wat leidt tot snellere ontwikkeling van data producten met minder handmatig werk."
 cover:
-  image: "https://images.pexels.com/photos/17485657/pexels-photo-17485657.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "3D render abstract digital visualization depicting neural networks and AI technology."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/18799044/pexels-photo-18799044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a futuristic humanoid robot with metallic armor and blue LED eyes."
+  caption: "Foto: igovar igovar via Pexels"
 draft: false
 ---
 

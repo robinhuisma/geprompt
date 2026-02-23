@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:45.301Z
 tags: ["ai safety", "defensie", "ethische ai", "bedrijfsbeleid"]
 summary: "AI-bedrijf Anthropic sluit in zijn gebruiksvoorwaarden expliciet militaire toepassingen zoals autonome wapens en overheidssurveillance uit, wat het een belangrijk overheidscontract kan kosten."
 cover:
-  image: "https://images.pexels.com/photos/5572428/pexels-photo-5572428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A stunning aerial view of the Champ de Mars park in Paris during the day, with a backdrop of urban architecture."
-  caption: "Foto: Ahmad Kataya via Pexels"
+  image: "https://images.pexels.com/photos/17485632/pexels-photo-17485632.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Colorful abstract design depicting rail tracks with blocks, illustrating choice and direction."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 ---
 
