@@ -30,7 +30,7 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "AI-nieuws voor op de werkvloer"
+    Title = "AI-nieuws voor ondernemers en professionals"
     Content = "De AI-bron, zodat je altijd up-to-date blijft van alle (inter)nationale ontwikkelingen"
 
 [params.assets]
