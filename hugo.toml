@@ -19,7 +19,7 @@ buildFuture = false
   ShowBreadCrumbs = true
   ShowShareButtons = false
   ShowCodeCopyButtons = false
-  disableSpecial1stPost = true
+  disableSpecial1stPost = false
 
   disableThemeToggle = false
   ShowMenu = true
