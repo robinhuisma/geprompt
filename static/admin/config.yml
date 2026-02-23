@@ -1,0 +1,63 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+locale: "nl"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+
+  - name: "posts"
+    label: "Artikelen"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: "date:desc"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Samenvatting", name: "summary", widget: "text", required: true, hint: "Max 160 tekens" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["ai"] }
+      - { label: "Categorie", name: "categorieen", widget: "list", default: ["ai-nieuws"] }
+      - { label: "Header afbeelding", name: "cover", widget: "object", required: false, fields: [{ label: "Afbeelding", name: "image", widget: "image", required: false }, { label: "Alt tekst", name: "alt", widget: "string", required: false }, { label: "Bijschrift", name: "caption", widget: "string", required: false }] }
+      - { label: "YouTube Video ID", name: "youtube_id", widget: "string", required: false, hint: "Alleen het ID, bijv: dQw4w9WgXcQ" }
+      - { label: "TikTok Video ID", name: "tiktok_id", widget: "string", required: false }
+      - { label: "Bron", name: "bron", widget: "string", required: false }
+      - { label: "Inhoud", name: "body", widget: "markdown" }
+
+  - name: "commercieel"
+    label: "Commercieel"
+    folder: "content/commercieel"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: "date:desc"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Samenvatting", name: "summary", widget: "text", required: true }
+      - { label: "Type", name: "content_type", widget: "select", options: [{ label: "Gesponsord artikel", value: "gesponsord" }, { label: "Partnerbijdrage", value: "partner" }, { label: "Productreview (betaald)", value: "review" }, { label: "Advertorial", value: "advertorial" }] }
+      - { label: "Opdrachtgever", name: "sponsor", widget: "string" }
+      - { label: "Sponsor URL", name: "sponsor_url", widget: "string", required: false }
+      - { label: "Sponsor logo", name: "sponsor_logo", widget: "image", required: false }
+      - { label: "Tags", name: "tags", widget: "list", default: ["gesponsord"] }
+      - { label: "Header afbeelding", name: "cover", widget: "object", required: false, fields: [{ label: "Afbeelding", name: "image", widget: "image", required: false }, { label: "Alt tekst", name: "alt", widget: "string", required: false }] }
+      - { label: "YouTube Video ID", name: "youtube_id", widget: "string", required: false }
+      - { label: "TikTok Video ID", name: "tiktok_id", widget: "string", required: false }
+      - { label: "Affiliate link", name: "affiliate_url", widget: "string", required: false }
+      - { label: "Inhoud", name: "body", widget: "markdown" }
+
+  - name: "paginas"
+    label: "Pagina's"
+    files:
+      - label: "Over Geprompt"
+        name: "over"
+        file: "content/over.md"
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Inhoud", name: "body", widget: "markdown" }
