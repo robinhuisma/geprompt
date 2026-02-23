@@ -78,3 +78,4 @@ buildFuture = false
 
 [markup.goldmark.renderer]
   unsafe = true
+summaryLength = 100
