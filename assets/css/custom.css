@@ -6,5 +6,5 @@ nav a { font-weight: 600; }
 figcaption, .post-content em img + em, .post-content figure em, .post-content figcaption {
   margin-top: 10px;
   color: rgba(0, 0, 0, 0.5);
-  display: block;
+  display: block; font-style: italic;
 }
