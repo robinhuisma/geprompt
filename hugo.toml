@@ -50,29 +50,40 @@ buildFuture = false
   keys = ["title", "permalink", "summary", "content"]
 
 [[menu.main]]
-  identifier = "ai-nieuws"
-  name = "AI Nieuws"
-  url = "/posts/"
+  identifier = "tech-trends"
+  name = "Tech & Trends"
+  url = "/tech-trends/"
   weight = 1
+
+[[menu.main]]
+  identifier = "sales-marketing"
+  name = "Sales & Marketing"
+  url = "/sales-marketing/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "creativiteit"
+  name = "Creativiteit"
+  url = "/creativiteit/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "vacatures"
+  name = "Vacatures"
+  url = "/vacatures/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "events"
+  name = "Events"
+  url = "/events/"
+  weight = 5
 
 [[menu.main]]
   identifier = "zoeken"
   name = "Zoeken"
   url = "/search/"
-  weight = 2
-
-[[menu.main]]
-  identifier = "over"
-  name = "Over"
-  url = "/over/"
-  weight = 3
-
-[[menu.main]]
-  identifier = "commercieel"
-  name = "Partners"
-  url = "/commercieel/"
-  weight = 4
-
+  weight = 6
 [taxonomies]
   tag = "tags"
   categorie = "categorieen"
@@ -80,3 +91,40 @@ buildFuture = false
 [markup.goldmark.renderer]
   unsafe = true
 summaryLength = 100
+
+# Footer menu
+[[menu.footer]]
+  identifier = "partnerships"
+  name = "Partnerships"
+  url = "/commercieel/"
+  weight = 1
+
+[[menu.footer]]
+  identifier = "over"
+  name = "Over Geprompt"
+  url = "/over/"
+  weight = 2
+
+[[menu.footer]]
+  identifier = "privacy"
+  name = "Privacyverklaring"
+  url = "/privacy/"
+  weight = 3
+
+[[menu.footer]]
+  identifier = "voorwaarden"
+  name = "Algemene Voorwaarden"
+  url = "/voorwaarden/"
+  weight = 4
+
+[[menu.footer]]
+  identifier = "tips"
+  name = "Tips voor de redactie"
+  url = "/tips/"
+  weight = 5
+
+[[menu.footer]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
