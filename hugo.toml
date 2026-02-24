@@ -19,7 +19,7 @@ buildFuture = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowShareButtons = true
-  ShowCodeCopyButtons = false
+  ShareButtons = ["x", "linkedin", "reddit", "facebook", "whatsapp", "telegram"]  ShowCodeCopyButtons = false
   disableSpecial1stPost = false
 
   disableThemeToggle = false
