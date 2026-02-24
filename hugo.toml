@@ -51,13 +51,13 @@ buildFuture = false
 
 [[menu.main]]
   identifier = "tech-trends"
-  name = "Tech & Trends"
+  name = "Trends"
   url = "/tech-trends/"
   weight = 1
 
 [[menu.main]]
   identifier = "sales-marketing"
-  name = "Sales & Marketing"
+  name = "CRM & MarCom"
   url = "/sales-marketing/"
   weight = 2
 
