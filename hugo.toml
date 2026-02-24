@@ -10,6 +10,7 @@ buildDrafts = false
 buildFuture = false
 
 [params]
+  DateFormat = "2 January 2006 · 15:04"
   env = "production"
   description = "Dagelijks AI-nieuws voor Nederlandse ondernemers. Kort, feitelijk, toepasbaar."
   author = "Geprompt Redactie"
