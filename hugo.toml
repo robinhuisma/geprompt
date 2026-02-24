@@ -129,3 +129,21 @@ summaryLength = 100
   name = "Contact"
   url = "/contact/"
   weight = 6
+
+# Gerelateerde artikelen onderaan posts
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+  [[related.indices]]
+    name = "categorieen"
+    weight = 60
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
