@@ -1,0 +1,14 @@
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<div style="margin-top:2em;padding-top:1.5em;border-top:1px solid #333;">
+  <h3 style="font-size:1.1em;margin-bottom:1em;">Lees ook</h3>
+  {{ range . }}
+  <div style="margin-bottom:1em;">
+    <a href="{{ .RelPermalink }}" style="color:inherit;text-decoration:none;">
+      <strong>{{ .Title }}</strong>
+    </a>
+    <p style="font-size:0.85em;color:#888;margin:0.2em 0 0;">{{ .Summary | truncate 100 }}</p>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
