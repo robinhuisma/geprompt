@@ -1,9 +1,13 @@
 ---
 title: "Automatiseer je bedrijfsprocessen met GPT en Zapier zonder programmeerkennis"
-date: 2026-02-24T19:00:13.466Z
+date: 2026-02-24T19:05:59.242Z
 tags: ["automatisering", "zapier", "gpt", "workflow"]
 summary: "Door eenvoudige koppelingen tussen AI en je bestaande software te maken, kun je routinetaken automatiseren en je team efficiënter laten werken."
 label: "BEIDE"
+cover:
+  image: "https://images.pexels.com/photos/8294619/pexels-photo-8294619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A close-up of a futuristic robot toy on a reflective surface against a gradient background."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 ---
 
