@@ -18,7 +18,7 @@ buildFuture = false
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowShareButtons = false
+  ShowShareButtons = true
   ShowCodeCopyButtons = false
   disableSpecial1stPost = false
 
