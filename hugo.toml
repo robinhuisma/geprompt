@@ -68,17 +68,7 @@ buildFuture = false
   url = "/creativiteit/"
   weight = 3
 
-[[menu.main]]
-  identifier = "vacatures"
-  name = "Vacatures"
-  url = "/vacatures/"
-  weight = 4
 
-[[menu.main]]
-  identifier = "events"
-  name = "Events"
-  url = "/events/"
-  weight = 5
 
 [[menu.main]]
   identifier = "zoeken"
