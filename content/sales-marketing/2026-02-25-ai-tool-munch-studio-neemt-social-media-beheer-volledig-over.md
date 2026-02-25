@@ -1,6 +1,6 @@
 ---
 title: "AI-tool Munch Studio neemt social media beheer volledig over voor MKB"
-date: 2026-02-25T07:58:41.335Z
+date: 2026-02-25T08:11:59.594Z
 tags: ["social media", "contentcreatie", "automatisering", "videomarketing"]
 summary: "Munch Studio analyseert automatisch je video-content en maakt er social media posts van, wat weken aan werk kan besparen."
 label: "BEIDE"
