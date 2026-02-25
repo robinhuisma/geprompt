@@ -1,80 +1,164 @@
 {{ define "main" }}
 
-{{/* Verzamel alle artikelen uit alle secties, gesorteerd op datum */}}
-{{- $allPages := where site.RegularPages "Section" "in" (slice "tech-trends" "sales-marketing" "creativiteit" "posts" "commercieel") -}}
-
-{{/* Paginering */}}
-{{- $paginator := .Paginate $allPages -}}
-{{- $pages := $paginator.Pages -}}
-
-{{/* Home info - alleen op pagina 1 */}}
-{{- if and site.Params.homeInfoParams (eq $paginator.PageNumber 1) -}}
+{{/* Home info - tagline */}}
+{{- if site.Params.homeInfoParams -}}
   {{- partial "home_info.html" . -}}
 {{- end -}}
 
-{{/* HERO — Eerste artikel groot weergeven (alleen pagina 1) */}}
-{{- if and (gt (len $pages) 0) (eq $paginator.PageNumber 1) -}}
-  {{- $hero := index $pages 0 -}}
+{{/* =================== SECTIE: TRENDS =================== */}}
+{{- $trends := where site.RegularPages "Section" "tech-trends" -}}
+{{- $trends = $trends.ByDate.Reverse -}}
+{{- if gt (len $trends) 0 -}}
+<section class="homepage-section">
+  <h2 class="section-heading">Trends</h2>
+
+  {{/* Hero — nieuwste artikel */}}
+  {{- $hero := index $trends 0 -}}
   <a href="{{ $hero.Permalink }}" class="hero-card">
     {{- if $hero.Params.cover.image -}}
       <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="eager">
     {{- end -}}
     <div class="hero-overlay">
-      <h2 class="hero-title">{{ $hero.Title }}</h2>
+      <h3 class="hero-title">{{ $hero.Title }}</h3>
     </div>
   </a>
-{{- end -}}
 
-{{/* ARTIKELLIJST — Thumbnail links, titel rechts */}}
-<div class="news-list">
-  {{- range $index, $page := $pages -}}
-    {{/* Op pagina 1: sla het eerste artikel over (is de hero) */}}
-    {{- if or (ne $paginator.PageNumber 1) (gt $index 0) -}}
+  {{/* Thumbnail lijst */}}
+  <div class="news-list">
+    {{- range $i, $page := first 6 $trends -}}
+      {{- if gt $i 0 -}}
 
-      {{/* SPONSORPLEK — na 3 artikelen in de lijst (= positie 4 totaal) */}}
-      {{- if and (eq $paginator.PageNumber 1) (eq $index 4) -}}
+        {{- if eq $i 3 -}}
         <div class="ad-slot">
           <span class="ad-label">Aangeboden</span>
           <div class="ad-placeholder">
             <p>Advertentieruimte — <a href="/commercieel/">meer info</a></p>
           </div>
         </div>
-      {{- end -}}
+        {{- end -}}
 
-      <article class="news-item">
-        <a href="{{ $page.Permalink }}" class="news-link">
-          {{- if $page.Params.cover.image -}}
-            <div class="news-thumb">
-              <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
+        <article class="news-item">
+          <a href="{{ $page.Permalink }}" class="news-link">
+            {{- if $page.Params.cover.image -}}
+              <div class="news-thumb">
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
+              </div>
+            {{- end -}}
+            <div class="news-content">
+              <h3 class="news-title">{{ $page.Title }}</h3>
+              <span class="news-meta">
+                {{ $page.Date.Format "15:04" }} · {{ $page.ReadingTime }} min
+              </span>
             </div>
-          {{- end -}}
-          <div class="news-content">
-            <h3 class="news-title">{{ $page.Title }}</h3>
-            <span class="news-meta">
-              {{ $page.Date.Format "15:04" }} · {{ $page.ReadingTime }} min
-            </span>
-          </div>
-        </a>
-      </article>
+          </a>
+        </article>
+      {{- end -}}
     {{- end -}}
-  {{- end -}}
-</div>
+  </div>
+</section>
+{{- end -}}
+
+{{/* =================== SECTIE: CRM & MARCOM =================== */}}
+{{- $crm := where site.RegularPages "Section" "sales-marketing" -}}
+{{- $crm = $crm.ByDate.Reverse -}}
+{{- if gt (len $crm) 0 -}}
+<section class="homepage-section">
+  <h2 class="section-heading">CRM & MarCom</h2>
+
+  {{- $hero := index $crm 0 -}}
+  <a href="{{ $hero.Permalink }}" class="hero-card">
+    {{- if $hero.Params.cover.image -}}
+      <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="lazy">
+    {{- end -}}
+    <div class="hero-overlay">
+      <h3 class="hero-title">{{ $hero.Title }}</h3>
+    </div>
+  </a>
+
+  <div class="news-list">
+    {{- range $i, $page := first 6 $crm -}}
+      {{- if gt $i 0 -}}
+        {{- if eq $i 3 -}}
+        <div class="ad-slot">
+          <span class="ad-label">Aangeboden</span>
+          <div class="ad-placeholder">
+            <p>Advertentieruimte — <a href="/commercieel/">meer info</a></p>
+          </div>
+        </div>
+        {{- end -}}
+
+        <article class="news-item">
+          <a href="{{ $page.Permalink }}" class="news-link">
+            {{- if $page.Params.cover.image -}}
+              <div class="news-thumb">
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
+              </div>
+            {{- end -}}
+            <div class="news-content">
+              <h3 class="news-title">{{ $page.Title }}</h3>
+              <span class="news-meta">
+                {{ $page.Date.Format "15:04" }} · {{ $page.ReadingTime }} min
+              </span>
+            </div>
+          </a>
+        </article>
+      {{- end -}}
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}
+
+{{/* =================== SECTIE: CREATIVITEIT =================== */}}
+{{- $creat := where site.RegularPages "Section" "creativiteit" -}}
+{{- $creat = $creat.ByDate.Reverse -}}
+{{- if gt (len $creat) 0 -}}
+<section class="homepage-section">
+  <h2 class="section-heading">Creativiteit</h2>
+
+  {{- $hero := index $creat 0 -}}
+  <a href="{{ $hero.Permalink }}" class="hero-card">
+    {{- if $hero.Params.cover.image -}}
+      <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="lazy">
+    {{- end -}}
+    <div class="hero-overlay">
+      <h3 class="hero-title">{{ $hero.Title }}</h3>
+    </div>
+  </a>
+
+  <div class="news-list">
+    {{- range $i, $page := first 6 $creat -}}
+      {{- if gt $i 0 -}}
+        {{- if eq $i 3 -}}
+        <div class="ad-slot">
+          <span class="ad-label">Aangeboden</span>
+          <div class="ad-placeholder">
+            <p>Advertentieruimte — <a href="/commercieel/">meer info</a></p>
+          </div>
+        </div>
+        {{- end -}}
+
+        <article class="news-item">
+          <a href="{{ $page.Permalink }}" class="news-link">
+            {{- if $page.Params.cover.image -}}
+              <div class="news-thumb">
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
+              </div>
+            {{- end -}}
+            <div class="news-content">
+              <h3 class="news-title">{{ $page.Title }}</h3>
+              <span class="news-meta">
+                {{ $page.Date.Format "15:04" }} · {{ $page.ReadingTime }} min
+              </span>
+            </div>
+          </a>
+        </article>
+      {{- end -}}
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}
 
 {{/* NIEUWSBRIEF */}}
 {{ partial "newsletter.html" . }}
-
-{{/* PAGINERING */}}
-{{- if gt $paginator.TotalPages 1 -}}
-<footer class="page-footer">
-  <nav class="pagination">
-    {{- if $paginator.HasPrev -}}
-    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">« Vorige</a>
-    {{- end -}}
-    {{- if $paginator.HasNext -}}
-    <a class="next" href="{{ $paginator.Next.URL | absURL }}">Volgende »</a>
-    {{- end -}}
-  </nav>
-</footer>
-{{- end -}}
 
 {{ end }}
