@@ -51,24 +51,34 @@ buildFuture = false
   keys = ["title", "permalink", "summary", "content"]
 
 [[menu.main]]
-  identifier = "tech-trends"
-  name = "Trends"
-  url = "/tech-trends/"
+  identifier = "groei"
+  name = "Groei"
+  url = "/groei/"
   weight = 1
 
 [[menu.main]]
-  identifier = "sales-marketing"
-  name = "CRM & MarCom"
-  url = "/sales-marketing/"
+  identifier = "creatie"
+  name = "Creatie"
+  url = "/creatie/"
   weight = 2
 
 [[menu.main]]
-  identifier = "creativiteit"
-  name = "Creativiteit"
-  url = "/creativiteit/"
+  identifier = "werk"
+  name = "Werk"
+  url = "/werk/"
   weight = 3
 
+[[menu.main]]
+  identifier = "geld"
+  name = "Geld"
+  url = "/geld/"
+  weight = 4
 
+[[menu.main]]
+  identifier = "leven"
+  name = "Leven"
+  url = "/leven/"
+  weight = 5
 
 [[menu.main]]
   identifier = "zoeken"
