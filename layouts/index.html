@@ -20,9 +20,6 @@
       <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="eager">
     {{- end -}}
     <div class="hero-overlay">
-      {{- with $hero.Params.label -}}
-        <span class="hero-label">{{ . }}</span>
-      {{- end -}}
       <h2 class="hero-title">{{ $hero.Title }}</h2>
     </div>
   </a>
@@ -52,9 +49,6 @@
             </div>
           {{- end -}}
           <div class="news-content">
-            {{- with $page.Params.label -}}
-              <span class="news-label">{{ . }}</span>
-            {{- end -}}
             <h3 class="news-title">{{ $page.Title }}</h3>
             <span class="news-meta">
               {{ $page.Date.Format "15:04" }} · {{ $page.ReadingTime }} min

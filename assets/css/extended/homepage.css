@@ -113,6 +113,7 @@
 
 .news-title {
   font-size: 1em;
+  font-weight: 400;
   line-height: 1.4;
   margin: 0;
   color: var(--content, #fff);
@@ -168,8 +169,9 @@
   }
 
   .news-thumb {
-    width: 100px;
-    height: 68px;
+    width: 90px;
+    height: 90px;
+    border-radius: 6px;
   }
 
   .news-title {
