@@ -3,19 +3,6 @@ title: "Over Geprompt"
 hidemeta: true
 ---
 
-Kunstmatige intelligentie verandert het bedrijfsleven nu. Niet morgen, niet volgend jaar, nu. De kloof tussen bedrijven die AI inzetten en bedrijven die afwachten groeit elke maand.
+Geprompt.nl is een Nederlandse nieuwssite over AI-toepassingen voor ondernemers, medewerkers en nieuwsgierige lezers, waar Robin Huisma de hoofdredacteur van is. We publiceren dagelijks nieuws over AI uit binnen- en buitenland. Als onafhankelijke site brengen we actuele en heldere informatie over alles wat met kunstmatige intelligentie te maken heeft.
 
-Geprompt brengt dagelijks de AI-ontwikkelingen in kaart die er voor jouw bedrijf toe doen. Geen Silicon Valley-hype, geen datacenter-investeringen van miljarden. Wel: welke tools je vandaag kunt inzetten, welke processen je kunt automatiseren, en wat de nieuwe regels betekenen voor jouw organisatie.
-
-**Voor wie:** Nederlandse ondernemers, managers en medewerkers die AI willen begrijpen én toepassen, van de werkvloer tot de directiekamer.
-
-**Wat je hier vindt:**
-
-- Dagelijks AI-nieuws, vertaald naar de Nederlandse praktijk
-- Concrete toepassingen voor MKB en grotere bedrijven
-- Updates over tools, wetgeving en marktontwikkelingen
-
-**Onze werkwijze:** We selecteren uit (inter)nationale bronnen het nieuws dat relevant is voor het Nederlandse bedrijfsleven. Elke publicatie wordt herschreven in helder Nederlands en getoetst op feitelijkheid.
-
-**Contact:** redactie@geprompt.nl
-**Samenwerken:** partnership@geprompt.nl
+Geprompt wordt gerund door tech- en marketingliefhebbers in hart en nieren. Geen afstandelijk kantoortaal, maar nieuwsgierigheid en praktijkgericht denken. Wij schrijven over AI omdat we het interessant vinden en omdat we deze "zwarte doos" begrijpelijk willen maken. We onderzoeken hoe je AI als ondernemer én als individu concreet kunt inzetten, zodat het echt waarde toevoegt in je werk en dagelijks leven. Reacties kun je sturen aan redactie@geprompt.nl
