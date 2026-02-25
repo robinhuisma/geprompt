@@ -1,12 +1,12 @@
 ---
 title: "AI-tool Munch Studio neemt social media beheer over voor MKB'ers"
-date: 2026-02-25T08:12:44.244Z
+date: 2026-02-25T08:31:03.239Z
 tags: ["social media", "content creatie", "automatisering", "videomarketing"]
 summary: "Munch Studio automatiseert het volledige social media proces, van video-editing tot planning, en bespaart ondernemers uren per week."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/30918009/pexels-photo-30918009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scrabble tiles forming the words 'COIN' and 'MUSK' on a wooden table surface."
+  image: "https://images.pexels.com/photos/30885768/pexels-photo-30885768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Scrabble letters spelling 'Metaverse' on a wooden surface with a blurred nature background."
   caption: "Foto: Markus Winkler via Pexels"
 draft: false
 ---
