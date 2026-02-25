@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+{{- $paginator := .Paginate .Pages -}}
+{{- $pages := $paginator.Pages -}}
+
+<div class="section-header">
+  <h1 class="section-title">{{ .Title }}</h1>
+  {{- with .Description -}}
+    <p class="section-desc">{{ . }}</p>
+  {{- end -}}
+</div>
+
+{{- if and (gt (len $pages) 0) (eq $paginator.PageNumber 1) -}}
+  {{- $hero := index $pages 0 -}}
+  <a href="{{ $hero.Permalink }}" class="hero-card">
+    {{- if $hero.Params.cover.image -}}
+      <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="eager">
+    {{- end -}}
+    <div class="hero-overlay">
+      {{- with $hero.Params.label -}}
+        <span class="hero-label">{{ . }}</span>
+      {{- end -}}
+      <h2 class="hero-title">{{ $hero.Title }}</h2>
+    </div>
+  </a>
+{{- end -}}
+
+<div class="news-list">
+  {{- range $index, $page := $pages -}}
+    {{- if or (ne $paginator.PageNumber 1) (gt $index 0) -}}
+      <article class="news-item">
+        <a href="{{ $page.Permalink }}" class="news-link">
+          {{- if $page.Params.cover.image -}}
+            <div class="news-thumb">
+              <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
+            </div>
+          {{- end -}}
+          <div class="news-content">
+            {{- with $page.Params.label -}}
+              <span class="news-label">{{ . }}</span>
+            {{- end -}}
+            <h3 class="news-title">{{ $page.Title }}</h3>
+            <span class="news-meta">
+              {{ $page.Date.Format "15:04" }} · {{ $page.ReadingTime }} min
+            </span>
+          </div>
+        </a>
+      </article>
+    {{- end -}}
+  {{- end -}}
+</div>
+
+{{- if gt $paginator.TotalPages 1 -}}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{- if $paginator.HasPrev -}}
+    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">« Vorige</a>
+    {{- end -}}
+    {{- if $paginator.HasNext -}}
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}">Volgende »</a>
+    {{- end -}}
+  </nav>
+</footer>
+{{- end -}}
+
+{{ end }}

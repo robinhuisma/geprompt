@@ -196,3 +196,13 @@
 }
 
 /* Homepage gebruikt custom .hero-card en .news-item, geen post-entry nodig */
+
+/* SECTIE HEADER */
+.section-header { margin-bottom: 20px; }
+.section-title { font-size: 1.8em; font-weight: 300; letter-spacing: -0.3px; margin: 0 0 4px; }
+.section-desc { font-size: 0.9em; color: var(--secondary, #888); margin: 0; }
+
+/* DUNNERE TITELS — NU.nl-stijl */
+.hero-card .hero-title { font-weight: 400; }
+.news-title { font-weight: 400; }
+h1.post-title { font-weight: 300; }
