@@ -195,7 +195,4 @@
   background: rgba(0,0,0,0.02);
 }
 
-/* Verberg PaperMod's standaard post-entry styling op homepage */
-body.list .post-entry {
-  display: none;
-}
+/* Homepage gebruikt custom .hero-card en .news-item, geen post-entry nodig */
