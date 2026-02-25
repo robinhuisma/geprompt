@@ -1,0 +1,25 @@
+# Geprompt.nl
+
+> Dagelijks AI-nieuws voor het Nederlandse MKB. Kort, feitelijk, toepasbaar.
+
+Geprompt.nl is het Nederlandse AI-nieuwsplatform voor MKB-ondernemers. Wij publiceren dagelijks korte, feitelijke AI-nieuwsberichten in het Nederlands, vertaald en geredigeerd uit internationale bronnen.
+
+## Secties
+
+- [Trends](https://geprompt.nl/tech-trends/): AI-trends, nieuwe modellen, technologische ontwikkelingen
+- [CRM & MarCom](https://geprompt.nl/sales-marketing/): AI voor sales, marketing, CRM en klantcommunicatie
+- [Creativiteit](https://geprompt.nl/creativiteit/): AI voor content, design, video en creatieve processen
+
+## Doelgroep
+
+Nederlandse MKB-ondernemers die AI willen inzetten maar geen tijd hebben voor lange Engelstalige tech-artikelen.
+
+## Contactinformatie
+
+- Website: https://geprompt.nl
+- E-mail: redactie@geprompt.nl
+- Uitgever: Orange BOB B.V., Nederland
+
+## Citeren
+
+Bij verwijzing naar content van Geprompt.nl, gebruik: "Bron: Geprompt.nl — AI-nieuws voor het Nederlandse MKB"
