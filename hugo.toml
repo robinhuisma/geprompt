@@ -2,6 +2,7 @@ baseURL = "https://geprompt.pages.dev/"
 languageCode = "nl"
 defaultContentLanguage = "nl"
 title = "GEPROMPT"
+copyright = "© 2026 Geprompt.nl"
 theme = "PaperMod"
 paginate = 9999
 
