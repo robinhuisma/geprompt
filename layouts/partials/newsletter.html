@@ -1,7 +1,7 @@
 <div class="newsletter-box">
   <h3>Op de hoogte blijven van AI-ontwikkelingen?</h3>
   <p>Ontvang op werkdagen het relevantste AI-lunchnieuws in je inbox.</p>
-  <form id="newsletter-form" action="https://JOUW-N8N-WEBHOOK-URL/webhook/geprompt-subscribe" method="POST">
+  <form id="newsletter-form">
     <div class="newsletter-fields">
       <input type="text" name="firstName" placeholder="Voornaam" required>
       <input type="email" name="email" placeholder="E-mailadres" required>
@@ -13,6 +13,41 @@
     </label>
   </form>
   <div id="newsletter-thanks" style="display:none;">
-    <p>Bedankt voor je aanmelding! Je ontvangt binnenkort de eerste nieuwsbrief.</p>
+    <p>✅ Bedankt voor je aanmelding! Je ontvangt binnenkort de eerste nieuwsbrief.</p>
+  </div>
+  <div id="newsletter-error" style="display:none;">
+    <p>⚠️ Er ging iets mis. Probeer het later opnieuw.</p>
   </div>
 </div>
+
+<script>
+document.getElementById('newsletter-form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const form = this;
+  const btn = form.querySelector('button');
+  const firstName = form.querySelector('[name="firstName"]').value;
+  const email = form.querySelector('[name="email"]').value;
+
+  btn.disabled = true;
+  btn.textContent = 'Bezig...';
+
+  try {
+    const res = await fetch('https://n8n.geprompt.nl/webhook/geprompt-subscribe', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ firstName, email })
+    });
+
+    if (res.ok) {
+      form.style.display = 'none';
+      document.getElementById('newsletter-thanks').style.display = 'block';
+    } else {
+      throw new Error('Server error');
+    }
+  } catch (err) {
+    document.getElementById('newsletter-error').style.display = 'block';
+    btn.disabled = false;
+    btn.textContent = 'Aanmelden';
+  }
+});
+</script>
