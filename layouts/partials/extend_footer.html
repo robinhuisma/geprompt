@@ -1,0 +1,5 @@
+<nav style="text-align:center;padding:0.5em 0 1em;">
+  {{ range .Site.Menus.footer }}
+    <a href="{{ .URL }}" style="margin:0 0.8em;color:inherit;text-decoration:none;font-size:0.8em;opacity:0.6;">{{ .Name }}</a>
+  {{ end }}
+</nav>
