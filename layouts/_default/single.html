@@ -42,16 +42,6 @@
   </div>
   {{- end }}
 
-  <div style="margin:1.5em 0;padding:16px 0;border-top:1px solid #333;border-bottom:1px solid #333;display:flex;align-items:center;gap:12px;">
-    <span style="font-size:0.9em;color:#aaa;">Vond je dit artikel nuttig?</span>
-    <div
-      data-lyket-type="updown"
-      data-lyket-namespace="geprompt"
-      data-lyket-id="{{ replace (path.Base .RelPermalink) "/" "-" }}"
-      data-lyket-color-background="#00A19B" data-lyket-color-text="currentColor" data-lyket-color-primary="#ffffff"
-    ></div>
-  </div>
-
 
   {{ partial "related.html" . }}
   <footer class="post-footer">

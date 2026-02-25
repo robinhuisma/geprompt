@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{/* Verzamel alle artikelen uit alle secties, gesorteerd op datum */}}
-{{- $allPages := where site.RegularPages "Section" "in" (slice "tech-trends" "sales-marketing" "creativiteit" "posts" "commercieel") -}}
+{{- $allPages := where site.RegularPages "Section" "in" (slice "tech-trends" "sales-marketing" "creativiteit" "posts" "commercieel" "groei" "creatie" "werk" "geld" "leven") -}}
 
 {{/* Paginering */}}
 {{- $paginator := .Paginate $allPages -}}
