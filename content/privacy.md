@@ -26,7 +26,16 @@ Onze website wordt gehost via Cloudflare Pages. Cloudflare kan technische gegeve
 
 ## Cookies
 
-Geprompt.nl plaatst geen tracking cookies en maakt geen gebruik van advertentiecookies. Functionele cookies kunnen worden geplaatst door onze hostingprovider voor technische doeleinden.
+Geprompt.nl maakt gebruik van de volgende cookies:
+
+- **Functionele cookies** — nodig voor het correct functioneren van de website, zoals je voorkeur voor licht- of donkermodus. Deze worden altijd geplaatst.
+- **Advertentiecookies** — geplaatst door Google AdSense om advertenties te tonen. Google kan deze cookies gebruiken om advertenties te personaliseren op basis van eerdere bezoeken aan deze of andere websites. Deze cookies worden alleen geplaatst na jouw toestemming.
+
+### Google AdSense
+Wij tonen advertenties via Google AdSense. Meer informatie over hoe Google gegevens gebruikt vindt je op [Hoe Google gegevens gebruikt wanneer u sites of apps van onze partners gebruikt](https://policies.google.com/technologies/partner-sites). Je kunt gepersonaliseerde advertenties uitschakelen via [Google Advertentie-instellingen](https://www.google.com/settings/ads).
+
+### Cookievoorkeuren wijzigen
+Je kunt je cookievoorkeuren op elk moment wijzigen door onderaan de pagina op "Cookievoorkeuren" te klikken, of door de cookies in je browser te verwijderen.
 
 ## Delen met derden
 
