@@ -1,0 +1,16 @@
+# Advertenties per positie op de homepage
+# Laat een positie leeg of verwijder hem → dan toont AdSense automatisch
+#
+# Posities: trends, crm, creativiteit
+#
+# Voorbeeld:
+# trends:
+#   title: "Bedrijf X"
+#   image: "/images/uploads/bedrijfx-banner.png"
+#   url: "https://bedrijfx.nl/?ref=geprompt"
+#   label: "Aangeboden door Bedrijf X"
+#   rel: "sponsored nofollow"
+
+trends: {}
+crm: {}
+creativiteit: {}

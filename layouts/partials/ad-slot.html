@@ -1,0 +1,33 @@
+{{/* Ad-slot partial — gebruik: {{ partial "ad-slot.html" (dict "position" "trends") }}
+     Toont eigen adverteerder uit data/ads.yaml als die er is, anders AdSense */}}
+
+{{- $position := .position -}}
+{{- $ads := site.Data.ads -}}
+{{- $ad := index $ads $position -}}
+
+<div class="ad-slot">
+  <span class="ad-label">Aangeboden</span>
+
+  {{- if and $ad $ad.url -}}
+    {{/* EIGEN ADVERTEERDER */}}
+    <a href="{{ $ad.url }}" rel="{{ $ad.rel | default "sponsored nofollow" }}" target="_blank" class="ad-custom">
+      {{- if $ad.image -}}
+        <img src="{{ $ad.image }}" alt="{{ $ad.title | default "Advertentie" }}" class="ad-banner" loading="lazy">
+      {{- else -}}
+        <div class="ad-text-only">
+          <strong>{{ $ad.title }}</strong>
+          {{- with $ad.label -}}<br><span>{{ . }}</span>{{- end -}}
+        </div>
+      {{- end -}}
+    </a>
+  {{- else -}}
+    {{/* ADSENSE FALLBACK */}}
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-8724685794578208"
+         data-ad-slot="auto"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  {{- end -}}
+</div>

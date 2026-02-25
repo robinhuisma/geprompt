@@ -146,19 +146,53 @@
 .ad-slot {
   border: 1px solid rgba(255,255,255,0.1);
   border-radius: 10px;
-  padding: 20px;
+  padding: 16px;
   margin: 12px 0;
   background: rgba(255,255,255,0.03);
   text-align: center;
+  overflow: hidden;
 }
 
 .ad-label {
   display: inline-block;
-  font-size: 0.65em;
+  font-size: 0.6em;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--secondary, #888);
   margin-bottom: 8px;
+}
+
+/* Eigen adverteerder banner */
+.ad-custom {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.ad-banner {
+  width: 100%;
+  max-width: 728px;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 0 auto;
+}
+
+.ad-text-only {
+  padding: 12px;
+  font-size: 0.9em;
+  color: var(--content, #fff);
+}
+
+.ad-text-only span {
+  font-size: 0.85em;
+  color: var(--secondary, #888);
+}
+
+/* AdSense container */
+.ad-slot .adsbygoogle {
+  display: block;
+  min-height: 90px;
 }
 
 .ad-placeholder p {

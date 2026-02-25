@@ -12,7 +12,6 @@
 <section class="homepage-section">
   <h2 class="section-heading">Trends</h2>
 
-  {{/* Hero — nieuwste artikel */}}
   {{- $hero := index $trends 0 -}}
   <a href="{{ $hero.Permalink }}" class="hero-card">
     {{- if $hero.Params.cover.image -}}
@@ -23,18 +22,12 @@
     </div>
   </a>
 
-  {{/* Thumbnail lijst */}}
   <div class="news-list">
     {{- range $i, $page := first 6 $trends -}}
       {{- if gt $i 0 -}}
 
         {{- if eq $i 3 -}}
-        <div class="ad-slot">
-          <span class="ad-label">Aangeboden</span>
-          <div class="ad-placeholder">
-            <p>Advertentieruimte — <a href="/commercieel/">meer info</a></p>
-          </div>
-        </div>
+          {{ partial "ad-slot.html" (dict "position" "trends") }}
         {{- end -}}
 
         <article class="news-item">
@@ -78,13 +71,9 @@
   <div class="news-list">
     {{- range $i, $page := first 6 $crm -}}
       {{- if gt $i 0 -}}
+
         {{- if eq $i 3 -}}
-        <div class="ad-slot">
-          <span class="ad-label">Aangeboden</span>
-          <div class="ad-placeholder">
-            <p>Advertentieruimte — <a href="/commercieel/">meer info</a></p>
-          </div>
-        </div>
+          {{ partial "ad-slot.html" (dict "position" "crm") }}
         {{- end -}}
 
         <article class="news-item">
@@ -128,13 +117,9 @@
   <div class="news-list">
     {{- range $i, $page := first 6 $creat -}}
       {{- if gt $i 0 -}}
+
         {{- if eq $i 3 -}}
-        <div class="ad-slot">
-          <span class="ad-label">Aangeboden</span>
-          <div class="ad-placeholder">
-            <p>Advertentieruimte — <a href="/commercieel/">meer info</a></p>
-          </div>
-        </div>
+          {{ partial "ad-slot.html" (dict "position" "creativiteit") }}
         {{- end -}}
 
         <article class="news-item">
