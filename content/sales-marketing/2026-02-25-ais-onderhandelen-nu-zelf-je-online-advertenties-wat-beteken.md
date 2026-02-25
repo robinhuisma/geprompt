@@ -1,29 +1,28 @@
 ---
 title: "AI's onderhandelen nu zelf je online advertenties: wat betekent dit voor jouw bedrijf?"
-date: 2026-02-25T08:01:07.611Z
-tags: ["ai agents", "programmatic advertising", "marketing automatisering", "mkb"]
-summary: "AI-agents kopen en verkopen nu automatisch advertentieruimte, wat de kosten en effectiviteit van online marketing fundamenteel verandert."
+date: 2026-02-25T08:36:13.760Z
+tags: ["ai", "marketing", "automatisering", "adverteren"]
+summary: "AI-agents kopen en verkopen nu automatisch advertentieruimte, wat leidt tot efficiëntere campagnes en mogelijk lagere kosten voor MKB'ers."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/30530418/pexels-photo-30530418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Image displaying DeepSeek AI interface for messaging and search functionality."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 
-De manier waarop je online adverteert, staat op het punt te veranderen van een handmatig proces naar een volledig geautomatiseerde onderhandeling tussen AI's. In de Benelux is nu de eerste campagne gelanceerd waarbij een AI-agent van een adverteerder rechtstreeks onderhandelt met een AI-agent van een uitgever over de aankoop van advertentieruimte. Voor een MKB'er betekent dit dat de efficiëntie van elke uitgegeven euro aan online ads drastisch omhoog kan, terwijl de administratieve last afneemt.
+De manier waarop je online adverteert, staat op het punt fundamenteel te veranderen. Waar je nu nog handmatig campagnes opzet bij Google of Meta, of dit uitbesteedt aan een bureau, gaan slimme AI-agents dit binnenkort volledig autonoom doen. Ze onderhandelen in milliseconden over de prijs en plaatsing van een advertentiebanner, rechtstreeks met de AI van een uitgever. Dit eerste experiment in de Benelux toont aan dat de technologie er is. Voor jou als ondernemer betekent dit: meer efficiëntie, potentieel lagere kosten, en campagnes die zich real-time aanpassen aan wat werkt.
 
-## Hoe werkt AI-to-AI adverteren?
-Traditioneel programmatic advertising werkt al met geautomatiseerde biedingen, maar dat is een eenrichtingsverkeer van adverteerder naar een advertentienetwerk. Bij agent-to-agent technologie praten de systemen van de adverteerder en de uitgever direct met elkaar. Stel, je verkoopt duurzame kantoorkoffie. Je AI-agent weet dat je doelgroep managers zijn die artikelen lezen over ESG-beleid. De AI van een financieel nieuwsplatform ziet dat er ruimte is op een artikelpagina. In milliseconden onderhandelen ze: jouw agent biedt een prijs gebaseerd op de verwachte waarde van die specifieke lezer, de uitgeversagent accepteert of maakt een tegenbod. Het resultaat: je advertentie staat op de perfecte plek, tegen een eerlijke marktprijs, zonder tussenkomst van een mens.
+## Wat is een AI-agent in marketing?
+Vergeel de ingewikkelde dashboards en wekelijkse rapportages. Stel je voor dat je een digitale medewerker inhuurt die één taak heeft: jouw advertentiebudget zo effectief mogelijk besteden. Deze AI-agent kent je doelstelling (bijvoorbeeld: 50 leads binnen twee weken tegen maximaal €25 per lead) en heeft toegang tot je budget. Vervolgens gaat hij zelf op pad in het digitale landschap. Hij zoekt websites uit die jouw doelgroep bezoekt, onderhandelt over de prijs voor een plekje, plaatst de advertentie, meet direct de resultaten en stopt of schaalt op basis van de prestaties. Dit alles zonder menselijke tussenkomst.
 
-## De impact op je marketingbudget en -team
-De directe impact voor een Nederlands MKB is drieledig. Ten eerste gaat het om **kostenbesparing**. De tussenlagen en commissies van grote advertentienetwerken (zoals Google Display Network) worden geminimaliseerd. Het geld gaat meer naar daadwerkelijke exposure. Ten tweede gaat het om **effectiviteit**. De AI kan veel complexere doelen nastreven dan alleen 'klikken'. Denk aan: "Toon deze advertentie alleen aan bezoekers die minstens 90 seconden op de pagina blijven" of "optimaliseer voor leads met een bepaalde bedrijfsgrootte". Ten derde **schaalt het makkelijker**. Je marketingmedewerker hoeft niet honderden campagnes handmatig in te richten, maar stelt de strategische kaders en doelen in voor de AI-agent, die het vervolgens uitvoert.
+## De impact op kosten en transparantie
+Het traditionele model van online adverteren is vaak een black box met veel tussenpartijen en ondoorzichtige kosten. AI-agent-to-agent handel kan dit doorbreken. Omdat de onderhandeling direct en geautomatiseerd verloopt, vallen veel handmatige processen en tussenpersonen weg. Dit kan de operationele kosten verlagen. Bovendien krijg je als adverteerder veel specifiekere data: niet alleen dat er op je advertentie is geklikt, maar ook op welke exacte pagina, tegen welke prijs, en wat het gedrag van die bezoeker daarna was. Dit niveau van transparantie en controle was voorheen alleen weggelegd voor grote spelers met enorme budgetten.
 
-## Is dit nu al relevant voor mijn bedrijf?
-Deze specifieke campagne is een pilot, maar de technologie ontwikkelt zich snel. Grote platforms werken aan vergelijkbare functionaliteiten. Voor de gemiddelde ondernemer is de belangrijkste les dat de **transparantie en controle** in online adverteren toenemen. Je kunt straks precies zien waar je advertentie heeft gestaan, tegen welke prijs, en wat het resultaat was, zonder dat gegevens door meerdere partijen worden verduisterd. Begin nu al met het structureren van je marketingdata (zoals klantsegmenten en conversiepaden) in je CRM of analytics-tool. Een AI-agent heeft schone, betrouwbare data nodig om effectief te kunnen onderhandelen.
+## Is dit nu al relevant voor het MKB?
+Op dit moment is dit nog pionierswerk en vooral in de handen van grote bureaus en uitgevers. De directe toepassing voor de lokale bakker of een klein softwarebedrijf is er nog niet. Maar de richting is duidelijk: automatisering en AI dringen door tot de kern van marketing. Binnen afzienbare tijd zullen platformen en marketingtools deze functionaliteit gaan aanbieden in een voor MKB'ers behapbare vorm. Denk aan een module in je bestaande marketingsoftware of een dienst van je digitale bureau waarbij je zelf de doelstellingen instelt en de AI het uitvoerende werk doet.
 
 ## Wat kun je hier morgen mee?
-1.  **Vraag door bij je mediabureau of marketingpartner.** Vraag niet naar 'programmatic', maar specifiek of zij ervaring hebben met of testen doen rond **directe AI-agent-onderhandelingen** of 'agent-to-agent trading'. Het verschil zit in de directe link tussen koper en verkoper.
-2.  **Evalueer je huidige displaycampagnes.** Kijk naar de rapportages: welk percentage van je budget gaat naar daadwerkelijke advertentieruimte (het 'media budget') en welk deel naar platformkosten en fees? Dit geeft je een benchmark voor wat een efficiënter, geautomatiseerd systeem mogelijk kan besparen.
+Blijf op de hoogte van deze ontwikkeling zonder er nu direct in te moeten investeren. Vraag bij je volgende gesprek met je marketingbureau of webwinkelpartner eens naar hun visie op geautomatiseerde, AI-gestuurde media-aankoop. Daarnaast is het een goed moment om je eigen marketingdata op orde te brengen. Hoe beter je je doelstellingen en key performance indicators (KPIs) kunt definiëren, hoe makkelijker je straks een AI-agent kunt 'instructeren' om voor jou aan het werk te gaan.
 
 Bron: Emerce
