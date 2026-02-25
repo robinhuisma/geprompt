@@ -1,16 +1,23 @@
 # Advertenties per positie op de homepage
-# Laat een positie leeg of verwijder hem → dan toont AdSense automatisch
-#
-# Posities: trends, crm, creativiteit
-#
-# Voorbeeld:
-# trends:
-#   title: "Bedrijf X"
-#   image: "/images/uploads/bedrijfx-banner.png"
-#   url: "https://bedrijfx.nl/?ref=geprompt"
-#   label: "Aangeboden door Bedrijf X"
-#   rel: "sponsored nofollow"
+# Laat een positie leeg (url: "") → dan toont AdSense automatisch als fallback
 
-trends: {}
-crm: {}
-creativiteit: {}
+trends:
+  title: "CloudAI Platform"
+  image: "/images/ads/banner-aiplatform.png"
+  url: "/commercieel/"
+  label: "Aangeboden door CloudAI Platform"
+  rel: "nofollow"
+
+crm:
+  title: "SlimCRM"
+  image: "/images/ads/banner-crmtool.png"
+  url: "/commercieel/"
+  label: "Aangeboden door SlimCRM"
+  rel: "nofollow"
+
+creativiteit:
+  title: "DesignFlow AI"
+  image: "/images/ads/banner-designai.png"
+  url: "/commercieel/"
+  label: "Aangeboden door DesignFlow AI"
+  rel: "nofollow"
