@@ -2,7 +2,8 @@ backend:
   name: github
   repo: robinhuisma/geprompt
   branch: main
-  auth_type: pkce
+  base_url: https://geprompt.pages.dev
+  auth_endpoint: /auth
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
