@@ -32,8 +32,8 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "AI-updates voor ondernemers en professionals"
-    Content = "Enkele minuten lezen, eindeloos besparen."
+    Title = "Word dagelijks geprompt."
+    Content = "AI-nieuws voor ondernemers en professionals — Een gecureerd aanbod dat direct vertaalbaar is naar zakelijke waarde."
 
 [params.assets]
   favicon = "/favicon.ico"
@@ -51,40 +51,28 @@ buildFuture = false
   keys = ["title", "permalink", "summary", "content"]
 
 [[menu.main]]
-  identifier = "groei"
-  name = "Groei"
-  url = "/groei/"
+  identifier = "nieuws-tools"
+  name = "Nieuws & Tools"
+  url = "/nieuws-tools/"
   weight = 1
 
 [[menu.main]]
-  identifier = "creatie"
-  name = "Creatie"
-  url = "/creatie/"
+  identifier = "marketing-groei"
+  name = "Marketing & Groei"
+  url = "/marketing-groei/"
   weight = 2
 
 [[menu.main]]
-  identifier = "werk"
-  name = "Werk"
-  url = "/werk/"
+  identifier = "slimmer-werken"
+  name = "Slimmer Werken"
+  url = "/slimmer-werken/"
   weight = 3
-
-[[menu.main]]
-  identifier = "geld"
-  name = "Geld"
-  url = "/geld/"
-  weight = 4
-
-[[menu.main]]
-  identifier = "leven"
-  name = "Leven"
-  url = "/leven/"
-  weight = 5
 
 [[menu.main]]
   identifier = "zoeken"
   name = "Zoeken"
   url = "/search/"
-  weight = 6
+  weight = 4
 [taxonomies]
   tag = "tags"
   categorie = "categorieen"
