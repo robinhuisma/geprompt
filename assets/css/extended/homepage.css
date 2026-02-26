@@ -249,3 +249,20 @@ h1.post-title { font-weight: 700 !important; }
 
 /* Footer menu iets kleiner */
 .footer nav { font-size: 0.85em; }
+
+/* Sectie blok op homepage */
+.sectie-blok {
+  margin-bottom: 48px;
+}
+
+/* Sectie kop in teal */
+.sectie-kop {
+  color: #00A19B;
+  font-size: 1.1em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #00A19B;
+}

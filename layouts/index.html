@@ -1,47 +1,58 @@
 {{ define "main" }}
 
-{{- $allPages := where site.RegularPages "Section" "in" (slice "groei" "creatie" "werk" "geld" "leven" "posts" "commercieel") -}}
-{{- $pages := (sort $allPages ".Date" "desc") | first 6 -}}
-
 {{- if site.Params.homeInfoParams -}}
   {{- partial "home_info.html" . -}}
 {{- end -}}
 
-{{- if gt (len $pages) 0 -}}
-  {{- $hero := index $pages 0 -}}
-  <a href="{{ $hero.Permalink }}" class="hero-card">
-    {{- if $hero.Params.cover.image -}}
-      <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="eager">
-    {{- end -}}
-    <div class="hero-overlay">
-      <span class="sectie-label">{{ if eq $hero.Section "leven" }}LIFESTYLE{{ else }}{{ $hero.Section | upper }}{{ end }}</span>
-      <h2 class="hero-title">{{ $hero.Title }}</h2>
-    </div>
-  </a>
-{{- end -}}
+{{- $secties := slice "groei" "creatie" "werk" "geld" "leven" -}}
+{{- $labels := dict "groei" "GROEI" "creatie" "CREATIE" "werk" "WERK" "geld" "GELD" "leven" "LIFESTYLE" -}}
 
-<div class="news-list">
-  {{- range $index, $page := $pages -}}
-    {{- if gt $index 0 -}}
-      <article class="news-item">
-        <a href="{{ $page.Permalink }}" class="news-link">
-          {{- if $page.Params.cover.image -}}
-            <div class="news-thumb">
-              <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
-            </div>
+{{- range $sectie := $secties -}}
+  {{- $pages := where site.RegularPages "Section" $sectie -}}
+  {{- $pages = (sort $pages ".Date" "desc") | first 6 -}}
+
+  {{- if gt (len $pages) 0 -}}
+
+    <div class="sectie-blok">
+      <h2 class="sectie-kop">{{ index $labels $sectie }}</h2>
+
+      {{/* HERO */}}
+      {{- $hero := index $pages 0 -}}
+      <a href="{{ $hero.Permalink }}" class="hero-card">
+        {{- if $hero.Params.cover.image -}}
+          <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="hero-img" loading="lazy">
+        {{- end -}}
+        <div class="hero-overlay">
+          <h2 class="hero-title">{{ $hero.Title }}</h2>
+        </div>
+      </a>
+
+      {{/* ARTIKELLIJST */}}
+      <div class="news-list">
+        {{- range $index, $page := $pages -}}
+          {{- if gt $index 0 -}}
+            <article class="news-item">
+              <a href="{{ $page.Permalink }}" class="news-link">
+                {{- if $page.Params.cover.image -}}
+                  <div class="news-thumb">
+                    <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="lazy">
+                  </div>
+                {{- end -}}
+                <div class="news-content">
+                  <h3 class="news-title">{{ $page.Title }}</h3>
+                  <span class="news-meta">
+                    {{ $page.Date.Format "02 Jan 2006 · 15:04" }} · {{ $page.ReadingTime }} min
+                  </span>
+                </div>
+              </a>
+            </article>
           {{- end -}}
-          <div class="news-content">
-            <span class="sectie-label">{{ if eq $page.Section "leven" }}LIFESTYLE{{ else }}{{ $page.Section | upper }}{{ end }}</span>
-            <h3 class="news-title">{{ $page.Title }}</h3>
-            <span class="news-meta">
-              {{ $page.Date.Format "02 Jan 2006 · 15:04" }} · {{ $page.ReadingTime }} min
-            </span>
-          </div>
-        </a>
-      </article>
-    {{- end -}}
+        {{- end -}}
+      </div>
+    </div>
+
   {{- end -}}
-</div>
+{{- end -}}
 
 {{ partial "newsletter.html" . }}
 
