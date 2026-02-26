@@ -5,9 +5,9 @@ tags: ["game development", "animatie", "vakmanschap", "creativiteit"]
 summary: "Het handgemaakte proces van Out of Words bewijst dat menselijk vakmanschap een unieke waarde blijft houden, ook als AI animatie en content kan genereren."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/684314/pexels-photo-684314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Stylish desk setup featuring a laptop, smartphone, and pens in natural light."
-  caption: "Foto: Lukas Blazek via Pexels"
+  image: "https://images.pexels.com/photos/28948797/pexels-photo-28948797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Brown glass cup with coffee splash against tiled background. Eye-catching spill captured mid-air."
+  caption: "Foto: Beyzanur K. via Pexels"
 draft: false
 ---
 

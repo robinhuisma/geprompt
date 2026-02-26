@@ -5,9 +5,9 @@ tags: ["cloud computing", "infrastructuur", "kostenbesparing", "developer tools"
 summary: "Railway, een AI-gerichte clouddienst, biedt snellere software-updates en tot 65% lagere kosten dan AWS, wat ideaal is voor MKB'ers die met AI-tools werken."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/6466141/pexels-photo-6466141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "High-tech server rack in a secure data center with network cables and hardware components."
-  caption: "Foto: Sergei Starostin via Pexels"
+  image: "https://images.pexels.com/photos/6238174/pexels-photo-6238174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Focused young multiracial coworkers in formal clothes gathering at desk with laptop and papers and working on business project in light office"
+  caption: "Foto: Monstera Production via Pexels"
 draft: false
 ---
 

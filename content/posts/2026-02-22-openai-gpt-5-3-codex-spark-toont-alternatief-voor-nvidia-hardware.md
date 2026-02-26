@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:04.526Z
 tags: ["openai", "ai model", "hardware", "mkb"]
 summary: "OpenAI's nieuwe GPT-5.3-Codex-Spark model, ontworpen voor real-time programmeren, is gebouwd op hardware van Cerebras en demonstreert dat er levensvatbare alternatieven zijn voor de dominante Nvidia-chips."
 cover:
-  image: "https://images.pexels.com/photos/6044806/pexels-photo-6044806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Interior of business workplace with various modern gadgets placed on table in office"
-  caption: "Foto: Skylar Kang via Pexels"
+  image: "https://images.pexels.com/photos/1181401/pexels-photo-1181401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals collaborating in a modern office environment with laptops and technology."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

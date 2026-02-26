@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "productiviteit", "software"]
 summary: "De nieuwe Snagit 2025 versimpelt het maken van instructies, documentatie en presentaties met slimme bewerkingstools, wat tijd bespaart voor elke medewerker."
 label: "WERKVLOER"
 cover:
-  image: "https://images.pexels.com/photos/7065/space-desk-office-hero-7065.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Contemporary open office space with people collaborating and working together."
-  caption: "Foto: Startup Stock Photos via Pexels"
+  image: "https://images.pexels.com/photos/1181734/pexels-photo-1181734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Group of diverse professionals engaged in a meeting in a modern office setting with technology integration."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:00.250Z
 tags: ["microsoft", "investering", "ai-infrastructuur", "global south"]
 summary: "Microsoft kondigt een investering van 50 miljard dollar aan om AI-infrastructuur en -diensten te ontwikkelen in opkomende economieën, als reactie op de wereldwijde vraag naar soevereine AI."
 cover:
-  image: "https://images.pexels.com/photos/18033178/pexels-photo-18033178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A spacious modern office with desks, computers, and natural light creating an inviting work environment."
-  caption: "Foto: Marcus via Pexels"
+  image: "https://images.pexels.com/photos/7993571/pexels-photo-7993571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals working together on a laptop in a modern office setting."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 ---
 

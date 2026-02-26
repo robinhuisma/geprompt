@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:02.118Z
 tags: ["ai", "softwareontwikkeling", "opensource", "mkb"]
 summary: "De AI-codeagent Goose van Block biedt vergelijkbare functionaliteit als het betaalde Claude Code van Anthropic, maar is volledig gratis, open-source en draait lokaal zonder abonnementskosten of cloudafhankelijkheid."
 cover:
-  image: "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Modern workspace showcasing Apple laptop, tablet, and smartphone on a wooden desk."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/1181610/pexels-photo-1181610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Professional team meeting with diverse group in a modern office setting, discussing project details."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

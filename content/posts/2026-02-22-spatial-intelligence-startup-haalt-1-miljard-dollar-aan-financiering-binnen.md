@@ -4,9 +4,9 @@ date: 2026-02-22T12:34:05.066Z
 tags: ["startup", "financiering", "spatial intelligence", "ai"]
 summary: "Een startup gespecialiseerd in ruimtelijke intelligentie heeft een investeringsronde van 1 miljard dollar voltooid, wat duidt op groot vertrouwen in de groeiverwachtingen voor deze technologie."
 cover:
-  image: "https://images.pexels.com/photos/7821914/pexels-photo-7821914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of tax documents and calculator on wooden table, highlighting financial analysis."
-  caption: "Foto: RDNE Stock project via Pexels"
+  image: "https://images.pexels.com/photos/1036641/pexels-photo-1036641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Group of professionals collaborating on a project, discussing ideas around a laptop."
+  caption: "Foto: Moose Photos via Pexels"
 draft: false
 ---
 

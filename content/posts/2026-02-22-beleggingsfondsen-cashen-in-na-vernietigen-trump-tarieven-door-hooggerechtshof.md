@@ -4,9 +4,9 @@ date: 2026-02-22T11:00:39.520Z
 tags: ["tarieven", "handel", "rechtspraak", "investeren"]
 summary: "Beleggingsfondsen die speculeerden op het vernietigen van de Trump-tarieven door het Amerikaanse Hooggerechtshof, staan op het punt miljoenen dollars winst te realiseren."
 cover:
-  image: "https://images.pexels.com/photos/30496619/pexels-photo-30496619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Glass and steel office buildings connected by a sky bridge in Kraków, Poland."
-  caption: "Foto: Raymond Petrik via Pexels"
+  image: "https://images.pexels.com/photos/7691772/pexels-photo-7691772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Man multitasking with a smartwatch and laptop analyzing stock market charts at the office."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

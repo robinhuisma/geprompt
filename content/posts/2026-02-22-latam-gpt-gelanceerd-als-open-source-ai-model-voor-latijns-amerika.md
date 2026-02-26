@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:07.113Z
 tags: ["ai", "open source", "llm", "latijns-amerika"]
 summary: "Er is een nieuw open source AI-model, Latam-GPT, gelanceerd dat specifiek is ontwikkeld voor de Latijns-Amerikaanse regio, als onderdeel van een trend naar meer regionale AI-ontwikkeling."
 cover:
-  image: "https://images.pexels.com/photos/326512/pexels-photo-326512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Modern office desk setup with dual monitors displaying design software, ideal for tech and business themes."
-  caption: "Foto: Tranmautritam via Pexels"
+  image: "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals engaging in a productive meeting around a conference table."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

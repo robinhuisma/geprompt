@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:01.269Z
 tags: ["anthropic", "claude", "ai-model", "mkb"]
 summary: "AI-bedrijf Anthropic heeft een nieuwe versie van zijn Claude 3 Sonnet model uitgebracht, waarbij de focus op betere prestaties en nieuwe API-functies wordt overschaduwd door discussies over de risico's van autonome AI-agents."
 cover:
-  image: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Crop anonymous female filling questionnaire when applying for job sitting in employer office"
-  caption: "Foto: Sora Shimazaki via Pexels"
+  image: "https://images.pexels.com/photos/2422276/pexels-photo-2422276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Two colleagues work together in a modern office setting, focusing on a laptop."
+  caption: "Foto: Jopwell via Pexels"
 draft: false
 ---
 

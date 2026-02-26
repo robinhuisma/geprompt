@@ -5,9 +5,9 @@ tags: ["ai-agents", "automatisering", "workflow", "mkb"]
 summary: "De opkomst van gebruiksvriendelijke AI-agentplatformen zoals OpenClaw maakt het voor MKB'ers mogelijk om zonder diepgaande kennis complexe workflows te automatiseren."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/7108393/pexels-photo-7108393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Focused woman in white uniform typing on computer in office setting."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Overhead view of a diverse team discussing around a wooden table, using technology."
+  caption: "Foto: fauxels via Pexels"
 draft: false
 ---
 

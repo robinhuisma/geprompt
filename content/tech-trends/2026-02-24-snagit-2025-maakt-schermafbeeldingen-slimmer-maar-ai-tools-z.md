@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "productiviteit", "ai-tools"]
 summary: "De nieuwe Snagit biedt handige updates, maar voor Nederlandse ondernemers zijn er vaak gratis AI-alternatieven die sneller en slimmer werken."
 label: "WERKVLOER"
 cover:
-  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
-  caption: "Foto: Kampus Production via Pexels"
+  image: "https://images.pexels.com/photos/7793699/pexels-photo-7793699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Diverse team of business professionals collaborating in a modern office setting."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

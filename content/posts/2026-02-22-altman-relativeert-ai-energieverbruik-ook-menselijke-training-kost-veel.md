@@ -4,9 +4,9 @@ date: 2026-02-22T12:33:34.930Z
 tags: ["openai", "ai-ontwikkeling", "energieverbruik", "duurzaamheid"]
 summary: "OpenAI CEO Sam Altman wijst erop dat de discussie over het hoge energieverbruik van AI-training in perspectief moet worden geplaatst, omdat ook het opleiden en laten functioneren van een mens veel energie vergt, een opmerking die hij maakte tijdens een techconferentie."
 cover:
-  image: "https://images.pexels.com/photos/7793662/pexels-photo-7793662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A sleek office setup featuring a laptop, notebooks, and chairs on a white desk."
-  caption: "Foto: Yan Krukau via Pexels"
+  image: "https://images.pexels.com/photos/8067744/pexels-photo-8067744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Candid image of a diverse team in a collaborative meeting. Focus on conversation and teamwork."
+  caption: "Foto: Edmond Dantès via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:16.576Z
 tags: ["media", "regulering", "vrijheid van meningsuiting", "televisie"]
 summary: "FCC-commissaris Brendan Carr oefent druk uit op televisienetwerken, wat leidde tot het schrappen van een gepland interview door Stephen Colbert bij CBS, wat vragen oproept over vrijheid van meningsuiting en regulering."
 cover:
-  image: "https://images.pexels.com/photos/5922674/pexels-photo-5922674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A businesswoman engages in a handshake during a job interview in a modern office setting."
-  caption: "Foto: RDNE Stock project via Pexels"
+  image: "https://images.pexels.com/photos/7643872/pexels-photo-7643872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Business team engaged in a lively discussion during a corporate meeting."
+  caption: "Foto: MART  PRODUCTION via Pexels"
 draft: false
 ---
 

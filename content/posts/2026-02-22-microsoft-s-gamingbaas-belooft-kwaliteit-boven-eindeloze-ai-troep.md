@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:43.798Z
 tags: ["microsoft", "gaming", "ai", "kwaliteit"]
 summary: "De nieuwe CEO van Microsoft Gaming, Matt Booty, belooft dat de Xbox-ecosysteem niet overspoeld zal worden met 'eindeloze AI-troep', maar dat AI-tools juist zullen worden ingezet om ontwikkelaars te helpen en de kwaliteit van games te verhogen."
 cover:
-  image: "https://images.pexels.com/photos/3861458/pexels-photo-3861458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Woman using virtual reality headset in a modern office for design and innovation."
-  caption: "Foto: ThisIsEngineering via Pexels"
+  image: "https://images.pexels.com/photos/8204309/pexels-photo-8204309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Diverse team working in a modern office with digital screens displaying data."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 ---
 

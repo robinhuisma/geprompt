@@ -5,9 +5,9 @@ tags: ["ai hardware", "kosten", "mkb", "innovatie"]
 summary: "De opkomst van nieuwe AI-chipmakers belooft meer keuze en mogelijk lagere kosten voor Nederlandse bedrijven die AI willen inzetten."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/3184463/pexels-photo-3184463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Flat lay of a modern workspace featuring a laptop, coffee cup, and various accessories on a white background."
-  caption: "Foto: fauxels via Pexels"
+  image: "https://images.pexels.com/photos/5466232/pexels-photo-5466232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Team of diverse professionals collaborating in a modern office setting."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 ---
 

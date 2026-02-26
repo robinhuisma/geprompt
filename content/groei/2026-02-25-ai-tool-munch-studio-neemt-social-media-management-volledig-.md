@@ -5,9 +5,9 @@ tags: ["social media", "contentcreatie", "automatisering", "videomarketing"]
 summary: "Munch Studio automatiseert het hele proces van video tot social media post, wat MKB'ers wekelijks uren werk bespaart."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/2228569/pexels-photo-2228569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "White smartphone displaying Snapchat logo on a bright yellow background, angled view."
-  caption: "Foto: Thought Catalog via Pexels"
+  image: "https://images.pexels.com/photos/6476185/pexels-photo-6476185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Collaborative team meeting in a modern office setting with digital marketing focus."
+  caption: "Foto: Mikael Blomkvist via Pexels"
 draft: false
 ---
 

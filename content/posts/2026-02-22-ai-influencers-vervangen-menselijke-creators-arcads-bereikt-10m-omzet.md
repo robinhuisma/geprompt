@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:25.690Z
 tags: ["ai", "influencer marketing", "content creatie", "videomarketing"]
 summary: "Het AI-bedrijf Arcads bereikte $10 miljoen jaaromzet door tools te bieden waarmee MKB'ers realistische AI-avatars en UGC-video's kunnen genereren voor schaalbare contentcreatie en advertenties."
 cover:
-  image: "https://images.pexels.com/photos/5001886/pexels-photo-5001886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Sleek office desk setup featuring a gaming chair and widescreen monitor, ideal for productivity and gaming."
-  caption: "Foto: Marius Dani via Pexels"
+  image: "https://images.pexels.com/photos/5833261/pexels-photo-5833261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Two professionals engage in a strategy meeting using digital tech for data analysis."
+  caption: "Foto: AlphaTradeZone via Pexels"
 draft: false
 ---
 

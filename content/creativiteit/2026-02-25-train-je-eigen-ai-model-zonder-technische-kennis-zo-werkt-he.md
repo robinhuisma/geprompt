@@ -5,9 +5,9 @@ tags: ["ai beeldgeneratie", "custom model", "mkb", "training"]
 summary: "Met nieuwe toolkits zoals Ostris AI kan elk MKB-bedrijf nu eenvoudig een eigen, gespecialiseerd AI-beeldmodel trainen op basis van eigen productfoto's of huisstijl."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/35147162/pexels-photo-35147162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Side view of a smartphone placed on a laptop featuring the Huawei logo on a vibrant yellow background."
-  caption: "Foto: Andrey Matveev via Pexels"
+  image: "https://images.pexels.com/photos/8204309/pexels-photo-8204309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Diverse team working in a modern office with digital screens displaying data."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T11:00:07.176Z
 tags: ["openai", "gpt-4", "ai-model", "mkb"]
 summary: "OpenAI heeft GPT-4o mini gelanceerd, een compact en kostenefficiënt AI-model dat via API beschikbaar is voor ontwikkelaars en bedrijven om eenvoudig slimme functies in apps te integreren."
 cover:
-  image: "https://images.pexels.com/photos/8353772/pexels-photo-8353772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A clean and modern office desk with dual monitors and ergonomic chairs, ideal for productivity."
-  caption: "Foto: Kampus Production via Pexels"
+  image: "https://images.pexels.com/photos/8117814/pexels-photo-8117814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Three diverse people discussing packaging design with color samples, ideal for small business marketing."
+  caption: "Foto: Ivan S via Pexels"
 draft: false
 ---
 

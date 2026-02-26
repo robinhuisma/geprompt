@@ -5,9 +5,9 @@ tags: ["animatie", "video", "content creatie", "marketing"]
 summary: "De ambachtelijke techniek van stop-motion krijgt een digitale boost, wat kansen biedt voor MKB'ers in marketing en productpresentatie."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/35428064/pexels-photo-35428064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A clean and modern workspace featuring a laptop, keyboard, and potted plant on a white desk with green foliage."
-  caption: "Foto: Optimerch GmbH via Pexels"
+  image: "https://images.pexels.com/photos/4623520/pexels-photo-4623520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Team collaboratively brainstorming on transparent board in a modern office setting."
+  caption: "Foto: Ketut Subiyanto via Pexels"
 draft: false
 ---
 

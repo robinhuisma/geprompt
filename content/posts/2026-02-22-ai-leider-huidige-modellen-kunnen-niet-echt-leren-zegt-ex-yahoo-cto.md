@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:30.790Z
 tags: ["ai ontwikkeling", "machine learning", "mkb strategie", "tech infrastructuur"]
 summary: "Ashfaq Munshi, CEO van Pepperdata, stelt dat huidige AI-modellen, ondanks indrukwekkende prestaties, geen wereldmodellen bouwen en niet uit ervaring leren zoals mensen, wat de kernlimiet en de grote uitdaging voor het volgende decennium vormt."
 cover:
-  image: "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Modern workspace showcasing Apple laptop, tablet, and smartphone on a wooden desk."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/5716030/pexels-photo-5716030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Professional business meeting with a team analyzing data on a presentation screen."
+  caption: "Foto: Artem Podrez via Pexels"
 draft: false
 ---
 

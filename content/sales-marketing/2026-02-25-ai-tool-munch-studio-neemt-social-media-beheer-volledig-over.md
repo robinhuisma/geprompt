@@ -5,9 +5,9 @@ tags: ["social media", "contentcreatie", "automatisering", "videomarketing"]
 summary: "Munch Studio analyseert automatisch je video-content en maakt er social media posts van, wat weken aan werk kan besparen."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/246684/pexels-photo-246684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a hand holding a smartphone showing a social media application screen."
-  caption: "Foto: Expect Best via Pexels"
+  image: "https://images.pexels.com/photos/6476260/pexels-photo-6476260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse team collaborating on digital marketing strategies at a desk, using laptops and tablets."
+  caption: "Foto: Mikael Blomkvist via Pexels"
 draft: false
 ---
 

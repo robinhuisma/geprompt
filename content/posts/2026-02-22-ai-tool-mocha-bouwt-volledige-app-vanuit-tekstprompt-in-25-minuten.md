@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:33.253Z
 tags: ["app ontwikkeling", "ai tool", "mkb", "software"]
 summary: "Met de AI-tool Mocha kunnen ondernemers zonder technische kennis binnen 25 minuten een volledig functionele webapplicatie laten bouwen door simpelweg hun idee in tekst te beschrijven."
 cover:
-  image: "https://images.pexels.com/photos/8606292/pexels-photo-8606292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Contemporary office space featuring desks with computers and revolving chairs."
-  caption: "Foto: Ryan Pilato via Pexels"
+  image: "https://images.pexels.com/photos/32866726/pexels-photo-32866726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Team of professionals engaged in collaborative work at a vibrant modern office, showcasing teamwork and innovation."
+  caption: "Foto: Rashed Hossain via Pexels"
 draft: false
 ---
 

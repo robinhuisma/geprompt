@@ -5,9 +5,9 @@ tags: ["automatisering", "zapier", "chatgpt", "workflow"]
 summary: "Koppel ChatGPT aan je dagelijkse tools zoals Gmail en Slack zonder programmeerkennis, om tijdrovende taken te automatiseren."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/8428101/pexels-photo-8428101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Confident senior executive in formal attire with modern office background."
-  caption: "Foto: Kampus Production via Pexels"
+  image: "https://images.pexels.com/photos/7988219/pexels-photo-7988219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Team of professionals collaborating in an office with digital interface on background screen."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

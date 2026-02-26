@@ -4,9 +4,9 @@ date: 2026-02-23T07:26:46.444Z
 tags: ["openai", "gpt-4", "ai-model", "prijs"]
 summary: "OpenAI heeft GPT-4o mini geïntroduceerd, een nieuwe, kostenefficiënte versie van zijn vlaggenschip AI-model dat tekst en visuele analyse aanbiedt voor een fractie van de prijs, waardoor geavanceerde AI toegankelijker wordt voor integratie in apps en services."
 cover:
-  image: "https://images.pexels.com/photos/6829547/pexels-photo-6829547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Two adult men engaged with virtual reality and laptop technology in a contemporary office."
-  caption: "Foto: Kampus Production via Pexels"
+  image: "https://images.pexels.com/photos/7643896/pexels-photo-7643896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Diverse team in a meeting with remote participant on video call."
+  caption: "Foto: MART  PRODUCTION via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["ai-agents", "openai", "talent", "automatisering"]
 summary: "De snelle overname van Nederlands AI-talent door OpenAI toont aan dat persoonlijke AI-assistenten voor bedrijven snel realiteit worden."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/7108393/pexels-photo-7108393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Focused woman in white uniform typing on computer in office setting."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/6476192/pexels-photo-6476192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Group of colleagues discussing digital marketing strategies in an office setting."
+  caption: "Foto: Mikael Blomkvist via Pexels"
 draft: false
 ---
 

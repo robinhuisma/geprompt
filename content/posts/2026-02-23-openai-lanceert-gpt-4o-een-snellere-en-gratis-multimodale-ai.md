@@ -4,9 +4,9 @@ date: 2026-02-23T13:02:07.642Z
 tags: ["openai", "gpt-4o", "ai-model", "multimodaal"]
 summary: "OpenAI heeft GPT-4o gepresenteerd, een nieuwe, snellere en gratis te gebruiken AI-model dat tekst, audio en beeld in real-time kan verwerken."
 cover:
-  image: "https://images.pexels.com/photos/19238352/pexels-photo-19238352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A clean and modern desk setup featuring a computer, clock, and accessories in a home office."
-  caption: "Foto: Mateusz Haberny via Pexels"
+  image: "https://images.pexels.com/photos/7698807/pexels-photo-7698807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of young professionals discussing finances using a laptop in an office setting."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

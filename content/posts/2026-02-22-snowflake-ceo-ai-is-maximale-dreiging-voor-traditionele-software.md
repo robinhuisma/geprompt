@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:37.378Z
 tags: ["ai", "enterprise software", "innovatie", "bedrijfsstrategie"]
 summary: "AI bereikt een kantelpunt dat traditionele bedrijfssoftware fundamenteel zal ontwrichten, stelt Snowflake-CEO Sridhar Ramaswamy, waarbij gevestigde spelers kunnen verdwijnen en platforms zoals Snowflake zich positioneren als het nieuwe centrum voor enterprise AI."
 cover:
-  image: "https://images.pexels.com/photos/14553720/pexels-photo-14553720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up view of HTML and CSS code displayed on a computer screen, ideal for programming and technology themes."
-  caption: "Foto: Bibek ghosh via Pexels"
+  image: "https://images.pexels.com/photos/6340676/pexels-photo-6340676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Group of young adults collaborating on a project with a laptop and whiteboard in a modern office setting."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 ---
 

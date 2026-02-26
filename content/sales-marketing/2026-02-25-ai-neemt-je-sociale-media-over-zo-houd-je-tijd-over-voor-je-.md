@@ -5,9 +5,9 @@ tags: ["social media", "automatisering", "content creatie", "mkb"]
 summary: "Tools als Munch Studio automatiseren het volledige sociale media proces, van idee tot planning, zodat je als ondernemer weer tijd hebt voor je kernactiviteiten."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/48604/pexels-photo-48604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Medical stethoscope and laptop on a white desk, symbolizing digital health solutions."
-  caption: "Foto: Negative Space via Pexels"
+  image: "https://images.pexels.com/photos/7988507/pexels-photo-7988507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Three colleagues collaborating with digital tablets in a modern office environment, showcasing teamwork and discussion."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

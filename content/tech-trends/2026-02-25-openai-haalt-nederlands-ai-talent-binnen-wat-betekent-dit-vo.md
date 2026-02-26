@@ -5,9 +5,9 @@ tags: ["ai-agents", "openai", "personeel", "automatisering"]
 summary: "De overstap van een Nederlandse ontwikkelaar naar OpenAI toont aan dat de race om de beste AI-assistenten nu echt begint, met directe gevolgen voor het MKB."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/859265/pexels-photo-859265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A businessman in a white shirt texts on his smartphone by a large glass window inside an office."
-  caption: "Foto: Andrea Piacquadio via Pexels"
+  image: "https://images.pexels.com/photos/4623190/pexels-photo-4623190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Three colleagues working together in a modern office interior, engaged in a creative discussion around a table."
+  caption: "Foto: Ketut Subiyanto via Pexels"
 draft: false
 ---
 

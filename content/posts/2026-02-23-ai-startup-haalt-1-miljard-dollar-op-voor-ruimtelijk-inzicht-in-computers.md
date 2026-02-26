@@ -4,9 +4,9 @@ date: 2026-02-23T12:55:38.698Z
 tags: ["ai", "robotica", "funding", "automatisering"]
 summary: "Het Amerikaanse Covariant haalt een miljard dollar op om AI-modellen te ontwikkelen die de fysieke wereld begrijpen, gericht op robotica en automatisering."
 cover:
-  image: "https://images.pexels.com/photos/6804612/pexels-photo-6804612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Contemporary workspace featuring computers, coding screens, and office essentials in a tech environment."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "https://images.pexels.com/photos/7693716/pexels-photo-7693716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse team of professionals working together on a project in a modern office setting."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

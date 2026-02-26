@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "interne communicatie", "software"]
 summary: "De nieuwe Snagit bewijst dat gespecialiseerde software voor schermafbeeldingen en visuele communicatie vaak praktischer is dan generatieve AI voor MKB'ers."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/164688/pexels-photo-164688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "50 Euro banknotes being processed in a high-speed counting machine, showcasing technology and finance in action."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A multicultural team brainstorming and collaborating during a business meeting."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

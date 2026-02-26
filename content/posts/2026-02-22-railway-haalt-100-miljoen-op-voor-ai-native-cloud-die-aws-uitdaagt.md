@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:01.488Z
 tags: ["cloud", "ai", "infrastructuur", "funding"]
 summary: "Het cloudplatform Railway heeft $100 miljoen opgehaald om met een AI-native infrastructuur, die tot 65% goedkoper en veel sneller is, de gevestigde cloudaanbieders zoals AWS uit te dagen."
 cover:
-  image: "https://images.pexels.com/photos/1181319/pexels-photo-1181319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Professional woman working on laptop in a server room, showcasing technology and remote work."
-  caption: "Foto: Christina Morillo via Pexels"
+  image: "https://images.pexels.com/photos/7413845/pexels-photo-7413845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Two colleagues discussing work in a modern office setting, focused on documents."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 ---
 

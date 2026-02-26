@@ -4,9 +4,9 @@ date: 2026-02-23T13:00:57.139Z
 tags: ["openai", "gpt-4o", "ai-model", "real-time"]
 summary: "OpenAI heeft GPT-4o gepresenteerd, een nieuwe AI-model dat tekst, audio en beeld in real-time verwerkt met verbeterde snelheid en gratis toegang voor alle gebruikers."
 cover:
-  image: "https://images.pexels.com/photos/8606292/pexels-photo-8606292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Contemporary office space featuring desks with computers and revolving chairs."
-  caption: "Foto: Ryan Pilato via Pexels"
+  image: "https://images.pexels.com/photos/7651920/pexels-photo-7651920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Four professionals collaborating over laptops in a bright, modern office space."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-23T13:38:37.206Z
 tags: ["ai", "india", "top", "tech"]
 summary: "India organiseert een vierdaagse top over kunstmatige intelligentie met deelname van leidinggevenden van toonaangevende AI-bedrijven en regeringsleiders."
 cover:
-  image: "https://images.pexels.com/photos/18033178/pexels-photo-18033178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A spacious modern office with desks, computers, and natural light creating an inviting work environment."
-  caption: "Foto: Marcus via Pexels"
+  image: "https://images.pexels.com/photos/1181619/pexels-photo-1181619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Three businesswomen engaging in a productive meeting inside a modern office space."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

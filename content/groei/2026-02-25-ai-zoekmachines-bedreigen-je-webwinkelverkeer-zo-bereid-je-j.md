@@ -5,9 +5,9 @@ tags: ["ai-zoeken", "seo", "webwinkel", "klantacquisitie"]
 summary: "AI-zoekmachines zoals ChatGPT en Perplexity zullen Google-verkeer naar webwinkels halveren, waardoor je je SEO- en contentstrategie nu moet aanpassen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Team of developers working together on computers in a modern tech office."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "https://images.pexels.com/photos/7988669/pexels-photo-7988669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals working together around a digital tablet in a modern office setting."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

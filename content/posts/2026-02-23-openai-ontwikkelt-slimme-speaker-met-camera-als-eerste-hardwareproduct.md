@@ -4,9 +4,9 @@ date: 2026-02-23T12:54:47.833Z
 tags: ["openai", "hardware", "slimme speaker", "ai"]
 summary: "OpenAI werkt samen met ex-Apple-ontwerper Jony Ive aan een slimme speaker met camera, wat het eerste hardwareproduct van het AI-bedrijf moet worden."
 cover:
-  image: "https://images.pexels.com/photos/8353772/pexels-photo-8353772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A clean and modern office desk with dual monitors and ergonomic chairs, ideal for productivity."
-  caption: "Foto: Kampus Production via Pexels"
+  image: "https://images.pexels.com/photos/1367276/pexels-photo-1367276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Diverse team engaged in a business meeting with laptops in a modern office setting."
+  caption: "Foto: Rebrand Cities via Pexels"
 draft: false
 ---
 

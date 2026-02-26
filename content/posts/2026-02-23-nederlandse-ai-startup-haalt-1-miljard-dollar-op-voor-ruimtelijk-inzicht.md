@@ -4,9 +4,9 @@ date: 2026-02-23T13:39:50.549Z
 tags: ["ai", "funding", "startup", "spatial intelligence"]
 summary: "Het Nederlandse AI-bedrijf Spatial Intelligence heeft een investeringsronde van 1 miljard dollar voltooid, een van de grootste in Europa dit jaar, om zijn platform voor ruimtelijk inzicht verder te ontwikkelen."
 cover:
-  image: "https://images.pexels.com/photos/32698507/pexels-photo-32698507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A sleek WiFi 6 router with antennas and cable on a wooden desk, perfect for modern home networks."
-  caption: "Foto: Pascal 📷 via Pexels"
+  image: "https://images.pexels.com/photos/8547341/pexels-photo-8547341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals working together at a wooden table in a contemporary office setting."
+  caption: "Foto: Edmond Dantès via Pexels"
 draft: false
 ---
 

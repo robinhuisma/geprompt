@@ -5,9 +5,9 @@ tags: ["ai", "marketing", "automatisering", "adverteren"]
 summary: "AI-agents kopen en verkopen nu automatisch advertentieruimte, wat leidt tot efficiëntere campagnes en lagere kosten voor MKB'ers."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/6373088/pexels-photo-6373088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A close-up of a hand holding a smartphone with a blank white screen, ideal for digital mockups."
-  caption: "Foto: KATRIN  BOLOVTSOVA via Pexels"
+  image: "https://images.pexels.com/photos/3153199/pexels-photo-3153199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Young professionals collaborating on a project in a modern office with laptop and notes."
+  caption: "Foto: Canva Studio via Pexels"
 draft: false
 ---
 

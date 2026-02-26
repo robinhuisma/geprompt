@@ -5,9 +5,9 @@ tags: ["openai", "ai-agents", "talent", "innovatie"]
 summary: "Het succes van een Nederlands hobbyproject leidt tot een baan bij OpenAI, wat laat zien dat kleine innovaties de toekomst van persoonlijke AI-agents kunnen bepalen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/34338526/pexels-photo-34338526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Tablet with keyboard displaying apps on a clean wooden desk. Perfect for tech and productivity themes."
-  caption: "Foto: Andrey Matveev via Pexels"
+  image: "https://images.pexels.com/photos/7869124/pexels-photo-7869124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals in an office meeting discussing projects and ideas."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["ai-agents", "interoperabiliteit", "automatisering", "bedrijfsprocessen"]
 summary: "De echte kracht van AI-agents komt vrij wanneer ze naadloos kunnen samenwerken, wat vraagt om interoperabiliteit tussen verschillende systemen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/35428064/pexels-photo-35428064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A clean and modern workspace featuring a laptop, keyboard, and potted plant on a white desk with green foliage."
-  caption: "Foto: Optimerch GmbH via Pexels"
+  image: "https://images.pexels.com/photos/8297683/pexels-photo-8297683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Two women working together on a laptop in a modern office setting for teamwork project."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

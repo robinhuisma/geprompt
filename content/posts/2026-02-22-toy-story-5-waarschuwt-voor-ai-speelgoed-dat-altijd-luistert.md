@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:51.847Z
 tags: ["ai", "speelgoed", "films", "mkb"]
 summary: "De nieuwe Toy Story film, die op 19 juni uitkomt, zet de schijnwerpers op de opkomst van verslavend, AI-gestuurd speelgoed dat altijd 'aan' staat, naast andere verhaallijnen zoals een kalende Woody."
 cover:
-  image: "https://images.pexels.com/photos/1181309/pexels-photo-1181309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Group of professionals engaging in a collaborative meeting with technology."
-  caption: "Foto: Christina Morillo via Pexels"
+  image: "https://images.pexels.com/photos/6248988/pexels-photo-6248988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals collaborating in a modern office setting, working on laptops around a table."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 ---
 

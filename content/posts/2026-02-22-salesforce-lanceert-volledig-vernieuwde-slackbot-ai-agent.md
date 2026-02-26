@@ -4,9 +4,9 @@ date: 2026-02-22T06:44:47.171Z
 tags: ["salesforce", "slack", "ai", "werkplek"]
 summary: "Salesforce heeft een volledig herbouwde versie van Slackbot gelanceerd, die is getransformeerd van een simpele notificatietool naar een krachtige AI-agent die bedrijfsdata kan doorzoeken, documenten kan opstellen en acties kan ondernemen voor werknemers."
 cover:
-  image: "https://images.pexels.com/photos/7793662/pexels-photo-7793662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A sleek office setup featuring a laptop, notebooks, and chairs on a white desk."
-  caption: "Foto: Yan Krukau via Pexels"
+  image: "https://images.pexels.com/photos/8204363/pexels-photo-8204363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Office employees collaborate on financial data at modern workspace, engaging in teamwork and communication."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 ---
 

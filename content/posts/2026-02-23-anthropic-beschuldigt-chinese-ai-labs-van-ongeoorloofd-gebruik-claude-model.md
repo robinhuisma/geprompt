@@ -4,9 +4,9 @@ date: 2026-02-23T20:00:21.374Z
 tags: ["ai", "china", "intellectueel eigendom", "geopolitiek"]
 summary: "Het Amerikaanse AI-bedrijf Anthropic beschuldigt drie Chinese concurrenten ervan op grote schaal zijn AI-model Claude te hebben gekopieerd, terwijl de VS exportbeperkingen voor AI-chips tegen China overweegt."
 cover:
-  image: "https://images.pexels.com/photos/5989926/pexels-photo-5989926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Business professionals exchanging resume during meeting, focusing on career advancement."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "https://images.pexels.com/photos/6949939/pexels-photo-6949939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Colleagues in corporate attire discussing at a business meeting indoors."
+  caption: "Foto: Werner Pfennig via Pexels"
 draft: false
 ---
 

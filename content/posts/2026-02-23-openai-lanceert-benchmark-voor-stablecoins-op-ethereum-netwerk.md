@@ -4,9 +4,9 @@ date: 2026-02-23T16:01:28.087Z
 tags: ["openai", "stablecoin", "ethereum", "benchmark"]
 summary: "OpenAI introduceert EVMbench, een nieuwe benchmark om de prestaties van AI-modellen te testen bij het analyseren van data van stablecoins op de Ethereum-blockchain."
 cover:
-  image: "https://images.pexels.com/photos/8353772/pexels-photo-8353772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A clean and modern office desk with dual monitors and ergonomic chairs, ideal for productivity."
-  caption: "Foto: Kampus Production via Pexels"
+  image: "https://images.pexels.com/photos/9301737/pexels-photo-9301737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Business professionals analyzing data in a contemporary office environment."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

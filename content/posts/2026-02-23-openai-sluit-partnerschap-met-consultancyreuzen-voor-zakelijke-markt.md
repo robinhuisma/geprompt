@@ -4,9 +4,9 @@ date: 2026-02-23T19:00:21.901Z
 tags: ["openai", "consultancy", "zakelijke ai", "samenwerking"]
 summary: "OpenAI gaat samenwerken met vier grote consultancybedrijven om de adoptie van zijn AI-platform bij ondernemingen te versnellen."
 cover:
-  image: "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Team of developers working together on computers in a modern tech office."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "https://images.pexels.com/photos/34034993/pexels-photo-34034993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Professionals interacting at a conference, sharing camera insights with a lively discussion."
+  caption: "Foto: Tahir Xəlfəquliyev via Pexels"
 draft: false
 ---
 

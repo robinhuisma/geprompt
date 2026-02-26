@@ -5,9 +5,9 @@ tags: ["cloud computing", "infrastructuur", "kostenbesparing", "developer tools"
 summary: "Railway, een AI-native cloudplatform, biedt MKB'ers drastisch lagere infrastructuurkosten en veel snellere software-updates dan traditionele aanbieders zoals AWS."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/5050305/pexels-photo-5050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a network server rack with blinking LEDs, showcasing Ethernet connections and patch panels."
-  caption: "Foto: Brett Sayles via Pexels"
+  image: "https://images.pexels.com/photos/4342124/pexels-photo-4342124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Professional team engaged in a business meeting discussing strategy in a modern office environment."
+  caption: "Foto: Edmond Dantès via Pexels"
 draft: false
 ---
 

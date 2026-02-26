@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:03.694Z
 tags: ["ai", "betalingen", "blockchain", "mkb"]
 summary: "Coinbase heeft samen met Cloudflare en de Linux Foundation het x402 internet payment protocol ontwikkeld, waarmee AI-agents autonoom online betalingen kunnen verrichten."
 cover:
-  image: "https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Stylish and organized workspace featuring a laptop, monitor, and digital devices on a desk."
-  caption: "Foto: Mateusz Dach via Pexels"
+  image: "https://images.pexels.com/photos/3184585/pexels-photo-3184585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of colleagues brainstorming at a wooden table in a modern indoor office setting."
+  caption: "Foto: fauxels via Pexels"
 draft: false
 ---
 

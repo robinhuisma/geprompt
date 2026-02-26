@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "interne communicatie", "software-update"
 summary: "De nieuwe Snagit 2025 versimpelt het maken van instructies en documentatie, wat tijd bespaart en de interne communicatie verbetert."
 label: "WERKVLOER"
 cover:
-  image: "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Sleek, minimalist conference room with glass walls, long table, and office chairs."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/7644007/pexels-photo-7644007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Four colleagues engaged in a discussion around a laptop during a business meeting."
+  caption: "Foto: MART  PRODUCTION via Pexels"
 draft: false
 ---
 
