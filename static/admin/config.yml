@@ -15,21 +15,54 @@ slug:
 
 collections:
 
-  - name: "posts"
-    label: "Artikelen"
-    folder: "content/posts"
+  - name: "nieuws-tools"
+    label: "Nieuws & Tools"
+    folder: "content/nieuws-tools"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sort: "date:desc"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Samenvatting", name: "summary", widget: "text", required: true, hint: "Max 160 tekens" }
       - { label: "Tags", name: "tags", widget: "list", default: ["ai"] }
-      - { label: "Categorie", name: "categorieen", widget: "list", default: ["ai-nieuws"] }
+      - { label: "Categorie", name: "categorieen", widget: "list", default: ["nieuws-tools"] }
       - { label: "Header afbeelding", name: "cover", widget: "object", required: false, fields: [{ label: "Afbeelding", name: "image", widget: "image", required: false }, { label: "Alt tekst", name: "alt", widget: "string", required: false }, { label: "Bijschrift", name: "caption", widget: "string", required: false }] }
-      - { label: "YouTube Video ID", name: "youtube_id", widget: "string", required: false, hint: "Alleen het ID, bijv: dQw4w9WgXcQ" }
-      - { label: "TikTok Video ID", name: "tiktok_id", widget: "string", required: false }
+      - { label: "Bron", name: "bron", widget: "string", required: false }
+      - { label: "Inhoud", name: "body", widget: "markdown" }
+
+  - name: "marketing-groei"
+    label: "Marketing & Groei"
+    folder: "content/marketing-groei"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: "date:desc"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Samenvatting", name: "summary", widget: "text", required: true, hint: "Max 160 tekens" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["ai"] }
+      - { label: "Categorie", name: "categorieen", widget: "list", default: ["marketing-groei"] }
+      - { label: "Header afbeelding", name: "cover", widget: "object", required: false, fields: [{ label: "Afbeelding", name: "image", widget: "image", required: false }, { label: "Alt tekst", name: "alt", widget: "string", required: false }, { label: "Bijschrift", name: "caption", widget: "string", required: false }] }
+      - { label: "Bron", name: "bron", widget: "string", required: false }
+      - { label: "Inhoud", name: "body", widget: "markdown" }
+
+  - name: "slimmer-werken"
+    label: "Slimmer Werken"
+    folder: "content/slimmer-werken"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: "date:desc"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Samenvatting", name: "summary", widget: "text", required: true, hint: "Max 160 tekens" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["ai"] }
+      - { label: "Categorie", name: "categorieen", widget: "list", default: ["slimmer-werken"] }
+      - { label: "Header afbeelding", name: "cover", widget: "object", required: false, fields: [{ label: "Afbeelding", name: "image", widget: "image", required: false }, { label: "Alt tekst", name: "alt", widget: "string", required: false }, { label: "Bijschrift", name: "caption", widget: "string", required: false }] }
       - { label: "Bron", name: "bron", widget: "string", required: false }
       - { label: "Inhoud", name: "body", widget: "markdown" }
 
