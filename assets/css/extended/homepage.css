@@ -209,3 +209,6 @@ h1.post-title { font-weight: 300; }
 
 /* Labels verbergen */
 .hero-label, .news-label { display: none; }
+
+/* Hero label forceer verbergen */
+.hero-card .hero-label { display: none !important; visibility: hidden !important; }
