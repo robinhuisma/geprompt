@@ -203,6 +203,9 @@
 .section-desc { font-size: 0.9em; color: var(--secondary, #888); margin: 0; }
 
 /* DUNNERE TITELS — NU.nl-stijl */
-.hero-card .hero-title { font-weight: 400; }
-.news-title { font-weight: 400; }
+.hero-card .hero-title { font-weight: 500; }
+.news-title { font-weight: 500; }
 h1.post-title { font-weight: 300; }
+
+/* Labels verbergen */
+.hero-label, .news-label { display: none; }
