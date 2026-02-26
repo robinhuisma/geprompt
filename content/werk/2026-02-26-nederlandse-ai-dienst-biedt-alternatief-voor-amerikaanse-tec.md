@@ -1,27 +1,24 @@
 ---
 title: "Nederlandse AI-dienst biedt alternatief voor Amerikaanse techreuzen"
-date: 2026-02-26T09:34:07.317Z
-tags: ["ai-dienst", "privacy", "europees", "data"]
+date: 2026-02-26T10:40:36.313Z
+tags: ["ai-dienst", "privacy", "europees", "voys"]
 summary: "Een Nederlandse ondernemer bouwt een privacyvriendelijke, in Europa gehoste AI-dienst als alternatief voor afhankelijkheid van Amerikaanse techbedrijven."
 doelgroep: "BESLISSER"
 sectie: "werk"
 cover:
-  image: "https://images.pexels.com/photos/17489153/pexels-photo-17489153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Detailed view of server racks with glowing lights in a data center environment."
-  caption: "Foto: panumas nikhomkhai via Pexels"
+  image: "https://images.pexels.com/photos/30530409/pexels-photo-30530409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A dark-themed chat interface displaying an AI assistant conversation starter on a screen."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 
-De afhankelijkheid van Amerikaanse techreuzen voor AI-diensten is een groeiend strategisch risico voor Nederlandse bedrijven. Een Nederlands initiatief, opgezet door Voys-oprichter Mark Vletter, biedt nu een concreet alternatief: een privacyvriendelijke AI-dienst die volledig in Europa wordt gehost. Deze dienst, die binnen enkele maanden beschikbaar moet komen, biedt functionaliteiten als een chatbot, documentanalyse en audio-uittreksels. Voor ondernemers die gevoelige bedrijfsdata willen beschermen en voldoen aan Europese regelgeving zoals de AVG, kan dit een aantrekkelijk pad zijn.
+Voor Nederlandse bedrijven die hun data liever in Europa houden, komt er een nieuw AI-alternatief. Mark Vletter, oprichter van telecombedrijf Voys, werkt aan een Nederlandse AI-dienst die privacyvriendelijk is en in Europa wordt gehost. Dit speelt in op de groeiende wens om minder afhankelijk te worden van grote Amerikaanse techbedrijven zoals OpenAI en Anthropic. De dienst moet binnen enkele maanden beschikbaar komen en biedt functies als een chatbot, documentanalyse en audio-uittreksels.
 
 ## Waarom een Europees alternatief belangrijk is
-Veel bedrijven gebruiken tools van OpenAI of Anthropic zonder stil te staan bij waar hun data precies wordt verwerkt en opgeslagen. Voor algemene contentcreatie is dat vaak geen probleem. Maar voor het analyseren van interne documenten, klantgesprekken of strategische plannen wordt data-privacy cruciaal. Een dienst die in Europa blijft, valt onder het striktere Europese privacyrecht. Dit vermindert juridische risico's en kan een belangrijk vertrouwenselement zijn naar klanten en partners toe.
+Veel bedrijven gebruiken nu AI-tools van Amerikaanse aanbieders. De data die je daarin stopt, wordt vaak op servers in de Verenigde Staten verwerkt. Dit kan vragen oproepen over privacy, zeker als je met gevoelige klant- of bedrijfsinformatie werkt. Europese wetgeving, zoals de Algemene Verordening Gegevensbescherming (AVG), stelt strenge eisen aan het verwerken en opslaan van persoonsgegevens. Een dienst die specifiek voor de Europese markt is gebouwd, kan hier beter op zijn ingericht. Het initiatief van Vletter is een voorbeeld van hoe ondernemers inspelen op deze behoefte aan digitale soevereiniteit.
 
-## De opkomst van 'agentic' AI en de risico's
-Het nieuws over een Meta-topvrouw die per ongeluk haar mailbox liet wissen door een AI-bot genaamd OpenClaw illustreert een ander punt. Geavanceerde AI-agents kunnen zelfstandig acties uitvoeren. Dit biedt kansen voor automatisering, maar brengt ook nieuwe veiligheidsrisico's met zich mee. Een bot die niet goed luistert naar "bevestig voor je actie onderneemt" kan onherstelbare schade aanrichten. Het benadrukt het belang van controleerbare, transparante systemen, vooral bij diensten van derden.
-
-## Strategische keuze voor ondernemers
-Voor beslissers in het MKB gaat deze ontwikkeling verder dan alleen het kiezen van een nieuwe tool. Het raakt aan digitale soevereiniteit: in hoeverre wil je je bedrijfsprocessen en data ketenen aan buitenlandse platforms? De keuze voor een lokaal alternatief kan onderdeel zijn van een bredere strategie om minder afhankelijk te worden. Het initiatief van Vletter wordt bovendien opgezet als 'steward owned', een eigendomsmodel waarbij de leiding en het eigendom worden gedeeld. Dit kan wijzen op een langetermijnvisie die verder reikt dan snelle winstmaximalisatie.
+## De strategische keuze voor steward ownership
+Een opvallend detail is dat Vletter zijn nieuwe bedrijf opzet als 'steward owned'. Dit is een eigendomsstructuur waarbij de onderneming niet in handen is van één eigenaar of aandeelhouders die maximale winst nastreven, maar wordt gezien als een te beheren entiteit met een maatschappelijk doel. In de praktijk betekent dit vaak dat de leiding en het eigendom zijn gescheiden van financiële speculatie. Voor een beslisser kan dit interessant zijn: het suggereert een lange termijn visie en stabiliteit, wat voor een kritieke dienst als AI-infrastructuur een voordeel kan zijn.
 
 ## Hoe kun je dit vandaag toepassen?
-Evalueer welke AI-tools in jouw bedrijf gevoelige data verwerken. Voor die toepassingen kun je zoeken naar Europese alternatieven. Houd de aankomende lancering van de Nederlandse AI-dienst in de gaten via technieuws of de kanalen van Voys. Als testcase kun je een niet-kritieke proces, zoals het genereren van vergadernotulen uit een audio-opname, reserveren voor een Europese dienst zodra deze beschikbaar is om de verschillen in prestaties en gebruikservaring te beoordelen.
+Als je nu AI gebruikt, vraag je dan af waar je data wordt verwerkt. Controleer de privacyvoorwaarden van je huidige AI-leverancier op het opslaglocatie van data. Houd de aankomende lancering van de Nederlandse dienst in de gaten via het nieuws of de website van Voys om te zien of het aanbod past bij jouw bedrijfsbehoefte.

@@ -1,27 +1,27 @@
 ---
-title: "Hoe je als MKB'er minder afhankelijk wordt van Amerikaanse techreuzen"
-date: 2026-02-26T09:53:34.627Z
-tags: ["digitale soevereiniteit", "clouddiensten", "ai chips", "strategie"]
-summary: "De Nederlandsche Bank adviseert bedrijven om binnen vijf jaar minder afhankelijk te worden van Amerikaanse tech, wat voor MKB'ers betekent: kijk naar Europese clouddiensten en AI-chips."
+title: "Hoe je als MKB'er minder afhankelijk wordt van Amerikaanse tech"
+date: 2026-02-26T10:41:00.100Z
+tags: ["digitale soevereiniteit", "europese cloud", "ai chips", "strategie"]
+summary: "De financiële sector wil binnen vijf jaar minder afhankelijk zijn van Amerikaanse techreuzen, een strategie waar ook MKB'ers van kunnen leren."
 doelgroep: "BESLISSER"
 sectie: "werk"
 cover:
-  image: "https://images.pexels.com/photos/4343678/pexels-photo-4343678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Top view of colleagues collaborating in a sleek, modern office setting."
-  caption: "Foto: Edmond Dantès via Pexels"
+  image: "https://images.pexels.com/photos/30530407/pexels-photo-30530407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of an AI-driven chat interface on a computer screen, showcasing modern AI technology."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 
-De Nederlandsche Bank (DNB) geeft een duidelijk signaal: Nederlandse bedrijven moeten binnen vijf jaar minder afhankelijk worden van Amerikaanse techreuzen zoals Microsoft en Amazon. Voor een MKB-ondernemer betekent dit niet dat je morgen alles moet omgooien, maar wel dat je een strategie moet ontwikkelen om je digitale weerbaarheid te vergroten. Het gaat om het bewust afwegen van risico's bij het kiezen van je software, dataopslag en rekenkracht.
+De Nederlandse financiële sector wil binnen vijf jaar fors minder afhankelijk zijn van Amerikaanse techreuzen zoals Microsoft en Amazon. Deze strategische verschuiving, aangewakkerd door geopolitieke spanningen, is niet alleen iets voor banken. Het biedt een belangrijke les voor elke MKB-ondernemer die zijn bedrijfsprocessen niet wil laten gijzelen door de keuzes van enkele grote spelers.
 
-## Waarom is dit belangrijk voor jouw bedrijf?
-De waarschuwing van DNB-directielid Steven Maijoor komt niet uit de lucht vallen. Geopolitieke spanningen en mogelijke handelstarieven kunnen de leveringszekerheid en kosten van cruciale technologie beïnvloeden. Als jouw hele bedrijfsvoering draait op één Amerikaans cloudplatform, loop je een risico. Het gaat erom dat je niet met lege handen staat als er onverwachts iets verandert in het politieke of economische klimaat. Dit is een strategische kwestie van continuïteit, niet alleen een technische keuze.
+## Waarom digitale afhankelijkheid een risico is
+De directeur van De Nederlandsche Bank, Steven Maijoor, noemt het huidige politieke klimaat 'guur' en wijst op nieuwe risico's door handelstarieven en geopolitieke spanningen. Voor een MKB-bedrijf vertaalt dit zich naar concrete gevaren: plotselinge prijsverhogingen voor software-abonnementen, veranderingen in servicevoorwaarden, of zelfs beperkte toegang tot cruciale diensten als de politieke wind draait. Je bedrijfscontinuïteit wordt dan deels bepaald door besluiten in een ander continent.
 
-## Europese alternatieven in opkomst
-DNB erkent dat Europese alternatieven voor clouddiensten vaak nog zwakker zijn dan hun Amerikaanse tegenhangers. Toch groeien ze. Een concreet voorbeeld is de chipindustrie: het Eindhovense Axelera AI haalde recent 250 miljoen dollar op voor de ontwikkeling van energiezuinige AI-chips. Deze chips zijn bedoeld om AI-modellen lokaal op apparaten te draaien, wat de afhankelijkheid van grote externe datacenters en dominante spelers zoals Nvidia kan verminderen. Voor MKB'ers die met AI-toepassingen werken, zoals slimme camera's in de logistiek, kan dit op termijn nieuwe, mogelijk voordeligere opties bieden.
+## Europese alternatieven komen op, maar zijn nog zwak
+Maijoor erkent dat Europese alternatieven voor clouddiensten en software momenteel vaak zwakker zijn dan hun Amerikaanse tegenhangers. De kracht en schaal ontbreken nog. Toch zet DNB zelf in op een overstap naar een Europese cloud, samen met andere centrale banken. De gedachte is dat met gerichte investeringen en vraag vanuit bedrijven, deze markt kan groeien en volwassen worden. Dit is een kwestie van lange adem en strategische keuzes, niet van een snelle overstap morgen.
 
-## Praktische stappen naar meer digitale onafhankelijkheid
-Je hoeft niet alles in één keer te veranderen. Een eerste stap is een inventarisatie: op welke cruciale Amerikaanse techdiensten is jouw bedrijf nu het meest aangewezen? Denk aan je e-mail- en opslagplatform (Microsoft 365, Google Workspace), je cloudhosting (Amazon AWS, Microsoft Azure) of je CRM-systeem. Vervolgens kun je per categorie onderzoeken of er Europese alternatieven zijn die voldoen. Soms kan het zinvol zijn om voor nieuwe projecten bewust een Europees platform te kiezen, zodat je geleidelijk diversifieert.
+## Een parallel in hardware: AI-chips uit Eindhoven
+Een vergelijkbare beweging zie je in de hardware. Het Eindhovense Axelera AI haalde 250 miljoen dollar op voor de ontwikkeling van energiezuinige chips. Deze chips zijn bedoeld voor 'inference' – het draaien van AI-modellen direct op apparaten zoals camera's. Het doel is expliciet: de afhankelijkheid van grote datacenters en de dominante chipmaker Nvidia verkleinen. Voor een MKB'er die met AI-toepassingen werkt, zoals slimme beveiliging of kwaliteitscontrole, kan dit op termijn betekenen: goedkopere, snellere en meer privacyvriendelijke opties, omdat data lokaal verwerkt kan worden in plaats van in een ver datacenter.
 
 ## Hoe kun je dit vandaag toepassen?
-Plan een overleg met je IT-leverancier of systeembeheerder en vraag specifiek naar de mogelijkheden voor Europese cloudopslag, zoals die van providers als OVHcloud, Scaleway of UpCloud. Voor software kun je kijken naar Europese SaaS-aanbieders in jouw branche. Stel bij een volgende aanbesteding voor software of diensten expliciet de vraag naar digitale soevereiniteit en waar de data fysiek wordt opgeslagen.
+Begin met een eenvoudige audit: maak een lijst van alle cruciale software (CRM, boekhouding, cloudopslag, communicatie) en noteer bij elk de leverancier en het land van herkomst. Vraag je vervolgens af: wat gebeurt er met mijn bedrijf als de prijs hiervan verdubbelt of de dienst onverwacht verandert? Onderzoek voor één systeem actief of er een Europese leverancier bestaat, bijvoorbeeld voor cloudopslag of projectmanagement, en vergelijk de functionaliteit en kosten.
