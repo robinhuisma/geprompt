@@ -1,7 +1,7 @@
 ---
 title: 'ChatGPT krijgt advertenties: wat betekent dit voor jouw gratis gebruik?'
 date: 2026-02-26T22:07:00+01:00
-draft: true
+draft: false
 summary: OpenAI introduceert advertenties in de gratis versie van ChatGPT, een teken van de financiële druk om de dure AI-infrastructuur te bekostigen.
 tags:
   - chatgpt
