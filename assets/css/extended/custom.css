@@ -8,6 +8,16 @@
   letter-spacing: -2px !important;
 }
 
+/* Menu hover en active */
+#menu a:hover {
+  color: #888 !important;
+}
+#menu a:active,
+#menu a.active,
+#menu li.active a {
+  color: #00A19B !important;
+}
+
 /* Vorige/Volgende labels kleur */
 .paginav .title {
   color: #34E4CB !important;
