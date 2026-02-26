@@ -9,13 +9,21 @@
 }
 
 /* Menu hover en active */
+#menu a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
 #menu a:hover {
   color: #888 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
 #menu a:active,
 #menu a.active,
 #menu li.active a {
   color: #00A19B !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
 
 /* Vorige/Volgende labels kleur */
