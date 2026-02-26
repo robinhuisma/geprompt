@@ -1,8 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: robinhuisma/geprompt
   branch: main
-  identity_url: "https://moonlit-crisp-593a0b.netlify.app/.netlify/identity"
-  gateway_url: "https://moonlit-crisp-593a0b.netlify.app/.netlify/git"
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
