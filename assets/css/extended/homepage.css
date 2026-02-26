@@ -266,3 +266,22 @@ h1.post-title { font-weight: 700 !important; }
   padding-bottom: 8px;
   border-bottom: 2px solid #00A19B;
 }
+
+/* Footer nav */
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 16px;
+  margin-bottom: 8px;
+  font-size: 0.8em;
+}
+
+.footer-nav a {
+  color: var(--secondary, #888);
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  color: #00A19B;
+}
