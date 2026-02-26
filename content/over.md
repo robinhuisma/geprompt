@@ -3,6 +3,27 @@ title: "Over Geprompt"
 hidemeta: true
 ---
 
-Geprompt.nl is een Nederlandse nieuwssite over AI-toepassingen voor ondernemers, medewerkers en nieuwsgierige lezers, waar Robin Huisma de hoofdredacteur van is. We publiceren dagelijks nieuws over AI uit binnen- en buitenland. Als onafhankelijke site brengen we actuele en heldere informatie over alles wat met kunstmatige intelligentie te maken heeft.
+Geprompt.nl is een AI-nieuwsplatform voor Nederlandse ondernemers en professionals. Het idee is simpel: internationaal AI-nieuws lezen, vertalen naar de Nederlandse praktijk, en er iets bruikbaars van maken.
 
-Geprompt wordt gerund door tech- en marketingliefhebbers in hart en nieren. Geen afstandelijk kantoortaal, maar nieuwsgierigheid en praktijkgericht denken. Wij schrijven over AI omdat we het interessant vinden en omdat we deze "zwarte doos" begrijpelijk willen maken. We onderzoeken hoe je AI als ondernemer én als individu concreet kunt inzetten, zodat het echt waarde toevoegt in je werk en dagelijks leven. Reacties kun je sturen aan redactie@geprompt.nl
+Dit is een persoonlijk initiatief van Robin Huisma. Volledig AI-gedreven, volledig transparant daarover, en met de hand gecontroleerd voordat er iets online gaat.
+
+Laat ik eerlijk zijn: dit is geen groot mediabedrijf en ook niet de heilige graal van AI-journalistiek. Het is een experiment dat serieus wordt uitgevoerd. Of het ergens toe leidt weet niemand. Wat ik wel weet is dat de informatie die hier verschijnt relevant is en in de praktijk toepasbaar. En dat is meer dan genoeg reden om het te doen.
+
+**Hoe het werkt**
+
+Een geautomatiseerd systeem leest dagelijks internationale bronnen — van Reuters en TechCrunch tot Tweakers en Emerce. Kunstmatige intelligentie selecteert wat relevant is, vertaalt het naar het Nederlands, en schrijft een eerste versie. Daarna lees ik elk artikel zelf, controleer de feiten, en besluit of het goed genoeg is om te publiceren. Geen enkel artikel gaat live zonder die handmatige check.
+
+**Drie categorieën**
+
+- **Nieuws & Tools** — Wat is er nieuw in de wereld van AI? Welke tools zijn het proberen waard?
+- **Marketing & Groei** — Hoe zet je AI in om meer klanten te bereiken of je omzet te laten groeien?
+- **Slimmer Werken** — Hoe werk je efficiënter met AI in je dagelijkse bedrijfsvoering?
+
+**Een woord van dank**
+
+Dit platform bestaat bij de gratie van mediabedrijven en publicaties die hun content beschikbaar stellen via RSS-feeds. Zonder die openheid was Geprompt er niet geweest. We vermelden de originele bron bij elk artikel — niet alleen omdat het hoort, maar omdat we willen dat je verder kunt lezen als een onderwerp je raakt.
+
+**Contact**
+
+Vragen, opmerkingen of ideeën: redactie@geprompt.nl
+Samenwerken: partnership@geprompt.nl
