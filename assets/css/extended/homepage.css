@@ -219,3 +219,10 @@ h1.post-title { font-weight: 700 !important; }
 /* Foto bijschrift lichter */
 .post-single figcaption, figure.post-cover figcaption { color: rgba(255,255,255,0.5) !important; }
 .list:not(.dark) .post-single figcaption, .list:not(.dark) figure.post-cover figcaption { color: rgba(0,0,0,0.5) !important; }
+
+/* Artikel titels bold */
+h1.post-title { font-weight: 700 !important; }
+
+/* Foto bijschrift lichter */
+.post-single figcaption, figure.post-cover figcaption { color: rgba(255,255,255,0.5) !important; }
+.list:not(.dark) .post-single figcaption, .list:not(.dark) figure.post-cover figcaption { color: rgba(0,0,0,0.5) !important; }
