@@ -32,8 +32,8 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "AI-nieuws voor ondernemers en professionals"
-    Content = "Een gecureerd aanbod dat direct vertaalbaar is naar zakelijke waarde."
+    Title = "AI-updates voor ondernemers & professionals"
+    Content = "Een minuut lezen, dagen besparen."
 
 [params.assets]
   favicon = "/favicon.ico"
