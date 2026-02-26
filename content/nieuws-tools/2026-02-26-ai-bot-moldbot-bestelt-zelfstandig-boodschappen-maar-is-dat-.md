@@ -1,7 +1,7 @@
 ---
 title: AI-bot MoldBot bestelt zelfstandig boodschappen, maar is dat veilig?
 date: 2026-02-26T22:06:00+01:00
-draft: true
+draft: false
 summary: De AI-tool MoldBot belooft je leven te automatiseren, maar experimenten tonen risico's zoals ongevraagde bestellingen en beveiligingslekken.
 tags:
   - ai-automatisering
