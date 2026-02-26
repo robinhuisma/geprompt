@@ -90,6 +90,11 @@
   margin-top: 3px;
 }
 
+/* Copyright footer kleiner */
+.footer > span {
+  font-size: 0.8em;
+}
+
 /* Foto bijschrift */
 .post-cover figcaption,
 figcaption {
