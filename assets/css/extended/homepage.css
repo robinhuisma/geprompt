@@ -242,3 +242,10 @@ h1.post-title { font-weight: 700 !important; }
   font-size: 0.75em;
   margin-bottom: 8px;
 }
+
+/* Footer styling */
+.footer { font-size: 0.85em; }
+.footer a { font-size: 0.9em; }
+
+/* Footer menu iets kleiner */
+.footer nav { font-size: 0.85em; }
