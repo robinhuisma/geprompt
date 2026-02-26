@@ -285,3 +285,9 @@ h1.post-title { font-weight: 700 !important; }
 .footer-nav a:hover {
   color: #00A19B;
 }
+
+/* Footer links geen underline */
+.footer-nav a { text-decoration: none !important; border-bottom: none !important; }
+
+/* Copyright in teal */
+.footer span { color: #00A19B; }
