@@ -36,6 +36,24 @@
 
 .header {
   padding-top: 30px !important;
+  padding-bottom: 0 !important;
+}
+
+/* Minder ruimte rond hero tekst */
+.first-entry {
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: auto !important;
+}
+
+.home-info {
+  padding: 20px 0 10px !important;
+  margin: 0 !important;
+}
+
+.home-info .entry-content {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* Newsletter box */
