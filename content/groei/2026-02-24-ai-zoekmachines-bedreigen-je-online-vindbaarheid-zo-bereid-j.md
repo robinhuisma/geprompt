@@ -5,9 +5,9 @@ tags: ["ai zoeken", "seo", "klantacquisitie", "toekomstbestendig"]
 summary: "Binnen enkele jaren komt meer webshopverkeer van AI- dan van traditionele zoekmachines, wat een strategische verschuiving in SEO en klantcontact vereist."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/6612276/pexels-photo-6612276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Person shopping online using a laptop and credit card, highlighting e-commerce convenience."
-  caption: "Foto: Mikhail Nilov via Pexels"
+  image: "https://images.pexels.com/photos/8353772/pexels-photo-8353772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A clean and modern office desk with dual monitors and ergonomic chairs, ideal for productivity."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:50.038Z
 tags: ["fintech", "financiële administratie", "automatisering", "ai"]
 summary: "Het FinTech-bedrijf InScope heeft 14,5 miljoen dollar aan financiering opgehaald om met AI de vaak complexe en handmatige voorbereiding van financiële overzichten te automatiseren."
 cover:
-  image: "https://images.pexels.com/photos/3943716/pexels-photo-3943716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Person placing coin into a black piggy bank with scattered coins, symbolizing savings and finance."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "https://images.pexels.com/photos/7947716/pexels-photo-7947716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stock photo of business charts, calculator, and eyeglasses on a desk."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 ---
 

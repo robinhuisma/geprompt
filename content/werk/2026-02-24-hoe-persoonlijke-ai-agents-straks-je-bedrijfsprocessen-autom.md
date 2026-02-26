@@ -5,9 +5,9 @@ tags: ["ai-agents", "automatisering", "openai", "workflow"]
 summary: "Persoonlijke AI-agents zoals OpenClaw evolueren snel van hobbyproject naar krachtige tools die binnenkort routinetaken in je bedrijf kunnen overnemen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A minimalist workspace featuring a laptop, smartphone, and an apple on a clean white desk."
-  caption: "Foto: karsten madsen via Pexels"
+  image: "https://images.pexels.com/photos/35147162/pexels-photo-35147162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Side view of a smartphone placed on a laptop featuring the Huawei logo on a vibrant yellow background."
+  caption: "Foto: Andrey Matveev via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "interne communicatie", "productiviteit"]
 summary: "De nieuwe Snagit 2025 maakt visuele communicatie sneller en professioneler, essentieel voor training, documentatie en klantcontact."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/29996965/pexels-photo-29996965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Colorful 2025 planner with keyboard and mouse on a bright background for organization."
-  caption: "Foto: Viridiana Rivera via Pexels"
+  image: "https://images.pexels.com/photos/7428212/pexels-photo-7428212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse team of professionals collaborating in a modern office environment, engaged in planning and project development."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["ai agents", "programmatic advertising", "marketing", "mkb"]
 summary: "AI-agents kopen en verkopen nu automatisch advertentieruimte, wat voor MKB'ers kan leiden tot efficiëntere campagnes en lagere kosten."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/5520322/pexels-photo-5520322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a handshake between two professionals in a business setting, symbolizing agreement."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/13682247/pexels-photo-13682247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A close-up of a hand holding a smartphone with a blank white screen, outdoors."
+  caption: "Foto: Towfiqu barbhuiya via Pexels"
 draft: false
 ---
 

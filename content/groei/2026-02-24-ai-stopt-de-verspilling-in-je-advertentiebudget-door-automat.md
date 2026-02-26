@@ -5,9 +5,9 @@ tags: ["adverteren", "marketing", "ai-platformen", "optimalisatie"]
 summary: "Nieuwe AI-platformen zoals Knorex XPO optimaliseren je advertentie-uitgaven automatisch tussen kanalen, zodat je budget altijd naar de beste resultaten gaat."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/6984609/pexels-photo-6984609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Bald woman in a robe making a stop gesture indoors, symbolizing resistance or caution."
-  caption: "Foto: SHVETS production via Pexels"
+  image: "https://images.pexels.com/photos/7279706/pexels-photo-7279706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of hands using a laptop displaying a marketing strategy presentation indoors."
+  caption: "Foto: Anastasia  Shuraeva via Pexels"
 draft: false
 ---
 

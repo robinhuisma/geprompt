@@ -7,8 +7,6 @@ const contentDir = path.join(process.env.HOME, 'geprompt', 'content');
 const secties = ['groei', 'creatie', 'werk', 'geld', 'leven', 'posts', 'tech-trends', 'sales-marketing', 'creativiteit'];
 const usedPhotos = [];
 
-const stopwoorden = ['de','het','een','van','in','op','met','voor','door','aan','bij','uit','naar','als','die','dat','is','was','zijn','worden','wordt','heeft','had','kan','kun','zou','hoe','wat','wie','waar','jouw','jij','je','zo','nu','ook','nog','maar','en','of','om','te','er','al','wel','niet','deze','meer','alle','veel','over','onder','alleen','tussen','zonder','binnen','buiten','tegen','tijdens','volgens','langs','rond','sinds','vanuit','tot'];
-
 function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
 
 function searchPexels(query, page) {
@@ -36,17 +34,35 @@ function extractTitle(content) {
   if (match) return match[1];
   match = content.match(/^title:\s*'(.+?)'/m);
   if (match) return match[1];
-  match = content.match(/^title:\s*(.+)$/m);
-  if (match) return match[1].replace(/["']/g, '');
   return '';
 }
 
+// Vertaal Nederlandse titel naar Engelse Pexels zoektermen
 function getSearchTerms(titel) {
-  var woorden = titel.toLowerCase()
-    .replace(/[^a-z0-9\s]/g, '')
-    .split(/\s+/)
-    .filter(function(w) { return w.length > 3 && stopwoorden.indexOf(w) === -1; });
-  return woorden.slice(0, 3).join(' ') || 'technology business';
+  var mapping = {
+    'boekhouding': 'accounting office', 'factuur': 'invoice desk', 'facturatie': 'invoice laptop',
+    'marketing': 'marketing team', 'social media': 'social media phone', 'advertentie': 'advertising screen',
+    'crm': 'customer meeting', 'klant': 'customer service', 'verkoop': 'sales handshake',
+    'hr': 'job interview office', 'werving': 'recruitment office', 'sollicitatie': 'job interview',
+    'automatisering': 'office automation laptop', 'workflow': 'workflow whiteboard', 'productiviteit': 'productive desk',
+    'cloud': 'cloud server room', 'software': 'software developer screen', 'data': 'data dashboard screen',
+    'ai': 'modern office technology', 'chatbot': 'chat customer service', 'robot': 'robot warehouse',
+    'kosten': 'budget calculator', 'besparing': 'savings piggybank', 'financ': 'finance spreadsheet',
+    'video': 'video editing screen', 'content': 'content creator laptop', 'design': 'designer workspace',
+    'email': 'email inbox laptop', 'planning': 'planning calendar desk', 'team': 'team meeting office',
+    'security': 'cybersecurity lock', 'privacy': 'privacy shield laptop', 'subsidie': 'government funding document',
+    'ondernemer': 'entrepreneur office', 'mkb': 'small business office', 'startup': 'startup workspace',
+    'retail': 'retail shop modern', 'webshop': 'ecommerce laptop', 'e-commerce': 'online shopping',
+    'logistiek': 'warehouse logistics', 'voorraad': 'inventory warehouse', 'supply chain': 'supply chain warehouse'
+  };
+
+  var lowerTitel = titel.toLowerCase();
+  for (var key in mapping) {
+    if (lowerTitel.indexOf(key) !== -1) {
+      return mapping[key] + ' european';
+    }
+  }
+  return 'modern european office business';
 }
 
 function replaceCover(content, imageUrl, imageAlt, photographer) {
@@ -61,17 +77,17 @@ function replaceCover(content, imageUrl, imageAlt, photographer) {
 async function processFile(filePath) {
   var content = fs.readFileSync(filePath, 'utf8');
   var titel = extractTitle(content);
-  if (!titel) { console.log('  SKIP (geen titel): ' + filePath); return false; }
+  if (!titel) { console.log('  SKIP (geen titel): ' + path.basename(filePath)); return false; }
 
   var zoekWoorden = getSearchTerms(titel);
   var randomPage = Math.floor(Math.random() * 3) + 1;
   var pexels = await searchPexels(zoekWoorden, randomPage);
 
   if (!pexels.photos || pexels.photos.length === 0) {
-    pexels = await searchPexels('technology business', 1);
+    pexels = await searchPexels('modern european office business', 1);
   }
   if (!pexels.photos || pexels.photos.length === 0) {
-    console.log('  SKIP (geen foto): ' + titel); return false;
+    console.log('  SKIP (geen foto): ' + titel.substring(0, 50)); return false;
   }
 
   var unused = pexels.photos.filter(function(p) { return usedPhotos.indexOf(p.id) === -1; });
@@ -82,7 +98,7 @@ async function processFile(filePath) {
 
   var newContent = replaceCover(content, pick.src.large2x, pick.alt || titel, pick.photographer || 'Onbekend');
   fs.writeFileSync(filePath, newContent, 'utf8');
-  console.log('  OK: ' + titel.substring(0, 60) + ' -> ' + zoekWoorden);
+  console.log('  OK: ' + titel.substring(0, 50) + ' -> ' + zoekWoorden);
   return true;
 }
 
@@ -99,7 +115,7 @@ async function main() {
       await sleep(400);
     }
   }
-  console.log('\nKlaar! ' + updated + '/' + total + ' bijgewerkt. Unieke fotos: ' + usedPhotos.length);
+  console.log('\nKlaar! ' + updated + '/' + total + ' bijgewerkt.');
   console.log('Nu: cd ~/geprompt && git add . && git commit -m "Alle artikelen nieuwe foto" && git push');
 }
 main();

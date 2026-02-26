@@ -4,9 +4,9 @@ date: 2026-02-23T09:00:13.990Z
 tags: ["openai", "gpt-4o", "ai-model", "mkb"]
 summary: "OpenAI heeft GPT-4o geïntroduceerd, een nieuwe versie van zijn grote taalmodel dat tekst, audio en beeld in realtime verwerkt, sneller reageert en gratis beschikbaar is via ChatGPT en een API."
 cover:
-  image: "https://images.pexels.com/photos/16027820/pexels-photo-16027820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Screen displaying ChatGPT examples, capabilities, and limitations."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/3712595/pexels-photo-3712595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Minimalist workspace featuring a laptop, notepads, and a mouse in Budapest."
+  caption: "Foto: David via Pexels"
 draft: false
 ---
 

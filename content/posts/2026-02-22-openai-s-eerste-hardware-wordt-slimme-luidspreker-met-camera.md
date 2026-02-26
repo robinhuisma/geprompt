@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:14.019Z
 tags: ["openai", "hardware", "smart speaker", "ai-gadget"]
 summary: "OpenAI brengt naar verluidt zijn eerste hardwareproduct uit: een slimme luidspreker met camera voor herkenning van objecten en gesprekken, met een verwachte prijs tussen $200 en $300."
 cover:
-  image: "https://images.pexels.com/photos/51165/cpu-processor-electronics-computer-51165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Detailed view of a computer processor. Ideal for technology themes."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/1422286/pexels-photo-1422286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A minimalist workspace featuring a coffee cup, laptop, and wooden desk, offering a productive and stylish environment."
+  caption: "Foto: Aleksandar Cvetanovic via Pexels"
 draft: false
 ---
 

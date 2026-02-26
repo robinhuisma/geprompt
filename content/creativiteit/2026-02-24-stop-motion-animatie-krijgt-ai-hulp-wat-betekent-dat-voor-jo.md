@@ -5,9 +5,9 @@ tags: ["creatieve ai", "video", "content creatie", "marketing"]
 summary: "De ambachtelijke techniek van stop-motion wordt nu ondersteund door AI-tools, wat nieuwe creatieve en efficiënte mogelijkheden opent voor MKB'ers in marketing en content."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/20721/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Dynamic long exposure shot of swirling light streaks creating an abstract pattern on a dark background."
-  caption: "Foto: asim alnamat via Pexels"
+  image: "https://images.pexels.com/photos/7688463/pexels-photo-7688463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Group of coworkers discussing marketing strategies around a table in a contemporary workspace."
+  caption: "Foto: Kindel Media via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["ai video", "content creatie", "marketing", "generative ai"]
 summary: "Nieuwe generatie AI-videotools zoals Seedance 2.0 maakt realistischere beelden, maar voor zakelijk gebruik blijft controle en consistentie de grootste uitdaging."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/4595604/pexels-photo-4595604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Professional cameraman adjusting camera on tripod in a studio setting."
-  caption: "Foto: Kyle Loftus via Pexels"
+  image: "https://images.pexels.com/photos/1181309/pexels-photo-1181309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Group of professionals engaging in a collaborative meeting with technology."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 ---
 

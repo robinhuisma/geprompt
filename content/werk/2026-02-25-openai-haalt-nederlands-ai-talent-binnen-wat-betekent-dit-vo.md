@@ -5,9 +5,9 @@ tags: ["ai-agents", "openai", "personeel", "automatisering"]
 summary: "De overstap van een Nederlandse ontwikkelaar naar OpenAI toont aan dat de race om de beste AI-assistenten nu echt begint, met directe gevolgen voor het MKB."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/30869076/pexels-photo-30869076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scrabble tiles arranged to spell 'PRO GEMINI' on a wooden table, ideal for creativity themes."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/3712595/pexels-photo-3712595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Minimalist workspace featuring a laptop, notepads, and a mouse in Budapest."
+  caption: "Foto: David via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["automatisering", "zapier", "gpt", "mkb"]
 summary: "Door een eigen GPT te koppelen aan tools als Gmail via Zapier, kun je routinetaken volledig automatiseren zonder een regel code te schrijven."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/7731323/pexels-photo-7731323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A couple discusses financial documents with their advisor, highlighting investment strategies."
-  caption: "Foto: Mikhail Nilov via Pexels"
+  image: "https://images.pexels.com/photos/3022215/pexels-photo-3022215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Der Spiegel building facade illuminated at night in Hamburg, Germany."
+  caption: "Foto: David Egon via Pexels"
 draft: false
 ---
 

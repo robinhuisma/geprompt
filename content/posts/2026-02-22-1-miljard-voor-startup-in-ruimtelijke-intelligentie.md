@@ -4,9 +4,9 @@ date: 2026-02-22T11:00:47.477Z
 tags: ["investering", "startup", "ruimtelijke intelligentie", "ai"]
 summary: "Een startup gespecialiseerd in ruimtelijke intelligentie heeft een investering van 1 miljard dollar opgehaald, wat duidt op groot vertrouwen in deze opkomende AI-tak."
 cover:
-  image: "https://images.pexels.com/photos/7414310/pexels-photo-7414310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Creative startup concept handwritten on a whiteboard, symbolizing innovation in business."
-  caption: "Foto: RDNE Stock project via Pexels"
+  image: "https://images.pexels.com/photos/6914434/pexels-photo-6914434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Team members engaged in a creative brainstorming session in a modern office setting."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
 draft: false
 ---
 

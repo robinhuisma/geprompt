@@ -5,9 +5,9 @@ tags: ["animatie", "video", "content creatie", "marketing"]
 summary: "De ambachtelijke techniek van stop-motion krijgt een digitale boost, wat kansen biedt voor MKB'ers in marketing en productpresentatie."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/163077/mario-yoschi-figures-funny-163077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Detailed close-up of Mario and Yoshi figurines from a popular video game franchise."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/8606292/pexels-photo-8606292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Contemporary office space featuring desks with computers and revolving chairs."
+  caption: "Foto: Ryan Pilato via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-23T15:00:26.442Z
 tags: ["ai", "economie", "arbeidsmarkt", "toekomstscenario"]
 summary: "Een gedachtenexperiment van Citrini Research schetst een alarmerend toekomstscenario waarin snelle adoptie van AI-agents tot massawerkloosheid en een beurscrash leidt."
 cover:
-  image: "https://images.pexels.com/photos/6771607/pexels-photo-6771607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A laptop displaying stock charts with Bitcoin, Euros, and a cellphone calculator, showcasing financial analysis."
-  caption: "Foto: Alesia  Kozik via Pexels"
+  image: "https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A focused female software engineer coding on dual monitors in a modern office."
+  caption: "Foto: ThisIsEngineering via Pexels"
 draft: false
 ---
 

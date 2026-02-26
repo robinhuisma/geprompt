@@ -5,9 +5,9 @@ tags: ["creatieve industrie", "ai-implementatie", "vakmanschap", "differentiatie
 summary: "De handgemaakte animaties van Out of Words bewijzen dat menselijk vakmanschap een unieke waarde blijft houden, ook voor MKB'ers die AI omarmen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/27424788/pexels-photo-27424788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a gaming controller with a soft blue light in a dark setting."
-  caption: "Foto: ishak ektiren via Pexels"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 ---
 

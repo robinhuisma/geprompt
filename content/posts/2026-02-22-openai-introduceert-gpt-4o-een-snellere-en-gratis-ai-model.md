@@ -4,9 +4,9 @@ date: 2026-02-22T14:00:09.140Z
 tags: ["openai", "gpt-4o", "ai-model", "chatgpt"]
 summary: "OpenAI heeft GPT-4o gelanceerd, een nieuwe, snellere versie van zijn grote taalmodel die tekst, audio en beeld in realtime verwerkt en gratis via ChatGPT beschikbaar is, wat de concurrentie met Google en andere AI-bedrijven verder aanwakkert."
 cover:
-  image: "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up shot of a smartphone screen showing the OpenAI website with greenery in the background."
-  caption: "Foto: Solen Feyissa via Pexels"
+  image: "https://images.pexels.com/photos/684314/pexels-photo-684314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stylish desk setup featuring a laptop, smartphone, and pens in natural light."
+  caption: "Foto: Lukas Blazek via Pexels"
 draft: false
 ---
 

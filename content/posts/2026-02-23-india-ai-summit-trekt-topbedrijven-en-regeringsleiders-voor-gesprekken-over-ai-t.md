@@ -4,9 +4,9 @@ date: 2026-02-23T13:00:48.791Z
 tags: ["ai", "india", "techbeleid", "topbedrijven"]
 summary: "Tijdens een vierdaagse top in India spreken leiders van OpenAI, Google en andere techreuzen met regeringen over de ontwikkeling en regulering van kunstmatige intelligentie."
 cover:
-  image: "https://images.pexels.com/photos/25252524/pexels-photo-25252524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Stunning view of snow-covered mountains showcasing rugged natural beauty and winter serenity."
-  caption: "Foto: Pooja  Savvashe via Pexels"
+  image: "https://images.pexels.com/photos/5001886/pexels-photo-5001886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Sleek office desk setup featuring a gaming chair and widescreen monitor, ideal for productivity and gaming."
+  caption: "Foto: Marius Dani via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["ai agents", "openai", "automatisering", "workflow"]
 summary: "De snelle overname van een agent-project door OpenAI toont aan dat persoonlijke AI-assistenten voor bedrijfsprocessen de volgende grote stap zijn."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/33880406/pexels-photo-33880406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "NS double-decker train traveling on a bridge under a clear blue sky."
-  caption: "Foto: Martijn Stoof via Pexels"
+  image: "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Minimalist home office desk with laptop, smartphone, and plant for a modern work environment."
+  caption: "Foto: Life Of Pix via Pexels"
 draft: false
 ---
 

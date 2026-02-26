@@ -5,9 +5,9 @@ tags: ["ai-strategie", "kosten", "mkb", "adoptie"]
 summary: "De wereldwijde AI-strijd om marktaandeel bereikt Nederland, waarbij gratis proefperiodes eindigen en MKB'ers moeten kiezen voor betaalde, betrouwbare tools."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A young man sitting outdoors in Leiden, Netherlands, working on a laptop."
-  caption: "Foto: Marta Klement via Pexels"
+  image: "https://images.pexels.com/photos/6804612/pexels-photo-6804612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Contemporary workspace featuring computers, coding screens, and office essentials in a tech environment."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 ---
 

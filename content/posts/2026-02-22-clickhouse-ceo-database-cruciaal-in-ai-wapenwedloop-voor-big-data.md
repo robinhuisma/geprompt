@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:32.487Z
 tags: ["ai", "database", "big data", "infrastructuur"]
 summary: "Volgens Aaron Katz, CEO van ClickHouse, is er een wapenwedloop gaande tussen big data en AI, waarbij high-performance databases zoals de zijne onmisbare infrastructuur zijn geworden voor toonaangevende AI-bedrijven."
 cover:
-  image: "https://images.pexels.com/photos/9588210/pexels-photo-9588210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of digital currency transaction using blockchain technology on tablet with laptop and euro bills."
-  caption: "Foto: Morthy Jameson via Pexels"
+  image: "https://images.pexels.com/photos/15828799/pexels-photo-15828799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up view of a car dashboard showing a GPS navigation screen in use."
+  caption: "Foto: Daniel Andraski via Pexels"
 draft: false
 ---
 

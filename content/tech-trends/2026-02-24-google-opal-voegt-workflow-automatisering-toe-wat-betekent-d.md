@@ -5,9 +5,9 @@ tags: ["google", "workflow-automatisering", "productiviteit", "mkb"]
 summary: "Google's nieuwe workflow-tool in Opal maakt het voor MKB'ers eenvoudiger om repetitieve taken tussen apps te automatiseren zonder technische kennis."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/25626433/pexels-photo-25626433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Creative concept depicting a hand reaching towards abstract swirling particles."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/1187692/pexels-photo-1187692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A sleek silver laptop sits open on a wooden desk with a green backdrop, illustrating a modern workspace."
+  caption: "Foto: Krzysztof Niedziela via Pexels"
 draft: false
 ---
 

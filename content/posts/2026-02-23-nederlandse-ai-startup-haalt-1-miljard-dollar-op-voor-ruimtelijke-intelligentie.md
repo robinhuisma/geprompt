@@ -4,9 +4,9 @@ date: 2026-02-23T07:26:58.761Z
 tags: ["ai", "startup", "funding", "spatial computing"]
 summary: "Het Nederlandse AI-bedrijf VERSES, gespecialiseerd in ruimtelijke en contextbewuste intelligentie, heeft een investeringsbelofte van 1 miljard dollar ontvangen van de Canadese investeringsmaatschappij GEM Digital."
 cover:
-  image: "https://images.pexels.com/photos/31389740/pexels-photo-31389740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Two Dutch commuter trains at Rotterdam Central Station during the day."
-  caption: "Foto: Martijn Stoof via Pexels"
+  image: "https://images.pexels.com/photos/7793662/pexels-photo-7793662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A sleek office setup featuring a laptop, notebooks, and chairs on a white desk."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

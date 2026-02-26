@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:17.400Z
 tags: ["ai", "arbeidsmarkt", "talent", "mkb"]
 summary: "Toponderzoekers in de AI-sector laten zich niet meer primair door hoge salarissen leiden, maar kiezen voor een nieuwe werkgever op basis van ideologie, persoonlijke missie of zorgen over AI-veiligheid, wat de traditionele wervingsdynamiek verandert."
 cover:
-  image: "https://images.pexels.com/photos/14681666/pexels-photo-14681666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A group of horses walking through a dusty rural corral in a serene atmosphere."
-  caption: "Foto: Younas Khan via Pexels"
+  image: "https://images.pexels.com/photos/35147162/pexels-photo-35147162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Side view of a smartphone placed on a laptop featuring the Huawei logo on a vibrant yellow background."
+  caption: "Foto: Andrey Matveev via Pexels"
 draft: false
 ---
 

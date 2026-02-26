@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:47.831Z
 tags: ["ai", "defensie", "software", "startup"]
 summary: "Het Bostonse startup Code Metal heeft 125 miljoen dollar aan financiering opgehaald om met AI verouderde software in de defensie-industrie te vertalen en verifiëren, zodat modernisering niet ten koste gaat van nieuwe fouten."
 cover:
-  image: "https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Person coding on a laptop with HTML code on screen, showcasing development work."
-  caption: "Foto: Lukas Blazek via Pexels"
+  image: "https://images.pexels.com/photos/34804011/pexels-photo-34804011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a laptop screen displaying programming code with a cute plush toy reflecting."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 ---
 

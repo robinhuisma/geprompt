@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:36.583Z
 tags: ["ai", "beeldgeneratie", "deepmind", "innovatie"]
 summary: "Google DeepMind's Nano Banana is een doorbraak in multimodale AI die zorgt voor consistente personages, snellere generatie en geavanceerde beeldredenering, wat nieuwe creatieve en producttoepassingen mogelijk maakt."
 cover:
-  image: "https://images.pexels.com/photos/17485708/pexels-photo-17485708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A futuristic 3D render showcasing abstract tech design with vibrant colors."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/10142683/pexels-photo-10142683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Interior view of Microsoft office with logo on wooden wall in Brussels, Belgium."
+  caption: "Foto: Angel Bena via Pexels"
 draft: false
 ---
 

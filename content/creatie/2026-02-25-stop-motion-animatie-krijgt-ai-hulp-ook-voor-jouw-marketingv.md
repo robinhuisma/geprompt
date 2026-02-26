@@ -5,9 +5,9 @@ tags: ["video", "creativiteit", "ai-tools", "marketing"]
 summary: "De ambachtelijke techniek van stop-motion wordt nu ondersteund door AI-tools, waardoor creatieve projecten sneller en betaalbaarder worden voor MKB'ers."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/2538508/pexels-photo-2538508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Dynamic red paint splash against a dark backdrop, capturing motion and vibrant color."
-  caption: "Foto: Kelly via Pexels"
+  image: "https://images.pexels.com/photos/7710214/pexels-photo-7710214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of professionals collaborating on a project in a modern office setting."
+  caption: "Foto: Alena Darmel via Pexels"
 draft: false
 ---
 

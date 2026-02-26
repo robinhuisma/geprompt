@@ -5,9 +5,9 @@ tags: ["social media", "content creatie", "automatisering", "videomarketing"]
 summary: "Munch Studio automatiseert het volledige social media proces, van video-editing tot planning, en bespaart ondernemers uren per week."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/33648959/pexels-photo-33648959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Pedestrians with umbrellas walking in Munich city center on a rainy day."
-  caption: "Foto: Ivan Aguilar via Pexels"
+  image: "https://images.pexels.com/photos/34407/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a hand holding a smartphone displaying the YouTube app on the screen."
+  caption: "Foto: freestocks.org via Pexels"
 draft: false
 ---
 

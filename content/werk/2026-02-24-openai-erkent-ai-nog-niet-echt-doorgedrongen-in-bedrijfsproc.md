@@ -5,9 +5,9 @@ tags: ["openai", "enterprise ai", "adoptie", "strategie"]
 summary: "Ondanks de hype blijft grootschalige integratie van AI in dagelijkse bedrijfsvoering uit, wat kansen biedt voor ondernemers die nu de basis op orde brengen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/30839686/pexels-photo-30839686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Wooden Scrabble tiles spelling 'DEEPSEEK' with 'AI' on a wooden table, illustrating AI concepts creatively."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A clean, contemporary workspace featuring a desktop with analytics on the screen and plants for a fresh look."
+  caption: "Foto: Serpstat via Pexels"
 draft: false
 ---
 

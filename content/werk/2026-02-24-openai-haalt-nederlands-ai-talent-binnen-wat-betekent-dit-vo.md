@@ -5,9 +5,9 @@ tags: ["ai agents", "openai", "automatisering", "mkb"]
 summary: "De overstap van een Nederlandse ontwikkelaar naar OpenAI toont aan dat persoonlijke AI-agents snel volwassen worden en directe impact op MKB-processen krijgen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/6044806/pexels-photo-6044806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Interior of business workplace with various modern gadgets placed on table in office"
+  caption: "Foto: Skylar Kang via Pexels"
 draft: false
 ---
 

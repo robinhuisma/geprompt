@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "visuele communicatie", "software-update"
 summary: "De nieuwe Snagit 2025.1.1 biedt MKB'ers een betaalbaar en krachtig alternatief voor dure designsoftware om snel duidelijke instructies en presentaties te maken."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/29996984/pexels-photo-29996984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Colorful 2025 planner with succulent and pen on a vibrant yellow background for a creative workspace."
-  caption: "Foto: Viridiana Rivera via Pexels"
+  image: "https://images.pexels.com/photos/5716013/pexels-photo-5716013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A group of professionals engaged in a business meeting with data presentation."
+  caption: "Foto: Artem Podrez via Pexels"
 draft: false
 ---
 

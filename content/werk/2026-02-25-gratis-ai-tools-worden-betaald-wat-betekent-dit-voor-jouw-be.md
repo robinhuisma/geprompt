@@ -5,9 +5,9 @@ tags: ["ai kosten", "abonnementen", "bedrijfsprocessen", "mkb"]
 summary: "De gratis proefperiodes van krachtige AI-tools lopen ten einde, dus ondernemers moeten nu keuzes maken over welke tools ze écht nodig hebben."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Stunning mountain landscape reflected in a serene lake under a clear sky."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/19993820/pexels-photo-19993820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A stylish setup of office gadgets on a pink surface, including a smartphone and calculator."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "productiviteit", "software"]
 summary: "De nieuwe Snagit 2025 versimpelt het maken van instructies, documentatie en presentaties met slimme bewerkingstools, wat tijd bespaart voor elke medewerker."
 label: "WERKVLOER"
 cover:
-  image: "https://images.pexels.com/photos/30325300/pexels-photo-30325300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Two women in traditional áo dài celebrate Tet amidst yellow Mai flowers in Ho Chi Minh City."
-  caption: "Foto: Thịnh La via Pexels"
+  image: "https://images.pexels.com/photos/9301900/pexels-photo-9301900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Sleek conference room with chairs, table, and whiteboard ready for a meeting."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

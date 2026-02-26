@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "visuele communicatie", "software"]
 summary: "De nieuwe Snagit 2025.1.1 biedt Nederlandse ondernemers een krachtige en betaalbare tool om processen te documenteren en kennis visueel te delen."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/30626869/pexels-photo-30626869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Wide view of vast highland meadows beneath a clear blue sky, evoking tranquility and vastness."
-  caption: "Foto: ✰ Saul Bandera Brotheridge via Pexels"
+  image: "https://images.pexels.com/photos/5686014/pexels-photo-5686014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Business team discussing strategies in a modern office setting, focusing on collaboration."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
 draft: false
 ---
 

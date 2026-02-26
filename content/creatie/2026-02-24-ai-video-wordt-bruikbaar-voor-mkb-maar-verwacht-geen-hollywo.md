@@ -5,9 +5,9 @@ tags: ["ai video", "content creatie", "marketing", "generative ai"]
 summary: "Nieuwe generatie AI-videotools zoals Seedance 2.0 maakt professionele video haalbaar voor kleine budgetten, maar vereist realistische verwachtingen."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/59894/pexels-photo-59894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Silhouette of a pregnant woman gently holding her belly, emphasizing motherhood and anticipation."
-  caption: "Foto: freestocks.org via Pexels"
+  image: "https://images.pexels.com/photos/1422286/pexels-photo-1422286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A minimalist workspace featuring a coffee cup, laptop, and wooden desk, offering a productive and stylish environment."
+  caption: "Foto: Aleksandar Cvetanovic via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:04.047Z
 tags: ["ai", "softwareontwikkeling", "opensource", "machinelearning"]
 summary: "Het open-source AI-bedrijf Nous Research heeft het coderingsmodel NousCoder-14B gelanceerd, dat presteert op het niveau van grotere propriëtaire systemen en werd getraind in vier dagen met 48 Nvidia B200 GPU's, wat de snelle evolutie en concurrentie in AI-ondersteunde softwareontwikkeling benadrukt."
 cover:
-  image: "https://images.pexels.com/photos/16592498/pexels-photo-16592498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a computer screen displaying HTML, CSS, and JavaScript code"
-  caption: "Foto: Саша Алалыкин via Pexels"
+  image: "https://images.pexels.com/photos/7793662/pexels-photo-7793662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A sleek office setup featuring a laptop, notebooks, and chairs on a white desk."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

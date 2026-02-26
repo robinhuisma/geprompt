@@ -5,9 +5,9 @@ tags: ["ai", "marketing", "automatisering", "mkb"]
 summary: "AI-agenten kunnen nu autonoom online advertentieruimte voor je bedrijf inkopen en optimaliseren, wat tijd en geld bespaart."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/8847154/pexels-photo-8847154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Three professionals deliberating in a modern conference room setting."
-  caption: "Foto: Mikhail Nilov via Pexels"
+  image: "https://images.pexels.com/photos/8167171/pexels-photo-8167171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Flat lay of a smartphone mockup on a pastel background with a freesia flower and geometric shapes."
+  caption: "Foto: Daria Liudnaya via Pexels"
 draft: false
 ---
 

@@ -6,9 +6,9 @@ summary: "Een nieuwe AI-laag helpt bedrijven om de complexe onderlinge afhankeli
 doelgroep: "BESLISSER"
 sectie: "werk"
 cover:
-  image: "https://images.pexels.com/photos/7590895/pexels-photo-7590895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "An adult male climber in action on a colorful indoor rock climbing wall."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Detailed close-up of HTML code on a computer monitor, showcasing web development."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 

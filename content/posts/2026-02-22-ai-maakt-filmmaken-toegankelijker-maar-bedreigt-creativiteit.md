@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:52.687Z
 tags: ["ai", "filmindustrie", "creativiteit", "mkb"]
 summary: "AI-tools bieden indie-filmmakers nieuwe mogelijkheden, maar de nadruk op efficiëntie en een vloed aan AI-content kan de artistieke creativiteit ondermijnen."
 cover:
-  image: "https://images.pexels.com/photos/1117132/pexels-photo-1117132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of film clapperboard in action with camera filming a take on set."
-  caption: "Foto: Martin Lopez via Pexels"
+  image: "https://images.pexels.com/photos/1809338/pexels-photo-1809338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A sleek office desktop with computer, keyboard, and notebook, ideal for business use."
+  caption: "Foto: Ylanite Koppens via Pexels"
 draft: false
 ---
 

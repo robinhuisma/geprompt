@@ -5,9 +5,9 @@ tags: ["social media", "contentcreatie", "automatisering", "videomarketing"]
 summary: "Tools als Munch automatiseren het hele proces van video tot social media post, waardoor je uren per week bespaart op contentcreatie."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/6593782/pexels-photo-6593782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Beauty vlogger demonstrating makeup tips using a ring light during live stream."
-  caption: "Foto: Anna Shvets via Pexels"
+  image: "https://images.pexels.com/photos/374771/pexels-photo-374771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Woman working on a laptop while reading and texting, embodying modern multitasking."
+  caption: "Foto: Burst via Pexels"
 draft: false
 ---
 

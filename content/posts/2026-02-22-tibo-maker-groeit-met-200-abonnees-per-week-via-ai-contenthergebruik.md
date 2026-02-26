@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:27.459Z
 tags: ["contentcreatie", "social media", "ai-tools", "groeistrategie"]
 summary: "Tibo Maker demonstreert in Superhuman AI hoe hij met tool SuperX nieuwsbrieven en blogs in minuten omzet in effectieve X-posts die zijn groei en conversies stuwen."
 cover:
-  image: "https://images.pexels.com/photos/18464999/pexels-photo-18464999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a vintage typewriter with a paper reading 'Maker Spaces,' ideal for educational and creative content."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/19993820/pexels-photo-19993820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A stylish setup of office gadgets on a pink surface, including a smartphone and calculator."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 ---
 

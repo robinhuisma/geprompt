@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "interne communicatie", "software"]
 summary: "De nieuwe Snagit-update bewijst dat gespecialiseerde tools vaak beter zijn dan gratis AI-alternatieven voor heldere interne communicatie."
 label: "WERKVLOER"
 cover:
-  image: "https://images.pexels.com/photos/29996972/pexels-photo-29996972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Flat lay of a colorful 2025 planner with keyboard and mouse on a bright orange background."
-  caption: "Foto: Viridiana Rivera via Pexels"
+  image: "https://images.pexels.com/photos/7640434/pexels-photo-7640434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A diverse group of colleagues engaged in an intense discussion in an office setting."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 ---
 

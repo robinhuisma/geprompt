@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:08.769Z
 tags: ["mistral ai", "datacenter", "europa", "investering"]
 summary: "Het Franse AI-bedrijf Mistral maakt een grote stap naar Europese soevereine AI met een investering van 1,4 miljard dollar in een nieuw Zweeds datacenter, gericht op het verminderen van afhankelijkheid van niet-Europese techgiganten."
 cover:
-  image: "https://images.pexels.com/photos/6223916/pexels-photo-6223916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Modern skyscraper with glass facade reflecting the Bangkok cityscape."
-  caption: "Foto: Olivier Bergeron via Pexels"
+  image: "https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Sleek laptop showcasing data analytics and graphs on the screen in a bright room."
+  caption: "Foto: Lukas Blazek via Pexels"
 draft: false
 ---
 
