@@ -4,9 +4,9 @@ date: 2026-02-23T13:38:37.206Z
 tags: ["ai", "india", "top", "tech"]
 summary: "India organiseert een vierdaagse top over kunstmatige intelligentie met deelname van leidinggevenden van toonaangevende AI-bedrijven en regeringsleiders."
 cover:
-  image: "https://images.pexels.com/photos/30530429/pexels-photo-30530429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of smartphone screen showing DeepSeek AI chatbot interface on a modern device."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/5803433/pexels-photo-5803433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stunning view of the Himalayas from Ghandruk, Nepal, with clear blue skies and lush greenery."
+  caption: "Foto: Rohit Sharma via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:48.883Z
 tags: ["ai", "politiek", "veiligheid", "regelgeving"]
 summary: "Tegenstrijdige politieke actiecomités (PAC's) in de VS richten zich op een verkiezingsstrijd in New York, waarbij een door AI-bedrijf Anthropic gesteunde groep kandidaat Alex Bores verdedigt, die een wetsvoorstel voor AI-veiligheidsrapportage indiende."
 cover:
-  image: "https://images.pexels.com/photos/30530418/pexels-photo-30530418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Image displaying DeepSeek AI interface for messaging and search functionality."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/7084366/pexels-photo-7084366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Young unshaven male millennial in casual clothes and green leprechaun hat drinking mug of cold beer and looking away during celebration pf St Patricks Day with crop anonymous friend"
+  caption: "Foto: Laura Tancredi via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["automatisering", "chatgpt", "zapier", "mkb"]
 summary: "Je kunt nu je eigen ChatGPT-robot koppelen aan tools als Gmail en Slack via Zapier, zonder een regel code te schrijven."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Abstract illustration of AI with silhouette head full of eyes, symbolizing observation and technology."
-  caption: "Foto: Tara Winstead via Pexels"
+  image: "https://images.pexels.com/photos/7988657/pexels-photo-7988657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Four colleagues fist bumping in a modern office, celebrating teamwork and success."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 ---
 

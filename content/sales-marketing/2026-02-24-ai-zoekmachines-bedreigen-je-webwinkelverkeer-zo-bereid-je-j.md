@@ -5,9 +5,9 @@ tags: ["ai-zoeken", "seo", "klantacquisitie", "toekomstbestendig"]
 summary: "AI-zoekmachines zoals ChatGPT en Perplexity gaan Google-verkeer vervangen, waardoor je SEO-strategie en klantcontact fundamenteel moeten veranderen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/30530404/pexels-photo-30530404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A detailed view of the DeepSeek AI interface, displaying a welcoming message on a dark background."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/3768894/pexels-photo-3768894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "High angle of pensive African American female freelancer in glasses and casual clothes focusing on screen and interacting with netbook while sitting at table with glass of yummy drink on cafe terrace in sunny day"
+  caption: "Foto: Andrea Piacquadio via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-23T13:39:50.549Z
 tags: ["ai", "funding", "startup", "spatial intelligence"]
 summary: "Het Nederlandse AI-bedrijf Spatial Intelligence heeft een investeringsronde van 1 miljard dollar voltooid, een van de grootste in Europa dit jaar, om zijn platform voor ruimtelijk inzicht verder te ontwikkelen."
 cover:
-  image: "https://images.pexels.com/photos/30530418/pexels-photo-30530418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Image displaying DeepSeek AI interface for messaging and search functionality."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/3884483/pexels-photo-3884483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Beautiful view of a tranquil Amsterdam canal lined with boats and trees."
+  caption: "Foto: Adrien Olichon via Pexels"
 draft: false
 ---
 

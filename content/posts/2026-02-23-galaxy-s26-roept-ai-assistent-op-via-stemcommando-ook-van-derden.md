@@ -4,9 +4,9 @@ date: 2026-02-23T13:01:38.659Z
 tags: ["samsung", "ai", "smartphone", "spraakassistent"]
 summary: "De aankomende Samsung Galaxy S26 laat gebruikers niet alleen Bixby of Google Gemini, maar ook andere AI-assistenten oproepen via een spraakcommando."
 cover:
-  image: "https://images.pexels.com/photos/8386369/pexels-photo-8386369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Robotic hand with articulated fingers reaching towards the sky on a blue background."
-  caption: "Foto: Tara Winstead via Pexels"
+  image: "https://images.pexels.com/photos/821644/pexels-photo-821644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Capture of the majestic Andromeda Galaxy surrounded by countless stars in the night sky."
+  caption: "Foto: Alex Andrews via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["social media", "marketing automatisering", "content creatie", "mkb"]
 summary: "AI-tools zoals Munch Studio nemen het volledige social media beheer over, van contentcreatie tot planning, voor een fractie van de kosten van een bureau."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/30885768/pexels-photo-30885768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Scrabble letters spelling 'Metaverse' on a wooden surface with a blurred nature background."
-  caption: "Foto: Markus Winkler via Pexels"
+  image: "https://images.pexels.com/photos/159435/instagram-tablet-device-technology-159435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Photo of a tablet displaying a social media app interface with 22 likes, highlighting digital interaction."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 

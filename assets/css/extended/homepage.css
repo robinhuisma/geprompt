@@ -226,3 +226,19 @@ h1.post-title { font-weight: 700 !important; }
 /* Foto bijschrift lichter */
 .post-single figcaption, figure.post-cover figcaption { color: rgba(255,255,255,0.5) !important; }
 .list:not(.dark) .post-single figcaption, .list:not(.dark) figure.post-cover figcaption { color: rgba(0,0,0,0.5) !important; }
+
+/* Sectie label in GEPROMPT teal */
+.sectie-label {
+  display: inline-block;
+  color: #00A19B;
+  font-size: 0.7em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+}
+
+.hero-overlay .sectie-label {
+  font-size: 0.75em;
+  margin-bottom: 8px;
+}

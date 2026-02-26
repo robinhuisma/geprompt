@@ -4,9 +4,9 @@ date: 2026-02-22T07:15:07.935Z
 tags: ["ai", "verzekering", "enterprise", "risicomanagement"]
 summary: "De AI-spraakgeneratie-expert ElevenLabs biedt nu een verzekering aan voor bedrijven die hun AI-agents gebruiken, om zorgen over risico's en aansprakelijkheid weg te nemen."
 cover:
-  image: "https://images.pexels.com/photos/30530418/pexels-photo-30530418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Image displaying DeepSeek AI interface for messaging and search functionality."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/271715/pexels-photo-271715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Mouthwatering salmon nigiri sushi held by chopsticks, ready to eat."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 

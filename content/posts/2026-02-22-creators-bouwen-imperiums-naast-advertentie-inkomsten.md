@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:47.026Z
 tags: ["creator economy", "ondernemen", "diversificatie", "mkb"]
 summary: "De creator economy verschuift van afhankelijkheid van advertentie-inkomsten naar het opbouwen van diverse bedrijfsimperiums, zoals productlijnen en startup-acquisities, zo blijkt uit analyse van TechCrunch's Equity podcast."
 cover:
-  image: "https://images.pexels.com/photos/9029803/pexels-photo-9029803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Innovative humanoid robot toy on grass, showcasing modern technology and design."
-  caption: "Foto: Kindel Media via Pexels"
+  image: "https://images.pexels.com/photos/20040026/pexels-photo-20040026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Smiling man with long hair recording content in a studio setting."
+  caption: "Foto: ahmed akeri via Pexels"
 draft: false
 ---
 

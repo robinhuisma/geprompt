@@ -5,9 +5,9 @@ tags: ["snagit", "schermafbeeldingen", "interne communicatie", "software-update"
 summary: "De nieuwe Snagit 2025 versimpelt het maken van instructies en documentatie, wat tijd bespaart en de interne communicatie verbetert."
 label: "WERKVLOER"
 cover:
-  image: "https://images.pexels.com/photos/18799044/pexels-photo-18799044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a futuristic humanoid robot with metallic armor and blue LED eyes."
-  caption: "Foto: igovar igovar via Pexels"
+  image: "https://images.pexels.com/photos/29996990/pexels-photo-29996990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Vibrant 2025 planner and pen arrangement with colorful sticky notes on an orange surface."
+  caption: "Foto: Viridiana Rivera via Pexels"
 draft: false
 ---
 

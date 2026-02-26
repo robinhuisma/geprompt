@@ -5,9 +5,9 @@ tags: ["automatisering", "zapier", "chatgpt", "workflow"]
 summary: "Door Zapier te koppelen aan AI-modellen zoals ChatGPT, kun je routinematige taken volledig automatiseren zonder een regel code te schrijven."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/18799044/pexels-photo-18799044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a futuristic humanoid robot with metallic armor and blue LED eyes."
-  caption: "Foto: igovar igovar via Pexels"
+  image: "https://images.pexels.com/photos/5561923/pexels-photo-5561923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stock market analysis setup with charts, phone, magnifier, and clipboards."
+  caption: "Foto: Leeloo The First via Pexels"
 draft: false
 ---
 

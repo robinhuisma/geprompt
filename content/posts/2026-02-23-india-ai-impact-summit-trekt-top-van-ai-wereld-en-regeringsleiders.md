@@ -4,9 +4,9 @@ date: 2026-02-23T07:25:52.164Z
 tags: ["ai", "top", "india", "beleid"]
 summary: "Tijdens de vierdaagse India AI Impact Summit bespreken leiders van onder meer OpenAI, Nvidia en Google, samen met regeringshoofden, de toekomst en impact van kunstmatige intelligentie."
 cover:
-  image: "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/5706298/pexels-photo-5706298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stunning view of rocky mountains against a bright sky in the Indian Himalayas."
+  caption: "Foto: Balaji Srinivasan via Pexels"
 draft: false
 ---
 

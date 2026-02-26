@@ -4,9 +4,9 @@ date: 2026-02-22T12:33:47.636Z
 tags: ["ai-veiligheid", "chatgpt", "risicobeheer", "ethiek"]
 summary: "Medewerkers van OpenAI waarschuwden hun leiding maanden voor de schietpartij op een school in Tumbler Ridge voor gewelddadige gesprekken die de verdachte, Jesse Van Rootselaar, met ChatGPT voerde, maar het bedrijf besloot uiteindelijk niet de autoriteiten in te lichten. Voor een MKB'er onderstreept dit hoe AI-tools, ondanks veiligheidsprotocollen, misbruikt kunnen worden en dat waakzaamheid bij gebruik cruciaal blijft."
 cover:
-  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/16474957/pexels-photo-16474957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Interior view of a library with bookshelves, tables, and chairs, creating a peaceful reading environment."
+  caption: "Foto: Shantanu Kumar via Pexels"
 draft: false
 ---
 

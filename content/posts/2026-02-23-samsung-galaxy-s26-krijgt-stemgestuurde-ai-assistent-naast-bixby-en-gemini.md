@@ -4,9 +4,9 @@ date: 2026-02-23T12:47:55.347Z
 tags: ["samsung", "ai", "smartphone", "voice assistant"]
 summary: "De aankomende Samsung Galaxy S26 zal gebruikers in staat stellen via spraak een bekende AI-assistent op te roepen, naast de geüpgradede Bixby en de verwachte integratie van Google's Gemini."
 cover:
-  image: "https://images.pexels.com/photos/18799044/pexels-photo-18799044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a futuristic humanoid robot with metallic armor and blue LED eyes."
-  caption: "Foto: igovar igovar via Pexels"
+  image: "https://images.pexels.com/photos/27075439/pexels-photo-27075439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A peaceful sailboat sailing on a tranquil lake surrounded by lush greenery in Hungary."
+  caption: "Foto: Molnár Tamás Photography™ via Pexels"
 draft: false
 ---
 

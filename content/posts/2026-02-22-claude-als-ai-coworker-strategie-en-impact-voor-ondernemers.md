@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:35.803Z
 tags: ["ai", "claude", "mkb", "automatisering"]
 summary: "Mike Krieger van Anthropic bespreekt in een podcast de verschuiving van Claude van chatbot naar een echte AI-coworker, met focus op enterprise-adoptie, UX voor agent-systemen en de razendsnelle ontwikkeling."
 cover:
-  image: "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/7661184/pexels-photo-7661184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a paper with branding, identity, design, strategy, and marketing concepts in orange and black."
+  caption: "Foto: Eva Bronzini via Pexels"
 draft: false
 ---
 

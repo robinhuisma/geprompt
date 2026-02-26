@@ -4,9 +4,9 @@ date: 2026-02-22T06:44:46.676Z
 tags: ["ai", "marktonderzoek", "funding", "innovatie"]
 summary: "Het AI-bedrijf Listen Labs heeft 69 miljoen dollar aan Series B-financiering opgehaald, mede dankzij een opvallende wervingscampagne met een gecodeerd billboard, om zijn platform voor schaalbare AI-klantinterviews verder uit te bouwen."
 cover:
-  image: "https://images.pexels.com/photos/30530428/pexels-photo-30530428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a smartphone displaying an AI chat interface with the DeepSeek app."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/8392590/pexels-photo-8392590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Woman scientist in lab coat using microscope with laboratory equipment."
+  caption: "Foto: Anna Tarazevich via Pexels"
 draft: false
 ---
 

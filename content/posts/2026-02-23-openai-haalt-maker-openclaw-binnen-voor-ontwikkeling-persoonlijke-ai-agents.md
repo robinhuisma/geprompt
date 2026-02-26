@@ -4,9 +4,9 @@ date: 2026-02-23T12:55:04.287Z
 tags: ["openai", "ai agents", "openclaw", "autonome systemen"]
 summary: "OpenAI heeft de ontwikkelaar van het veelbelovende OpenClaw-project aangetrokken om te werken aan de volgende generatie persoonlijke AI-assistenten, wat een belangrijke stap kan zijn voor de adoptie van autonome agents."
 cover:
-  image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/17509941/pexels-photo-17509941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A hand carefully removes an orange 3D printed object from a printer bed using a spatula indoors."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 ---
 

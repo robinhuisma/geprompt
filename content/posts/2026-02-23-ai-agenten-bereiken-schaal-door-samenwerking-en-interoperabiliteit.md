@@ -4,9 +4,9 @@ date: 2026-02-23T19:01:43.691Z
 tags: ["ai", "agents", "interoperabiliteit", "automatisering"]
 summary: "De echte kracht van AI-agenten ligt niet in geïsoleerde toepassingen, maar in hun vermogen om als een ecosysteem samen te werken via open standaarden."
 cover:
-  image: "https://images.pexels.com/photos/18069490/pexels-photo-18069490.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Abstract digital visualization of AI, featuring colorful 3D elements and modern design."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/8469935/pexels-photo-8469935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a handshake symbolizing a real estate agreement outdoors."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 ---
 

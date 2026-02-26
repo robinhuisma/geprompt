@@ -5,9 +5,9 @@ tags: ["cloud computing", "infrastructuur", "kostenbesparing", "developer tools"
 summary: "Railway, een nieuwe cloudspeler, biedt snellere software-updates en lagere kosten, wat cruciaal is voor bedrijven die met AI-tools werken."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/6424590/pexels-photo-6424590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a laptop screen displaying code, set against a dark backdrop with blue lighting for a tech-focused ambiance."
-  caption: "Foto: Nemuel Sereti via Pexels"
+  image: "https://images.pexels.com/photos/18287623/pexels-photo-18287623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stack of folded newspapers on a wooden table with a focus on printed pages."
+  caption: "Foto: Lisa from Pexels via Pexels"
 draft: false
 ---
 

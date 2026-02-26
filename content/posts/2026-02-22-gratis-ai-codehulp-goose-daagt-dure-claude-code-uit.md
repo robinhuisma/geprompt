@@ -4,9 +4,9 @@ date: 2026-02-22T11:00:16.124Z
 tags: ["ai", "softwareontwikkeling", "opensource", "mkb"]
 summary: "Het AI-codehulpmiddel Goose van Block biedt vergelijkbare functionaliteit als het betaalde Claude Code van Anthropic, maar is gratis, open-source en draait lokaal zonder abonnementskosten of cloudafhankelijkheid."
 cover:
-  image: "https://images.pexels.com/photos/18069490/pexels-photo-18069490.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Abstract digital visualization of AI, featuring colorful 3D elements and modern design."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/34801/goose-bird-feather-water-bird.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Detailed close-up of a Greylag Goose showcasing its distinct features and feathers."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 

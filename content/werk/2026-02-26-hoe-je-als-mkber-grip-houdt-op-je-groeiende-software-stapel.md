@@ -6,9 +6,9 @@ summary: "Een nieuwe AI-laag helpt bedrijven om de complexe onderlinge afhankeli
 doelgroep: "BESLISSER"
 sectie: "werk"
 cover:
-  image: "https://images.pexels.com/photos/45058/pexels-photo-45058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of foam handle hand grippers for enhancing grip strength during workouts."
-  caption: "Foto: Dom J via Pexels"
+  image: "https://images.pexels.com/photos/7590895/pexels-photo-7590895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "An adult male climber in action on a colorful indoor rock climbing wall."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 ---
 

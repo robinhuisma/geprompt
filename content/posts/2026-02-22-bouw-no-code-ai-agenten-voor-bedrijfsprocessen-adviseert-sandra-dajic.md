@@ -4,9 +4,9 @@ date: 2026-02-22T11:00:32.918Z
 tags: ["ai-agent", "workflow automatisering", "no-code", "mkb"]
 summary: "AI-agenten voeren nu concrete taken uit zoals facturen sturen en klantensupport afhandelen via no-code platforms, waardoor MKB'ers workflows kunnen automatiseren zonder programmeurs."
 cover:
-  image: "https://images.pexels.com/photos/30530420/pexels-photo-30530420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Screen displaying AI chat interface DeepSeek on a dark background."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/268966/pexels-photo-268966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Rustic red brick wall featuring natural stone texture and unique patterns."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 

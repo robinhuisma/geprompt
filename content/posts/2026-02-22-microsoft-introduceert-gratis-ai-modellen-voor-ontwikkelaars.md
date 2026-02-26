@@ -4,9 +4,9 @@ date: 2026-02-22T14:00:37.562Z
 tags: ["microsoft", "ai-modellen", "mkb", "ontwikkeling"]
 summary: "Microsoft stelt drie compacte AI-modellen, Phi-3-vision, Phi-3-mini en Phi-3-small, gratis beschikbaar voor ontwikkelaars via Azure AI Studio en andere platforms, waardoor toegankelijke en kostenefficiënte AI-integratie mogelijk wordt."
 cover:
-  image: "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A modern humanoid robot with digital face and luminescent screen, symbolizing innovation in technology."
-  caption: "Foto: Kindel Media via Pexels"
+  image: "https://images.pexels.com/photos/19972114/pexels-photo-19972114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Urban street view in downtown Vancouver showcasing iconic architecture and city life."
+  caption: "Foto: John One via Pexels"
 draft: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:31.658Z
 tags: ["ai agent", "workflow automatisering", "productiviteit", "mkb"]
 summary: "Lindy, een AI-agent van CEO Flo Crivello, kan zelfstandig e-mails beantwoorden, meetings voorbereiden, research doen en taken over websites uitvoeren, waarbij het oordeel en initiatief toont."
 cover:
-  image: "https://images.pexels.com/photos/30530416/pexels-photo-30530416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A MacBook displaying the DeepSeek AI interface, showcasing digital innovation."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/8872513/pexels-photo-8872513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A vintage-styled businessman with a bright tie making a phone call in an office setting."
+  caption: "Foto: MART  PRODUCTION via Pexels"
 draft: false
 ---
 

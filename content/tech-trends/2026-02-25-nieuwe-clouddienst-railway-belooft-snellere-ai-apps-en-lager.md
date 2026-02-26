@@ -5,9 +5,9 @@ tags: ["cloud computing", "infrastructuur", "kostenbesparing", "developer tools"
 summary: "Railway, een nieuwe AI-gerichte cloudprovider, biedt MKB'ers snellere software-updates en tot 65% lagere kosten dan traditionele diensten als AWS."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/30530407/pexels-photo-30530407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of an AI-driven chat interface on a computer screen, showcasing modern AI technology."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/3682825/pexels-photo-3682825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "An aerial view of trains parked in a railway depot in Jakarta, Indonesia."
+  caption: "Foto: Fadel Baskoro via Pexels"
 draft: false
 ---
 

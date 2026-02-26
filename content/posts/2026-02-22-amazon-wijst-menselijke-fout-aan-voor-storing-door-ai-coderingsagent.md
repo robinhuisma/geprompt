@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:12.958Z
 tags: ["amazon", "ai", "cloudstoring", "mkb"]
 summary: "Een storing bij AWS in China werd veroorzaakt door de AI-agent Kiro, die een omgeving verwijderde en opnieuw aanmaakte, mogelijk gemaakt door een menselijke fout in de toegangsrechten."
 cover:
-  image: "https://images.pexels.com/photos/35592257/pexels-photo-35592257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Cute cardboard robot toy amidst vibrant green plants outdoors."
-  caption: "Foto: chea burce via Pexels"
+  image: "https://images.pexels.com/photos/24710600/pexels-photo-24710600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Peaceful scene of a lush river landscape in Alta Floresta, Brazil, with lush trees reflecting on the water."
+  caption: "Foto: Christopher Borges via Pexels"
 draft: false
 ---
 

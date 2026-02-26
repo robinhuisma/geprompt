@@ -5,9 +5,9 @@ tags: ["oura", "vrouwen gezondheid", "ai model", "reproductieve gezondheid"]
 summary: "Oura heeft een eigen AI-model gelanceerd dat vragen beantwoordt over de volledige reproductieve gezondheid, van menstruatie tot menopauze."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/17486100/pexels-photo-17486100.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Abstract 3D render showcasing a futuristic neural network and AI concept."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/318820/pexels-photo-318820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A collection of fine gold bars displayed on a textured wooden surface."
+  caption: "Foto: Michael Steinberg via Pexels"
 draft: false
 ---
 

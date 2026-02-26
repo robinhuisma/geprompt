@@ -4,9 +4,9 @@ date: 2026-02-23T17:00:19.652Z
 tags: ["ai"]
 summary: "De AI-nieuwsapp Particle kan nu automatisch de belangrijkste fragmenten uit podcasts isoleren, zodat gebruikers direct korte, relevante clips kunnen beluisteren bij het nieuws."
 cover:
-  image: "https://images.pexels.com/photos/8438916/pexels-photo-8438916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "An older man engages in a strategic chess game with a robotic arm, illustrating the blend of tradition and technology."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/9665216/pexels-photo-9665216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of dust particles floating in space against a black background."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 ---
 

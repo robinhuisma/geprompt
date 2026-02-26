@@ -4,9 +4,9 @@ date: 2026-02-22T14:00:16.953Z
 tags: ["openai", "gpt-4o", "ai-model", "chatgpt"]
 summary: "OpenAI heeft GPT-4o geïntroduceerd, een nieuwe, snellere versie van zijn grote taalmodel die tekst, audio en beeld in realtime kan verwerken en gratis beschikbaar is via ChatGPT, wat de toegankelijkheid van geavanceerde AI voor een breed publiek vergroot."
 cover:
-  image: "https://images.pexels.com/photos/15863000/pexels-photo-15863000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Minimalistic display of OpenAI logo on a monitor with a gradient blue background, representing modern technology."
-  caption: "Foto: Andrew Neel via Pexels"
+  image: "https://images.pexels.com/photos/14544311/pexels-photo-14544311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Black hot air balloon gracefully floating against a clear blue sky, showcasing adventure and serenity."
+  caption: "Foto: Efrem  Efre via Pexels"
 draft: false
 ---
 

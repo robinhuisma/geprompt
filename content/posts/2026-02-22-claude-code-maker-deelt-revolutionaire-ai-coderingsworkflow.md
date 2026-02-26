@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:04.611Z
 tags: ["ai", "softwareontwikkeling", "productiviteit", "mkb"]
 summary: "Boris Cherny, maker van Claude Code bij Anthropic, onthulde een workflow waarbij hij vijf AI-agents parallel inzet, wat ontwikkelaars beschouwen als een kantelpunt voor software-ontwikkeling."
 cover:
-  image: "https://images.pexels.com/photos/18069230/pexels-photo-18069230.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Dynamic abstract image with mathematical symbols on floating papers, vibrant and conceptual."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/28972501/pexels-photo-28972501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Rows of vintage sardine cans on display, showcasing various years in a Porto shop."
+  caption: "Foto: Hub JACQU via Pexels"
 draft: false
 ---
 

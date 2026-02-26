@@ -4,6 +4,10 @@ date: 2026-02-24T19:00:49.447Z
 tags: ["openai", "enterprise ai", "adoptie", "strategie"]
 summary: "Ondanks de hype blijft grootschalige integratie van AI in dagelijkse bedrijfsvoering uit, wat kansen biedt voor ondernemers die nu de basis op orde brengen."
 label: "BESLISSER"
+cover:
+  image: "https://images.pexels.com/photos/30839686/pexels-photo-30839686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Wooden Scrabble tiles spelling 'DEEPSEEK' with 'AI' on a wooden table, illustrating AI concepts creatively."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["ai agents", "openai", "automatisering", "mkb"]
 summary: "De overstap van een Nederlandse ontwikkelaar naar OpenAI toont aan dat persoonlijke AI-agents snel volwassen worden en binnenkort ook voor MKB'ers betaalbaar worden."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/30530407/pexels-photo-30530407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of an AI-driven chat interface on a computer screen, showcasing modern AI technology."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/5468362/pexels-photo-5468362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stunning night view of a brightly lit Ferris wheel at a lively amusement park in Sittard, Netherlands."
+  caption: "Foto: Steshka Croes via Pexels"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["automatisering", "zapier", "gpt", "mkb"]
 summary: "Koppel eenvoudig je eigen GPT aan tools als Gmail en Slack via Zapier, zonder programmeerkennis."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/8294566/pexels-photo-8294566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A small humanoid robot with glowing eyes on a reflective table in a dark setting."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/7947846/pexels-photo-7947846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Overhead view of financial charts, magnifying glass, and stationery on wooden table."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 ---
 

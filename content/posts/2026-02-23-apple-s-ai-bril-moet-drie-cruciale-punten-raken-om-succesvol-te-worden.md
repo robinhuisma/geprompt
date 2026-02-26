@@ -4,9 +4,9 @@ date: 2026-02-23T21:01:10.367Z
 tags: ["apple", "ai", "wearable", "productstrategie"]
 summary: "Voor Apple's aanstaande AI-bril zijn een naadloze integratie, een overtuigende use-case en een comfortabel design essentieel om consumenten te overtuigen."
 cover:
-  image: "https://images.pexels.com/photos/33955927/pexels-photo-33955927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Smartphone displaying AI apps in front of a financial data screen in London."
-  caption: "Foto: Déji Fadahunsi via Pexels"
+  image: "https://images.pexels.com/photos/5945649/pexels-photo-5945649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Hands holding and washing a fresh green apple outdoors with water splashes."
+  caption: "Foto: Any Lane via Pexels"
 draft: false
 ---
 

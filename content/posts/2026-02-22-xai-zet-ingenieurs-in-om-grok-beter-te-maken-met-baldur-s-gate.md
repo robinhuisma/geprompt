@@ -4,9 +4,9 @@ date: 2026-02-22T07:13:51.038Z
 tags: ["ai", "chatbot", "gaming", "modellering"]
 summary: "Ingenieurs van xAI zijn tijdelijk van andere projecten gehaald om de AI-assistent Grok te trainen in het beantwoorden van gedetailleerde vragen over het videospel Baldur's Gate, wat wijst op een praktische aanpak voor modelverbetering."
 cover:
-  image: "https://images.pexels.com/photos/30530416/pexels-photo-30530416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A MacBook displaying the DeepSeek AI interface, showcasing digital innovation."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/2707010/pexels-photo-2707010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Stunning close-up of a red Betta fish with flowing fins on a black background."
+  caption: "Foto: Chevanon Photography via Pexels"
 draft: false
 ---
 

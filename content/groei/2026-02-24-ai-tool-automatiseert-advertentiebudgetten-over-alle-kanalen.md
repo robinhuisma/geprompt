@@ -5,9 +5,9 @@ tags: ["marketing", "advertising", "ai-automatisering", "mkb"]
 summary: "Nieuwe AI-oplossingen zoals Knorex XPO verdelen je marketingbudget automatisch over Google, Meta en andere kanalen voor het beste resultaat."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/8294566/pexels-photo-8294566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A small humanoid robot with glowing eyes on a reflective table in a dark setting."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A person trades stocks on a smartphone with a laptop, coffee cup, calculator, and documents in view."
+  caption: "Foto: Hanna Pad via Pexels"
 draft: false
 ---
 

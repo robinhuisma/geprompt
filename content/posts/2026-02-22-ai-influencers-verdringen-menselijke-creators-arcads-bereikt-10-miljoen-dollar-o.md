@@ -4,9 +4,9 @@ date: 2026-02-22T12:33:53.411Z
 tags: ["ai", "influencer marketing", "contentcreatie", "videomarketing"]
 summary: "Het AI-bedrijf Arcads, opgericht door Romain Torres, genereerde binnen een jaar 10 miljoen dollar omzet met een app waarmee gebruikers realistische AI-avatars en UGC-video's kunnen maken voor influencer marketing en advertenties op sociale media. Dit toont aan dat AI-influencers, gemaakt door een foto en script te uploaden, menselijke creators op schaal beginnen te vervangen in contentcreatie en reclame. Voor een MKB-ondernemer betekent dit betaalbare toegang tot gepersonaliseerde video-inhoud op grote schaal voor marketingdoeleinden."
 cover:
-  image: "https://images.pexels.com/photos/30530414/pexels-photo-30530414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a digital assistant interface on a dark screen, showcasing AI technology communication."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/347208/pexels-photo-347208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A haunting still life featuring a skull, apples, and seeds in a dimly lit scene."
+  caption: "Foto: Aphiwat  chuangchoem via Pexels"
 draft: false
 ---
 

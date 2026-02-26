@@ -4,9 +4,9 @@ date: 2026-02-23T07:26:20.514Z
 tags: ["samsung", "galaxy ai", "perplexity", "ai-assistent"]
 summary: "Samsung integreert de AI-zoekassistent Perplexity in zijn Galaxy AI-ecosysteem, waardoor gebruikers straks via spraak verschillende AI-agents voor specifieke taken kunnen inzetten met toegang tot persoonlijke apps."
 cover:
-  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
-  caption: "Foto: Sanket  Mishra via Pexels"
+  image: "https://images.pexels.com/photos/24509236/pexels-photo-24509236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A tranquil scene of a lone boat on a misty beach in Kolkata, India."
+  caption: "Foto: Chandan Kumar via Pexels"
 draft: false
 ---
 

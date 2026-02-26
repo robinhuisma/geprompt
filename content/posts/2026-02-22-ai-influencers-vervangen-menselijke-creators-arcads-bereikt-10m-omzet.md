@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:25.690Z
 tags: ["ai", "influencer marketing", "content creatie", "videomarketing"]
 summary: "Het AI-bedrijf Arcads bereikte $10 miljoen jaaromzet door tools te bieden waarmee MKB'ers realistische AI-avatars en UGC-video's kunnen genereren voor schaalbare contentcreatie en advertenties."
 cover:
-  image: "https://images.pexels.com/photos/30530429/pexels-photo-30530429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of smartphone screen showing DeepSeek AI chatbot interface on a modern device."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/13065691/pexels-photo-13065691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A mechanic wearing gloves pouring oil into a car engine in a garage setting."
+  caption: "Foto: Daniel Andraski via Pexels"
 draft: false
 ---
 

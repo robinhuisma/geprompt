@@ -4,9 +4,9 @@ date: 2026-02-23T18:00:22.026Z
 tags: ["ai", "machine learning", "open source", "llm"]
 summary: "Het AI-bedrijf Guide Labs heeft een nieuw soort interpreteerbaar groot taalmodel gelanceerd, genaamd Steerling-8B, dat als open source beschikbaar is."
 cover:
-  image: "https://images.pexels.com/photos/30530418/pexels-photo-30530418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Image displaying DeepSeek AI interface for messaging and search functionality."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/8533136/pexels-photo-8533136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Scientist in a lab coat handling test tubes under pink lighting, using a microscope."
+  caption: "Foto: Artem Podrez via Pexels"
 draft: false
 ---
 

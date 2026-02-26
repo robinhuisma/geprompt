@@ -4,9 +4,9 @@ date: 2026-02-23T13:38:55.023Z
 tags: ["openai", "hardware", "kunstmatige intelligentie", "smart home"]
 summary: "OpenAI werkt met ex-Apple-topontwerper Jony Ive aan een slimme speaker met camera, wat het eerste hardwareproduct van het AI-bedrijf moet worden."
 cover:
-  image: "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up shot of a smartphone screen showing the OpenAI website with greenery in the background."
-  caption: "Foto: Solen Feyissa via Pexels"
+  image: "https://images.pexels.com/photos/15670390/pexels-photo-15670390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up shot of a speaker and headphones on a wooden desk, highlighting modern audio technology."
+  caption: "Foto: Norman Balian via Pexels"
 draft: false
 ---
 

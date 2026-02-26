@@ -4,9 +4,9 @@ date: 2026-02-22T07:14:48.784Z
 tags: ["ai", "zoekmachine", "bedrijfsmodel", "mkb"]
 summary: "Het AI-zoekplatform Perplexity stopt met advertenties en kiest voor een abonnementsmodel, wat duidt op een strategische verschuiving naar een kleinere, betalende gebruikersgroep."
 cover:
-  image: "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Close-up of a computer screen displaying ChatGPT interface in a dark setting."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/267399/pexels-photo-267399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up view of the Facebook app logo on a digital screen with blurred background."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 

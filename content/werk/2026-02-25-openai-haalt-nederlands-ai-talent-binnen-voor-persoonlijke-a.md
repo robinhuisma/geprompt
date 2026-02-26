@@ -5,8 +5,8 @@ tags: ["openai", "ai-agents", "talent", "innovatie"]
 summary: "Het succes van een Nederlands hobbyproject leidt tot een baan bij OpenAI, wat laat zien dat kleine innovaties de toekomst van persoonlijke AI-agents kunnen bepalen."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface."
+  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
   caption: "Foto: Sanket  Mishra via Pexels"
 draft: false
 ---

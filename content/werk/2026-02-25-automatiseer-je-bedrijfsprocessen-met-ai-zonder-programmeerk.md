@@ -5,9 +5,9 @@ tags: ["automatisering", "zapier", "gpt", "workflow"]
 summary: "Door GPT's te koppelen aan tools als Gmail en Slack via Zapier, kun je routinetaken volledig automatiseren zonder een regel code te schrijven."
 label: "BEIDE"
 cover:
-  image: "https://images.pexels.com/photos/8294566/pexels-photo-8294566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A small humanoid robot with glowing eyes on a reflective table in a dark setting."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/3862638/pexels-photo-3862638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Female engineer focused on equipment in a modern lab, showcasing technology and expertise."
+  caption: "Foto: ThisIsEngineering via Pexels"
 draft: false
 ---
 

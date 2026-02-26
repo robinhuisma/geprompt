@@ -5,9 +5,9 @@ tags: ["meta", "amd", "ai hardware", "datacenters"]
 summary: "Meta sluit een deal van mogelijk 100 miljard dollar met AMD voor AI-chips, om minder afhankelijk te worden van Nvidia en rekenkracht uit te breiden."
 label: "BESLISSER"
 cover:
-  image: "https://images.pexels.com/photos/9026301/pexels-photo-9026301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A sleek robotic device on a rock outdoors, showcasing advanced AI technology."
-  caption: "Foto: Kindel Media via Pexels"
+  image: "https://images.pexels.com/photos/17014503/pexels-photo-17014503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Woman poses stylishly on a tropical balcony with lush greenery in Acacías, Colombia."
+  caption: "Foto: Andres Segura via Pexels"
 draft: false
 ---
 
