@@ -1,6 +1,6 @@
 ---
 title: AI-agents krijgen hun eigen sociale netwerk, en dat brengt risico's met zich mee
-date: 2026-02-26T22:06:00+01:00
+date: 2026-02-26T23:08:00+01:00
 draft: true
 summary: Het nieuwe platform MoltBook laat AI-agents autonoom communiceren, wat kansen biedt maar ook nieuwe veiligheidsvragen oproept voor ondernemers.
 tags:
