@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/18069517/pexels-photo-18069517.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   alt: "A vibrant 3D render of geometric shapes scattered over a circuit-like background."
   caption: "Foto: Google DeepMind via Pexels"
-draft: true
+draft: false
 ---
 
 De komende jaren zal kunstmatige intelligentie de arbeidsmarkt ingrijpend veranderen. Volgens een voorspelling die in AI Report wordt genoemd, zou binnen vijf jaar de helft van de instapbanen kunnen verdwijnen. Dit is geen reden voor paniek, maar wel een signaal om na te denken over de toekomstbestendigheid van jouw rol of die van je team. De verandering komt niet van de ene op de andere dag, maar de richting is duidelijk: routinematig en voorspelbaar werk wordt geautomatiseerd.

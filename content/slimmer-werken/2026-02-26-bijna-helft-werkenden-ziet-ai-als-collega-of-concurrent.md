@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/30530418/pexels-photo-30530418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   alt: "Image displaying DeepSeek AI interface for messaging and search functionality."
   caption: "Foto: Matheus Bertelli via Pexels"
-draft: true
+draft: false
 ---
 
 Bijna de helft van de werkenden in Nederland ziet kunstmatige intelligentie niet alleen als hulpmiddel, maar ook als een mogelijke vervanger voor delen van hun eigen werk. Uit onderzoek van het Centraal Bureau voor de Statistiek (CBS) blijkt dat 41 procent denkt dat hun werk deels door AI kan worden gedaan, en 4 procent verwacht zelfs een volledige overname. Dit perspectief is vooral aanwezig bij hbo- en wo-geschoolden en jongvolwassenen. Het opvallende is dat de mensen die AI al gebruiken in hun werk, dit toekomstbeeld vaker voor zich zien dan degenen die het niet gebruiken.

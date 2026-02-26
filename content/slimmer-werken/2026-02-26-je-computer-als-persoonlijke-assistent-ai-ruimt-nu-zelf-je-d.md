@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/16125027/pexels-photo-16125027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   alt: "Close-up of a smartphone showing ChatGPT details on the OpenAI website, held by a person."
   caption: "Foto: Sanket  Mishra via Pexels"
-draft: true
+draft: false
 ---
 
 Je kunt AI nu een map op je computer laten opruimen of je abonnementen laten opzeggen. De nieuwe functie Claude Cowork geeft je toegang tot meerdere AI-agents die parallel kunnen werken aan taken zoals het sorteren van bestanden of het verwerken van facturen. Een ondernemer werkte volgens het bronartikel twee maanden aan achterstallig werk weg in twee uur tijd. Dit betekent dat je computer steeds meer een actieve assistent wordt die niet alleen informatie geeft, maar ook acties voor je uitvoert.

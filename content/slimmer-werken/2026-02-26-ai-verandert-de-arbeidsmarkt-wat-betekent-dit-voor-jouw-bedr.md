@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/30530424/pexels-photo-30530424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   alt: "A smartphone displaying the DeepSeek AI chat interface, depicting modern technology use."
   caption: "Foto: Matheus Bertelli via Pexels"
-draft: true
+draft: false
 ---
 
 De opkomst van AI vraagt niet zozeer om angst voor banenverlies, maar vooral om een herziening van welke taken en vaardigheden binnen je bedrijf waardevol zijn. De discussie, zoals gevoerd op het World Economic Forum in Davos, draait om de snelheid van verandering. Waar sommige experts voorspellen dat AI binnen een jaar menselijke taken kan overnemen, zijn anderen voorzichtiger en denken aan vijf tot tien jaar voor complexe, experimentele taken. Voor jou als ondernemer betekent dit dat de tijd om na te denken over de inrichting van je team nú is.
