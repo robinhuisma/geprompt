@@ -125,7 +125,7 @@ draft: true
 
   <!-- Turnstile -->
   <div class="qgc-turnstile">
-    <div class="cf-turnstile" data-sitekey="TURNSTILE_SITE_KEY_HIER" data-callback="onTurnstileSuccess" data-theme="dark"></div>
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAACjXL6EFc4CBb4UU" data-callback="onTurnstileSuccess" data-theme="dark"></div>
   </div>
 
   <!-- Submit button -->
