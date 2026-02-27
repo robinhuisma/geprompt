@@ -139,129 +139,248 @@ figcaption {
   font-style: italic !important;
 }
 
-/* ===== QGC Formulier — Stel je vraag ===== */
+/* ===== QGC — Stel je vraag (prompt-interface) ===== */
 .qgc-intro {
-  margin-bottom: 24px;
-  color: #ccc;
-  font-size: 1.05em;
-  line-height: 1.6;
+  margin-bottom: 28px;
+  color: #bbb;
+  font-size: 1em;
+  line-height: 1.7;
 }
+.qgc-intro p { margin-bottom: 12px; }
+.qgc-intro strong { color: #fff; }
 
-.qgc-form {
-  max-width: 600px;
+/* Branche + E-mail rij */
+.qgc-details { margin-bottom: 24px; }
+.qgc-details-row {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
 }
-
-.qgc-field {
-  margin-bottom: 20px;
+.qgc-detail-field {
+  flex: 1;
+  min-width: 200px;
 }
-
-.qgc-field label {
+.qgc-detail-field label {
   display: block;
-  margin-bottom: 6px;
-  font-weight: 600;
-  color: #fff;
-  font-size: 0.95em;
+  margin-bottom: 4px;
+  font-size: 0.85em;
+  color: #aaa;
 }
-
-.qgc-optional {
-  color: #888;
-  font-weight: 400;
-}
-
-.qgc-field input[type="text"],
-.qgc-field input[type="email"],
-.qgc-field textarea {
+.qgc-detail-field input,
+.qgc-detail-field select {
   width: 100%;
   padding: 10px 14px;
-  border: 1px solid #333;
-  border-radius: 6px;
-  background: #0d0d1a;
+  border: 1px solid #139289;
+  border-radius: 8px;
+  background: #2E2E33;
   color: #fff;
-  font-size: 0.95em;
+  font-size: 0.9em;
   font-family: inherit;
-  box-sizing: border-box;
 }
-
-.qgc-field textarea {
-  resize: vertical;
-}
-
-.qgc-field input:focus,
-.qgc-field textarea:focus {
-  outline: none;
-  border-color: #00A19B;
-}
-
-.qgc-hint {
-  display: block;
-  margin-top: 4px;
-  font-size: 0.8em;
-  color: #666;
-}
-
-.qgc-checkbox-label {
-  display: flex !important;
-  align-items: flex-start;
-  gap: 8px;
-  font-weight: 400 !important;
-  font-size: 0.88em !important;
-  color: #aaa !important;
+.qgc-detail-field select {
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  padding-right: 36px;
   cursor: pointer;
-  margin-top: 8px;
+}
+.qgc-detail-field select option {
+  background: #2E2E33;
+  color: #fff;
+}
+.qgc-detail-field input:focus,
+.qgc-detail-field select:focus {
+  outline: none;
+  border-color: #17b3a6;
+  box-shadow: 0 0 0 2px rgba(19, 146, 137, 0.15);
+}
+.qgc-optional-hint {
+  font-size: 0.75em;
+  color: #555;
+  margin-top: 2px;
+}
+.qgc-branche-anders {
+  display: none;
+  margin-top: 6px;
+}
+.qgc-branche-anders input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid #139289;
+  border-radius: 8px;
+  background: #2E2E33;
+  color: #fff;
+  font-size: 0.9em;
 }
 
-.qgc-checkbox-label input[type="checkbox"] {
-  margin-top: 3px;
+/* Prompt box */
+.qgc-prompt-box {
+  border: 1px solid #139289;
+  border-radius: 12px;
+  background: #2E2E33;
+  padding: 0;
+  position: relative;
+  margin-bottom: 16px;
+}
+.qgc-prompt-box textarea {
+  width: 100%;
+  min-height: 200px;
+  padding: 20px 20px 60px 20px;
+  border: none;
+  border-radius: 12px;
+  background: transparent;
+  color: #fff;
+  font-size: 1em;
+  font-family: inherit;
+  line-height: 1.6;
+  resize: vertical;
+  outline: none;
+}
+.qgc-prompt-box textarea::placeholder { color: #666; }
+.qgc-prompt-box:focus-within {
+  border-color: #17b3a6;
+  box-shadow: 0 0 0 2px rgba(19, 146, 137, 0.15);
+}
+.qgc-prompt-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px 12px 20px;
+}
+.qgc-char-count {
+  font-size: 0.78em;
+  color: #555;
+}
+.qgc-send-btn {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: #139289;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
   flex-shrink: 0;
 }
+.qgc-send-btn:hover { background: #17b3a6; }
+.qgc-send-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: #fff;
+}
 
-.qgc-button {
-  padding: 12px 32px;
-  background: #00A19B;
+/* CTA onder prompt */
+.qgc-prompt-cta { margin-bottom: 24px; }
+.qgc-cta-bold {
+  font-weight: 700;
+  color: #139289;
+  font-size: 1em;
+  margin-bottom: 4px;
+}
+.qgc-cta-sub {
+  color: #888;
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+/* Checkboxes */
+.qgc-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.qgc-option-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 0.85em;
+  color: #888;
+  cursor: pointer;
+}
+.qgc-option-label input[type="checkbox"] {
+  margin-top: 2px;
+  flex-shrink: 0;
+  accent-color: #139289;
+}
+
+/* Naam/alias veld */
+.qgc-naam-inline {
+  margin-left: 24px;
+  margin-top: 4px;
+  display: none;
+}
+.qgc-naam-inline input {
+  padding: 8px 12px;
+  border: 1px solid #139289;
+  border-radius: 8px;
+  background: #2E2E33;
+  color: #fff;
+  font-size: 0.85em;
+  width: 250px;
+}
+.qgc-naam-inline input:focus {
+  outline: none;
+  border-color: #17b3a6;
+}
+.qgc-naam-warning {
+  font-size: 0.8em;
+  color: #e74c3c;
+  margin-top: 4px;
+}
+.qgc-naam-inline input.qgc-naam-blocked {
+  border-color: #e74c3c;
+}
+
+/* Turnstile */
+.qgc-turnstile { margin-bottom: 16px; }
+
+/* Submit button */
+.qgc-submit-btn {
+  width: 100%;
+  padding: 14px 32px;
+  background: #139289;
   color: #fff;
   border: none;
-  border-radius: 6px;
+  border-radius: 8px;
   cursor: pointer;
   font-weight: bold;
-  font-size: 1em;
-  margin-top: 8px;
+  font-size: 1.05em;
+  margin-bottom: 20px;
+  transition: background 0.2s;
 }
-
-.qgc-button:hover {
-  background: #008a85;
-}
-
-.qgc-button:disabled {
+.qgc-submit-btn:hover { background: #0f7a70; }
+.qgc-submit-btn:disabled {
   background: #444;
   cursor: not-allowed;
 }
 
+/* Privacy */
 .qgc-privacy {
-  margin-top: 16px;
-  font-size: 0.78em;
-  color: #666;
+  font-size: 0.75em;
+  color: #555;
+  margin-top: 8px;
 }
+.qgc-privacy a { color: #139289; }
 
-.qgc-privacy a {
-  color: #00A19B;
-}
-
+/* Bedankt + Error */
 .qgc-thanks {
   background: #1a2e2d;
-  border: 1px solid #00A19B;
-  border-radius: 8px;
-  padding: 24px;
+  border: 1px solid #139289;
+  border-radius: 12px;
+  padding: 32px;
   text-align: center;
 }
-
 .qgc-thanks h3 {
-  color: #00A19B;
+  color: #139289;
   margin: 0 0 8px 0;
+  font-size: 1.3em;
 }
-
-.qgc-thanks p {
-  color: #ccc;
-}
+.qgc-thanks p { color: #ccc; }
 
 .qgc-error {
   background: #2e1a1a;
@@ -273,27 +392,22 @@ figcaption {
   font-size: 0.9em;
 }
 
-/* Light mode overrides */
-:root[data-theme="light"] .qgc-field input[type="text"],
-:root[data-theme="light"] .qgc-field input[type="email"],
-:root[data-theme="light"] .qgc-field textarea {
+/* Light mode */
+:root[data-theme="light"] .qgc-intro { color: #444; }
+:root[data-theme="light"] .qgc-prompt-box { background: #f8f8f8; }
+:root[data-theme="light"] .qgc-prompt-box textarea { color: #1d1d1d; }
+:root[data-theme="light"] .qgc-detail-field input,
+:root[data-theme="light"] .qgc-detail-field select,
+:root[data-theme="light"] .qgc-naam-inline input,
+:root[data-theme="light"] .qgc-branche-anders input {
   background: #f8f8f8;
   color: #1d1d1d;
-  border-color: #ddd;
 }
+:root[data-theme="light"] .qgc-thanks { background: #e8f5f4; }
+:root[data-theme="light"] .qgc-thanks p { color: #333; }
 
-:root[data-theme="light"] .qgc-intro {
-  color: #444;
-}
-
-:root[data-theme="light"] .qgc-field label {
-  color: #1d1d1d;
-}
-
-:root[data-theme="light"] .qgc-thanks {
-  background: #e8f5f4;
-}
-
-:root[data-theme="light"] .qgc-thanks p {
-  color: #333;
+/* Responsive */
+@media (max-width: 600px) {
+  .qgc-details-row { flex-direction: column; gap: 12px; }
+  .qgc-naam-inline input { width: 100%; }
 }
