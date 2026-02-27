@@ -69,16 +69,10 @@ buildFuture = false
   weight = 3
 
 [[menu.main]]
-  identifier = "stel-je-vraag"
-  name = "Stel je vraag"
-  url = "/stel-je-vraag/"
-  weight = 4
-
-[[menu.main]]
   identifier = "zoeken"
   name = "Zoeken"
   url = "/search/"
-  weight = 5
+  weight = 4
 [taxonomies]
   tag = "tags"
   categorie = "categorieen"
