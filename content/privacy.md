@@ -18,9 +18,6 @@ Geprompt.nl is een Nederlands AI-nieuwsplatform. De website is bereikbaar via ht
 ### Nieuwsbrief
 Als je je aanmeldt voor onze nieuwsbrief, bewaren wij je naam en e-mailadres. We gebruiken deze gegevens uitsluitend voor het verzenden van de nieuwsbrief. Je kunt je op elk moment uitschrijven via de afmeldlink in elke e-mail.
 
-### Reactieknoppen
-Op artikelen kun je een voorkeur aangeven via stemknoppen. Hierbij worden geen persoonsgegevens opgeslagen.
-
 ### Hosting en beveiliging
 Onze website wordt gehost via Cloudflare Pages. Cloudflare kan technische gegevens verwerken zoals IP-adressen voor beveiligings- en prestatiedoeleinden. Zie het [privacybeleid van Cloudflare](https://www.cloudflare.com/privacypolicy/) voor meer informatie.
 

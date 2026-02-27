@@ -3,14 +3,12 @@ title: "Voor Partners"
 hidemeta: true
 ---
 
-GEPROMPT.nl biedt ruimte voor advertorials en advertising. Wilt u zichtbaar zijn in het hart van uw doelgroep? Informeer naar de mogelijkheden om gericht te adverteren binnen een scherp gedefinieerd segment.
+Geprompt.nl biedt ruimte voor advertorials en samenwerkingen. Wil je zichtbaar zijn bij Nederlandse ondernemers en professionals die actief met AI bezig zijn?
 
 **Doelgroep**
 
-- A/B1
-- 20–39 jaar
-- M/V
-- Hoger opgeleid
-- Interesse in tech, financiën, lifestyle en leisure
+- MKB-ondernemers en professionals
+- Beslissers (managers, DGA's, CEO's)
+- Interesse in AI-toepassingen voor de werkvloer
 
 Neem contact op voor formats, plaatsingsopties en beschikbaarheid via **partnership@geprompt.nl**.
