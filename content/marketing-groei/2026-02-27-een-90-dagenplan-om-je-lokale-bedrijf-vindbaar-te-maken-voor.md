@@ -1,28 +1,31 @@
 ---
 title: "Een 90-dagenplan om je lokale bedrijf vindbaar te maken voor AI-zoekmachines"
-date: 2026-02-27T06:11:55.594Z
-tags: ["lokale seo", "ai zoeken", "vindbaarheid", "90-dagenplan"]
+date: 2026-02-27T07:15:07.624Z
+tags: ["lokale seo", "ai-zoeken", "vindbaarheid", "online marketing"]
 categorieen: ["marketing-groei"]
-summary: "Een praktisch stappenplan helpt je de online zichtbaarheid van je fysieke locatie te verbeteren voor de opkomst van AI-zoeken."
+summary: "Een stapsgewijs plan helpt lokale bedrijven hun online informatie te optimaliseren voor AI-zoekmachines zoals Google's SGE."
 cover:
-  image: "https://images.pexels.com/photos/7688503/pexels-photo-7688503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A man in a hoodie stands in front of colorful vintage TVs, embracing cyberpunk aesthetics."
-  caption: "Foto: Yaroslav Shuraev via Pexels"
+  image: "https://images.pexels.com/photos/7686377/pexels-photo-7686377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A vibrant still life featuring traditional Hindu items for Diwali celebration on colorful fabric."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 ---
 
-Als je een winkel, restaurant of ander lokaal bedrijf hebt, verandert de manier waarop klanten je vinden. AI-zoekmachines zoals Google's Search Generative Experience (SGE) geven steeds vaker directe antwoorden in plaats van een lijst met links. Dit betekent dat je niet alleen voor mensen, maar ook voor deze AI-systemen vindbaar moet zijn. Een gestructureerde aanpak van 90 dagen kan je helpen om je locatie 'AI-ready' te maken.
+De opkomst van AI-zoekmachines zoals Google's Search Generative Experience (SGE) verandert hoe klanten lokale bedrijven vinden. Waar traditionele zoekresultaten een lijst met links tonen, geeft een AI-overzicht direct een samenvattend antwoord. Voor jouw bedrijf betekent dit dat je online informatie niet alleen voor mensen, maar ook voor AI-systemen duidelijk en gestructureerd moet zijn. Een praktisch 90-dagenplan kan je helpen om elke vestiging in je netwerk hierop voor te bereiden.
 
-## Waarom lokale vindbaarheid nu anders is
-Traditionele lokale SEO draaide om het optimaliseren van je Google Business Profiel en het verzamelen van positieve reviews. Dat blijft belangrijk, maar AI-zoekmachines halen informatie uit een breder scala aan bronnen om een compleet antwoord te geven. Ze scannen niet alleen je eigen website, maar ook lokale gidsen, nieuwsartikelen, forums en sociale media. Als de informatie over jouw bedrijf op al die plekken inconsistent, onvolledig of verouderd is, loop je het risico dat de AI je niet correct presenteert of zelfs helemaal overslaat.
+## Waarom lokale informatie nu anders moet
+AI-zoekmachines halen hun antwoorden uit verschillende bronnen op het web, zoals je website, Google Business Profile en andere lokale directories. Als deze informatie tegenstrijdig, onvolledig of verouderd is, kan de AI dit overnemen of je bedrijf zelfs helemaal overslaan. Het doel is niet om de AI te 'tricken', maar om een betrouwbare, consistente bron van informatie te zijn. Dit begint met een grondige audit van hoe je bedrijf momenteel online wordt gepresenteerd.
 
-## De kern van het 90-dagenplan
-Het voorgestelde plan is opgedeeld in drie fasen. De eerste 30 dagen zijn voor een grondige audit: hoe staat je bedrijf er nu voor op het internet? Je controleert en corrigeert je basisgegevens zoals naam, adres, telefoonnummer en openingstijden op alle belangrijke platforms. De tweede maand richt zich op het verrijken van je aanwezigheid met gezaghebbende content, zoals het beantwoorden van lokale vragen op forums of het laten schrijven van artikelen in lokale media. De laatste fase gaat over monitoring en het opbouwen van autoriteit door consistent actief te blijven en je reputatie te bewaken.
+## De eerste 30 dagen: audit en basis op orde
+De eerste fase draait om inzicht. Je kunt beginnen met het handmatig controleren van je belangrijkste online vermeldingen. Zoek op je bedrijfsnaam en locatie en noteer waar je informatie verschijnt. Check of je naam, adres, telefoonnummer, openingsuren en diensten overal exact hetzelfde zijn. Een volgende stap is het claimen en optimaliseren van je Google Business Profile. Dit is vaak de primaire bron voor lokale zoekmachines. Zorg dat alle velden zijn ingevuld, voeg hoogwaardige foto's toe en reageer op recente recensies.
 
-## Praktische eerste stappen
-Je kunt vandaag beginnen met de meest cruciale stap: het controleren van je 'NAP' (Naam, Adres, Telefoonnummer). Ga na of deze gegevens op je website, je Google Business Profiel, sociale media-pagina's en in lokale directories zoals Telefoonboek.nl en Yelp exact hetzelfde zijn. Elke afwijking zorgt voor verwarring bij zowel klanten als AI-systemen. Vervolgens kun je kijken naar de vragen die klanten stellen over jouw branche in jouw stad. Deze vragen vormen de basis voor de content die je gaat maken.
+## Dag 31 tot 60: verdieping en structurering
+Nu de basis staat, is het tijd voor verdieping. AI-systemen waarderen uitgebreide, nuttige content. Je kunt op je website een gedetailleerde pagina per locatie maken. Beschrijf niet alleen wat je doet, maar ook voor wie, in welke buurt en wat je uniek maakt. Gebruik natuurlijke taal en beantwoord vragen die klanten mogelijk hebben. Daarnaast kun je gestructureerde data overwegen, zoals het toevoegen van schema.org markup aan je website. Dit is een gestandaardiseerde code die zoekmachines helpt de informatie op je pagina beter te begrijpen.
+
+## De laatste 30 dagen: autoriteit en monitoring
+In de laatste fase werk je aan de betrouwbaarheid van je informatie. Autoriteit wordt opgebouwd door consistente vermeldingen op gerespecteerde lokale websites, zoals kamer van koophandel-lijsten, brancheverenigingen of lokale nieuwssites. Je kunt actief op zoek gaan naar mogelijkheden om hier vermeld te worden. Tegelijkertijd is monitoring cruciaal. Stel Google Alerts in voor je bedrijfsnaam en blijf recensies in de gaten houden. Een negatieve of onjuiste vermelding kan snel worden gecorrigeerd, wat je reputatie beschermt.
 
 ## Hoe kun je dit vandaag toepassen?
-Open een nieuw document en maak een lijst van alle online plekken waar je bedrijf vermeld staat. Controleer systematisch of je contactgegevens overal kloppen en pas ze waar nodig aan. Ga daarna naar je Google Business Profiel en vul elke beschikbare sectie volledig in, vooral die over diensten, producten en veelgestelde vragen.
+Open nu je Google Business Profile en controleer of alle informatie actueel en consistent is. Plan vervolgens een uur in om te zoeken op je bedrijfsnaam en locatie, en maak een lijst van de eerste vijf websites waar je verschijnt om de gegevens daar te controleren.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/)
