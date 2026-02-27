@@ -1,28 +1,28 @@
 ---
 title: "Off-page SEO blijft cruciaal, ook in het tijdperk van AI-zoekmachines"
-date: 2026-02-27T11:35:08.959Z
-tags: ["seo", "vindbaarheid", "ai zoeken", "linkbuilding"]
+date: 2026-02-27T21:23:55.533Z
+tags: ["seo", "zoekmachines", "backlinks", "online zichtbaarheid"]
 categorieen: ["marketing-groei"]
-summary: "Off-page SEO, zoals backlinks en online vermeldingen, blijft een bepalende factor voor je vindbaarheid, zelfs nu AI de zoekresultaten verandert."
+summary: "Off-page SEO, zoals backlinks en online vermeldingen, blijft een bepalende factor voor je zichtbaarheid, zelfs nu zoekmachines steeds meer op AI draaien."
 cover:
-  image: "https://images.pexels.com/photos/38547/office-freelancer-computer-business-38547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Hands typing on MacBook Air with Google search open, coffee nearby."
-  caption: "Foto: Pixabay via Pexels"
+  image: "https://images.pexels.com/photos/669623/pexels-photo-669623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Modern desk setup with a laptop and analytical charts showcasing data interpretation and business analysis."
+  caption: "Foto: Lukas Blazek via Pexels"
 draft: false
 ---
 
-Off-page SEO is niet vervangen door AI-zoekmachines, maar de spelregels zijn wel aan het verschuiven. Waar je vroeger vooral focuste op het binnenhalen van zoveel mogelijk backlinks, gaat het nu ook om de kwaliteit van die links en de manier waarop je merk online wordt genoemd. Deze signalen helpen zoekmachines, of ze nu traditioneel of AI-gestuurd zijn, te bepalen hoe relevant en betrouwbaar je website is.
+Off-page SEO is niet verdwenen met de komst van AI-zoekmachines. Het blijft een fundamentele pijler voor je online zichtbaarheid. Waar on-page SEO zich richt op de inhoud van je eigen website, gaat off-page SEO over hoe de rest van het internet over jou praat. Dit signaal van externe autoriteit is voor zoekmachines nog altijd een van de sterkste indicatoren voor de waarde en betrouwbaarheid van je site.
 
-## Wat is off-page SEO vandaag de dag?
-Off-page SEO omvat alle activiteiten buiten je eigen website die je autoriteit en zichtbaarheid vergroten. De kern blijft het verkrijgen van backlinks van andere, relevante websites. Maar daarnaast wordt het steeds belangrijker om op een natuurlijke manier genoemd te worden in online content, zonder dat daar per se een klikbare link aan vastzit. Denk aan vermeldingen in nieuwsartikelen, forums, sociale media of zelfs in de antwoorden van AI-assistenten. Deze 'mentions' helpen bij het opbouwen van merkherkenning en vertrouwen.
+## De kern van off-page SEO: autoriteit en vertrouwen
+De traditionele elementen, zoals het verkrijgen van kwalitatieve backlinks van gerespecteerde websites, vormen nog steeds de ruggengraat. Een link van een autoriteit in jouw branche is als een aanbevelingsbrief. Het geeft aan dat jouw content waardevol genoeg is om naar te verwijzen. Naast links zijn ook vermeldingen van je merknaam, zonder directe link, steeds belangrijker geworden. Deze 'brand mentions' tonen aan dat er over je gesproken wordt, wat ook een signaal van relevantie en autoriteit afgeeft.
 
-## De invloed van AI op zoekgedrag
-Met de opkomst van AI-zoekmachines zoals Google's Search Generative Experience (SGE) of tools als ChatGPT, verandert de manier waarop mensen informatie vinden. In plaats van tien blauwe links te krijgen, ontvangen ze een samengesteld antwoord. Voor jouw merk betekent dit dat je niet alleen wilt ranken op een specifieke zoekterm, maar ook onderdeel wilt zijn van het gesprek en de informatie die deze AI's gebruiken. Een sterke off-page SEO-strategie, gebouwd op autoriteit en betrouwbaarheid, is daarvoor de basis.
+## De invloed van AI-zoekmachines op je strategie
+Zoekmachines zoals Google gebruiken AI-modellen om de intentie achter een zoekopdracht beter te begrijpen en antwoorden direct in de resultaten te tonen. Dit verandert de manier waarop gebruikers informatie vinden, maar niet de onderliggende logica van de zoekmachine. AI-modellen worden getraind op hetzelfde web. Sterke off-page signalen – veel kwalitatieve links en vermeldingen – helpen de AI om jouw website als een betrouwbare bron te identificeren. Het kan ervoor zorgen dat jouw content vaker wordt opgenomen in AI-gegenereerde antwoorden of overzichten.
 
-## Een praktische aanpak voor ondernemers
-Je kunt niet meer volstaan met het massaal uitsturen van linkverzoeken. Richt je op het creëren van waardevolle content die anderen *willen* delen of citeren. Dat kan een uniek onderzoek zijn, een handige tool of een expertbijdrage aan een vakpublicatie. Bouw relaties op met andere bedrijven of influencers in je sector voor samenwerkingen. En monitor niet alleen je backlinks, maar ook waar je merk online wordt genoemd, zelfs zonder link.
+## Praktische stappen voor ondernemers
+Focus je niet op het verzamelen van zoveel mogelijk links, maar op het creëren van content die het verdient om gedeeld te worden. Denk aan origineel onderzoek, uitgebreide handleidingen of unieke inzichten voor je branche. Daarnaast is het actief opbouwen van relaties met andere bedrijven, influencers of vakmedia essentieel. Een gastblog, een gezamenlijk webinar of een vermelding in een industrierapport zijn waardevolle manieren om die autoriteit op te bouwen.
 
 ## Hoe kun je dit vandaag toepassen?
-Voer een eenvoudige zoekopdracht uit in Google met de naam van je bedrijf tussen aanhalingstekens (bijvoorbeeld: "Jouw Bedrijfsnaam"). Kijk welke websites je noemen zonder naar je te linken. Neem contact op met de redactie van die sites met een vriendelijk verzoek om ook een link naar je homepage of een relevant artikel toe te voegen. Daarnaast kun je tools zoals Google Alerts instellen om toekomstige vermeldingen van je merknaam te volgen.
+Voer een eenvoudige audit uit: zoek op Google naar `"jouw bedrijfsnaam" -site:jouwdomein.nl` om te zien waar je naam online wordt genoemd zonder link. Neem contact op met die websites met een vriendelijk verzoek om een link toe te voegen. Daarnaast kun je tools zoals Ahrefs' Free Backlink Checker of Moz's Link Explorer gebruiken om je huidige backlinkprofiel in kaart te brengen en te zien wie er al naar je linkt.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/)

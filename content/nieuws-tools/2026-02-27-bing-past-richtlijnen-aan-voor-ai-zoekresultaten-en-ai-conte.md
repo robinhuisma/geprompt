@@ -1,26 +1,27 @@
 ---
 title: "Bing past richtlijnen aan voor AI-zoekresultaten en AI-content"
-date: 2026-02-27T20:30:26.507Z
+date: 2026-02-27T21:23:31.741Z
 tags: ["bing", "zoekmachines", "ai-content", "webmasterrichtlijnen"]
 categorieen: ["nieuws-tools"]
-summary: "Bing heeft zijn webmasterrichtlijnen aangepast met nieuwe regels voor AI-zoekresultaten en een soepeler beleid voor AI-gegenereerde content."
+summary: "Bing heeft zijn webmasterrichtlijnen vernieuwd met regels voor AI-zoekresultaten en een soepeler beleid voor AI-gegenereerde content."
 cover:
-  image: "https://images.pexels.com/photos/18069695/pexels-photo-18069695.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A digital representation of how large language models function in AI technology."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/18485512/pexels-photo-18485512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A retro typewriter outdoors displaying a 'Wellness Tech' message on paper."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 ---
 
-Microsoft heeft de officiële richtlijnen voor webmasters van Bing herschreven. De belangrijkste veranderingen gaan over hoe de zoekmachine omgaat met AI. Dit is relevant voor iedereen die een website beheert en afhankelijk is van zoekverkeer, omdat het laat zien waar Bing prioriteit aan geeft in zijn zoekresultaten.
+Microsoft heeft de officiële richtlijnen voor Bing herschreven. Deze update richt zich specifiek op hoe de zoekmachine omgaat met AI, zowel in de zoekresultaten zelf als met content die met AI is gemaakt. Voor ondernemers die hun online vindbaarheid willen begrijpen en verbeteren, zijn dit belangrijke ontwikkelingen.
 
-Een van de nieuwe onderdelen gaat over de 'gronding' van Copilot, de AI-assistent van Microsoft. Dit betekent dat Bing meer duidelijkheid geeft over hoe het zoekresultaten gebruikt om antwoorden van Copilot te onderbouwen. Voor jou als website-eigenaar kan dit betekenen dat inhoud die goed scoort in gewone zoekresultaten ook een grotere kans maakt om als bron te dienen voor AI-antwoorden. Het is een extra reden om je te richten op autoriteit en relevantie.
+De nieuwe richtlijnen gaan onder meer over hoe Bing zijn AI-tool, Copilot, van informatie voorziet. Het bedrijf noemt dit 'grounding'. In de praktijk betekent dit dat Bing probeert de antwoorden van Copilot te baseren op betrouwbare bronnen van het web. Als website-eigenaar kan het relevant zijn om te weten dat jouw content potentieel als zo'n bron gebruikt kan worden. Daarnaast introduceert Bing 'meta directive controls', wat webmasters meer controle zou moeten geven over hoe hun pagina's worden gebruikt in AI-antwoorden.
 
-Daarnaast heeft Bing de definitie van 'AI-misbruik' uitgebreid. Hoewel de precieze details niet worden gedeeld, geeft dit aan dat de zoekmachine actief probeert te voorkomen dat AI wordt ingezet om de zoekresultaten te manipuleren. Het is een waarschuwing tegen het grootschalig en louter voor SEO genereren van inhoud zonder toegevoegde waarde.
+## Een soepeler beleid voor AI-content
+Een opvallende wijziging is dat Bing een soepeler standpunt inneemt ten opzichte van door AI gegenereerde content. Waar zoekmachines voorheen vaak waarschuwden tegen geautomatiseerd gegenereerde inhoud, lijkt de focus nu te verschuiven naar de kwaliteit en de intentie achter de content. Het gaat er niet meer primair om *hoe* iets gemaakt is, maar of het waardevol en nuttig is voor de zoeker. Dit opent deuren voor ondernemers die AI gebruiken om efficiënter content te produceren, mits de kwaliteit en originaliteit gewaarborgd blijven.
 
-## Een soepeler standpunt over AI-content
-Opvallend is dat Bing zijn houding tegenover door AI gegenereerde content heeft verzacht. Waar zoekmachines dit eerst met argusogen bekeken, lijkt er nu meer ruimte. De nadruk blijft waarschijnlijk liggen op de kwaliteit en het nut voor de gebruiker, ongeacht hoe de content tot stand is gekomen. Het gaat er niet om of iets door een mens of machine is geschreven, maar of het de zoeker helpt.
+## Uitgebreide definitie van AI-misbruik
+Naast de nieuwe mogelijkheden breidt Bing ook zijn definitie van AI-misbruik uit. Dit omvat praktijken die bedoeld zijn om de zoekresultaten of de AI-antwoorden van Copilot te manipuleren. Het doel is om de integriteit van de zoekervaring te beschermen. Voor bedrijven is het een reminder dat korte-termijn trucs om hoog te ranken, vooral in het tijdperk van AI-zoeken, riskant kunnen zijn en kunnen leiden tot sancties.
 
 ## Hoe kun je dit vandaag toepassen?
-Focus bij het maken van content, of die nu met AI-hulp wordt gemaakt of niet, altijd op het bieden van duidelijke waarde voor je bezoeker. Controleer de officiële Bing Webmaster Guidelines om te zien of er specifieke meta-directieven zijn waar je rekening mee moet houden voor AI-antwoorden. Dit kun je doen door in te loggen op Bing Webmaster Tools en de nieuwste documentatie te raadplegen.
+Review je eigen website-inhoud met de vraag of deze waardevol en betrouwbaar genoeg is om als 'grondslag' voor een AI-antwoord te dienen. Als je AI gebruikt voor contentcreatie, focus je dan op het creëren van diepgaande, nuttige informatie in plaats van op kwantiteit. Houd de officiële Bing Webmaster Guidelines in de gaten voor toekomstige updates over meta-directives voor AI.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/)
