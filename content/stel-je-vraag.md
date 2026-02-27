@@ -2,7 +2,7 @@
 title: "Stel je vraag"
 hidemeta: true
 disableShare: true
-draft: true
+draft: false
 ---
 
 <div class="qgc-intro">
