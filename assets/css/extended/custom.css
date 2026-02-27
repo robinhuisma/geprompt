@@ -138,3 +138,162 @@ figcaption {
   color: rgba(255, 255, 255, 0.7) !important;
   font-style: italic !important;
 }
+
+/* ===== QGC Formulier — Stel je vraag ===== */
+.qgc-intro {
+  margin-bottom: 24px;
+  color: #ccc;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+.qgc-form {
+  max-width: 600px;
+}
+
+.qgc-field {
+  margin-bottom: 20px;
+}
+
+.qgc-field label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 600;
+  color: #fff;
+  font-size: 0.95em;
+}
+
+.qgc-optional {
+  color: #888;
+  font-weight: 400;
+}
+
+.qgc-field input[type="text"],
+.qgc-field input[type="email"],
+.qgc-field textarea {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: #0d0d1a;
+  color: #fff;
+  font-size: 0.95em;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.qgc-field textarea {
+  resize: vertical;
+}
+
+.qgc-field input:focus,
+.qgc-field textarea:focus {
+  outline: none;
+  border-color: #00A19B;
+}
+
+.qgc-hint {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.8em;
+  color: #666;
+}
+
+.qgc-checkbox-label {
+  display: flex !important;
+  align-items: flex-start;
+  gap: 8px;
+  font-weight: 400 !important;
+  font-size: 0.88em !important;
+  color: #aaa !important;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.qgc-checkbox-label input[type="checkbox"] {
+  margin-top: 3px;
+  flex-shrink: 0;
+}
+
+.qgc-button {
+  padding: 12px 32px;
+  background: #00A19B;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1em;
+  margin-top: 8px;
+}
+
+.qgc-button:hover {
+  background: #008a85;
+}
+
+.qgc-button:disabled {
+  background: #444;
+  cursor: not-allowed;
+}
+
+.qgc-privacy {
+  margin-top: 16px;
+  font-size: 0.78em;
+  color: #666;
+}
+
+.qgc-privacy a {
+  color: #00A19B;
+}
+
+.qgc-thanks {
+  background: #1a2e2d;
+  border: 1px solid #00A19B;
+  border-radius: 8px;
+  padding: 24px;
+  text-align: center;
+}
+
+.qgc-thanks h3 {
+  color: #00A19B;
+  margin: 0 0 8px 0;
+}
+
+.qgc-thanks p {
+  color: #ccc;
+}
+
+.qgc-error {
+  background: #2e1a1a;
+  border: 1px solid #c0392b;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  color: #e74c3c;
+  font-size: 0.9em;
+}
+
+/* Light mode overrides */
+:root[data-theme="light"] .qgc-field input[type="text"],
+:root[data-theme="light"] .qgc-field input[type="email"],
+:root[data-theme="light"] .qgc-field textarea {
+  background: #f8f8f8;
+  color: #1d1d1d;
+  border-color: #ddd;
+}
+
+:root[data-theme="light"] .qgc-intro {
+  color: #444;
+}
+
+:root[data-theme="light"] .qgc-field label {
+  color: #1d1d1d;
+}
+
+:root[data-theme="light"] .qgc-thanks {
+  background: #e8f5f4;
+}
+
+:root[data-theme="light"] .qgc-thanks p {
+  color: #333;
+}
