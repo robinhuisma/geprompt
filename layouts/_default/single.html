@@ -55,14 +55,10 @@
   </div>
   {{- end }}
 
-  {{/* AI-transparantielabel — alleen op gepubliceerde artikelen */}}
+  {{/* AI-transparantielabel — één keer, subtiel */}}
   {{- if and (not .Draft) (not (.Param "hideMeta")) }}
-  <div class="ai-disclosure">
-    {{- if .Params.qgc }}
-    <p>📨 Dit artikel is geschreven naar aanleiding van een lezersvraag{{ with .Params.qgc_naam }} van {{ . }}{{ end }}, met behulp van AI en gecontroleerd door de redactie van geprompt.nl.</p>
-    {{- else }}
-    <p>Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl.</p>
-    {{- end }}
+  <div style="margin-top:2em;padding:0.8em 0;border-top:1px solid rgba(255,255,255,0.1);font-size:0.75em;color:rgba(255,255,255,0.4);">
+    Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl.
   </div>
   {{- end }}
 
