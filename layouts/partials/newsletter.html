@@ -1,7 +1,7 @@
 <div class="newsletter-box">
   <h3>Op de hoogte blijven van AI-ontwikkelingen?</h3>
   <p>Ontvang op werkdagen het relevantste AI-lunchnieuws in je inbox.</p>
-  <form id="newsletter-form" action="https://JOUW-N8N-WEBHOOK-URL/webhook/geprompt-subscribe" method="POST">
+  <form id="newsletter-form" action="https://webhook.geprompt.nl/webhook/geprompt-subscribe" method="POST">
     <div class="newsletter-fields">
       <input type="text" name="firstName" placeholder="Voornaam" required>
       <input type="email" name="email" placeholder="E-mailadres" required>
@@ -15,4 +15,22 @@
   <div id="newsletter-thanks" style="display:none;">
     <p>Bedankt voor je aanmelding! Je ontvangt binnenkort de eerste nieuwsbrief.</p>
   </div>
+  <script>
+    document.getElementById('newsletter-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      var form = this;
+      var data = { firstName: form.firstName.value, email: form.email.value };
+      fetch(form.action, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      }).then(function() {
+        form.style.display = 'none';
+        document.getElementById('newsletter-thanks').style.display = 'block';
+      }).catch(function() {
+        form.style.display = 'none';
+        document.getElementById('newsletter-thanks').style.display = 'block';
+      });
+    });
+  </script>
 </div>
