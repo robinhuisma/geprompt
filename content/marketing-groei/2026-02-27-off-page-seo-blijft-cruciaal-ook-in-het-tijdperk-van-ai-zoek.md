@@ -1,28 +1,28 @@
 ---
 title: "Off-page SEO blijft cruciaal, ook in het tijdperk van AI-zoekmachines"
-date: 2026-02-27T06:10:46.287Z
-tags: ["seo", "vindbaarheid", "backlinks", "ai zoeken"]
+date: 2026-02-27T11:35:08.959Z
+tags: ["seo", "vindbaarheid", "ai zoeken", "linkbuilding"]
 categorieen: ["marketing-groei"]
 summary: "Off-page SEO, zoals backlinks en online vermeldingen, blijft een bepalende factor voor je vindbaarheid, zelfs nu AI de zoekresultaten verandert."
 cover:
-  image: "https://images.pexels.com/photos/4467734/pexels-photo-4467734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Crop unrecognizable female entrepreneur in casual clothes using touchpad on laptop while working at table in contemporary office"
-  caption: "Foto: www.kaboompics.com via Pexels"
+  image: "https://images.pexels.com/photos/38547/office-freelancer-computer-business-38547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Hands typing on MacBook Air with Google search open, coffee nearby."
+  caption: "Foto: Pixabay via Pexels"
 draft: false
 ---
 
-Off-page SEO is niet verdwenen met de komst van AI in zoekmachines. Het blijft een fundamentele pijler voor je online zichtbaarheid. Waar je voorheen vooral werkte aan backlinks, gaat het nu ook om het creëren van een breder web van autoriteit en betrouwbaarheid dat door zowel traditionele als AI-gestuurde zoekmachines wordt herkend.
+Off-page SEO is niet vervangen door AI-zoekmachines, maar de spelregels zijn wel aan het verschuiven. Waar je vroeger vooral focuste op het binnenhalen van zoveel mogelijk backlinks, gaat het nu ook om de kwaliteit van die links en de manier waarop je merk online wordt genoemd. Deze signalen helpen zoekmachines, of ze nu traditioneel of AI-gestuurd zijn, te bepalen hoe relevant en betrouwbaar je website is.
 
-## Waarom off-page SEO nog steeds telt
-Zoekmachines, of ze nu werken met klassieke algoritmen of geavanceerde AI-modellen zoals Google's Gemini, hebben signalen nodig om de relevantie en autoriteit van je website te beoordelen. Backlinks van andere sites zijn daarbij nog altijd een van de sterkste signalen. Het is alsof andere ondernemers in je branche je bedrijf aanbevelen. Daarnaast letten zoekmachines steeds meer op zogenaamde 'mentions': vermeldingen van je bedrijfsnaam, producten of experts zonder dat daar een directe link bij staat. Dit helpt bij het opbouwen van een coherent en betrouwbaar online profiel.
+## Wat is off-page SEO vandaag de dag?
+Off-page SEO omvat alle activiteiten buiten je eigen website die je autoriteit en zichtbaarheid vergroten. De kern blijft het verkrijgen van backlinks van andere, relevante websites. Maar daarnaast wordt het steeds belangrijker om op een natuurlijke manier genoemd te worden in online content, zonder dat daar per se een klikbare link aan vastzit. Denk aan vermeldingen in nieuwsartikelen, forums, sociale media of zelfs in de antwoorden van AI-assistenten. Deze 'mentions' helpen bij het opbouwen van merkherkenning en vertrouwen.
 
-## De invloed van AI op je SEO-strategie
-De opkomst van AI-zoekmachines en antwoordgeneratoren zoals ChatGPT of Google's AI Overviews verandert het spel. Deze tools proberen direct een antwoord te geven, waardoor minder mensen op een website klikken. Om toch in die antwoorden te worden opgenomen, is het nog belangrijker dat je wordt gezien als een gezaghebbende bron. Dat gezag bouw je niet alleen op met goede content op je eigen site (on-page SEO), maar juist door wat anderen over je zeggen. Een sterke off-page reputatie vergroot de kans dat een AI-tool jouw informatie als betrouwbaar genoeg beschouwt om te citeren.
+## De invloed van AI op zoekgedrag
+Met de opkomst van AI-zoekmachines zoals Google's Search Generative Experience (SGE) of tools als ChatGPT, verandert de manier waarop mensen informatie vinden. In plaats van tien blauwe links te krijgen, ontvangen ze een samengesteld antwoord. Voor jouw merk betekent dit dat je niet alleen wilt ranken op een specifieke zoekterm, maar ook onderdeel wilt zijn van het gesprek en de informatie die deze AI's gebruiken. Een sterke off-page SEO-strategie, gebouwd op autoriteit en betrouwbaarheid, is daarvoor de basis.
 
-## Bouwen aan autoriteit in een AI-tijdperk
-De kern van moderne off-page SEO is het opbouwen van echte relaties en het leveren van waarde. Denk aan het schrijven van een gastblog voor een relevant platform in je sector, het deelnemen aan podcasts of het delen van inzichten in vakbladen. Het doel is niet alleen een link, maar ook een betekenisvolle vermelding. Zorg ervoor dat je bedrijfsgegevens overal consistent zijn, bijvoorbeeld in Google Bedrijfsprofiel en op branche-specifieke directories. Dit versterkt het signaal van betrouwbaarheid voor zoekmachines.
+## Een praktische aanpak voor ondernemers
+Je kunt niet meer volstaan met het massaal uitsturen van linkverzoeken. Richt je op het creëren van waardevolle content die anderen *willen* delen of citeren. Dat kan een uniek onderzoek zijn, een handige tool of een expertbijdrage aan een vakpublicatie. Bouw relaties op met andere bedrijven of influencers in je sector voor samenwerkingen. En monitor niet alleen je backlinks, maar ook waar je merk online wordt genoemd, zelfs zonder link.
 
 ## Hoe kun je dit vandaag toepassen?
-Voer een eenvoudige zoekopdracht uit op "[jouw bedrijfsnaam]" en "[jouw belangrijkste product of dienst]" om te zien waar je al wordt genoemd zonder link. Benader deze websites vriendelijk met waardevolle aanvullende informatie. Daarnaast kun je tools zoals Google Search Console of Ahrefs gebruiken om je huidige backlinkprofiel in kaart te brengen en te zien welke concurrenten het goed doen.
+Voer een eenvoudige zoekopdracht uit in Google met de naam van je bedrijf tussen aanhalingstekens (bijvoorbeeld: "Jouw Bedrijfsnaam"). Kijk welke websites je noemen zonder naar je te linken. Neem contact op met de redactie van die sites met een vriendelijk verzoek om ook een link naar je homepage of een relevant artikel toe te voegen. Daarnaast kun je tools zoals Google Alerts instellen om toekomstige vermeldingen van je merknaam te volgen.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/)
