@@ -163,7 +163,7 @@ draft: true
   var brancheSelect = document.getElementById('qgc-branche');
   var turnstileReady = false;
 
-  var QGC_SECRET = 'QGC_SHARED_SECRET_HIER';
+  var QGC_SECRET = 'd73fce9fb4146abe55430eb0e3c205d88950ac9e6aacbc0d9d045a3464b6fd5c';
   var WEBHOOK_URL = 'https://webhook.geprompt.nl/webhook/geprompt-qgc';
 
   // Geblokkeerde namen/aliassen
