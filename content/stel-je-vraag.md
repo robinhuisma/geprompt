@@ -6,7 +6,7 @@ draft: false
 ---
 
 <div class="qgc-intro">
-  <p>Vertel welke systemen je gebruikt. Zeg wat je al hebt geautomatiseerd. Of geef aan dat je nog met Excel werkt. Er is vaak meer mogelijk dan je denkt. Voor veel situaties is een oplossing. Je wordt in veel gevallen positief verrast. Ga op ontdekkingstocht bij Geprompt.nl.</p>
+  <p>Stel je AI-vraag. Als het relevant is voor andere ondernemers, schrijven wij er een artikel over. Je krijgt een mail als het live staat.</p>
 </div>
 
 <!-- Honeypot -->
@@ -84,11 +84,16 @@ draft: false
         <input type="email" id="qgc-email" placeholder="naam@bedrijf.nl" required>
       </div>
     </div>
+    <div class="qgc-detail-field" style="margin-top:12px;">
+      <label>Wat heb je al geprobeerd?</label>
+      <input type="text" id="qgc-geprobeerd" placeholder="Bijv. Excel-macro's, ChatGPT, niks" maxlength="200">
+      <div class="qgc-optional-hint">Optioneel — voorkomt dat het artikel te basaal wordt</div>
+    </div>
   </div>
 
   <!-- Prompt veld -->
   <div class="qgc-prompt-box">
-    <textarea id="qgc-vraag" placeholder="Wat is het onderwerp dat je wilt bespreken en wat is de werkelijke vraag waar je op doelt?" maxlength="2000"></textarea>
+    <textarea id="qgc-vraag" placeholder="Stel hier je AI-gerelateerde vraag (min. 10 tekens)" maxlength="2000"></textarea>
     <div class="qgc-prompt-bottom">
       <span class="qgc-char-count"><span id="qgc-teller">0</span> / 2.000</span>
       <button class="qgc-send-btn" id="qgc-send" title="Deel je ondernemersdilemma nu.">
@@ -99,8 +104,8 @@ draft: false
 
   <!-- CTA onder prompt -->
   <div class="qgc-prompt-cta">
-    <p class="qgc-cta-bold">Deel de dialoog en help andere professionals.</p>
-    <p class="qgc-cta-sub">Ga dieper in op je vraag. Maak duidelijk wat je probleem is. Stel je vraag zoals je die als professional beantwoord wilt krijgen.</p>
+    <p class="qgc-cta-bold">Hoe specifieker je vraag, hoe beter het artikel.</p>
+    <p class="qgc-cta-sub">Geef aan wat je al hebt geprobeerd en in welke situatie je zit. Dat helpt ons om een concreet en bruikbaar antwoord te schrijven.</p>
   </div>
 
   <!-- Opties -->
@@ -129,7 +134,7 @@ draft: false
   </div>
 
   <!-- Submit button -->
-  <button class="qgc-submit-btn" id="qgc-submit-btn">Deel het gesprek met Geprompt.nl</button>
+  <button class="qgc-submit-btn" id="qgc-submit-btn">Verstuur je vraag</button>
 
   <p class="qgc-privacy">Je e-mailadres wordt alleen gebruikt om je te laten weten als je vraag is beantwoord. Lees onze <a href="/privacy/">privacyverklaring</a>.</p>
 </div>
@@ -137,7 +142,7 @@ draft: false
 <!-- Bedankt -->
 <div id="qgc-thanks" style="display:none;" class="qgc-thanks">
   <h3>Bedankt!</h3>
-  <p>Als je vraag relevant is voor andere ondernemers, schrijven we er een artikel over. Je krijgt dan een e-mail op <strong id="qgc-thanks-email"></strong>.</p>
+  <p>Bedankt! Als je vraag relevant is voor andere ondernemers, schrijven we er een artikel over. Je krijgt dan een e-mail op <strong id="qgc-thanks-email"></strong>.</p>
 </div>
 
 <div id="qgc-error" style="display:none;" class="qgc-error">
@@ -273,6 +278,7 @@ draft: false
       vraag: vraag.value.trim(),
       email: email.value.trim(),
       branche: brancheWaarde,
+      geprobeerd: document.getElementById('qgc-geprobeerd').value.trim(),
       naam: naamCheck.checked ? naamInput.value.trim() : '',
       naamPubliceren: naamCheck.checked,
       nieuwsbriefOptin: document.getElementById('qgc-nieuwsbrief').checked,
