@@ -35,6 +35,16 @@ buildFuture = false
     Title = "Word dagelijks geprompt."
     Content = "AI-nieuws voor ondernemers en professionals — Een gecureerd aanbod dat direct vertaalbaar is naar zakelijke waarde."
 
+  locale = "nl_NL"
+
+  # Default OG image als artikel geen cover heeft
+  [params.images]
+    # Fallback voor social sharing — vervang later door eigen branded image
+    # Zet een bestand /static/og-default.png neer (1200x630px)
+
+  [params.schema]
+    publisherType = "Organization"
+
 [params.assets]
   favicon = "/favicon.ico"
 
