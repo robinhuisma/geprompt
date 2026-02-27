@@ -30,6 +30,19 @@
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
+
+  {{/* QGC-label bovenaan artikel */}}
+  {{- if .Params.qgc }}
+  <div class="qgc-label">
+    <span>📨 Lezersvraag</span>
+    {{- with .Params.qgc_naam }}
+    <p>Vraag van {{ . }}</p>
+    {{- else }}
+    <p>Dit artikel is geschreven naar aanleiding van een lezersvraag</p>
+    {{- end }}
+  </div>
+  {{- end }}
+
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
@@ -42,8 +55,25 @@
   </div>
   {{- end }}
 
+  {{/* AI-transparantielabel — alleen op gepubliceerde artikelen */}}
+  {{- if and (not .Draft) (not (.Param "hideMeta")) }}
+  <div class="ai-disclosure">
+    {{- if .Params.qgc }}
+    <p>📨 Dit artikel is geschreven naar aanleiding van een lezersvraag{{ with .Params.qgc_naam }} van {{ . }}{{ end }}, met behulp van AI en gecontroleerd door de redactie van geprompt.nl.</p>
+    {{- else }}
+    <p>Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl.</p>
+    {{- end }}
+  </div>
+  {{- end }}
 
   {{ partial "related.html" . }}
+  {{/* CTA onder QGC-artikelen */}}
+  {{- if .Params.qgc }}
+  <div class="qgc-cta">
+    <p>Heb je ook een vraag? <a href="/stel-je-vraag/">Stel je vraag →</a></p>
+  </div>
+  {{- end }}
+
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">

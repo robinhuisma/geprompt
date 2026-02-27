@@ -411,3 +411,52 @@ figcaption {
   .qgc-details-row { flex-direction: column; gap: 12px; }
   .qgc-naam-inline input { width: 100%; }
 }
+
+/* ===========================
+   AI-transparantielabel
+   =========================== */
+.ai-disclosure {
+  margin: 2rem 0 1rem;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid #00A19B;
+  font-size: 0.85rem;
+  color: #888;
+  line-height: 1.5;
+}
+.ai-disclosure p {
+  margin: 0;
+}
+
+/* QGC-label bovenaan artikel */
+.qgc-label {
+  margin: 1rem 0 1.5rem;
+  padding: 0.8rem 1.2rem;
+  background: rgba(0, 161, 155, 0.08);
+  border-radius: 6px;
+}
+.qgc-label span {
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+.qgc-label p {
+  margin: 0.3rem 0 0;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+/* QGC call-to-action */
+.qgc-cta {
+  margin: 2rem 0;
+  padding: 1rem 1.2rem;
+  background: rgba(0, 161, 155, 0.08);
+  border-radius: 6px;
+  text-align: center;
+}
+.qgc-cta a {
+  color: #00A19B;
+  font-weight: bold;
+  text-decoration: none;
+}
+.qgc-cta a:hover {
+  text-decoration: underline;
+}
