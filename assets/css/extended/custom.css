@@ -472,6 +472,15 @@ h1.post-title {
    LIGHT MODE OVERRIDES
    =========================== */
 
+:root[data-theme="light"] body {
+  background: #F5F5F7 !important;
+}
+:root[data-theme="light"] .main,
+:root[data-theme="light"] .header,
+:root[data-theme="light"] .footer {
+  background: #F5F5F7 !important;
+}
+
 /* Paginering */
 :root[data-theme="light"] .paginav .title {
   color: #00A19B !important;
