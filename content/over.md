@@ -1,5 +1,5 @@
 ---
-title: "Over Geprompt"
+title: Over Geprompt
 hidemeta: true
 ShowBreadCrumbs: false
 ShowToc: false
