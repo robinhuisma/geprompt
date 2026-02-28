@@ -5,8 +5,8 @@ tags: ["seo", "ai", "verandermanagement", "strategie"]
 categorieen: ["marketing-groei"]
 summary: "Het succes van AI voor SEO hangt niet af van de techniek, maar van het managen van verandering binnen je organisatie."
 cover:
-  image: "https://images.unsplash.com/photo-1746286720965-cccf57e56c68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHwxMXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMHNlb3xlbnwwfDB8fHwxNzcyMjY4MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "Laptop displays \"the ai code editor\" website."
+  image: "https://images.unsplash.com/photo-1745674684639-9cef0092212c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHwxMHx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMHNlb3xlbnwwfDB8fHwxNzcyMjY4MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "A laptop displays the duolingo homepage."
   caption: "Foto: Aerps.com via Unsplash"
 draft: false
 ---
