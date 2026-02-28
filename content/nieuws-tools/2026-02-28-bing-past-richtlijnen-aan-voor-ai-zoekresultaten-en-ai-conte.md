@@ -1,24 +1,20 @@
 ---
 title: "Bing past richtlijnen aan voor AI-zoekresultaten en AI-content"
-date: 2026-02-28T11:59:52.691Z
+date: 2026-02-28T12:32:31.145Z
 tags: ["bing", "zoekmachines", "ai-content", "webmasterrichtlijnen"]
 categorieen: ["nieuws-tools"]
 summary: "Bing heeft zijn webmasterrichtlijnen aangepast met nieuwe regels voor AI-gebruik, waaronder een soepeler beleid voor AI-gegenereerde content."
 draft: false
 ---
 
-Microsoft heeft de officiële richtlijnen voor webmasters van Bing herschreven. De update richt zich op drie belangrijke veranderingen die van invloed zijn op hoe websites worden gevonden en weergegeven in Bing, en specifiek in de AI-zoekassistent Copilot. De aanpassingen gaan over de bronnen die Copilot gebruikt, de controle die website-eigenaren hebben over hun content in AI-antwoorden, en het beleid rond door AI gegenereerde inhoud.
+Microsoft heeft de officiële richtlijnen voor webmasters van Bing herschreven. De update richt zich specifiek op hoe de zoekmachine omgaat met AI, zowel in zijn eigen producten als met content die door anderen wordt gemaakt. Dit betekent dat de regels voor wat wel en niet mag in zoekresultaten duidelijker worden, met name rond kunstmatige intelligentie.
 
-## Nieuwe regels voor AI-gebruik en misbruik
-Een belangrijk onderdeel van de update is de uitbreiding van de definitie van 'misbruik'. Bing heeft nu expliciet 'AI-misbruik' toegevoegd aan zijn lijst van verboden praktijken. Dit omvat het grootschalig genereren van inhoud met als enig doel het manipuleren van zoekresultaten. De zoekmachine wil hiermee misbruik van AI-tools tegen gaan. Daarnaast is er een nieuwe categorie 'GEO' toegevoegd aan de richtlijnen. Dit staat voor 'Generated Entertainment Obscenity' en is bedoeld om schadelijke gegenereerde inhoud, zoals deepfake-porno, te bestrijden.
+De belangrijkste wijzigingen gaan over drie onderdelen. Ten eerste heeft Bing de definitie van 'misbruik van AI' uitgebreid. Dit betekent dat tactieken die zijn ontworpen om de AI-zoekassistent Copilot te manipuleren of misleiden, nu expliciet worden verboden. Ten tweede introduceert Bing nieuwe 'meta directive controls'. Dit zijn technische instructies die website-eigenaren kunnen gebruiken om aan te geven hoe Bing AI met hun content mag omgaan, bijvoorbeeld of het mag worden gebruikt om Copilot-antwoorden te 'gronden' of te onderbouwen. Ten derde is het beleid voor AI-gegenereerde content versoepeld. Bing benadrukt nu dat de oorsprong van content minder belangrijk is dan de kwaliteit, bruikbaarheid en betrouwbaarheid ervan voor de zoeker.
 
-## Meer controle over je content in Copilot
-Voor ondernemers en website-eigenaren is een praktische toevoeging de erkenning van de `data-nosnippet` HTML-tag en een nieuwe `data-copilot-answer` meta-directive. Dit zijn instructies die je in de code van je webpagina kunt plaatsen. Hiermee kun je specifiek aangeven of je content wel of niet gebruikt mag worden als bron voor antwoorden in Bing Copilot. Het geeft je meer regie over hoe jouw informatie wordt opgenomen in AI-gegenereerde antwoorden.
-
-## Een soepeler beleid voor AI-content
-Waar zoekmachines voorheen vaak waarschuwden tegen geautomatiseerd gegenereerde content, laat Bing nu een soepelere houding zien. De nieuwe richtlijnen stellen dat alle content, of deze nu door mensen of machines is gemaakt, wordt beoordeeld op kwaliteit en waarde voor de gebruiker. Het doel is niet langer de oorsprong, maar de bruikbaarheid. Dit betekent dat goed geschreven, waardevolle AI-content niet meer automatisch wordt afgestraft, zolang het niet valt onder de nieuwe regels tegen AI-misbruik.
+## Wat dit betekent voor jouw online vindbaarheid
+Voor ondernemers en professionals die afhankelijk zijn van zoekverkeer, verandert de focus. Waar voorheen de vraag "is dit met AI gemaakt?" mogelijk een rol speelde, verschuift het nu naar "lost dit het probleem van de gebruiker op?". Bing geeft aan dat goed geschreven, nuttige AI-content niet zal worden bestraft. Het gaat erom of de informatie waardevol is. De nieuwe mogelijkheid om via technische instructies (meta directives) controle uit te oefenen op hoe jouw content in AI-antwoorden wordt gebruikt, biedt een extra stukje regie over je online aanwezigheid.
 
 ## Hoe kun je dit vandaag toepassen?
-Controleer of je website voldoet aan de algemene Bing Webmaster Guidelines, die de basis vormen voor deze AI-update. Als je AI gebruikt om content te maken, focus je dan op kwaliteit en waarde voor je lezer in plaats van op kwantiteit. Overweeg om de nieuwe meta-tags te onderzoeken als je specifieke controle wilt over hoe je content in Copilot verschijnt.
+Focus bij het maken van content, of die nu door een mens of AI is geschreven, primair op kwaliteit en het beantwoorden van zoekvragen. Controleer de officiële Bing Webmaster Guidelines voor de exacte nieuwe tekst over AI-misbruik en meta directives. Overweeg, als je technisch onderlegd bent, om de meta directives voor je website te onderzoeken en in te stellen om invloed uit te oefenen op hoe Bing AI jouw content gebruikt.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/)
