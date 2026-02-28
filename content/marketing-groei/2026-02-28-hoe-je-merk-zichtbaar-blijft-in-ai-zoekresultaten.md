@@ -1,25 +1,28 @@
 ---
 title: "Hoe je merk zichtbaar blijft in AI-zoekresultaten"
-date: 2026-02-28T11:04:38.342Z
-tags: ["zoekmachine optimalisatie", "ai zoeken", "linkbuilding", "merkautoriteit"]
+date: 2026-02-28T14:51:41.352Z
+tags: ["zoekmachine optimalisatie", "linkbuilding", "merkautoriteit", "ai zoeken"]
 categorieen: ["marketing-groei"]
-summary: "Off-page SEO, zoals backlinks en merkvermeldingen, blijft cruciaal voor zichtbaarheid in traditionele én AI-gestuurde zoekmachines."
+summary: "Off-page SEO, zoals links en vermeldingen, blijft cruciaal om gevonden te worden in traditionele én AI-gestuurde zoekmachines."
 cover:
-  image: "https://images.pexels.com/photos/8438958/pexels-photo-8438958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A robot and woman engage in chess, showcasing technology and strategic thinking."
-  caption: "Foto: Pavel Danilyuk via Pexels"
+  image: "https://images.pexels.com/photos/8849283/pexels-photo-8849283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a robot hand and silver-gloved hand touching, symbolizing human-robot connection."
+  caption: "Foto: Tara Winstead via Pexels"
 draft: false
 ---
 
-De manier waarop mensen zoeken verandert, maar de basis van online autoriteit opbouwen blijft hetzelfde. Of je nu gevonden wilt worden in Google of in AI-omgevingen zoals ChatGPT of Perplexity, de digitale wereld kijkt nog steeds naar signalen buiten je eigen website om je betrouwbaarheid en relevantie te beoordelen. Dit off-page SEO is geen trucje meer, maar de fundering van je online reputatie.
+Als je online gevonden wilt worden, draait het niet langer alleen om de perfecte tekst op je eigen website. De manier waarop andere websites over jou praten – je off-page SEO – wordt steeds belangrijker, zeker nu zoekmachines zoals Google steeds meer AI gebruiken om antwoorden te genereren. Het doel verschuift van alleen ranking naar het opbouwen van een sterke, herkenbare merkpresence die overal wordt erkend.
 
-## Waarom off-page SEO niet verdwijnt
-Zoekmachines, of ze nu traditioneel of AI-gestuurd zijn, hebben een manier nodig om de waarde en betrouwbaarheid van bronnen te beoordelen. Ze kunnen niet elke website persoonlijk bezoeken. In plaats daarvan kijken ze naar het web om hen heen: welke andere sites linken naar jou? Wordt je merk genoemd in artikelen, forums of sociale media zonder dat er een link bij staat? Deze signalen vormen samen een beeld van je autoriteit. Hoe sterker dat beeld, hoe groter de kans dat je wordt opgenomen in antwoorden van AI-zoekmachines, die vaak samengesteld worden uit wat zij als de meest gezaghebbende bronnen beschouwen.
+## Waarom vermeldingen net zo belangrijk zijn als links
+Traditioneel was een link van een andere website naar de jouwe het hoogste goed. Die autoriteit blijft waardevol, maar zoekmachines kijken nu breder. Ook het noemen van je merknaam, zonder dat er een klikbare link bij staat, telt mee. Deze vermeldingen helpen zoekmachines te begrijpen dat jouw bedrijf relevant en betrouwbaar is binnen je vakgebied. Het signaal is niet meer alleen "deze site wordt aanbevolen", maar ook "deze naam wordt hier besproken".
 
-## Van linkbuilding naar merkbouw
-De focus verschuift van het najagen van elk mogelijk linkje naar het opbouwen van een merk dat het waard is om over te praten. Het doel is niet alleen een link, maar een *vermelding*. Een vermelding van je bedrijfsnaam, product of expert in een relevante context is een krachtig signaal. Dit kan in een nieuwsartikel, een industrierapport, een podcastaflevering of een sociale media-post zijn. AI-systemen worden steeds beter in het herkennen en waarderen van deze contextuele vermeldingen, ook als er geen klikbare hyperlink aan vastzit. Het draait erom dat je merk deel uitmaakt van het gesprek in jouw vakgebied.
+## De connectie met AI-zoeken zoals Google's SGE
+Wanneer een gebruiker een vraag stelt aan een AI-zoekmachine, zoals Google's Search Generative Experience, put het systeem uit een breed scala aan bronnen om een samenhangend antwoord te construeren. Hier komt je off-page strategie samen: hoe vaker je merk op betrouwbare, relevante plekken wordt genoemd en gelinkt, hoe groter de kans dat de AI jou ziet als een gezaghebbende bron en je opneemt in haar antwoord. Het gaat erom het vertrouwen van zowel algoritmes als mensen te winnen.
+
+## Bouwen aan merkautoriteit buiten je eigen site
+De praktijk is minder technisch dan het klinkt. Het draait om het actief vormgeven van hoe anderen over je praten. Je kunt bijvoorbeeld kennis delen door gastartikelen te schrijven voor vakbladen, samen te werken met andere bedrijven in je branche, of actief deel te nemen aan relevante online communities. Elke serieuze vermelding draagt bij aan het web van vertrouwen rondom je merk. Het is een langetermijninvestering in je reputatie.
 
 ## Hoe kun je dit vandaag toepassen?
-Begin met het monitoren van je merknaam met een gratis tool zoals Google Alerts. Kijk waar je al genoemd wordt zonder link en neem contact op om een eventuele samenwerking te verdiepen. Daarnaast kun je een lijst maken van autoriteiten in jouw sector – blogs, nieuwssites, influencers – en bedenken op welke authentieke manier jij voor hen van waarde kunt zijn, bijvoorbeeld door unieke data of een expertinterview aan te bieden.
+Voer een eenvoudige zoekopdracht uit in Google met de operator `"jouw merknaam" -site:jouwdomein.nl`. Dit laat zien waar je naam elders online wordt genoemd zonder link. Benader deze websites vriendelijk met de vraag of ze een link naar je site willen toevoegen. Daarnaast kun je tools zoals Ahrefs' 'Brand Mentions' of Google Alerts instellen om toekomstige vermeldingen automatisch te volgen.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/)
