@@ -45,11 +45,11 @@ Geprompt kiest er desondanks bewust voor om transparant te zijn over het gebruik
 
 Geprompt werkt met drie hoofdthema's:
 
-**Nieuws & Tools** — Wat is er nieuw in AI? Welke tools zijn relevant om te volgen of uit te proberen?
+**Nieuws & Tools**, wat is er nieuw in AI? Welke tools zijn relevant om te volgen of uit te proberen?
 
-**Marketing & Groei** — Hoe kan AI helpen om zichtbaarder te worden, slimmer te verkopen en groei te versnellen?
+**Marketing & Groei**, hoe kan AI helpen om zichtbaarder te worden, slimmer te verkopen en groei te versnellen?
 
-**Slimmer Werken** — Hoe gebruik je AI om tijd te besparen, processen te verbeteren en dagelijkse taken efficiënter uit te voeren?
+**Slimmer Werken**, hoe gebruik je AI om tijd te besparen, processen te verbeteren en dagelijkse taken efficiënter uit te voeren?
 
 ## Een woord van dank
 

@@ -460,3 +460,10 @@ figcaption {
 .qgc-cta a:hover {
   text-decoration: underline;
 }
+
+/* Sectie-pagina titels bold */
+.post-title,
+.list .post-title,
+h1.post-title {
+  font-weight: 800 !important;
+}
