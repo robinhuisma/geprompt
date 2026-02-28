@@ -5,15 +5,15 @@ ShowBreadCrumbs: false
 ShowToc: false
 ---
 
-Geprompt.nl is een AI-nieuwsplatform voor Nederlandse ondernemers en professionals. Het uitgangspunt is eenvoudig: relevant AI-nieuws uit binnen- en buitenland volgen, vertalen en er praktische content van maken.
+Geprompt.nl is een AI-nieuwsplatform voor Nederlandse ondernemers en professionals. Elke dag volgen we nationaal en internationaal AI-nieuws en maken daar praktische artikelen van die je direct kunt toepassen. Geen abstract technieuws, maar concrete informatie: wat is het, wat kun je ermee, en hoe begin je vandaag?
 
-Geprompt is een persoonlijk initiatief van Robin Huisma. Het platform werkt met AI, maar is daar volledig open over. Elk artikel wordt eerst met hulp van AI voorbereid en daarna door een mens gecontroleerd voordat het online komt.
-
-Geprompt pretendeert niet dat het een groot mediabedrijf is of de ultieme vorm van AI-journalistiek. Het is een serieus uitgevoerd experiment. Het doel is helder: informatie publiceren die relevant is, begrijpelijk is en in de praktijk bruikbaar kan zijn.
+Geprompt is een persoonlijk initiatief van Robin Huisma. Het platform werkt met AI, en is daar volledig open over. Elk artikel wordt eerst met hulp van AI voorbereid en daarna door een mens gecontroleerd voordat het online komt.
 
 ## Hoe Geprompt werkt
 
-Elke dag leest een geautomatiseerd systeem internationale bronnen, waaronder nieuws- en techpublicaties. AI helpt vervolgens bij het selecteren van relevante onderwerpen, het vertalen naar het Nederlands en het schrijven van een eerste versie.
+Elke dag leest een geautomatiseerd systeem nationale en internationale bronnen, waaronder nieuws- en techpublicaties. Die bronartikelen zijn de inspiratie, niet het eindproduct. AI helpt vervolgens bij het vertalen van dat nieuws naar een eigen, praktisch artikel dat elke ondernemer snapt.
+
+Bij elk artikel stellen we drie vragen: wat is dit, wat kan de lezer ermee, en hoe begint de lezer vandaag? Als we die vragen niet goed kunnen beantwoorden, verschijnt er geen artikel.
 
 Daarna begint het belangrijkste deel: de handmatige controle. Robin Huisma leest elk artikel zelf, controleert feiten, beoordeelt toon en relevantie, en beslist of publicatie verantwoord is. Zonder die laatste menselijke controle gaat er niets live.
 
@@ -41,15 +41,17 @@ Voor gebruikers van AI-systemen die tekst publiceren om het publiek te informere
 
 Geprompt kiest er desondanks bewust voor om transparant te zijn over het gebruik van AI. Niet omdat het moet worden verstopt, maar juist omdat duidelijkheid richting lezers hoort bij een zorgvuldige redactie.
 
-## Drie duidelijke rubrieken
+## Vier rubrieken
 
-Geprompt werkt met drie hoofdthema's:
+Geprompt werkt met vier thema's, elk vanuit dezelfde vraag: hoe helpt AI jou verder?
 
-**Nieuws & Tools**, wat is er nieuw in AI? Welke tools zijn relevant om te volgen of uit te proberen?
+**Nieuws & Tools**, de laatste AI-ontwikkelingen, uitgelegd in gewone taal. Wat is het, waarom doet het ertoe, en wat kun jij ermee?
 
-**Marketing & Groei**, hoe kan AI helpen om zichtbaarder te worden, slimmer te verkopen en groei te versnellen?
+**Marketing & Groei**, hoe je AI inzet om klanten te bereiken, je merk te bouwen en je omzet te laten groeien.
 
-**Slimmer Werken**, hoe gebruik je AI om tijd te besparen, processen te verbeteren en dagelijkse taken efficiënter uit te voeren?
+**Slimmer Werken**, hoe je met AI tijd bespaart, processen verbetert en dagelijkse taken slimmer aanpakt.
+
+**Creatief**, AI voor beeld, video en geluid. Van beeldgeneratie tot muziekproductie, zo zet je creatieve AI-tools in.
 
 ## Een woord van dank
 
