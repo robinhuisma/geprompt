@@ -5,9 +5,9 @@ tags: ["seo", "vindbaarheid", "merkautoriteit", "ai zoeken"]
 categorieen: ["marketing-groei"]
 summary: "Off-page SEO, zoals backlinks en merkvermeldingen, blijft cruciaal voor je online vindbaarheid, ook nu zoekmachines steeds meer op AI draaien."
 cover:
-  image: "https://images.unsplash.com/photo-1624259464985-b0a6a796d3d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHw1OHx8ZGlnaXRhbCUyMG1hcmtldGluZyUyMHN0cmF0ZWd5JTJDJTIwd2hpdGVib2FyZCUyMHBsYW5uaW5nJTJDJTIwbGluayUyMGJ1aWxkaW5nJTIwZGlhZ3JhbXxlbnwwfDB8fHwxNzcyMjY2MDgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "red and white labeled box"
-  caption: "Foto: FORTYTWO via Unsplash"
+  image: "https://pixabay.com/get/g6611fdf7dd4d4b085e3ab6256aade1ed8c4c225bed68c404e760f3bf3893f405552ea8ae478134348585ffe1728887a865956e28bacd4a2faab8d92037dab8db_1280.jpg"
+  alt: "futuristic, robot, cyborg, intelligence, artificial, technology, blue technology, blue robot, robot, robot, robot, robot, robot"
+  caption: "Foto: TheDigitalArtist via Pixabay"
 draft: false
 ---
 

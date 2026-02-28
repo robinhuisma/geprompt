@@ -5,9 +5,9 @@ tags: ["seo", "google update", "ai risico's", "zoekmachinemarketing"]
 categorieen: ["marketing-groei"]
 summary: "Een overzicht van de huidige SEO-trends, waaronder de impact van AI op zoekresultaten en praktische tips na een Google-update."
 cover:
-  image: "https://images.pexels.com/photos/17485738/pexels-photo-17485738.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Vivid 3D rendering of dynamic colorful ribbons forming a square in abstract digital art."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://images.pexels.com/photos/16544931/pexels-photo-16544931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A humanoid robot stands in a vibrant, modern hallway in Lagos, Nigeria."
+  caption: "Foto: Tope J. Asokere via Pexels"
 draft: false
 ---
 

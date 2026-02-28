@@ -5,9 +5,9 @@ tags: ["seo", "merkstrategie", "linkbuilding", "ai-zoeken"]
 categorieen: ["marketing-groei"]
 summary: "Ontdek hoe moderne off-page SEO, van backlinks tot AI-vriendelijke merkvermeldingen, je online vindbaarheid versterkt."
 cover:
-  image: "https://images.pexels.com/photos/1615785/pexels-photo-1615785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Barefoot farmer working the land in denim jeans, tilling red soil with a hoe in the rural countryside."
-  caption: "Foto: Rodolfo Clix via Pexels"
+  image: "https://pixabay.com/get/g47de3f068d792b8051c21327643cd7a05819b62923e2665e5d260723c61b3bd7f48d9409d5cbb9550c5685e2313f2a62bcbd9befc713db27467a7995bb90fa3c_1280.jpg"
+  alt: "humanoid, robot, face, artificial intelligence, facial expressions, humanoid, robot, robot, robot, robot, robot, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence"
+  caption: "Foto: kuloser via Pixabay"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["bing", "zoekmachines", "ai-content", "webmasterrichtlijnen"]
 categorieen: ["nieuws-tools"]
 summary: "Bing heeft zijn webmasterrichtlijnen herschreven met nieuwe regels voor AI-gebruik, een zachtere houding tegenover AI-content en meer controle voor website-eigenaren."
 cover:
-  image: "https://images.unsplash.com/photo-1606810469552-9f1ec596e16a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHwxOXx8c2VhcmNoJTIwZW5naW5lJTIwYWxnb3JpdGhtJTIwY29kZXxlbnwwfDB8fHwxNzcyMjY2MDQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "text"
-  caption: "Foto: Brett Jordan via Unsplash"
+  image: "https://images.unsplash.com/photo-1571934732896-f47880a8bdfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHwyOXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMGJpbmd8ZW58MHwwfHx8MTc3MjI2ODU0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "black wooden framed glass display cabinet"
+  caption: "Foto: Darran Shen via Unsplash"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["bing", "zoekmachines", "ai-content", "seo"]
 categorieen: ["nieuws-tools"]
 summary: "Bing heeft zijn richtlijnen voor webmasters herschreven, met nieuwe regels voor AI-gebruik en een soepeler standpunt over gegenereerde content."
 cover:
-  image: "https://images.pexels.com/photos/30530404/pexels-photo-30530404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A detailed view of the DeepSeek AI interface, displaying a welcoming message on a dark background."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.pexels.com/photos/8982665/pexels-photo-8982665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Close-up of a futuristic robot toy on a wooden floor, showcasing modern innovation."
+  caption: "Foto: Kindel Media via Pexels"
 draft: false
 ---
 

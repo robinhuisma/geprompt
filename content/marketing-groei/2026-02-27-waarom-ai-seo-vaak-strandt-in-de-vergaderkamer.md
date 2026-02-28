@@ -5,9 +5,9 @@ tags: ["seo", "ai", "verandermanagement", "strategie"]
 categorieen: ["marketing-groei"]
 summary: "Het succes van AI voor SEO hangt niet af van de tool, maar van hoe je je team en leiderschap meekrijgt in de verandering."
 cover:
-  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
-  caption: "Foto: Matheus Bertelli via Pexels"
+  image: "https://images.unsplash.com/photo-1745674684587-bc050b00ad7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHw4fHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwc2VvfGVufDB8MHx8fDE3NzIyNjgyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "A laptop screen displays a \"create a b\" prompt."
+  caption: "Foto: Aerps.com via Unsplash"
 draft: false
 ---
 

@@ -5,9 +5,9 @@ tags: ["internationale marketing", "ppc", "advertenties", "campagnes"]
 categorieen: ["marketing-groei"]
 summary: "Het consistent houden van advertentiecampagnes in verschillende landen is een grote uitdaging, maar met een helder kader en duidelijke afspraken valt er veel te winnen."
 cover:
-  image: "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Relaxing oceanfront cabana in Bodrum, perfect for vacation and remote work."
-  caption: "Foto: Quark Studio via Pexels"
+  image: "https://images.pexels.com/photos/8386369/pexels-photo-8386369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Robotic hand with articulated fingers reaching towards the sky on a blue background."
+  caption: "Foto: Tara Winstead via Pexels"
 draft: false
 ---
 

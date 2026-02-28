@@ -5,9 +5,9 @@ tags: ["bing", "ai", "zoekmachines", "webmasterrichtlijnen"]
 categorieen: ["nieuws-tools"]
 summary: "Microsoft heeft de officiële richtlijnen voor Bing aangepast, met nieuwe regels voor AI-gebruik en een soepeler beleid voor AI-gegenereerde inhoud."
 cover:
-  image: "https://images.pexels.com/photos/18069514/pexels-photo-18069514.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Vibrant 3D abstract sculptures showcased in a modern and artistic setting."
-  caption: "Foto: Google DeepMind via Pexels"
+  image: "https://pixabay.com/get/gc807f62acdf5d60c8fdcf87695cf57d7559eb81ddb66052fb67572dc89f3fa8f4b5032324afb2567732cd8e7960b2c3f84c59baae6f30b422ccd460958806844_1280.jpg"
+  alt: "artificial intelligence, robot, ai, programming, computer, syntax, data processing, advertisement, hacker, html, web design, development, developer, language, code, software, coding, website, programmers of the future, computer science, electrical engineering, technology, think, man, intelligent, controlled, printed circuit board, circuit board, information, data, function, microprocessor, person, data exchange, digital, communication, web, network, server, script, trojan, virus, virus warning, human, machine, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence"
+  caption: "Foto: geralt via Pixabay"
 draft: false
 ---
 

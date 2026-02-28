@@ -5,9 +5,9 @@ tags: ["zoekmachines", "vindbaarheid", "klantvoorkeuren", "contentstrategie"]
 categorieen: ["marketing-groei"]
 summary: "De toekomst van online vindbaarheid draait niet om zoekwoorden, maar om het begrijpen van de voorkeuren van je ideale klant."
 cover:
-  image: "https://images.pexels.com/photos/6727904/pexels-photo-6727904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Panoramic view of snow-capped mountains and lush green fields under a clear blue sky."
-  caption: "Foto: Magic K via Pexels"
+  image: "https://pixabay.com/get/g4f04e406452aabb84c4fbabb27aa6a2c5aa63abc74dc1f895e6e36edc1330c1dbcd8cb753485fa9a7a62e0654058e513536ca91eb46e0d7de3da4311d83ca029_1280.jpg"
+  alt: "high tech, tech, industry, high-tech, networking, machine, internet, connection, sensors, computer, technology, logistics, network, communication, gear, web, intelligence, interfaces, 8k wallpaper, 8k, blue network, blue community, blue internet, blue communication, blue tech, blue web, blue industry"
+  caption: "Foto: RWCM via Pixabay"
 draft: false
 ---
 

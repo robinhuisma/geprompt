@@ -5,9 +5,9 @@ tags: ["zoekmachine optimalisatie", "ai zoeken", "linkbuilding", "merkautoriteit
 categorieen: ["marketing-groei"]
 summary: "Off-page SEO draait niet langer alleen om links; AI-zoekmachines gebruiken ook merkvermeldingen en autoriteit om je zichtbaarheid te bepalen."
 cover:
-  image: "https://pixabay.com/get/gdae50e81d577aa53145ecc2c93e51cbbb967e0a3486f9a1b061d49af36023db15d61629f701ed1133c703189a83c1ce8eab284b31c77a96703a737e94cdc8fd1_1280.jpg"
-  alt: "puppet, robot, cyborg, cybernetics, toy, controlled, artificial intelligence, intelligent, computer science, technology, comparison, confrontation, past, present, old, new, robot, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence, comparison, comparison"
-  caption: "Foto: geralt via Pixabay"
+  image: "https://images.pexels.com/photos/16587314/pexels-photo-16587314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "Smartphone showing ChatGPT website with warm tone, highlighting AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
 draft: false
 ---
 

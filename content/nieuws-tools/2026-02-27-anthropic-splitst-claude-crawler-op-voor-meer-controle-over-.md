@@ -5,9 +5,9 @@ tags: ["anthropic", "claude", "robots.txt", "webcrawlers"]
 categorieen: ["nieuws-tools"]
 summary: "Je kunt nu specifieker bepalen welke versie van Claude je website mag crawlen voor training, zoeken of gebruikersvragen."
 cover:
-  image: "https://images.pexels.com/photos/3045401/pexels-photo-3045401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Filmmaker with handheld camera capturing a vintage car in a sunny urban street setting."
-  caption: "Foto: Kyle Loftus via Pexels"
+  image: "https://images.pexels.com/photos/30530404/pexels-photo-30530404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  alt: "A detailed view of the DeepSeek AI interface, displaying a welcoming message on a dark background."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 ---
 

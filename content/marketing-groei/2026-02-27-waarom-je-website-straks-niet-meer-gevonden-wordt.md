@@ -5,9 +5,9 @@ tags: ["zoekmachines", "seo", "contentstrategie", "toekomst"]
 categorieen: ["marketing-groei"]
 summary: "De manier waarop zoekmachines werken verschuift van het tonen van resultaten naar het voorspellen van voorkeuren, wat vraagt om een fundamenteel andere aanpak van je online aanwezigheid."
 cover:
-  image: "https://images.pexels.com/photos/1533720/pexels-photo-1533720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  alt: "Tranquil ocean waves under a soft sunset sky, perfect for backgrounds."
-  caption: "Foto: Matt Hardy via Pexels"
+  image: "https://images.unsplash.com/photo-1763788427851-e329a047356b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODQ0NTB8MHwxfHNlYXJjaHwxMnx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMHpvZWttYWNoaW5lc3xlbnwwfDB8fHwxNzcyMjY4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "Robot arm playing chess against a human opponent."
+  caption: "Foto: Amos K via Unsplash"
 draft: false
 ---
 
