@@ -467,3 +467,80 @@ figcaption {
 h1.post-title {
   font-weight: 800 !important;
 }
+
+/* ===========================
+   LIGHT MODE OVERRIDES
+   =========================== */
+
+/* Paginering */
+:root[data-theme="light"] .paginav .title {
+  color: #00A19B !important;
+}
+:root[data-theme="light"] .paginav a {
+  color: #1d1d1d !important;
+}
+
+/* Newsletter box */
+:root[data-theme="light"] .newsletter-box {
+  background: #f0f0f0;
+  border-color: #00A19B;
+}
+:root[data-theme="light"] .newsletter-box h3 {
+  color: #1d1d1d;
+}
+:root[data-theme="light"] .newsletter-box p {
+  color: #555;
+}
+:root[data-theme="light"] .newsletter-fields input {
+  background: #fff;
+  color: #1d1d1d;
+  border-color: #ccc;
+}
+:root[data-theme="light"] .newsletter-avg {
+  color: #666;
+}
+
+/* Foto bijschrift */
+:root[data-theme="light"] .post-cover figcaption,
+:root[data-theme="light"] figcaption {
+  color: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* AI-transparantielabel */
+:root[data-theme="light"] .ai-disclosure {
+  color: #555;
+}
+
+/* QGC-label */
+:root[data-theme="light"] .qgc-label p {
+  color: #555;
+}
+
+/* QGC formulier - aanvullend op bestaande light mode */
+:root[data-theme="light"] .qgc-intro strong {
+  color: #1d1d1d;
+}
+:root[data-theme="light"] .qgc-char-count {
+  color: #999;
+}
+:root[data-theme="light"] .qgc-option-label {
+  color: #555;
+}
+:root[data-theme="light"] .qgc-optional-hint {
+  color: #999;
+}
+:root[data-theme="light"] .qgc-prompt-box textarea::placeholder {
+  color: #aaa;
+}
+:root[data-theme="light"] .qgc-error {
+  background: #fce8e8;
+}
+:root[data-theme="light"] .qgc-privacy {
+  color: #999;
+}
+:root[data-theme="light"] .qgc-naam-warning {
+  color: #c0392b;
+}
+:root[data-theme="light"] .qgc-cta-sub {
+  color: #555;
+}
