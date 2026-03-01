@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "What is Answer Engine Optimization (AEO) and how does it change SEO?"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "HubSpot"
 source_url: "https://blog.hubspot.com/marketing/answer-engine-optimization"
 ---
