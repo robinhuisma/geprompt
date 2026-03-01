@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "The best AI visibility tools that actually improve lead quality"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "HubSpot"
 source_url: "https://blog.hubspot.com/marketing/best-ai-visibility-tools"
 ---
