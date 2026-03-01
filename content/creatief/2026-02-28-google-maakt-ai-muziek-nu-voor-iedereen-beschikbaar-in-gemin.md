@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Google brings AI music to the masses"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/google-brings-ai-music-to-the-masses"
 ---
