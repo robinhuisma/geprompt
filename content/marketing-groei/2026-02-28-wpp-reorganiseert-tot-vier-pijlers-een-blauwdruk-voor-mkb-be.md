@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "WPP reorganiseert: schrappen en indikken tot vier divisies"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/wpp-reorganiseert-schrappen-indikken-tot-vier-divisies"
 ---
