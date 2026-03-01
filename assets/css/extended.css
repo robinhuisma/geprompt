@@ -1,1 +1,29 @@
 .header { position: sticky; top: 0; z-index: 9999; }
+
+/* AI-transparantielabel in artikeltekst */
+.post-content em:last-of-type {
+  display: block;
+  margin-top: 2em;
+  padding-top: 0.8em;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  font-size: 0.8em;
+  color: rgba(255,255,255,0.4);
+}
+
+/* Bronvermelding: kleiner, subtiel */
+.post-content p:last-child {
+  font-size: 0.8em;
+  color: rgba(255,255,255,0.45);
+  margin-top: 0.5em;
+}
+
+.post-content p:last-child a {
+  color: rgba(255,255,255,0.55);
+  text-decoration: underline;
+  text-decoration-color: rgba(255,255,255,0.2);
+}
+
+.post-content p:last-child a:hover {
+  color: rgba(255,255,255,0.8);
+  text-decoration-color: rgba(255,255,255,0.5);
+}
