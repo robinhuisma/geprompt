@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "AI ontslaat 40 procent medewerkers betaalbedrijf Block"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/ai-ontslaat-40-procent-medewerkers-betaalbedrijf-block"
 ---
