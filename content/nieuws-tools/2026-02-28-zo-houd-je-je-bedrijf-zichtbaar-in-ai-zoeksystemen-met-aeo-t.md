@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "8 best answer engine optimization (AEO) tools for growing businesses that every marketer should know"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "HubSpot"
 source_url: "https://blog.hubspot.com/marketing/answer-engine-optimization-tools"
 ---
