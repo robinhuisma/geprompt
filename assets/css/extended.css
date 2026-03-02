@@ -47,3 +47,8 @@
   color: rgba(0,0,0,0.8);
   text-decoration-color: rgba(0,0,0,0.5);
 }
+
+/* Eerste alinea (inleiding) dikker */
+.post-content > p:first-of-type {
+  font-weight: 500;
+}
