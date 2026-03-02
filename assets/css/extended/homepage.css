@@ -301,9 +301,54 @@ h1.post-title { font-weight: 700 !important; }
   border-radius: 8px;
 }
 
-/* Light mode: achtergrond 25% zwart */
+/* === DARK MODE: 90% zwart, witte letters === */
+.dark {
+  --theme: #1a1a1a;
+  --entry: #1a1a1a;
+  --primary: #00A19B;
+  --secondary: #888;
+  --content: #ffffff;
+  --hljs-bg: #1a1a1a;
+  background-color: #1a1a1a !important;
+  color: #ffffff;
+}
+
+.dark body,
+.dark .main,
+.dark .post-content {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+}
+
+.dark .post-title,
+.dark .news-title,
+.dark .hero-title,
+.dark h1, .dark h2, .dark h3 {
+  color: #ffffff !important;
+}
+
+/* === LIGHT MODE: 20% zwart achtergrond, 95% zwarte letters === */
 :root:not(.dark) body,
 .list:not(.dark),
 .list:not(.dark) .main {
-  background-color: #c0c0c0;
+  background-color: #cccccc !important;
+  color: #0d0d0d !important;
+}
+
+.list:not(.dark) .post-content,
+.list:not(.dark) p,
+.list:not(.dark) li {
+  color: #0d0d0d !important;
+}
+
+.list:not(.dark) .post-title,
+.list:not(.dark) .news-title,
+.list:not(.dark) h1,
+.list:not(.dark) h2,
+.list:not(.dark) h3 {
+  color: #0d0d0d !important;
+}
+
+.list:not(.dark) .news-meta {
+  color: #333333 !important;
 }
