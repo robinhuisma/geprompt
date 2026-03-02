@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6829517/pexels-photo-6829517.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Close-up of colleagues reviewing analytics at a wooden table in a casual setting."
   caption: "Foto: Kampus Production via Pexels"
-draft: true
+draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"
 ---

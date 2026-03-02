@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7031692/pexels-photo-7031692.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Sleek blue-lit wireless keyboard and mouse, ideal for tech themes."
   caption: "Foto: Matheus Bertelli via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/using-ai-to-serve-clients"
 ---

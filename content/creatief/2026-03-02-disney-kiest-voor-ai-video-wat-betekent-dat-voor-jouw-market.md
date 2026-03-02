@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/9469520/pexels-photo-9469520.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A well-organized home office featuring dual monitors, speakers, and stylish wood desk perfect for design and tech work."
   caption: "Foto: Josh Sorenson via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---

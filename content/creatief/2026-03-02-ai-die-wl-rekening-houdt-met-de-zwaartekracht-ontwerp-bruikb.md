@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7600899/pexels-photo-7600899.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Two women in a soundproof podcast studio holding mugs next to microphones"
   caption: "Foto: cottonbro studio via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---

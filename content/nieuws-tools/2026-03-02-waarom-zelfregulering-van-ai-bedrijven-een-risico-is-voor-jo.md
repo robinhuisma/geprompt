@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/326512/pexels-photo-326512.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Modern office desk setup with dual monitors displaying design software, ideal for tech and business themes."
   caption: "Foto: Tranmautritam via Pexels"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
 ---

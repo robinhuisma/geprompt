@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6476782/pexels-photo-6476782.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A young man gives a presentation on data analysis in a modern office setting."
   caption: "Foto: Mikael Blomkvist via Pexels"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
 ---

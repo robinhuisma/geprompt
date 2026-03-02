@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6476787/pexels-photo-6476787.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Young man delivering a business presentation on ad spend with charts and graphs in a modern office setting."
   caption: "Foto: Mikael Blomkvist via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---

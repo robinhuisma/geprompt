@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7014436/pexels-photo-7014436.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Crop unrecognizable tattooed woman picking photos of flowers at desk with professional camera in room"
   caption: "Foto: George Milton via Pexels"
-draft: true
+draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here"
 ---

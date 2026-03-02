@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/16094061/pexels-photo-16094061.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Eyeglasses next to a smartphone displaying the ChatGPT AI app on a patterned surface."
   caption: "Foto: Matheus Bertelli via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"
 ---

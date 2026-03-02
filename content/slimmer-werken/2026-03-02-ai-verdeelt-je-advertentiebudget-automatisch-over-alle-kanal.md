@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6538576/pexels-photo-6538576.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "An adult's hand reaches for office file folders, capturing a thoughtful moment. Indoors setting."
   caption: "Foto: cottonbro studio via Pexels"
-draft: true
+draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17283060/knorex-xpo-reach-your-audience-everywhere-with-ai"
 ---

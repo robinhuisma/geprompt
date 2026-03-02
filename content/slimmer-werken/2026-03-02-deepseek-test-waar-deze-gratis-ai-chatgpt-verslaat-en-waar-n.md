@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/326513/pexels-photo-326513.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A clean, organized workspace featuring dual monitors, ideal for productivity and creative work."
   caption: "Foto: Tranmautritam via Pexels"
-draft: true
+draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"
 ---

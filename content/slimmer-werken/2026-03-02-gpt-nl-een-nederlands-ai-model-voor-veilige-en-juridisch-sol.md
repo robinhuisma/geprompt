@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/31726553/pexels-photo-31726553.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Stylish home office with monitor, microphone, plants, and wall art in warm sunlight."
   caption: "Foto: Alpha En via Pexels"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/"
 ---

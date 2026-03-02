@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/19554899/pexels-photo-19554899.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Stylish and functional home office with dual monitors, keyboard, and sound system, perfect for productivity and creativity."
   caption: "Foto: Josh Sorenson via Pexels"
-draft: true
+draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/het-bestaat-dus-toch-een-amerikaans-techbedrijf-met-ruggengraat"
 ---

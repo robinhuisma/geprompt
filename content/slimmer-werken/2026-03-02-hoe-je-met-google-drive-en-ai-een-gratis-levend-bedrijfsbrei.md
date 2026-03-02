@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/13595069/pexels-photo-13595069.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Close-up of a modern desk setup with a SanDisk external hard drive and electronics on a wooden surface."
   caption: "Foto: Avinash Kumar via Pexels"
-draft: true
+draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/11044812/pexels-photo-11044812.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Modern music studio setup featuring dual monitors displaying audio editing software on a wooden desk."
   caption: "Foto: John Taran via Pexels"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
 ---

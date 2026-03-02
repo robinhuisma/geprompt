@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5490171/pexels-photo-5490171.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Artistic studio featuring a vintage printing press, decor elements and plants."
   caption: "Foto: Rachel Claire via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/"
 ---

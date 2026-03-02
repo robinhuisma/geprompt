@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Hand holding pencil reviewing colorful data charts on desk with laptop."
   caption: "Foto: Lukas Blazek via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/"
 ---

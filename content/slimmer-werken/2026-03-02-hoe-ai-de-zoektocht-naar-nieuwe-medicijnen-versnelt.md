@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7964503/pexels-photo-7964503.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Two professionals working on laptops in a modern office cubicle setup."
   caption: "Foto: Felicity Tai via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
 ---

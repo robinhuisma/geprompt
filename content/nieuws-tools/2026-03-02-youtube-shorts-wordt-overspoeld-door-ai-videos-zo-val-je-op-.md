@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8566458/pexels-photo-8566458.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A small robot sits on a laptop keyboard beside a pink pen holder, symbolizing technology and innovation."
   caption: "Foto: Kindel Media via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/"
 ---

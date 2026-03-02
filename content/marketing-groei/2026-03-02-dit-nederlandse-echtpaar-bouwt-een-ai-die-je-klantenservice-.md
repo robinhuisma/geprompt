@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/4098172/pexels-photo-4098172.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Two people sitting across a glass table in a modern office, fostering a professional atmosphere."
   caption: "Foto: cottonbro studio via Pexels"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
 ---

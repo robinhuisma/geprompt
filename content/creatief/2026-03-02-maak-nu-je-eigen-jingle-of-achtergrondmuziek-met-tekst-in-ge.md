@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5962648/pexels-photo-5962648.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A well-organized artisan workshop featuring tools, leather craft, and natural light."
   caption: "Foto: Anna Tarazevich via Pexels"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
 ---

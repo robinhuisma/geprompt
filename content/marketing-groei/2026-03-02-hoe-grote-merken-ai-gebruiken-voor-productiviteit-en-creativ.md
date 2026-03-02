@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5831696/pexels-photo-5831696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Two men discussing business analytics in an office with laptops and graphs."
   caption: "Foto: AlphaTradeZone via Pexels"
-draft: true
+draft: false
 source_name: "Blogs"
 source_url: "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/"
 ---

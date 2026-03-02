@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7648506/pexels-photo-7648506.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Two colleagues discussing business analytics in a modern office environment, fostering teamwork and diversity."
   caption: "Foto: RDNE Stock project via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---

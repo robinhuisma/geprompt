@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5833267/pexels-photo-5833267.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Colleagues in formal wear discussing market trends using digital devices in an office."
   caption: "Foto: AlphaTradeZone via Pexels"
-draft: true
+draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai"
 ---

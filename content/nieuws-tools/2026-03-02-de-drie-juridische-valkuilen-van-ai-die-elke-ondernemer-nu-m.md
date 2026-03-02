@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Crop concentrated Asian male judge in formal clothes sitting using modern netbook while working in law office"
   caption: "Foto: Sora Shimazaki via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/34946383/pexels-photo-34946383.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Modern home office desk with keyboard, widescreen monitor, and tablet, creating an ideal productivity setup."
   caption: "Foto: Muhammed Ziyad T V via Pexels"
-draft: true
+draft: false
 source_name: "AI Report"
 source_url: "https://www.aireport.email/p/openclaw-maker-kiest-openai-straks"
 ---

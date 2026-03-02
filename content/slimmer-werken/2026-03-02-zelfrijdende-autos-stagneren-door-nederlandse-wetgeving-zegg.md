@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A contemporary office desk featuring a dual monitor setup with stylish lighting, ideal for tech enthusiasts."
   caption: "Foto: Josh Sorenson via Pexels"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/"
 ---

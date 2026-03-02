@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/35428064/pexels-photo-35428064.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A clean and modern workspace featuring a laptop, keyboard, and potted plant on a white desk with green foliage."
   caption: "Foto: Optimerch GmbH via Pexels"
-draft: true
+draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---

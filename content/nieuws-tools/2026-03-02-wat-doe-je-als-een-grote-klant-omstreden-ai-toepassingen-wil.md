@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/15555952/pexels-photo-15555952.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Stylish desk setup with a how-to book, keyboard, and world map on paper."
   caption: "Foto: Walls.io via Pexels"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
 ---

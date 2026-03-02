@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/16094040/pexels-photo-16094040.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Close-up of a person typing on a laptop displaying the ChatGPT interface, emphasizing modern technology use."
   caption: "Foto: Matheus Bertelli via Pexels"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
 ---

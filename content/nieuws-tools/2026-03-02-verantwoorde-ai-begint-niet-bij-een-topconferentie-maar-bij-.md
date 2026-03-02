@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/4812885/pexels-photo-4812885.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Stylish workspace featuring a desktop, keyboard, and ambient green LED lighting."
   caption: "Foto: Sharad Kachhi via Pexels"
-draft: true
+draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/"
 ---
