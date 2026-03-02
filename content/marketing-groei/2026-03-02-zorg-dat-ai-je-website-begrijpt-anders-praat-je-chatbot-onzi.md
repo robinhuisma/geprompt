@@ -29,4 +29,7 @@ Daarnaast is het verstandig om je belangrijke bedrijfsinformatie expliciet aan t
 ## Hoe kun je dit vandaag toepassen?
 Je kunt beginnen met een eenvoudige test. Gebruik een tool zoals de 'Fetch as Google' in Search Console of een crawler-simulator zoals Screaming Frog. Bekijk de gerenderde HTML van je belangrijkste pagina's en check of alle cruciale tekst en informatie zichtbaar is. Controleer vervolgens of je JSON-LD-schema's voor je bedrijf correct zijn geïmplementeerd met Google's Structured Data Testing Tool. Dit geeft je direct inzicht in wat AI-crawlers op dit moment van je site begrijpen.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Search Engine Journal

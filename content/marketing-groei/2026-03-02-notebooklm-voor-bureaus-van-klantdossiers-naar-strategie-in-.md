@@ -29,4 +29,7 @@ NotebookLM is een tool die je moet voeden met goede input. De output is alleen z
 ## Hoe kun je dit vandaag toepassen?
 NotebookLM is gratis te gebruiken (op moment van schrijven). Ga naar notebooklm.google.com, maak een Google-account aan als je die nog niet hebt, en begin met een test. Kies een bestaand klantdossier met een handvol documenten, zoals een briefing, een jaarverslag en een oude campagne-evaluatie. Upload ze en stel een paar praktische vragen zoals: "Wat zijn de kernwaarden van dit merk?" of "Maak een bulletpoint-lijst met belangrijke mijlpalen uit dit document." Zo ervaar je direct de snelheid en het gemak.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Marketing AI Institute

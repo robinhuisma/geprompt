@@ -27,4 +27,7 @@ Een waarschuwing uit het bronartikel is essentieel: draai geen onbetrouwbare MCP
 ## Hoe kun je dit vandaag toepassen?
 Begin niet met het bouwen van een complex systeem, maar identificeer één repetitieve, op data gebaseerde taak. Bijvoorbeeld: "Elke ochtend een overzicht van nieuwe aanmeldingen uit de database." Onderzoek of hiervoor een betrouwbare MCP-server bestaat (zoals voor PostgreSQL). Installeer een workflow-tool zoals n8n (die een gratis laag heeft) en probeer een simpele flow te maken die één keer per dag die server aanroept en het resultaat naar je stuurt. Zo transformeer je stap voor stap een handmatige check in een autonome agent.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [n8n Blog](https://blog.n8n.io/best-mcp-servers/)

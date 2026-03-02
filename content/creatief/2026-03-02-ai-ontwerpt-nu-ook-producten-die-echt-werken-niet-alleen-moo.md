@@ -27,4 +27,7 @@ Deze ontwikkeling verplaatst de waarde van AI van puur visuele inspiratie naar p
 ## Hoe kun je dit vandaag toepassen
 Hoewel PhysiOpt zelf nog een onderzoeksproject is, kun je het principe nu al verkennen. Gebruik bestaande generatieve AI-tools voor 3D-ontwerp, maar voeg zelf de stap van kritische evaluatie toe. Vraag je bij elk AI-ontwerp af: "Zou dit in het echt blijven staan?" of "Waar zou de zwakke plek zitten?". Je kunt eenvoudige fysica-simulatiesoftware of zelfs handmatige stress-tests gebruiken op je 3D-geprinte prototypes om de AI-output te valideren en te verbeteren.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: MIT News

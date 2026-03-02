@@ -31,4 +31,7 @@ NotebookLM is een tool die je werk ondersteunt, niet overneemt. De kwaliteit van
 ## Hoe kun je dit vandaag toepassen?
 Ga naar de website van NotebookLM en maak een gratis account aan. Begin klein: verzamel alle documenten voor één lopend klantproject en upload ze. Stel een paar concrete vragen om te zien hoe de tool de informatie verwerkt en combineert. Gebruik de gegenereerde antwoorden als startpunt voor je eigen werk.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Marketing AI Institute](https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies)

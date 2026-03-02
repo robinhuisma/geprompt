@@ -35,4 +35,7 @@ De impact is direct voelbaar. Specialisten worden niet langer overladen met deze
 
 Begin vandaag door één Google Drive-map aan te maken voor een terugkerend onderwerp waar veel vragen over zijn, zoals 'Veelgestelde klantvragen'. Verzamel daar de afgelopen week alle relevante e-mails, notities en presentaties in. Laat een collega dan testen door in die map via de Gemini-functie een concrete vraag te stellen die in die documenten beantwoord zou moeten worden. Je zult zien hoe direct de kracht van een geïntegreerde, AI-aangedreven kennisbank is.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Martech](https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry)

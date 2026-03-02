@@ -27,4 +27,7 @@ Naast algemene toepassingen wordt GPT-NL ook verfijnd voor zeer gespecialiseerde
 ## Hoe kun je dit vandaag toepassen?
 Hoewel GPT-NL nog niet publiekelijk beschikbaar is, kun je de ontwikkelingen volgen via TNO en SURF. Voor nu is de belangrijkste actie om je bewust te worden van waar de AI-tools die je gebruikt hun data vandaan halen en waar deze wordt verwerkt. Als je met gevoelige Nederlandstalige data werkt, is het de moeite waard om te onderzoeken of een toekomstige, on-premises versie van een model als GPT-NL een passende oplossing zou kunnen zijn voor taken zoals het samenvatten van rapporten of het ondersteunen van klantcommunicatie.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Computable](https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/)

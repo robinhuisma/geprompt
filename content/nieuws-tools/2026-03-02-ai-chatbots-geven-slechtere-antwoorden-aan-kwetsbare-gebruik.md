@@ -31,4 +31,7 @@ De bias zit niet per se in de intentie van de modellen, maar in de data waarop z
 
 Test je AI-chatbot niet alleen met standaardvragen, maar creëer specifieke testscenario's met gebruikerspersona's die kwetsbaar kunnen zijn. Laat iemand vragen stellen in gebrekkig Nederlands, of simuleer een vraag van iemand met een lager opleidingsniveau door eenvoudiger, minder gestructureerde taal te gebruiken. Controleer of de antwoorden even accuraat en respectvol zijn. Dit is geen eenmalige technische check, maar een essentieel onderdeel van het ontwerpen van een eerlijke klantenservice.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: MIT News

@@ -24,4 +24,7 @@ De houding van Anthropic steekt af tegen het beeld van grote techbedrijven die v
 ## Hoe kun je dit vandaag toepassen?
 Denk na over de grenzen van je eigen dienstverlening. Welke klant of welk project zou je weigeren, zelfs als het financieel zeer aantrekkelijk is? Je kunt dit concreet maken door met je team een korte sessie te houden om twee of drie 'rode lijnen' te definiëren voor jullie klantselectie. Dit hoeft niet ingewikkeld; het kan gaan om het weigeren van werk dat in strijd is met jullie kernwaarden, of projecten waarvan jullie de expertise niet in huis hebben. Het vastleggen van deze principes maakt toekomstige beslissingen eenvoudiger en consistenter.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Sprout](https://mtsprout.nl/leiderschap/het-bestaat-dus-toch-een-amerikaans-techbedrijf-met-ruggengraat)

@@ -27,4 +27,7 @@ AI maakt fouten. Het kan feitelijk onjuiste informatie genereren, schadelijk adv
 ## Hoe kun je dit vandaag toepassen?
 Begin met het lezen van de gebruiksvoorwaarden en het privacybeleid van de AI-tool die je het vaakst gebruikt. Zoek specifiek naar termen als 'intellectual property', 'training data' en 'liability'. Voor gevoelige data kun je overstappen naar zakelijke abonnementen (zoals ChatGPT Team of Microsoft Copilot) die vaak betere data-afspraken bieden. Stel intern een eenvoudige richtlijn op: wat voor soort informatie mag wel en niet in een open AI-systeem worden geplaatst?
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Marketing AI Institute

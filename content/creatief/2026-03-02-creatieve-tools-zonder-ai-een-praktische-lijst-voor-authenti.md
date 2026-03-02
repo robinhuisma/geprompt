@@ -30,4 +30,7 @@ Voor het maken van vector-illustraties en logo's is **Inkscape** een populair en
 ## Hoe kun je dit vandaag toepassen?
 Bekijk welke tool het beste past bij je primaire creatieve behoefte, zoals tekenen of foto bewerken. Download dan de gratis versie (zoals Krita, GIMP of Inkscape) en besteed een uur aan het volgen van een beginners-tutorial op YouTube om de basisinterface en belangrijkste tools te leren kennen.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [AI Art Blog](https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools)

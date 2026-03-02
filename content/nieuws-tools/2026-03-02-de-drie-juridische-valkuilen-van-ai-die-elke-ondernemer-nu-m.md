@@ -27,4 +27,7 @@ Wanneer je prompts schrijft, voer je vaak gegevens in. Dit kunnen klantgegevens,
 ## Hoe kun je dit vandaag toepassen?
 Begin met het opstellen van een eenvoudig intern protocol. Spreek af dat alle AI-output wordt gecontroleerd en geredigeerd door een mens voordat het wordt gebruikt, dat er nooit persoonsgegevens of vertrouwelijke bedrijfsinformatie in publieke AI-chats worden geplaatst, en dat je de herkomst van cruciale feiten altijd verifieert. Overweeg voor creatief werk om alleen AI te gebruiken als inspiratiebron, niet als eindproduct, om auteursrechtelijke risico's te beperken.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Marketingaiinstitute](https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies)

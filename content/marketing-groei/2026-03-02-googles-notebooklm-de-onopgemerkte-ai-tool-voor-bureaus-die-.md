@@ -27,4 +27,7 @@ Een ander praktisch gebruik is het creëren van een live kennisbank. In plaats v
 ## Hoe kun je dit vandaag toepassen?
 NotebookLM is gratis te gebruiken. Je kunt vandaag beginnen door een account aan te maken en één klantdossier of projectmap te selecteren. Upload de belangrijkste documenten (PDF, Word, tekst) en stel een paar praktische vragen om te zien hoe de AI de informatie samenvat en verbindt. Gebruik het bijvoorbeeld om in 10 minuten een briefing voor een creatief team samen te stellen uit bestaande stukken.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Marketing AI Institute](https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies)

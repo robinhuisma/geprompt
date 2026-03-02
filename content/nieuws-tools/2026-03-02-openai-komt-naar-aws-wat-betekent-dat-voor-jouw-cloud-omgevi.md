@@ -27,4 +27,7 @@ De beschikbaarheid van het Frontier-platform op AWS is een teken dat AI volwasse
 ## Hoe kun je dit vandaag toepassen?
 Als jouw bedrijf gebruikmaakt van AWS, is het nu het moment om met je IT-team of cloud-architect te praten over een AI-roadmap. Vraag naar hun inschatting van wanneer deze diensten beschikbaar komen en welke use-cases binnen jouw organisatie het meest urgent zijn. Je kunt ook alvast experimenteren met de bestaande AI-diensten van AWS, zoals Amazon Bedrock, om een gevoel te krijgen voor wat mogelijk is. Zo ben je voorbereid wanneer de directe integratie van OpenAI's krachtigste tools live gaat.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [OpenAI](https://openai.com/index/amazon-partnership)

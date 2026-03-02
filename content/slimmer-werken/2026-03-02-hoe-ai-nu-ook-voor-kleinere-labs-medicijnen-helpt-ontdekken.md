@@ -27,4 +27,7 @@ Het nieuws is niet zozeer dát AI dit kan, maar dat de drempel om het toe te pas
 
 Als je in de life sciences, biotech of aanverwante sectoren werkt, begin dan met het verkennen van bestaande AI-platforms voor drug discovery, zoals die van grote cloud-aanbieders of gespecialiseerde startups. Veel bieden proefperioden of gefaseerde toegang aan. Een concrete eerste stap is het in kaart brengen van je eigen data: gestructureerde datasets over moleculen, celreacties of ziektebeelden zijn de brandstof voor deze AI-tools. Zonder kwalitatieve data kom je niet ver.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: MIT News

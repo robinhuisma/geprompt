@@ -31,4 +31,7 @@ Het is cruciaal om te benadrukken dat dit een aankondiging is van een strategisc
 
 Je kunt deze aankondiging gebruiken als een signaal om je huidige AI-strategie en cloudkosten tegen het licht te houden. Vraag je af of je vastzit aan één leverancier en of meer keuze wenselijk is. Praat met je IT-leverancier of cloud-accountmanager bij AWS over hun roadmap voor AI-diensten en wanneer ze concrete details verwachten over de integratie van OpenAI.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: OpenAI

@@ -24,4 +24,7 @@ Het opvallende aan deze aanpak is dat de taak niet op jouw eigen machine draait.
 ## Hoe kun je dit vandaag toepassen?
 De functie is momenteel in preview, wat betekent dat hij nog in ontwikkeling en testing is. Je kunt hem dus nog niet direct gebruiken. Wel geeft dit een duidelijk beeld van de nabije toekomst van AI in werksoftware: niet alleen chatten of suggesties doen, maar actief taken voltooien. Je kunt je nu al voorbereiden door na te denken over welke repetitieve, administratieve processen in jouw werk het meeste tijd opslokken. Welke taken zou je kunnen 'uitbesteden' aan een AI als die de instructies begrijpt en zelfstandig uitvoert? Dat is het denkwerk waar je nu je voordeel mee kunt doen.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: The Verge

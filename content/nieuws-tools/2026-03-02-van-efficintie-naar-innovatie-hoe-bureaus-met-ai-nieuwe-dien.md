@@ -27,4 +27,7 @@ Een concreet voorbeeld is een bureau dat stopt met het maandelijks opstellen van
 ## Hoe kun je deze stap maken
 De eerste stap is een interne audit: waar gebruik je AI nu alleen voor efficiëntie? Vervolgens organiseer je een sessie met je strategisch team en vraag je: "Als we deze AI-capaciteiten zouden productiseren, welke geheel nieuwe dienst zouden we dan kunnen verkopen aan onze klanten?" Focus op het oplossen van een specifiek, terugkerend probleem van je klanten op een manier die schaalbaar is door AI. Begin klein, met een pilot voor één bestaande klant, en gebruik die ervaring om de dienst te verfijnen en te groeien.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Marketing AI Institute](https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies)

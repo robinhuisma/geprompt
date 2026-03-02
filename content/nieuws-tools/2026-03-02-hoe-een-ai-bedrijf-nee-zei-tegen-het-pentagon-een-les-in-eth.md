@@ -32,4 +32,7 @@ Vervolgens moet je deze grenzen vertalen naar je algemene voorwaarden en service
 ## Hoe kun je dit vandaag toepassen?
 Begin met een interne sessie om jouw 'responsible AI' of ethische gebruiksprincipes concreet te maken. Schrijf niet alleen op wat je technologie kan, maar vooral wat klanten er volgens jouw normen *niet* mee mogen doen. Integreer deze lijst vervolgens in je standaard contracttemplate en maak het een verplicht onderdeel van je sales-pitch, vooral bij grote, strategische klanten. Zo voorkom je dat je later voor het dilemma komt te staan waar Anthropic nu in zit.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: The Verge

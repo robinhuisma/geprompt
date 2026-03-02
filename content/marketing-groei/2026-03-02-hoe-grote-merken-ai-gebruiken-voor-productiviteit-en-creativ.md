@@ -27,4 +27,7 @@ AI wordt ook ingezet om klantinteracties te verbeteren. Door AI-gebaseerde analy
 ## Hoe kun je dit vandaag toepassen?
 Je hoeft geen multinational te zijn om van deze principes te profiteren. Begin met het verkennen van Copilot in Microsoft 365 of een vergelijkbare AI-assistent in je dagelijkse software. Gebruik het om een eerste concept voor een social media-post te genereren, om de notulen van een lang meetingverslag samen te vatten, of om een klantmail in een andere taal op te stellen. De kernles is: zie AI als een collega die het voorwerk doet, zodat jij je kunt richten op de kwaliteit, de nuance en de menselijke touch.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Microsoft AI Blog](https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/)

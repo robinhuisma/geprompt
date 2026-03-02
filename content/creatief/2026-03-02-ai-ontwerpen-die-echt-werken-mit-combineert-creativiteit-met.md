@@ -27,4 +27,7 @@ Het is belangrijk om te benadrukken dat dit een onderzoeksproject is, geen kant-
 
 Hoewel PhysiOpt zelf nog niet beschikbaar is, kun je het principe al wel toepassen. Gebruik AI-tools voor het genereren van 3D-modellen of concepten, maar plan altijd een 'fysieke review' in. Laat een ervaren ontwerper of engineer naar je AI-ontwerp kijken voordat je het laat printen of produceren. Test eenvoudige prototypes om krachten en materialen te begrijpen. De kernles is dat de beste resultaten ontstaan waar creatieve AI en praktisch vakmanschap samenkomen.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [MIT News](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225)

@@ -31,4 +31,7 @@ Deze aanpak beperkt zich niet tot antibiotica. Hetzelfde principe kan worden toe
 
 Hoewel het ontwikkelen van eigen AI-modellen voor medicijnontdekking voorbehouden is aan gespecialiseerde onderzoeksinstellingen en grote farmaceuten, kunnen kleinere spelers wel profiteren van de trend. Een praktische stap is het verkennen van samenwerkingen met academische instellingen die over deze expertise beschikken. Daarnaast kunnen bedrijven in de life sciences zich verdiepen in AI-gestuurde platforms voor data-analyse in hun eigen onderzoek, bijvoorbeeld voor het analyseren van klinische trial-data of het vinden van patronen in biomedische datasets.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [MIT News](https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204)

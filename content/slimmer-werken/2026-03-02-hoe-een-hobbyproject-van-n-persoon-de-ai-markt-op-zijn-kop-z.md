@@ -27,4 +27,7 @@ Volgens Jan Vanalphen, AI strategy advisory lead bij Faktion, is de echte les va
 
 De les is niet dat je nu zelf een AI-agent moet gaan programmeren. De les is om te kijken naar jouw eigen proces of dienst en je af te vragen: welk repetitief, tijdrovend takenpakket kan worden gebundeld en geautomatiseerd door een eenvoudige, scherp gedefinieerde 'agent'? Begin klein. Identificeer één specifieke workflow, zoals het verzamelen en samenvatten van branchenieuws of het voorbereiden van offertes. Onderzoek vervolgens bestaande tools (zoals de open source code van projecten als OpenClaw) of platforms die je helpen zo'n geautomatiseerde assistent in te richten, zonder dat je diepgaande technische kennis nodig hebt. Het gaat om het vinden van die ene, waardevolle toepassing.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Computable](https://www.computable.nl/2026/02/23/waarom-openclaw-het-chatgpt-moment-voor-agents-kan-zijn/)

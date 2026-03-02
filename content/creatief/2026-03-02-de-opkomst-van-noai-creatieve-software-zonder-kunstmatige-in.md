@@ -26,4 +26,7 @@ Op het gebied van foto- en beeldbewerking springt **GIMP** eruit als een gratis,
 ## Hoe kun je dit vandaag toepassen?
 Als je nieuwsgierig bent naar werken zonder AI, begin dan met het verkennen van één tool die aansluit bij je werk. Download bijvoorbeeld de gratis software Krita of GIMP en volg een korte beginnershandleiding om de basisinterface en gereedschappen te leren kennen. Het geeft je direct inzicht in de mogelijkheden en de mate van controle die pure creatieve software biedt.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [AI Art Blog](https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools)

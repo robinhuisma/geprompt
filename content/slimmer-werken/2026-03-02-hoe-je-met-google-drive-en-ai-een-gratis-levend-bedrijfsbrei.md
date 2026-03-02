@@ -33,4 +33,7 @@ De kracht blijkt wanneer specialisten niet langer een knelpunt zijn. Stel, een a
 
 Begin klein. Kies één terugkerend onderwerp waar vaak vragen over zijn, zoals 'Onboarding nieuwe klanten'. Maak een Google Drive-map aan en verzamel daar alle bestaande materialen over dat onderwerp in. nodig je team uit om in die map, via de Gemini-knop, een paar testvragen te stellen. Zo ervaar je direct de waarde van een levend, doorzoekbaar archief zonder migratie of training. Het is een laagdrempelige manier om kennis direct beschikbaar en actueel te houden.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Martech

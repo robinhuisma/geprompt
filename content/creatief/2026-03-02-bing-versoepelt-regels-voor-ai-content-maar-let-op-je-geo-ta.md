@@ -27,4 +27,7 @@ De richtlijnen introduceren ook meer controle voor website-eigenaren over hoe hu
 ## Hoe kun je dit vandaag toepassen?
 Controleer eerst of de belangrijke pagina's van je website (zoals contact, vestigingen en dienstenpagina's) correcte GEO-tags bevatten. Vraag je webdeveloper naar de `geo` meta-tag of het `regions` attribuut. Ten tweede, wees gerust over het gebruik van AI voor het schrijven van blogposts of productbeschrijvingen, maar zorg altijd dat je de output redigeert, aanvult met je eigen expertise en waarde toevoegt voor de lezer. Kwantiteit zonder kwaliteit is het nieuwe risico.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/)

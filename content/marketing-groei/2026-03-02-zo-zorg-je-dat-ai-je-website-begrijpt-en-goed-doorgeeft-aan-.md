@@ -27,4 +27,7 @@ Naast de zichtbare content zijn er twee technische elementen van groot belang. H
 ## Hoe kun je dit vandaag toepassen?
 Open de broncode van je belangrijkste landingspagina en zoek naar je belangrijkste boodschap. Staat die er als platte tekst in? Gebruik vervolgens Google's Rich Results Test tool om te controleren of je structured data correct is geïmplementeerd. Dit zijn concrete acties die ervoor zorgen dat AI je bedrijf snapt en correct kan doorgeven aan geïnteresseerden.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Search Engine Journal

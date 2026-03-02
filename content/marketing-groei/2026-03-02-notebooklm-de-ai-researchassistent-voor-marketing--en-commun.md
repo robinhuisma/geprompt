@@ -31,4 +31,7 @@ NotebookLM is een product in ontwikkeling en heeft beperkingen. Het kan bijvoorb
 ## Hoe kun je dit vandaag toepassen?
 NotebookLM is gratis te gebruiken. Ga naar notebooklm.google.com, maak een account aan met je Google-profiel en begin met een experiment. Upload bijvoorbeeld de laatste drie presentaties van een bestaande klant en stel een paar praktische vragen over de inhoud. Zo ervaar je direct hoe de tool jouw eigen kennis kan versnellen en structureren.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Marketing AI Institute

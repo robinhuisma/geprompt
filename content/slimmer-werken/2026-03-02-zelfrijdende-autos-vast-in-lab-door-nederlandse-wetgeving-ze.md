@@ -27,4 +27,7 @@ Experts doen een dringende oproep aan een nieuw kabinet. Zij vragen om de creati
 ## Hoe kun je dit vandaag toepassen?
 Als je onderneming actief is in mobiliteit, logistiek of AI, kun je je stem laten horen. Sluit je aan bij brancheorganisaties zoals FME of Nederland ICT die lobbyen voor betere innovatiekaders. Voor bedrijven die afhankelijk zijn van deze technologie, zoals in de transportsector, is het verstandig de ontwikkelingen in het buitenland te volgen en partnerships te overwegen in regio's waar testen wel mogelijk is, om niet achter te raken.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Computable](https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/)

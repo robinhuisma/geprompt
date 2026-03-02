@@ -27,4 +27,7 @@ Je hebt geen groot compliance-team nodig om verantwoorde AI te omarmen. Het begi
 ## Hoe kun je dit vandaag toepassen?
 Begin met het maken van een simpele inventarisatie. Maak een lijstje van alle AI-tools die je nu gebruikt, van ChatGPT tot geautomatiseerde boekhoudsoftware. Noteer voor elk tool wat het doet en hoe belangrijk de uitkomst is voor je bedrijf. Voor de meest cruciale toepassingen, spreek dan met je team af wie de eindverantwoordelijkheid draagt en hoe je een menselijke check kunt inbouwen. Dit is geen eenmalige exercitie, maar een onderdeel van je reguliere proces.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [CustomerThink](https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/)

@@ -27,4 +27,7 @@ De voorbeelden laten ook zien hoe AI helpt bij taken die veel tijd kosten maar w
 ## Hoe kun je dit vandaag toepassen?
 Deze use-cases zijn niet exclusief voor grote merken. Je kunt vandaag beginnen door in tools die je mogelijk al gebruikt, zoals Microsoft 365, de ingebouwde Copilot-functies te verkennen. Test het bijvoorbeeld eens door in een Word-document een eerste concept te laten schrijven voor een blogpost of door in Teams een meeting te laten samenvatten. Begin klein, met één repetitieve taak, en kijk of de AI je tijd bespaart.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Blogs Microsoft](https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/)

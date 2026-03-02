@@ -27,4 +27,7 @@ Het is belangrijk om te benadrukken dat dit geen vervanging is voor alle menseli
 ## Hoe kun je dit vandaag toepassen?
 Je hoeft niet te wachten op de exacte Disney-tool. De technologie is al beschikbaar. Je kunt vandaag beginnen met het verkennen van bestaande AI-videoplatformen zoals Runway of Pika Labs. Begin klein: schrijf een korte beschrijving van een simpele scène (bijvoorbeeld "een drone-shot over een zonnig veld met ons logo op een bord") en genereer een clip. Gebruik dit om interne discussies te voeden of als eerste aanzet voor een social post. Het doel is niet perfectie, maar het ontwikkelen van een gevoel voor de mogelijkheden en beperkingen.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Marketingaiinstitute

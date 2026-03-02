@@ -31,4 +31,7 @@ Op dit moment is de beeldgeneratiefunctie van GPT-4o alleen beschikbaar voor bet
 
 Als je een ChatGPT Plus, Pro of Team-abonnement hebt, kun je het direct uitproberen in de interface. Begin met een concrete, tekstgerichte opdracht zoals "Maak een eenvoudige infographic die uitlegt hoe je een account aanmaakt, met genummerde stappen en eenvoudige pictogrammen". Wees specifiek over kleuren, stijl en de exacte tekst die je wilt zien. Voor UI-ontwerp kun je prompts proberen als "Ontwerp een mock-up voor een login-scherm van een mobiele app voor een sportschool, met consistent gebruik van iconen".
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [AI Art Blog](https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here)

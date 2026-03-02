@@ -31,4 +31,7 @@ Het model bevindt zich nu in de praktijkfase bij een selecte groep launching cus
 
 Op dit moment is GPT-NL nog niet publiekelijk beschikbaar voor algemeen zakelijk gebruik. De ontwikkeling en eerste pilots bij overheidspartners zijn in volle gang. Als ondernemer kun je dit echter wel op je radar zetten. Vraag je bij de inzet van commerciële AI-tools altijd af: verwerk ik hier gevoelige data mee? Zo ja, dan is het volgen van de ontwikkeling van Nederlandse, compliant alternatieven zoals GPT-NL een verstandige stap. Houd de kanalen van TNO en SURF in de gaten voor toekomstige mogelijkheden voor het MKB.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Computable

@@ -24,4 +24,7 @@ De kern van je aanpassing ligt bij de inhoud op je website. Google's AI haalt zi
 ## Hoe kun je dit vandaag toepassen?
 Voer een aantal zoekopdrachten uit die jouw ideale klant zou gebruiken. Kijk of er een AI Overview verschijnt. Analyseer welke websites en informatie Google gebruikt voor dat antwoord. Gebruik deze inzichten om je eigen content aan te vullen en te verbeteren, met als doel een van die bronnen te worden.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/)

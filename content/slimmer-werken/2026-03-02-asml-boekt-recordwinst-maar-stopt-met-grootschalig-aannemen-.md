@@ -27,4 +27,7 @@ Voor jou als ondernemer of professional zijn hier twee belangrijke lessen. Ten e
 ## Hoe kun je dit vandaag toepassen?
 Kijk kritisch naar je eigen bedrijfsvoering of afdeling. Waar zijn de afgelopen jaren lagen en complexiteit ontstaan die de wendbaarheid belemmeren? Een eenvoudige oefening is om je kernprocessen in kaart te brengen en je af te vragen of elke stap nog waarde toevoegt voor de klant. Het doel is niet per se minder mensen, maar wel een slimmere inzet van de middelen die je hebt, zodat je wél kunt groeien in omzet en winst zonder dat de organisatie stroperig wordt.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Sprout

@@ -31,4 +31,7 @@ De keuze van Anthropic is niet vrijblijvend. Het heeft directe financiële conse
 
 Je hoeft geen contract van 200 miljoen dollar af te slaan om deze les toe te passen. Begin met het expliciet maken van je eigen 'rode lijnen'. Bespreek met je team: bij welke klantvraag of welk projectvoorstel zouden wij 'nee' zeggen, zelfs als het financieel aantrekkelijk is? Schrijf deze principes op, niet als een vaag manifest, maar als concrete criteria voor toekomstige beslissingen. Dit geeft houvast op het moment dat de verleiding of de druk groot is.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Sprout

@@ -24,4 +24,7 @@ Voor ondernemers betekent dit dat het in de toekomst eenvoudiger wordt om comple
 ## Hoe kun je dit vandaag toepassen?
 Het EnCompass-framework is op dit moment een onderzoeksproject en nog niet direct beschikbaar als kant-en-klare tool. Het belangrijkste inzicht voor nu is dat de ontwikkeling van AI-agents snel volwassener wordt. Je kunt je voorbereiden door te experimenteren met het bouwen van eenvoudige automaties met bestaande tools. Platforms zoals n8n of Make (voorheen Integromat) laten je workflows bouwen waarin je ook AI-stappen (via OpenAI's API) kunt inlassen. Begin met een kleine, repetitieve taak, zoals het automatisch categoriseren van inkomende e-mails of het genereren van eerste concepten voor sociale media-berichten. Zo krijg je gevoel bij de kracht en de valkuilen van geautomatiseerde AI-workflows.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: MIT News

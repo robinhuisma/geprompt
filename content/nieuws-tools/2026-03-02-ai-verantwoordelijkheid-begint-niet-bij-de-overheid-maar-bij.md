@@ -27,4 +27,7 @@ Je hoeft geen machine learning-expert te zijn om inclusieve AI te gebruiken. De 
 ## Hoe kun je dit vandaag toepassen?
 Kies één AI-tool die je regelmatig gebruikt, zoals een chatbot voor klantenservice of een generator voor teksten. Stel jezelf voor je volgende taak drie vragen: waarom gebruik ik AI hiervoor, kan ik de uitkomst controleren, en hoe leg ik het gebruik uit aan een ander? Test vervolgens een prompt uit met een expliciete instructie voor diversiteit of neutraliteit en vergelijk het resultaat met een eerdere, vage opdracht. Dit simpele bewustzijn is de eerste stap naar verantwoord gebruik.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: CustomerThink

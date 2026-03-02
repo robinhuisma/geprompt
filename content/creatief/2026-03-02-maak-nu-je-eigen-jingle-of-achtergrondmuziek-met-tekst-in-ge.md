@@ -27,4 +27,7 @@ De fragmenten zijn kort (30 seconden) en worden gegenereerd op basis van een tek
 ## Hoe kun je dit vandaag toepassen?
 Download de Gemini-app op je telefoon. Bedenk een korte, duidelijke beschrijving voor het type muziek dat je nodig hebt voor een aanstaande video of campagne. Test een paar variaties door termen als genre, stemming, tempo en instrumenten toe te voegen aan je prompt. Gebruik het beste resultaat als unieke achtergrondtrack.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Blog](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)

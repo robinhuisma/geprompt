@@ -31,4 +31,7 @@ Wanneer een grote partij zoals een overheid jouw technologie wil inzetten, komen
 
 Begin met het documenteren van je eigen "rode lijnen". Voor welk gebruik van jouw AI-tool of -dienst zou je nooit een licentie verlenen, ongeacht het financiële gewin? Neem deze grenzen op in je algemene voorwaarden en productdocumentatie. Wanneer je een offerte of contract opstelt voor een (overheids)klant, verwijs hier dan expliciet naar en wees bereid om het gesprek hierover aan te gaan voordat je tekent. Het is beter een potentiële opdracht te verliezen dan je kernprincipes.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: The Verge

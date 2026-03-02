@@ -27,4 +27,7 @@ De reorganisatie en het streven naar een minder stroperige organisatie gaan vrij
 ## Hoe kun je dit vandaag toepassen?
 Evalueer je eigen wervingsbehoefte kritisch: is het probleem een tekort aan mensen, of kun je bestaande processen efficiënter inrichten met software? Bekijk daarnaast je employer value proposition: kun je de wendbaarheid en impact binnen een kleiner bedrijf beter uitdragen tegenover kandidaten? Het landschap verandert, en dat biedt kansen voor wie snel anticipeert.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: Sprout

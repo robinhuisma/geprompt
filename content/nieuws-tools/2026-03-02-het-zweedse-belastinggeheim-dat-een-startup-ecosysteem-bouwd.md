@@ -31,4 +31,7 @@ De keuze voor een belastingstelsel is een politieke en maatschappelijke afweging
 
 Als ondernemer of investeerder is het cruciaal om je te laten adviseren over de impact van de nieuwe Box 3-regels op jouw persoonlijke vermogen en bedrijfsstructuur. Praat met je fiscalist of financieel adviseur over de gevolgen voor jouw aandelenpakket. Daarnaast kun je, ongeacht het belastingklimaat, het Zweedse principe van het vliegwieleffect toepassen door actief je netwerk en kennis in te zetten voor de volgende generatie starters in jouw sector.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [Sprout](https://mtsprout.nl/columnisten-experts/box-3-jeroen-westerbeek)

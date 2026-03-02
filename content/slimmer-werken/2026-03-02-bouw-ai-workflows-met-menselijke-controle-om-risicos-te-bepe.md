@@ -27,4 +27,7 @@ Je hebt geen geavanceerd platform nodig om te beginnen, maar tools zoals n8n mak
 ## Hoe kun je dit vandaag toepassen?
 Kies één hoog-risico AI-taak in je proces, zoals het automatisch plaatsen van sociale media posts. Bouw in je automatiseringstool een stap in die de geposte tekst en afbeelding eerst naar jou of een teamlid stuurt voor een snelle check voordat deze live gaat. Zo behoud je controle zonder het hele voordeel van planning te verliezen. Een andere optie is om AI gegenereerde klant-e-mailantwoorden eerst in een apart mapje te laten landen voor een finale blik voordat ze worden verzonden.
 
+
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 Bron: [n8n Blog](https://blog.n8n.io/human-in-the-loop-automation/)
