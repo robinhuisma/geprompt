@@ -291,3 +291,12 @@ h1.post-title { font-weight: 700 !important; }
 
 /* Copyright in teal */
 .footer span { color: #00A19B; }
+
+/* Light mode: lichte schaduw op alle afbeeldingen */
+.list:not(.dark) .hero-img,
+.list:not(.dark) .news-thumb img,
+.list:not(.dark) .post-content img,
+.list:not(.dark) figure img {
+  box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+  border-radius: 8px;
+}
