@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Collection of NoAI Tools"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools"
 ---

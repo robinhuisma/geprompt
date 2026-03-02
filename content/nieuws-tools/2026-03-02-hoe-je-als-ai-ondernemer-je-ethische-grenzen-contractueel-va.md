@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "AI vs. the Pentagon: killer robots, mass surveillance, and red lines"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Orange, Telefónica, Three Group krijgen satellietinternet"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/orange-telefnica-three-group-krijgen-satellietinternet"
 ---

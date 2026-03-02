@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "OpenAI Partners With Consulting Giants in Enterprise AI Push"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai"
 ---

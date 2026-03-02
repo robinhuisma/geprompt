@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8348457/pexels-photo-8348457.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "GPT-NL groeit uit tot alternatief commerciële ai-modellen"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"
 ---

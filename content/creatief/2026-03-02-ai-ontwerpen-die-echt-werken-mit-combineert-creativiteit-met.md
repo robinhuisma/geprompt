@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Mixing generative AI with physics to create personal items that work in the real world"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---

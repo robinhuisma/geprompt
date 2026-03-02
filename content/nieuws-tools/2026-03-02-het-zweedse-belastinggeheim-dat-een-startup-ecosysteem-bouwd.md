@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Een nieuwe Box 3? Zweden grossiert in unicorns dankzij een veel slimmere vermogensbelasting"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/columnisten-experts/box-3-jeroen-westerbeek"
 ---

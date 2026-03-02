@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Anthropic Targets More Industries With Claude Cowork Plugins"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins"
 ---

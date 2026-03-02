@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
 ---

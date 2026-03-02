@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Disney + Sora: Billion Dollar Partnership Signals New Era"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---

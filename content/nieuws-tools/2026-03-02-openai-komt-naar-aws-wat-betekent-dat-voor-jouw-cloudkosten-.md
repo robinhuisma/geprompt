@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "OpenAI and Amazon announce strategic partnership"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---

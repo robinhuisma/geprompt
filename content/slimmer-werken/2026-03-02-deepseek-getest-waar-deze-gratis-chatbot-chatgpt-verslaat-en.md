@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8348457/pexels-photo-8348457.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "I tested DeepSeek vs ChatGPT with 5 prompts"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"
 ---

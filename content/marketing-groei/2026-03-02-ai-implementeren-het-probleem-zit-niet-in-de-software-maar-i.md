@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Marketingfacts Jaarboek 2026: AI is geen kwestie van technologie, maar een organisatievraagstuk"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"
 ---

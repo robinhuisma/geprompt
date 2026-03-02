@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "What AI Sees When It Visits Your Website (And How To Fix It)"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---

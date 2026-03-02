@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "Google AI Overviews Surges Across 9 Industries via @sejournal, @martinibuster"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/"
 ---

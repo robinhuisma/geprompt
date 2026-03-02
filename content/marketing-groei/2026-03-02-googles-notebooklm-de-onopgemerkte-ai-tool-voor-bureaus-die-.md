@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
   alt: "NotebookLM in Action: 7 Killer Use Cases for Agencies"
   caption: "Foto via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---
