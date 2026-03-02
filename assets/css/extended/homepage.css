@@ -305,5 +305,5 @@ h1.post-title { font-weight: 700 !important; }
 :root:not(.dark) body,
 .list:not(.dark),
 .list:not(.dark) .main {
-  background-color: #cccccc;
+  background-color: #c0c0c0;
 }
