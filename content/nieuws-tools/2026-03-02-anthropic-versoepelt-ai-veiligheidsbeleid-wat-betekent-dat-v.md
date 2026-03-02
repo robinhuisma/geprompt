@@ -13,8 +13,6 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-downgrades-its-ai-safety-policy"
 ---
 
-IMAGE_PROMPT: A close-up of a modern office desk with a laptop open, a coffee cup, and a document titled "Vendor Risk Assessment" in soft, natural daylight from a large window.
-
 Anthropic, de maker van de AI Claude, heeft zijn eigen strikte veiligheidsbeleid versoepeld. Waar het bedrijf eerst alleen modellen wilde uitbrengen die het zelf als volledig 'veilig' classificeerde, laat het nu ruimte voor het uitbrengen van krachtigere modellen die mogelijk meer risico's met zich meebrengen. Dit is een direct gevolg van de enorme marktdruk en de race om de krachtigste AI te bouwen. Voor jou als ondernemer betekent dit dat je niet blind kunt varen op de veiligheidsbeloften van een leverancier. Je moet zelf actief nadenken over de risico's van de tools waar je op bouwt.
 
 ## Waarom een leverancier zijn eigen regels verandert

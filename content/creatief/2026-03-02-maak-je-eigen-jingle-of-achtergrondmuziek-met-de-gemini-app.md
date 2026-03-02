@@ -13,8 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern Dutch office, a smartphone on a wooden desk displaying the Gemini app interface, soft natural daylight from a large window, shallow depth of field focusing on the screen.
-
 De Gemini-app van Google heeft een nieuwe functie gekregen waarmee je muziek kunt laten maken. De technologie, Lyria 3 genaamd, kan op basis van een tekstbeschrijving of een afbeelding een uniek, 30 seconden durend muziekstuk genereren. Dit opent deuren voor ondernemers die op zoek zijn naar betaalbare, op maat gemaakte audio voor hun marketing.
 
 ## Wat kun je ermee in je bedrijf?

@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---
 
-IMAGE_PROMPT: A person looking at a laptop screen showing a simple website structure diagram next to a browser window with a chatbot interface.
-
 AI-assistenten zoals ChatGPT en Copilot crawlen je website om informatie te verzamelen voor hun antwoorden. Maar ze doen dat op een andere manier dan zoekmachines zoals Google. Waar Google vooral kijkt naar hoe een pagina er voor een mens uitziet, proberen AI-crawlers de pure, gestructureerde inhoud te extraheren. Als die structuur ontbreekt of rommelig is, kan een chatbot je product verkeerd uitleggen, je contactgegevens missen of een verouderde prijs doorgeven. Het goede nieuws is dat je met relatief eenvoudige technische checks kunt controleren wat AI ziet en het kunt verbeteren.
 
 ## Het verschil tussen een zoekmachine en een AI-crawler

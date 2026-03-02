@@ -13,8 +13,6 @@ source_name: "AI Report"
 source_url: "https://www.aireport.email/p/openclaw-maker-kiest-openai-straks"
 ---
 
-IMAGE_PROMPT: A person looking thoughtfully at a laptop screen showing a simple AI chat interface in a home office setting with natural daylight.
-
 De maker van de revolutionaire, maar experimentele AI-agent OpenClaw gaat nu voor OpenAI werken. Dat betekent dat de technologie die je agenda kan beheren, e-mails kan beantwoorden en zelfs een restaurant kan bellen, waarschijnlijk een geïntegreerd onderdeel wordt van ChatGPT. Voor jou als ondernemer is dit nieuws omdat het de komst van een veel krachtigere en betrouwbaardere persoonlijke AI-assistent dichterbij brengt.
 
 ## Wat is er precies gebeurd?

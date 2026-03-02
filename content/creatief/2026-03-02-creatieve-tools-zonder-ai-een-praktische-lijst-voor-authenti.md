@@ -13,8 +13,6 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools"
 ---
 
-IMAGE_PROMPT: A designer's hand sketching with a pencil in a notebook next to a laptop displaying a vector graphics interface on a wooden desk.
-
 Als je op zoek bent naar creatieve software die je volledige controle geeft en geen gebruik maakt van generatieve AI, dan bestaan er volop betaalbare en zelfs gratis alternatieven. Dit is een bewuste keuze voor authenticiteit, vakmanschap en het vermijden van de ethische of juridische vragen rond AI-getrainde modellen. Hier is een praktisch overzicht van tools voor verschillende creatieve disciplines, gebaseerd op een verzameling van de AI Art Blog.
 
 ## Software voor 3D en animatie

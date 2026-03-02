@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
 ---
 
-IMAGE_PROMPT: A thoughtful businessperson in a modern Dutch office, looking at a laptop screen displaying a simple ethics checklist, with soft daylight from a large window illuminating the desk.
-
 De recente berichten over AI-bedrijven die hun ethische principes aanpassen voor grote overheidscontracten, zoals het Pentagon, zijn niet alleen een ver-van-mijn-bed-show. Het raakt de kern van een praktisch dilemma voor elke ondernemer die AI-tools gebruikt: op wiens ethische kompas vaar je eigenlijk? Wanneer een leverancier zijn eigen regels kan buigen voor een lucratieve klant, wordt het extra belangrijk dat je zelf duidelijke grenzen bepaalt voor hoe je AI inzet.
 
 ## Waarom jouw eigen kader nu belangrijker is dan ooit

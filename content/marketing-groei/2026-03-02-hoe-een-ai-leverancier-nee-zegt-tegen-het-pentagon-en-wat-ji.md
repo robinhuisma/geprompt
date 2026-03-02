@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
 ---
 
-IMAGE_PROMPT: A close-up of a modern, clean laptop on a wooden desk in a Dutch office, a simple printed document with a red "X" next to a clause lies beside it, soft morning light filtering through a window.
-
 Het AI-bedrijf Anthropic heeft formeel geweigerd om aan de nieuwe voorwaarden van het Amerikaanse ministerie van Defensie te voldoen. De kern van het conflict draait om twee ethische grenzen waar het bedrijf niet overheen wil: het niet bouwen van massa-surveillance systemen en het niet ontwikkelen van dodelijke autonome wapens zonder menselijk toezicht. Voor een ondernemer die met AI-oplossingen werkt, is dit geen ver-van-mijn-bed-show. Het toont het groeiende belang van de ethische principes van je AI-leverancier.
 
 ## Waarom de principes van je leverancier ertoe doen

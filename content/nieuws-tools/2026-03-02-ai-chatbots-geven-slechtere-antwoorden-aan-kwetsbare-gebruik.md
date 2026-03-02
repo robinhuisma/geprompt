@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"
 ---
 
-IMAGE_PROMPT: A person with a concerned expression looking at a laptop screen showing a chatbot interface, with a printed report about AI bias on the desk.
-
 AI-chatbots zoals GPT-4 en Claude geven minder accurate en soms betuttelende antwoorden aan gebruikers met een lagere opleiding, een niet-Engelse moedertaal of een niet-Amerikaanse achtergrond. Dat blijkt uit nieuw onderzoek van het MIT Center for Constructive Communication. Voor ondernemers die deze tools inzetten voor klantenservice of interne kennisbases, is dit een directe waarschuwing: je chatbot kan onbedoeld discrimineren en kwetsbare klanten slechter bedienen.
 
 ## Wat het onderzoek precies aantoont

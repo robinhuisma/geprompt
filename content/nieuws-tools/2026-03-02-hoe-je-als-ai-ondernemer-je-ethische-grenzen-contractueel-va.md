@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
 ---
 
-IMAGE_PROMPT: A close-up of a hand signing a contract on a wooden desk in a modern Dutch office, with a laptop open showing a simple ethics policy document, soft daylight from a large window.
-
 Het conflict tussen AI-bedrijf Anthropic en het Amerikaanse ministerie van Defensie is meer dan een nieuwsbericht. Het is een praktische les voor elke Nederlandse ondernemer die AI ontwikkelt of toepast, zeker als je met overheden werkt. Anthropic weigert de zogeheten "guardrails" rond zijn AI-modellen te verwijderen, waardoor het leger de technologie zou kunnen inzetten voor massa-surveillance of volledig autonome wapens. Het Pentagon dreigt het bedrijf nu te bestempelen als een "supply chain risk", een label voor nationale veiligheidsdreigingen. Concurrenten als OpenAI en xAI hebben de nieuwe voorwaarden wel geaccepteerd. Dit laat zien dat ethische keuzes niet abstract zijn, maar concrete contractuele en commerciële gevolgen hebben.
 
 ## Waarom dit voor jou als ondernemer relevant is

@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern European office desk, a laptop open to a legal document next to a coffee cup, soft natural daylight from a window, shallow depth of field, professional and slightly tense atmosphere.
-
 Het gebruik van AI in je bedrijf is niet alleen een kwestie van productiviteit. Het roept direct juridische vragen op waar je niet omheen kunt. Volgens een analyse van het Marketing AI Institute zijn er vier concrete risicogebieden die elke ondernemer of professional die met AI werkt, moet adresseren. Het gaat niet om verre toekomstmuziek, maar om praktische zaken zoals wie de eigenaar is van gegenereerde content en wie aansprakelijk is voor fouten.
 
 ## Auteursrecht op AI-output is onzeker

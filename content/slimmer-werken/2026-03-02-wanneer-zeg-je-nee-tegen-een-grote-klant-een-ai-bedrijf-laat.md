@@ -13,8 +13,6 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/het-bestaat-dus-toch-een-amerikaans-techbedrijf-met-ruggengraat"
 ---
 
-IMAGE_PROMPT: A businessperson in a modern office, looking thoughtfully at a laptop screen displaying a contract proposal, with a pen resting on a notepad.
-
 Het AI-bedrijf Anthropic heeft een lucratief contract met het Amerikaanse ministerie van Defensie geweigerd. De reden was niet dat ze niet wilden samenwerken, maar dat ze hun AI-modellen niet zonder restricties wilden overhandigen. CEO Dario Amodei trok een grens tegen een 'any lawful use'-clausule, uit vrees voor massasurveillance en volledig autonome wapensystemen. In een sector waar grote techbedrijven vaak buigen voor politieke druk of winstkansen, is dit een opvallend staaltje principieel leiderschap.
 
 ## Wat betekent dit voor een ondernemer?

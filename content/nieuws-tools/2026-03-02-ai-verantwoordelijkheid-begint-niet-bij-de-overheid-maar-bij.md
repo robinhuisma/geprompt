@@ -13,8 +13,6 @@ source_name: "CustomerThink"
 source_url: "https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/"
 ---
 
-IMAGE_PROMPT: A business person at a desk, pointing at a simple flowchart on their laptop screen while explaining it to a colleague.
-
 De grootste fout die ondernemers maken met verantwoorde AI is dat ze het zien als een abstract, juridisch probleem voor grote bedrijven. De boodschap van toonaangevende bijeenkomsten zoals het India AI Impact Summit is juist dat de verantwoordelijkheid begint bij de gebruiker. Het gaat niet om het implementeren van een enorm governance-framework, maar om de dagelijkse, praktische keuzes in hoe je AI inzet. De verschuiving is van 'hoe snel kunnen we innoveren' naar 'hoe kunnen we uitleggen wat we doen'. Voor een ondernemer betekent dit dat je vandaag al stappen kunt zetten.
 
 ## Verantwoorde AI is een praktijk, geen beleid

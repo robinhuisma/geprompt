@@ -13,8 +13,6 @@ source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"
 ---
 
-IMAGE_PROMPT: A business team in a modern office meeting room, discussing a project plan on a whiteboard with a laptop open on the table.
-
 Het succes van AI in je bedrijf staat of valt niet met de keuze voor de juiste tool, maar met de vraag wie de verantwoordelijkheid draagt, welke processen je aanpast en hoe je je team meeneemt in de verandering. Dat is de kernconclusie uit het Marketingfacts Jaarboek 2026. De technologie is er en toegankelijk, maar de bottleneck voor ondernemers zit in de organisatie.
 
 ## Wie is verantwoordelijk voor AI in jouw bedrijf?

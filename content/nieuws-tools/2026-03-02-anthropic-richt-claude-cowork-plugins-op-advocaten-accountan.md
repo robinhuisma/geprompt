@@ -13,8 +13,6 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins"
 ---
 
-IMAGE_PROMPT: A cinematic shot of a modern, minimalist Dutch office desk. A laptop is open, showing a clean interface with a chat window. Next to it, a stack of legal or financial documents lies neatly, with a pair of reading glasses resting on top. Soft morning light streams through a window.
-
 Anthropic breidt zijn zakelijke AI-platform, Claude Cowork, uit met een reeks plugins die specifiek zijn ontworpen voor professionele dienstverleners. Het gaat niet om algemene AI-hulp, maar om tools die direct kunnen worden ingezet in de dagelijkse werkprocessen van sectoren zoals advocatuur, accountancy en consultancy. Volgens het bedrijf zelf is dit een bewuste zet om de kans in deze markten te benutten.
 
 De nieuwe plugins functioneren als gespecialiseerde assistenten binnen de Claude Cowork-omgeving. In plaats van dat een gebruiker zelf een prompt moet bedenken om een contract te analyseren, kan een advocaat bijvoorbeeld de "Legal Research" of "Contract Review" plugin activeren. De AI is dan voorgeprogrammeerd om de juiste vragen te stellen en zich te focussen op de relevante clausules, risico's of precedenten. Voor een accountant kan een plugin helpen bij het doorzoeken van financiële regelgeving of het voorbereiden van audit-trails.

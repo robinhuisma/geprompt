@@ -13,8 +13,6 @@ source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/23/waarom-openclaw-het-chatgpt-moment-voor-agents-kan-zijn/"
 ---
 
-IMAGE_PROMPT: A developer working on a laptop at a simple desk in a home office, with a second monitor showing a clean code interface and a notebook with handwritten notes.
-
 Het verhaal van OpenClaw is geen technische doorbraak, maar een praktische les in de snelheid van de huidige AI-revolutie. Een Oostenrijkse ontwikkelaar bouwde in zijn eentje, vanuit Wenen, een AI-agent die taken als agendabeheer en communicatie kan uitvoeren. Binnen een maand groeide dit hobbyproject uit tot een visitekaartje dat hem een baan bij OpenAI opleverde. Het illustreert een fundamentele verschuiving: de afstand tussen een experiment en een serieus product is kleiner dan ooit.
 
 ## Wat betekent dit voor de markt?

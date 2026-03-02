@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
 ---
 
-IMAGE_PROMPT: A person in a modern office setting, reviewing a contract document on a desk next to a laptop, with a red pen in hand, in natural daylight.
-
 Het Amerikaanse AI-bedrijf Anthropic weigert de beveiligingsrestricties op zijn modellen los te laten voor gebruik door het Pentagon. De strijd, die de status van een nationale beveiligingskwestie heeft gekregen, is een praktische les voor elke leverancier van geavanceerde technologie: als je niet vooraf je ethische grenzen vastlegt in je contracten, bepaalt je grootste klant ze voor je.
 
 Het conflict draait om nieuwe contractvoorwaarden die het Amerikaanse ministerie van Defensie, het Pentagon, aan zijn AI-leveranciers wil opleggen. Die voorwaarden zouden het gebruik van de AI-modellen toestaan voor "elk legaal gebruik". Volgens berichten in The Verge vallen daaronder massasurveillance van Amerikaanse burgers en de inzet van volledig autonome, dodelijke wapens – zogenaamde 'killer robots'. Terwijl concurrenten als OpenAI en xAI van Elon Musk naar verluidt akkoord zijn gegaan, houdt Anthropic voet bij stuk. CEO Dario Amodei weigert de zelfopgelegde veiligheidsbegrenzingen, de 'guardrails', van zijn modellen te verwijderen.

@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a tidy, modern Dutch home office desk with a laptop closed, a notebook open to a clean page, and soft morning light filtering through a window, symbolizing cleared workload and mental space.
-
 Microsoft test een nieuwe AI-functie, Copilot Tasks, die is ontworpen om achter de schermen voor jou te werken. Het idee is simpel: je geeft in gewone taal aan wat er moet gebeuren, en de AI voert de taak uit op een eigen computer in de cloud, niet op jouw laptop of telefoon. Dit betekent dat je apparaat niet vertraagt terwijl de AI bijvoorbeeld een vergadering plant of een onderzoekssamenvatting maakt. Je kunt de taak eenmalig, volgens een schema of herhalend instellen en krijgt een rapport als het klaar is.
 
 ## Wat je er concreet mee kunt doen

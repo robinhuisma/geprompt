@@ -13,8 +13,6 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry"
 ---
 
-IMAGE_PROMPT: A person sitting at a modern office desk, looking at a laptop screen showing a Google Drive folder and a chat interface with a simple question typed into it.
-
 Voor veel ondernemers is een centraal kenniscentrum een droom die nooit uitkomt. Je investeert in een platform als Notion of Confluence, maar je team blijft vragen stellen in de groepsapp of via e-mail. Het werk gebeurt ergens anders, en het kennisplatform raakt verouderd. De oplossing ligt niet in nóg een nieuw systeem, maar in het slim verbinden van wat je al hebt: je Google Drive met een AI-assistent zoals Gemini.
 
 Door AI direct toegang te geven tot je bestaande documenten, presentaties en notities in Google Drive, verander je die verzameling bestanden in een interactief 'bedrijfsbrein'. Het idee is simpel: in plaats van dat collega's moeten zoeken en bladeren, kunnen ze in gewone taal een vraag stellen. De AI doorzoekt dan alle relevante documenten in de geselecteerde mappen en geeft een samenvatting op basis van de actuele bedrijfsinformatie.

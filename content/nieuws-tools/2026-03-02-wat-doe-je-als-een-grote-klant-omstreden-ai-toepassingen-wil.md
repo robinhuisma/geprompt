@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
 ---
 
-IMAGE_PROMPT: A person in a business suit looking thoughtfully at a laptop screen displaying a complex contract document on a wooden desk.
-
 OpenAI heeft zijn eigen regels aangepast om een contract met het Amerikaanse ministerie van Defensie te kunnen sluiten. Waar concurrent Anthropic twee harde grenzen stelde – geen massa-surveillance van burgers en geen dodelijke autonome wapens – onderhandelde OpenAI nieuwe voorwaarden. Het bedrijf zegt zijn kernprincipes te behouden, maar de kwestie laat zien welk dilemma elke ondernemer kan treffen: wat doe je als een grote, invloedrijke klant iets wil dat tegen je eigen ethische richtlijnen ingaat?
 
 ## Het praktische conflict tussen principe en opdracht

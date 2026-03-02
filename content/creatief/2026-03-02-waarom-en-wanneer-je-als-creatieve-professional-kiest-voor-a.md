@@ -13,8 +13,6 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools"
 ---
 
-IMAGE_PROMPT: A close-up of a designer's hands sketching with a pencil on a textured paper pad in a sunlit studio, with a laptop showing a 3D modeling interface in the soft background blur.
-
 Soms wil je als ontwerper, illustrator of 3D-artiest gewoon zelf de controle houden. Je wilt niet dat een algoritme je keuzes overneemt of je werkstijl imiteert. Daarom kiezen steeds meer creatieven bewust voor zogenaamde NoAI-tools: software die expliciet géén kunstmatige intelligentie gebruikt om het eindresultaat te produceren. Het is een manier om je vakmanschap te beschermen en puur menselijk werk te leveren. Dit is geen statement tegen vooruitgang, maar een praktische keuze voor controle, transparantie en authenticiteit in je creatieve proces.
 
 ## Wat zijn NoAI-tools en waarom zou je ze gebruiken?

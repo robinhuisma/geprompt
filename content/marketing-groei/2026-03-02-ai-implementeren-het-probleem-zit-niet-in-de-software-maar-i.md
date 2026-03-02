@@ -13,8 +13,6 @@ source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern Dutch office meeting, natural daylight from large windows, a team discussing a whiteboard with simple process diagrams, soft focus on the people collaborating, professional and calm atmosphere.
-
 De grootste fout die ondernemers nu maken met AI, is denken dat het een technisch probleem is. Je koopt een licentie, je leert een tool gebruiken en klaar. Het echte werk begint pas daarna. Het succes van AI in je bedrijf wordt niet bepaald door de kracht van de algoritmes, maar door de vraag of je organisatie er klaar voor is. Het is een veranderingsvraagstuk, geen software-installatie.
 
 ## De valkuil van de geïsoleerde expert

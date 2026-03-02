@@ -13,8 +13,6 @@ source_name: "CustomerThink"
 source_url: "https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/"
 ---
 
-IMAGE_PROMPT: A person at a desk reviewing a printed checklist next to an open laptop showing a simple dashboard, with a notebook and pen nearby in a home office setting.
-
 De kern van verantwoorde AI is niet het wachten op internationale afspraken, maar het nu al nemen van praktische staps om transparantie en controle te garanderen. Ondernemers kunnen vandaag beginnen met eenvoudige vragen en processen, zonder dat ze een expert in ethiek hoeven te zijn. Het gaat erom dat je weet wat je systeem doet, waarom het bepaalde keuzes maakt en wie verantwoordelijk is als het fout gaat.
 
 ## Waar het bij verantwoorde AI echt om draait

@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, clean European laboratory. Soft natural daylight from a large window illuminates a researcher's hand holding a petri dish, with a laptop screen showing a complex molecular structure in the background. Shallow depth of field, centered composition, professional and calm atmosphere.
-
 Een van de grootste uitdagingen in de farmaceutische industrie is het vinden van nieuwe, werkzame moleculen. Traditioneel is dit een extreem lang en kostbaar proces van vallen en opstaan. Onderzoekers van het MIT laten nu zien hoe kunstmatige intelligentie dit proces kan versnellen door in korte tijd miljoenen potentiële moleculen te screenen en de meest veelbelovende kandidaten te identificeren.
 
 ## AI als krachtige partner in het lab

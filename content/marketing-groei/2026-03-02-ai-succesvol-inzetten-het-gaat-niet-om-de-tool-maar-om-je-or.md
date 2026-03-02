@@ -13,8 +13,6 @@ source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"
 ---
 
-IMAGE_PROMPT: A business leader stands at a whiteboard in a modern office, mapping out team roles and workflows with colored markers, with colleagues observing.
-
 De grootste valkuil voor ondernemers die met AI aan de slag gaan, is de focus op de technologie zelf. Het echte werk begint pas nadat je een tool hebt gekozen. Succesvolle AI-implementatie is vooral een organisatievraagstuk. Het gaat om het herinrichten van processen, het definiëren van nieuwe rollen en het creëren van een cultuur waarin experimenteren en leren centraal staan. Als je dat negeert, blijft zelfs de krachtigste AI-tool een dure gadget die niets oplevert.
 
 ## Waarom processen belangrijker zijn dan prompts

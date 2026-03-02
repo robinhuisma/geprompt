@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---
 
-IMAGE_PROMPT: A person looking thoughtfully at a laptop screen showing a website's code editor next to a browser window with a chatbot interface.
-
 Als je klanten vragen stellen aan ChatGPT of een andere AI-assistent over jouw bedrijf, krijg je dan een accuraat antwoord? Dat hangt af van hoe die AI je website 'ziet'. AI-crawlers lezen webpagina's niet zoals een menselijke bezoeker dat doet. Ze interpreteren de onderliggende structuur en inhoud, en als die rommelig is, kan de AI de verkeerde conclusies trekken. Het gevolg is dat een potentiële klant via een chatbot misleidende of incomplete informatie over jou krijgt.
 
 ## Hoe AI je website leest

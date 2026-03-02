@@ -13,8 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
 ---
 
-IMAGE_PROMPT: A person typing a text description into a smartphone app on a desk, with a pair of headphones and a notebook next to it.
-
 De Gemini-app van Google heeft een nieuwe, creatieve functie gekregen. Je kunt er nu via het Lyria 3-model korte, originele muziekstukken mee maken door simpelweg een tekstbeschrijving in te voeren. Dit opent deuren voor ondernemers die op zoek zijn naar betaalbare, unieke audio voor hun marketing.
 
 ## Wat kun je precies maken met Gemini?

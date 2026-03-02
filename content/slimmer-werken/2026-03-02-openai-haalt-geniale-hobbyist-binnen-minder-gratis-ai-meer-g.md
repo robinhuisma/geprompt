@@ -13,8 +13,6 @@ source_name: "AI Report"
 source_url: "https://www.aireport.email/p/openclaw-maker-kiest-openai-straks"
 ---
 
-IMAGE_PROMPT: A person looking thoughtfully at a laptop screen showing a simple AI assistant interface, with a notebook and pen on a wooden desk in a home office.
-
 De maker van de experimentele en razend populaire AI-assistent OpenClaw gaat voor OpenAI werken. Voor jou als ondernemer betekent dit concreet dat de kans op gratis, krachtige opensource-alternatieven voor tools als ChatGPT kleiner wordt. Het talent dat deze slimme hobby-projecten bouwt, wordt steeds vaker opgekocht door grote spelers. Het resultaat is dat de meest geavanceerde AI-assistenten straks vooral via gecommercialiseerde, betaalde platforms beschikbaar komen.
 
 ## Wat was OpenClaw en waarom is dit nieuws?

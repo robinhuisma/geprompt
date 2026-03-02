@@ -13,8 +13,6 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry"
 ---
 
-IMAGE_PROMPT: A person sitting at a desk, looking at a laptop screen showing a Google Drive folder and a chat interface with a simple question typed into it.
-
 Het idee van een aparte, dure kennisbase-software is achterhaald. Je kunt nu met de tools die je waarschijnlijk al hebt – Google Workspace en de ingebouwde Gemini AI – een levende, doorzoekbare kennisbank creëren die je team daadwerkelijk gebruikt. Het geheim is niet een nieuw systeem, maar het slim ontsluiten van de kennis die al in je documenten, notities en presentaties zit.
 
 ## Waarom aparte kennisbases vaak mislukken

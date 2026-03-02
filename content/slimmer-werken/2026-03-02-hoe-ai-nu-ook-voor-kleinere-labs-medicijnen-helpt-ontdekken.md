@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
 ---
 
-IMAGE_PROMPT: A researcher in a lab coat reviewing data on a laptop screen next to a notebook in a clean, modern laboratory setting.
-
 AI verandert de manier waarop nieuwe medicijnen worden ontdekt, en die verandering wordt nu ook praktisch haalbaar voor kleinere spelers. Waar dit voorheen het domein was van grote farmaceutische bedrijven met enorme budgetten, worden de tools en methoden nu gebruiksvriendelijker en toegankelijker. Dit opent deuren voor innovatieve MKB'ers, startups en academische labs in de life sciences sector. De kern van de ontwikkeling is dat AI, en met name deep learning, patronen kan herkennen in enorme datasets die voor mensen onmogelijk te overzien zijn. Dit versnelt het identificeren van veelbelovende kandidaat-moleculen voor nieuwe therapieën aanzienlijk.
 
 ## Wat AI concreet doet in medicijnontwikkeling

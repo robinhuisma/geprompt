@@ -13,8 +13,6 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern Dutch office desk with a laptop screen showing a clean, text-heavy infographic being designed, natural morning light from a large window, shallow depth of field focusing on the screen.
-
 OpenAI heeft zijn GPT-4o model uitgebreid met de mogelijkheid om afbeeldingen te genereren. Dit is niet zomaar een nieuwe beeldgenerator. Het model is volgens OpenAI speciaal getraind om twee dingen bijzonder goed te doen: tekst in afbeeldingen correct weergeven en consistente visuele elementen creëren. Voor ondernemers die regelmatig infographics, recepten, handleidingen of zelfs gebruikersinterfaces (UI's) nodig hebben, kan dit een praktische stap vooruit zijn.
 
 ## Wat maakt GPT-4o's beeldgeneratie anders?

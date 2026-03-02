@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies"
 ---
 
-IMAGE_PROMPT: A professional reviewing a legal document on a laptop screen next to a printed contract at a wooden desk in a modern office.
-
 Het gebruik van AI-tools zoals ChatGPT of Midjourney is niet alleen een kwestie van productiviteit. Het opent direct drie concrete juridische risicogebieden waar je als ondernemer verantwoordelijkheid voor draagt: intellectueel eigendom, aansprakelijkheid voor de output, en de verwerking van persoonsgegevens. Deze risico's zijn niet abstract; ze spelen bij elke prompt die je intoetst en elk resultaat dat je publiceert.
 
 ## Auteursrecht op AI-output is onzeker

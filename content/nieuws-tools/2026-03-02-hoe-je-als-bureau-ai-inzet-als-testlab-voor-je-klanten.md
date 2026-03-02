@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/using-ai-to-serve-clients"
 ---
 
-IMAGE_PROMPT: A consultant sits at a modern desk with two laptops open, comparing different software dashboards on their screens in a bright office.
-
 Je kunt als bureau of consultant AI inzetten als een intern testlab. In plaats van zelf uren te besteden aan het uitproberen van tientallen nieuwe tools, laat je AI het voorwerk doen. Het idee is simpel: je gebruikt een grote taalmodel, zoals ChatGPT of Claude, om snel de functionaliteiten, prijzen en gebruikerservaringen van nieuwe software te analyseren en te vergelijken. Zo kun je je klanten veel gerichter adviseren over welke tool bij hun specifieke vraag past.
 
 ## Hoe werkt dit testlab in de praktijk?

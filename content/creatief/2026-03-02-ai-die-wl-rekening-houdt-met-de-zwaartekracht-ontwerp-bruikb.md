@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---
 
-IMAGE_PROMPT: A designer's hand holding a 3D-printed, bird-shaped drinking glass on a desk next to a laptop showing a 3D modeling interface.
-
 Generatieve AI kan prachtige 3D-modellen bedenken, maar vaak zijn ze onpraktisch: een ontworpen stoel zou in elkaar zakken en een beker zou omvallen. Onderzoekers van MIT hebben een systeem ontwikkeld dat dit probleem oplost door de creativiteit van AI te combineren met natuurkundige simulaties. Het resultaat is dat je binnen ongeveer dertig seconden een ontwerp krijgt dat niet alleen mooi is, maar ook echt werkt en 3D-printbaar is.
 
 ## Hoe werkt het systeem?

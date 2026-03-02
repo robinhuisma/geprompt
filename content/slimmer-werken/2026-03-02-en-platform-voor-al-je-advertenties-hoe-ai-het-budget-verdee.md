@@ -13,8 +13,6 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17283060/knorex-xpo-reach-your-audience-everywhere-with-ai"
 ---
 
-IMAGE_PROMPT: A professional reviewing a dashboard on a laptop screen showing multiple advertising channel performance graphs, at a modern office desk.
-
 Het is een veelvoorkomend probleem voor ondernemers: je wilt adverteren op Google, Facebook, Instagram en misschien zelfs op digitale reclameschermen, maar het beheren van al die campagnes kost enorm veel tijd. Je moet constant budgetten verschuiven, aanbiedingen aanpassen en creatives aanmaken voor elk apart platform. AI-platforms beloven dit proces te automatiseren door al je advertentiekanalen vanuit één plek te beheren en je budget slim over de kanalen te verdelen die op dat moment het beste presteren.
 
 ## Wat doet een geïntegreerd AI-advertentieplatform?

@@ -13,8 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/claude-vs-chatgpt"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern Dutch home office desk with two laptop screens side by side, one displaying a ChatGPT interface and the other a Claude interface, bathed in soft morning light from a large window, shallow depth of field focusing on the keyboards.
-
 Voor marketeers is de vraag niet of Claude of ChatGPT beter is. De vraag is welke je wanneer gebruikt. Beide tools hebben een eigen sterke kant die je in je voordeel kunt laten werken. ChatGPT blinkt uit in snelheid en creativiteit voor korte, snelle content. Claude is een krachtpatser voor het schrijven en bewerken van lange teksten, met een uitzonderlijk goed geheugen voor je instructies.
 
 ## Waar ChatGPT wint: snelheid en creativiteit

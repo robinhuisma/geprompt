@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies"
 ---
 
-IMAGE_PROMPT: A creative director and a strategist discussing a new service blueprint on a large whiteboard in a bright, modern agency office.
-
 Voor marketing- en communicatiebureaus is de fase van AI als louter productiviteitshulpmiddel voorbij. Volgens Paul Roetzer, oprichter van het Marketing AI Institute, is de volgende, noodzakelijke stap het gebruiken van AI om fundamenteel nieuwe diensten en verdienmodellen te creëren. Het gaat niet meer om optimalisatie, maar om innovatie.
 
 ## Waom optimalisatie niet meer genoeg is

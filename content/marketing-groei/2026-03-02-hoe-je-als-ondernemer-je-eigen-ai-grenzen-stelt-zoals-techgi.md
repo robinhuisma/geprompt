@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
 ---
 
-IMAGE_PROMPT: A person sits at a modern desk, looking thoughtfully at a laptop screen displaying a simple document titled "AI Principles" next to a notebook.
-
 Een groot AI-bedrijf, Anthropic, heeft een ultimatum van het Amerikaanse ministerie van Defensie afgewezen. Het bedrijf weigert voorwaarden te accepteren die zouden leiden tot massa-surveillance van burgers of de inzet van dodelijke autonome wapens zonder menselijk toezicht. Deze principiële keuze, midden in een publieke discussie en onderhandelingen, is meer dan een nieuwsfeit. Het is een praktisch voorbeeld van hoe je als organisatie grenzen kunt stellen aan de toepassing van technologie, zelfs als de opdrachtgever machtig is.
 
 ## Waarom deze grenzen belangrijk zijn voor jouw bedrijf

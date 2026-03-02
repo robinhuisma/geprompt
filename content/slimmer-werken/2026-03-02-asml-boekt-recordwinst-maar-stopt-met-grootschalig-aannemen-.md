@@ -13,8 +13,6 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/recordcijfers-voor-asml-maar-banengroei-stagneert"
 ---
 
-IMAGE_PROMPT: A person in an office looking thoughtfully at a laptop screen showing a financial report and an organizational chart on the desk.
-
 ASML, het Nederlandse techicoon, heeft in 2025 een recordomzet van 32,7 miljard euro en een nettowinst van 9,6 miljard euro geboekt. Toch groeide het personeelsbestand met slechts 182 voltijdsbanen, een fractie van de groei in voorgaande jaren. Tegelijkertijd kondigde het bedrijf een reorganisatie aan die 1700 banen gaat kosten. Deze cijfers laten een duidelijke trend zien: zelfs bij ongekende financiële successen kiezen bedrijven nu voor consolidatie en efficiëntie boven ongebreidelde groei.
 
 ## De strategische verschuiving van groei naar efficiëntie

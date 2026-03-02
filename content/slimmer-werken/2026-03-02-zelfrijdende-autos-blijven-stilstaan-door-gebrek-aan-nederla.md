@@ -13,8 +13,6 @@ source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/"
 ---
 
-IMAGE_PROMPT: A close-up of a sleek, modern autonomous vehicle sensor array, mounted on a car roof, seen from a low angle against a blurred background of a generic European industrial park under overcast daylight.
-
 De ontwikkeling van zelfrijdende voertuigen in Nederland dreigt stil te komen staan. Volgens experts uit de wetenschap en het bedrijfsleven ontbreekt het aan een groot, wettelijk toegestaan gebied om deze technologie op de openbare weg te testen. Zonder die praktijkproeven kan de kunstmatige intelligentie die nodig is voor autonoom rijden niet verder leren, en loopt Nederland het risico een belangrijke rol als testland te verliezen. Voor ondernemers in logistiek, mobiliteit en tech betekent dit een vertraging in de komst van nieuwe, mogelijk efficiëntere diensten.
 
 ## Waarom testen op de openbare weg cruciaal is

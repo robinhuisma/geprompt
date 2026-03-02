@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---
 
-IMAGE_PROMPT: A professional at a modern desk with two monitors, reviewing a strategy document on one screen and interacting with a chat interface on the other, with a notebook and pen nearby.
-
 Google's NotebookLM is een AI-tool die je eigen documenten leest en er vervolgens vragen over beantwoordt. Voor marketing- en communicatiebureaus betekent dit dat je al je klantresearch, briefings en oude campagnes kunt uploaden. Vervolgens kun je de AI vragen stellen als: "Wat zijn de drie belangrijkste pijnpunten van deze klant uit de laatste drie briefing-documenten?" of "Schrijf een eerste opzet voor een social media plan op basis van de merkrichtlijnen en de Q4-doelstellingen." Het werkt als een super-snelle, altijd beschikbare stagiair die alles heeft gelezen.
 
 ## Hoe het werkt in de praktijk

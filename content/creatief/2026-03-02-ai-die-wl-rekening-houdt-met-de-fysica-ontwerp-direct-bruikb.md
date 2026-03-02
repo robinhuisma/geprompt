@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---
 
-IMAGE_PROMPT: A designer examining a 3D printed flamingo-shaped drinking glass on a desk next to a laptop showing a CAD interface.
-
 Generatieve AI kan prachtige 3D-modellen bedenken, maar vaak zijn die ontwerpen in de echte wereld onbruikbaar. Ze zijn instabiel, hebben losse onderdelen of breken bij de eerste keer gebruik. Onderzoekers van het MIT hebben nu een systeem ontwikkeld dat dit probleem oplost door de creativiteit van AI te combineren met natuurkundige simulaties. Het resultaat is dat je een ontwerp krijgt dat er niet alleen goed uitziet, maar dat je ook direct kunt 3D-printen en gebruiken.
 
 ## Hoe werkt PhysiOpt?

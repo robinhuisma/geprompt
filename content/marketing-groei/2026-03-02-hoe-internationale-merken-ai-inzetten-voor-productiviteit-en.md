@@ -13,8 +13,6 @@ source_name: "Blogs"
 source_url: "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist European office desk with a laptop open to a brainstorming document, a notebook with sketched ideas, and soft morning light filtering through a window, shallow depth of field.
-
 Grote merken zoals Mattel en L'Oréal gebruiken AI niet alleen om tijd te besparen, maar vooral om sneller en creatiever te kunnen werken. Dat blijkt uit voorbeelden die Microsoft deelt over het gebruik van hun AI-tools, zoals Copilot in Microsoft 365. De lessen zijn ook waardevol voor Nederlandse ondernemers die hun eigen processen willen optimaliseren.
 
 ## Van speelgoedontwerp naar marketingcopy

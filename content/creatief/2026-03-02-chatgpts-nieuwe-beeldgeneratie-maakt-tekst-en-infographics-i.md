@@ -13,8 +13,6 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here"
 ---
 
-IMAGE_PROMPT: A person looking at a laptop screen showing a colorful infographic with clear text and icons, sitting at a modern desk with a notebook.
-
 OpenAI heeft de beeldgeneratie in ChatGPT vernieuwd. Waar voorheen DALL-E de standaard was, doet het nieuwe GPT-4o model dit nu. Het belangrijkste verschil is dat dit model veel beter is in het correct genereren van tekst binnen afbeeldingen. Dat maakt het direct praktisch bruikbaar voor ondernemers die snel infographics, receptkaarten, instructies of zelfs interface-ontwerpen nodig hebben.
 
 ## Wat betekent dit voor jouw content?

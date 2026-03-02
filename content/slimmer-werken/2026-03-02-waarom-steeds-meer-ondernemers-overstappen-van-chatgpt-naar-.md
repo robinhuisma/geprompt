@@ -13,8 +13,6 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern laptop on a wooden desk in a Dutch home office, showing two different browser tabs open side by side, one with a simple chat interface and another with a document editor, soft morning light from a window.
-
 Steeds meer professionals en ondernemers verkennen alternatieven voor ChatGPT, en Claude van Anthropic is een van de populairste keuzes. De overstap gaat niet alleen over een andere interface, maar vaak om specifieke sterktes zoals een grotere context, een andere schrijfstijl of kostenoverwegingen. Dit is een praktische gids om de switch te maken, gebaseerd op de ervaringen van gebruikers.
 
 ## Wat maakt Claude anders?

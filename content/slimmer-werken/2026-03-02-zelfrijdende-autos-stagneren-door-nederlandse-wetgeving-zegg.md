@@ -13,8 +13,6 @@ source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/"
 ---
 
-IMAGE_PROMPT: A researcher in a lab coat points at a laptop screen showing a simulation of a self-driving car navigating a city street, with a colleague looking on.
-
 Nederland loopt het risico zijn positie als belangrijk testland voor zelfrijdende auto's te verliezen. Volgens experts in het Computable-artikel remt de huidige wet- en regelgeving de ontwikkeling van deze technologie, wat bredere gevolgen heeft voor de Nederlandse AI-sector. Zelfrijdende voertuigen worden gezien als een belangrijk speerpunt voor AI-ontwikkeling, maar om vooruitgang te boeken, moeten ze uit het lab en de openbare weg op.
 
 ## Waarom de openbare weg cruciaal is

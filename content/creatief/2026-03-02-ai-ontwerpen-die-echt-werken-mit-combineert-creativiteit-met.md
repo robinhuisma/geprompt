@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, sunlit Dutch design studio. A 3D printer is in the foreground, printing a complex, organic-shaped object. On a wooden desk next to it, a finished, functional printed object, like a cup or bookend, sits in soft natural light. The focus is on the tangible, real-world result.
-
 Generatieve AI kan prachtige 3D-modellen bedenken, maar vaak zijn het onmogelijke objecten die in het echte leven uit elkaar zouden vallen. Onderzoekers van het MIT hebben daar nu een oplossing voor: een systeem dat AI-ontwerpen combineert met natuurkundige simulaties, zodat je creatieve ideeën ook echt kunt maken en gebruiken.
 
 Het systeem heet PhysiOpt. Het werkt als een realiteitscheck voor AI-ontwerpen. Je geeft een tekstprompt in, zoals "een drinkglas in de vorm van een flamingo", of je uploadt een afbeelding. Vervolgens genereert de AI een eerste ontwerp. Daarna start PhysiOpt: het voert razendsnel fysica-simulaties uit om te testen of het object zijn functie aankan. Zal de steel van het glas breken? Is het boekend zwaar genoeg? Het systeem past vervolgens subtiel de vorm aan om het ontwerp structureel solide te maken, zonder het creatieve concept te verpesten.

@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
 ---
 
-IMAGE_PROMPT: A professional reviewing a client contract on a laptop at a modern desk, with a printed ethics policy document visible beside it.
-
 Het nieuws dat OpenAI een contract met het Amerikaanse ministerie van Defensie sloot, terwijl concurrent Anthropic op een zwarte lijst belandde, gaat over meer dan alleen militaire drones. Het is een praktische les in klantacceptatie voor elke ondernemer. Beide bedrijven hebben expliciete regels tegen het gebruik van hun technologie voor massa-surveillance of autonome wapens. Het verschil zit in de uitvoering en de onderhandelingsruimte die ze zichzelf gunnen. Voor jouw bedrijf, of je nu software levert of advies, roept dit de vraag op: waar liggen jouw rode lijnen en hoe handhaaf je ze als een grote, lucratieve klant aanbelt?
 
 ## Het dilemma tussen principes en praktijk

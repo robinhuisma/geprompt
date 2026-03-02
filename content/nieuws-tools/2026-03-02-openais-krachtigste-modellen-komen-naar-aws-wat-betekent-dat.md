@@ -13,8 +13,6 @@ source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist European office desk with a laptop displaying a simple cloud architecture diagram, bathed in soft morning light from a large window, shallow depth of field.
-
 Als jouw bedrijf draait op Amazon Web Services (AWS), wordt het integreren van geavanceerde kunstmatige intelligentie een stuk eenvoudiger. OpenAI en Amazon hebben een strategisch partnerschap aangekondigd dat ervoor zorgt dat OpenAI's zogenaamde "Frontier"-platform rechtstreeks beschikbaar komt op AWS. Dit betekent dat je als ondernemer of IT-professional straks de krachtigste modellen van OpenAI, zoals de toekomstige GPT-4o en o4, kunt inzetten vanuit je bestaande AWS-omgeving.
 
 ## Wat verandert er concreet?

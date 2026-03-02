@@ -13,8 +13,6 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/het-bestaat-dus-toch-een-amerikaans-techbedrijf-met-ruggengraat"
 ---
 
-IMAGE_PROMPT: A businessperson at a modern desk, looking thoughtfully at a laptop screen displaying a simple ethical decision flowchart, with a printed contract set aside.
-
 Het Amerikaanse AI-bedrijf Anthropic heeft een lucratief contract met het Pentagon geweigerd. Het bedrijf wilde zijn AI-modellen niet zonder restricties beschikbaar stellen voor 'any lawful use' door het Amerikaanse ministerie van Defensie. CEO Dario Amodei stelde een grens vanwege 'ernstige, nieuwe risico's', zoals het mogelijk inzetten van de technologie voor massasurveillance of volledig autonome wapensystemen. Dit terwijl Anthropic wel degelijk met defensie samenwerkt en een beursgang voorbereidt in een dure concurrentiestrijd met OpenAI en Google. Het is een zeldzaam voorbeeld van een techbedrijf dat bereid is om inkomsten te laten schieten voor een principe.
 
 ## Wat betekent dit voor een ondernemer?

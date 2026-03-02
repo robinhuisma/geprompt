@@ -13,8 +13,6 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17283060/knorex-xpo-reach-your-audience-everywhere-with-ai"
 ---
 
-IMAGE_PROMPT: A person looking at a laptop screen showing a unified dashboard with multiple advertising channel icons, sitting at a modern desk with a notebook.
-
 Voor marketeers die campagnes draaien op meerdere kanalen tegelijk, is het dagelijkse werk vaak puzzelen met budgetten. Je moet geld verplaatsen van Facebook naar Google Ads, een TikTok-campagne bijstellen en misschien ook nog een digitale reclamezuil beheren. Dat handmatige schuiven kost tijd en leidt vaak tot gemiste kansen, omdat je niet precies ziet welk kanaal op welk moment het beste presteert. Een nieuw AI-platform belooft die handmatige arbeid volledig te automatiseren.
 
 ## AI als centrale budgetbeheerder

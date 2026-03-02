@@ -13,8 +13,6 @@ source_name: "Blogs"
 source_url: "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/"
 ---
 
-IMAGE_PROMPT: A professional working at a modern desk with an open laptop displaying a content calendar and a notebook with sketched ideas, in a bright office environment.
-
 Microsoft heeft op zijn blog een aantal praktijkvoorbeelden gedeeld van hoe grote merken hun AI-tools, zoals Copilot, inzetten. Het gaat niet om futuristische toepassingen, maar om het oplossen van alledaagse problemen: sneller content maken, betere ideeën bedenken en repetitief werk automatiseren. Dit zijn concrete lessen die ook voor kleinere bedrijven relevant zijn.
 
 ## Van brainstorm naar eerste concept in minuten

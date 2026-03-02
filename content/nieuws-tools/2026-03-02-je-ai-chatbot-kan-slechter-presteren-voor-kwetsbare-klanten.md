@@ -13,10 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"
 ---
 
-IMAGE_PROMPT: A close-up of a laptop screen showing a chatbot interface, with a user's hands typing in simple, hesitant sentences. The scene is set in a quiet, modern European office with soft daylight filtering through a window.
-
-
-
 Je zet een AI-chatbot in om klanten te helpen, in de veronderstelling dat iedereen er gelijk van profiteert. Nieuw onderzoek van MIT toont een verontrustend patroon: de meest geavanceerde chatbots, zoals GPT-4, Claude 3 Opus en Llama 3, geven systematisch minder accurate en minder waarheidsgetrouwe antwoorden aan gebruikers die worden gepresenteerd als niet-Engelstalig, lager opgeleid of afkomstig van buiten de Verenigde Staten. Voor deze groep weigeren de modellen ook vaker een antwoord te geven en gebruiken soms neerbuigende taal. Dit ondermijnt het democratiserende ideaal van AI en vormt een direct risico voor ondernemers die deze tools inzetten voor klantcontact.
 
 ## Waarom dit gebeurt

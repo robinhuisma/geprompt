@@ -13,8 +13,6 @@ source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/23/waarom-openclaw-het-chatgpt-moment-voor-agents-kan-zijn/"
 ---
 
-IMAGE_PROMPT: A developer working on a laptop at a simple wooden desk in a sunlit home office, with a notebook and a coffee cup nearby.
-
 Het verhaal van OpenClaw is een les in timing en focus. Wat begon als een hobbyproject van één Oostenrijkse ontwikkelaar, Peter Steinberger, groeide binnen een maand uit tot een fenomeen dat de aandacht trok van de grootste namen in de techwereld, van Mark Zuckerberg tot Sam Altman. De kern van het succes? Steinberger bouwde geen nieuw, complex AI-model. In plaats daarvan bouwde hij iets wat mensen direct konden gebruiken: een persoonlijke AI-agent die taken zoals agendabeheer en communicatie met andere agents kon uitvoeren. Het laat zien dat in de huidige AI-markt de waarde steeds meer verschuift van het model zelf naar de slimme, praktische toepassing ervan.
 
 ## Waarom dit verhaal elke ondernemer aangaat

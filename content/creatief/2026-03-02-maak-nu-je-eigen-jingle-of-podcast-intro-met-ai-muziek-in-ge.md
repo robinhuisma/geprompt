@@ -13,8 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
 ---
 
-IMAGE_PROMPT: A person listening to music on headphones while looking at a laptop screen showing a simple music waveform and a text prompt for a jingle.
-
 De Gemini-app van Google heeft een nieuwe, creatieve functie gekregen. Met de geïntegreerde AI-muziekgenerator Lyria 3 kun je nu zelf unieke muziekstukken van 30 seconden maken. Je geeft simpelweg een tekstbeschrijving of uploadt een inspirerende afbeelding, en de AI maakt daar een instrumentaal nummer bij. Dit opent deuren voor ondernemers die op zoek zijn naar betaalbare, originele audio voor hun merk.
 
 ## Wat kun je ermee als ondernemer?

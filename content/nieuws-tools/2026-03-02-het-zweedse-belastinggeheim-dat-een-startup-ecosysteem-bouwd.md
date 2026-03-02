@@ -13,8 +13,6 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/columnisten-experts/box-3-jeroen-westerbeek"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist Scandinavian office with natural daylight, a laptop open on a wooden desk showing a simple graph, and a cup of coffee beside it. The focus is on the calm, productive atmosphere.
-
 Stockholm heeft meer miljardwaardige startups per inwoner dan New York of Londen. Dat is geen toeval, maar het resultaat van een bewuste fiscale keuze uit 2003. Zweden belast de winst op aandelen in niet-beursgenoteerde bedrijven pas op het moment van verkoop. En als een ondernemer die opbrengst herinvesteert in een nieuwe startup, wordt de belasting daarop uitgesteld. Dit simpele principe heeft een krachtig vliegwieleffect gecreëerd. Oprichters en vroege medewerkers van bedrijven als Skype en Spotify konden hun kapitaal, kennis en netwerk risicoloos opnieuw inzetten. Zo groeide een ecosysteem waar succesvolle ondernemers de volgende generatie startups financieren en begeleiden.
 
 ## Het Nederlandse model versus het Zweedse

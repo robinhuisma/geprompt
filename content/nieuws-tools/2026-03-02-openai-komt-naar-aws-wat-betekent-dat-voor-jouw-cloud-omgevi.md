@@ -13,8 +13,6 @@ source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---
 
-IMAGE_PROMPT: A professional reviewing a cloud architecture diagram on a laptop screen, with a second monitor showing a simple chat interface, in a modern office setting.
-
 OpenAI's meest geavanceerde modellen, waaronder het zogenaamde 'Frontier'-platform, worden rechtstreeks beschikbaar in de Amazon Web Services (AWS) cloud. Voor Nederlandse bedrijven die hun IT-infrastructuur al bij AWS hebben ondergebracht, betekent dit dat ze straks geavanceerde AI-tools zoals GPT-4 kunnen gebruiken zonder hun data buiten hun vertrouwde cloud-omgeving te hoeven halen. Het is een strategische partnerschap dat de drempel voor enterprise AI aanzienlijk verlaagt.
 
 ## Wat de samenwerking precies inhoudt

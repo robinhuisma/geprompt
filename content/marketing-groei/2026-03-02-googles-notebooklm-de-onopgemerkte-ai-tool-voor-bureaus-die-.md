@@ -13,9 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist Dutch agency workspace. A laptop screen shows a clean interface with a document and a chat panel, bathed in soft, natural morning light from a large window. A notebook and pen lie on the wooden desk, slightly out of focus in the foreground.
-
-
 NotebookLM is een AI-tool van Google die je eigen documenten, notities en PDF's leest en begrijpt, om vervolgens antwoorden te geven en nieuwe content te maken op basis van die specifieke informatie. Het is geen chatbot die algemene kennis heeft, maar een assistent die werkt met de bronnen die jij uploadt. Voor bureaus betekent dit dat je één centrale plek kunt hebben voor alle klantinformatie, waar je vervolgens snel doorheen kunt vragen.
 
 ## Hoe werkt het in de praktijk voor een bureau?

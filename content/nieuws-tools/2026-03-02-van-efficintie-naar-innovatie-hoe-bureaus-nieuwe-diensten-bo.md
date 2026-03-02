@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist Dutch agency office. A notebook lies open on a wooden desk, one page titled "Efficiency" with checkmarks, the other titled "Innovation" with sketches of new service concepts. Soft morning light from a large window.
-
 Marketing- en adviesbureaus die AI alleen gebruiken om sneller te schrijven of goedkoper te produceren, zijn bezig met optimalisatie. Dat is nodig, maar het is niet genoeg meer. Het gevaar is dat je uitwisselbaar wordt, omdat elke concurrent dezelfde efficiëntietools gebruikt. De volgende, noodzakelijke stap is innovatie: het gebruiken van AI om compleet nieuwe diensten te bouwen die klanten nog niet hadden kunnen bedenken. Dat is waar je je onderscheidt en meerwaarde blijft leveren.
 
 ## Waarom optimalisatie alleen niet volstaat

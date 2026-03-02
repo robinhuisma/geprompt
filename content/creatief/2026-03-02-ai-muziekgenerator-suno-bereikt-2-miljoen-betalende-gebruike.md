@@ -13,8 +13,6 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist home studio in soft daylight, a laptop open on a desk with a simple text prompt visible on the screen, a pair of high-quality headphones resting beside it, shallow depth of field.
-
 De AI-muziekgenerator Suno heeft twee miljoen betalende abonnees bereikt en genereert volgens het bedrijf een jaarlijks terugkerende omzet van 300 miljoen dollar. Dit cijfer, gemeld door TechCrunch, is meer dan een nieuwsfeit over één bedrijf. Het is een duidelijk signaal dat de markt voor creatieve AI-tools volwassen en massaal wordt. Suno maakt het mogelijk om met een simpele tekstopdracht volledige muzieknummers te genereren, een proces dat voorheen gespecialiseerde kennis en dure software vereiste. Het succes toont aan dat er een grote groep gebruikers is – van hobbyisten tot professionals – die bereid is te betalen voor toegang tot dit soort creatieve democratisering.
 
 ## Wat de groei van Suno zegt over de markt

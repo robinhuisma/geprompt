@@ -13,8 +13,6 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern laptop on a wooden desk in a Dutch home office, showing two different chat interfaces side by side on the screen, with soft natural daylight from a window.
-
 De gratis AI-chatbot DeepSeek is een serieus alternatief voor ChatGPT, vooral voor creatieve brainstorm en het schrijven van lange teksten. Waar ChatGPT vaak de voorkeur heeft voor gestructureerde analyses en het volgen van specifieke instructies, presteert DeepSeek verrassend goed in taken die vrije associatie en uitgebreide uitleg vereisen. Dit blijkt uit een praktische test met vijf verschillende prompts, uitgevoerd door AI Art Blog. Het belangrijkste nadeel is dat DeepSeek standaard geen toegang heeft tot het internet, wat het ongeschikt maakt voor taken die actuele informatie vereisen.
 
 ## Waar DeepSeek sterk in is

@@ -13,8 +13,6 @@ source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/"
 ---
 
-IMAGE_PROMPT: A professional reviewing a document with Dutch text on a laptop screen in a modern, secure office environment.
-
 GPT-NL is een Nederlands AI-taalmodel dat speciaal is getraind op rechtmatig verkregen, Nederlandstalige data. Het biedt een alternatief voor commerciële modellen als ChatGPT, vooral voor organisaties die werken met gevoelige of vertrouwelijke informatie. Volgens TNO, een van de ontwikkelaars, presteert het model op taken zoals samenvatten al beter dan oudere modellen zoals ChatGPT-3. Het is nu in de praktijkfase beland en wordt getest door een eerste groep gebruikers.
 
 ## Waarom een Nederlands model relevant is

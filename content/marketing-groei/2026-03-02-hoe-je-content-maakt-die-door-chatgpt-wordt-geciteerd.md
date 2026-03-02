@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern Dutch office desk with a laptop screen showing a simple AI chat interface, a notepad with handwritten notes titled "bronnen", and a cup of coffee, all in soft natural morning light, shallow depth of field.
-
 De manier waarop mensen informatie vinden, verandert fundamenteel. Waar je voorheen probeerde bovenaan in de zoekresultaten van Google te staan, draait het nu steeds meer om een plek in het antwoord van een AI-tool. Systemen als ChatGPT, Google's AI Overzicht en Microsoft Copilot genereren samengestelde antwoorden en citeren daarbij selectief bronnen die ze als betrouwbaar zien. Je zichtbaarheid hangt dus niet langer alleen af van een hoge ranking, maar van het worden gezien als een citaatwaardige, gezaghebbende bron.
 
 ## Wat is citaatwaardige content?

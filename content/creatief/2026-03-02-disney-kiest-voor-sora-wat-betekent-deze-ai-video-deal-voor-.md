@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, sunlit creative studio in Amsterdam, a storyboard with simple sketches next to a laptop showing a vibrant, fantastical AI-generated video scene, shallow depth of field.
-
 Disney heeft een miljardenpartnerschap gesloten met OpenAI voor het gebruik van Sora, de AI die tekst omzet in video. Het is de eerste grote Hollywood-studio die dit doet, en dat is een duidelijk signaal: AI-video is geen experiment meer, maar wordt een standaard gereedschap in de creatieve industrie. Voor Nederlandse ondernemers, marketingteams en creatieven betekent dit dat de drempel om professionele video-inhoud te maken snel lager wordt.
 
 ## Wat is de praktische impact voor jouw bedrijf?

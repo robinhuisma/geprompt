@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern laptop screen in a Dutch home office, showing a Google search results page with an AI-generated answer box highlighted. Natural morning light from a window, shallow depth of field, focus on the screen.
-
 Google's AI-antwoorden, de zogenaamde AI Overviews, groeien snel en verschijnen nu bij bijna de helft van alle zoekopdrachten in negen belangrijke sectoren. Dit betekent dat je als ondernemer minder vaak een klik naar je website krijgt als je op de eerste positie staat. Je moet je content en SEO-strategie daarom aanpassen om zichtbaar te blijven in deze nieuwe zoekomgeving.
 
 ## Wat zijn AI Overviews en waarom is dit nieuws?

@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---
 
-IMAGE_PROMPT: A person sitting at a modern desk, looking at a laptop screen showing a short, high-quality animated video clip, with a notepad and a smartphone nearby.
-
 Disney heeft een miljardenovereenkomst gesloten met OpenAI voor het gebruik van Sora, de AI die tekst omzet in video. Dit is niet zomaar een experiment. Het is een signaal dat een van de grootste en meest creatieve bedrijven ter wereld AI-video ziet als een kernonderdeel van zijn toekomst. Voor jou als ondernemer betekent dit dat de technologie niet langer een verre toekomstdroom is, maar een praktisch gereedschap dat zijn waarde bewijst op het hoogste niveau.
 
 ## Wat betekent deze deal voor de markt?

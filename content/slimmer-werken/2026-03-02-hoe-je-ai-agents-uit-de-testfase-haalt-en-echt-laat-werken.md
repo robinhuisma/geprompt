@@ -13,8 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.n8n.io/best-mcp-servers/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist Dutch home office desk. A laptop is open, showing a clean workflow diagram on its screen. Next to it, a simple notepad with a hand-drawn flowchart. Soft morning light streams through a window, creating a shallow depth of field focused on the connection between the digital diagram and the analog sketch.
-
 Het Model Context Protocol (MCP) is de standaard die ervoor zorgt dat een AI-assistent, zoals Claude of ChatGPT, veilig verbinding kan maken met jouw eigen systemen. Denk aan je database, je boekhoudsoftware of je e-mail. Het probleem is dat de meeste experimenten hier sterven op het moment dat je je laptop dichtklapt. De kracht zit 'm niet in de chat, maar in het bouwen van een systeem dat blijft draaien. Dat is waar orchestratietools als n8n binnenkomen. Zij kunnen de losse MCP-servers aan elkaar knopen tot een geautomatiseerde workflow die op de achtergrond actief is.
 
 ## Van experiment naar operationeel systeem

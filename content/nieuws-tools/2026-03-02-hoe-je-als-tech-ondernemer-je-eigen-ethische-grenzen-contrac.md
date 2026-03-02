@@ -13,8 +13,6 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
 ---
 
-IMAGE_PROMPT: A person in a modern office reviewing a printed contract on a wooden desk, with a laptop open showing a simple terms of service document, in natural daylight.
-
 Het nieuws dat AI-bedrijf Anthropic weigert zijn modellen beschikbaar te stellen voor massasurveillance en autonome wapens, terwijl concurrenten dit wel doen, is meer dan een politiek conflict. Het is een praktische les voor elke Nederlandse tech-ondernemer die software, AI of data levert aan grote organisaties of overheden. Het toont het belang van het vooraf en contractueel vastleggen van je eigen ethische grenzen, je 'rode lijnen'.
 
 ## Waarom dit niet alleen over defensie gaat

@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern laptop screen displaying a website's code and a simple text interface side by side, bathed in soft natural daylight on a wooden desk in a European home office, shallow depth of field.
-
 AI-tools zoals ChatGPT en Copilot crawlen het web om informatie te verzamelen. Wat ze op jouw site tegenkomen, bepaalt hoe ze jouw bedrijf presenteren aan potentiële klanten die een vraag stellen. Het probleem is dat deze AI-crawlers je site vaak anders 'zien' dan een menselijke bezoeker of een traditionele zoekmachine. Als belangrijke informatie alleen in afbeeldingen, video's of achter complexe JavaScript staat, kan het zijn dat de AI er niets van meekrijgt. Het resultaat is dat je bedrijf niet genoemd wordt in relevante antwoorden, of dat de informatie die gegeven wordt onvolledig of zelfs fout is.
 
 ## Hoe AI-crawlers je website lezen

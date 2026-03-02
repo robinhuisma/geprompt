@@ -13,9 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.n8n.io/introducing-chat-hub/"
 ---
 
-IMAGE_PROMPT: A cinematic shot of a modern, minimalist European office desk. A single laptop is open, showing a clean chat interface on screen. Soft morning light from a large window illuminates the scene, with a coffee cup and a notebook placed neatly to the side. The focus is on the screen, suggesting a central, controlled point of access.
-
-
 AI-tools zoals ChatGPT zijn eenvoudig te gebruiken, en dat is precies het probleem voor ondernemers. Medewerkers gaan zelf aan de slag met gratis versies of persoonlijke accounts, zonder dat je zicht hebt op welke data ze delen, welke modellen ze gebruiken en wat de kosten zijn. Dit ongemanagede gebruik, ook wel 'Shadow AI' genoemd, brengt risico's met zich mee voor consistentie, beveiliging en kostenbeheersing. Chat Hub van n8n is een platform dat dit probleem aanpakt door één centrale, beveiligde plek te bieden waar iedereen in je organisatie met AI kan werken.
 
 ## Een vertrouwde chat-interface voor iedereen

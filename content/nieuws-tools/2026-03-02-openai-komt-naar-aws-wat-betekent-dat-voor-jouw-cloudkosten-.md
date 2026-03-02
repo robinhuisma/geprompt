@@ -13,8 +13,6 @@ source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist European office desk with a laptop open to a cloud services dashboard, bathed in soft natural daylight from a large window, shallow depth of field.
-
 OpenAI, het bedrijf achter ChatGPT, gaat zijn geavanceerde AI-modellen aanbieden via Amazon Web Services (AWS). Voor Nederlandse bedrijven die hun IT-infrastructuur al bij AWS hebben staan, betekent dit een directe en waarschijnlijk eenvoudigere toegang tot modellen zoals GPT-4o. Je kunt straks deze modellen mogelijk rechtstreeks vanuit je bestaande AWS-omgeving gebruiken, zonder dat data via externe diensten hoeft te lopen.
 
 Volgens de aankondiging gaat het niet alleen om het aanbieden van de bestaande modellen. Het partnership omvat ook samenwerking op het gebied van AI-infrastructuur, het ontwikkelen van aangepaste modellen voor specifieke bedrijven en de integratie van OpenAI's technologie in Amazon's eigen AI-agent, genaamd Amazon Q. Dit wijst op een diepere integratie dan een simpele API-koppeling.

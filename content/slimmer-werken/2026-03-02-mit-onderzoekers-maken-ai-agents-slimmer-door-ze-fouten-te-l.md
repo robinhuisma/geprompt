@@ -13,8 +13,6 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/helping-ai-agents-search-to-get-best-results-from-llms-0205"
 ---
 
-IMAGE_PROMPT: Cinematic photography of a modern, minimalist European office desk. A laptop screen shows a clean interface with a simple flowchart, representing an automated workflow. Natural morning light from a large window illuminates the scene, with a coffee cup and notebook in soft focus in the foreground. Centered composition, shallow depth of field, professional and calm atmosphere.
-
 AI-agents zijn softwareprogramma's die zelfstandig taken kunnen uitvoeren door op bepaalde momenten een groot taalmodel (LLM) zoals ChatGPT te raadplegen. Denk aan een systeem dat automatisch klantvragen categoriseert en beantwoordt, of dat een oude codebase analyseert en vertaalt naar een moderne programmeertaal. Het grote probleem is dat zo'n agent vast kan komen te zitten als het taalmodel een fout maakt of een onhandig antwoord geeft. Tot nu toe moest een programmeur dan handmatig code schrijven om de agent te laten 'teruggaan' en een andere aanpak te proberen. Onderzoekers van MIT hebben nu een framework ontwikkeld, genaamd EnCompass, dat dit probleem automatisch oplost.
 
 ## Hoe EnCompass AI-agents slimmer maakt

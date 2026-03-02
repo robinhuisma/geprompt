@@ -13,8 +13,6 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
 ---
 
-IMAGE_PROMPT: A person looking at a laptop screen showing a terms of service agreement, with a concerned expression, in a home office setting.
-
 De grote AI-bedrijven zoals Anthropic, OpenAI en Google beloven al jaren dat ze zichzelf verantwoordelijk zullen reguleren. Ze hebben eigen ethische commissies opgericht en richtlijnen gepubliceerd. Het probleem is dat dit allemaal vrijwillige toezeggingen zijn. Er zijn nog nauwelijks wettelijke regels die hen binden. Voor jou als ondernemer die op hun tools vertrouwt, betekent dit dat de spelregels waaronder je werkt, op elk moment kunnen veranderen op basis van een interne beslissing van een bedrijf. Je bouwt een deel van je proces op een fundament dat juridisch gezien nog erg wankel is.
 
 ## Het vacuüm waarin zelfregulering floreert

@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/"
 ---
 
-IMAGE_PROMPT: A person looking at a laptop screen showing a search engine results page and a notepad with handwritten notes about guidelines.
-
 Microsoft heeft de officiële richtlijnen voor Bing volledig herschreven. De nieuwe versie is niet alleen duidelijker, maar introduceert ook belangrijke veranderingen rondom AI. Het belangrijkste nieuws is dat Bing nu expliciet zegt dat AI-gegenereerde content is toegestaan, zolang deze waarde toevoegt voor de gebruiker. Dit is een duidelijke verschuiving ten opzichte van de voorzichtige en soms vage houding die zoekmachines eerder hadden. De kwaliteit van de content blijft het belangrijkste criterium, niet de manier waarop deze tot stand is gekomen.
 
 ## Nieuwe controle over AI-antwoorden in Copilot

@@ -13,8 +13,6 @@ source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/"
 ---
 
-IMAGE_PROMPT: A modern, minimalist Dutch office with a laptop open on a wooden desk, soft natural light from a large window, a cup of coffee beside it, symbolizing secure and local data processing.
-
 GPT-NL is een Nederlands AI-taalmodel dat specifiek is ontwikkeld om een veilig en compliant alternatief te bieden voor commerciële modellen zoals ChatGPT. Het belangrijkste verschil is dat het alleen is getraind op data die rechtmatig zijn verkregen, zoals nieuwsartikelen van NDP Nieuwsmedia. Dit maakt het een potentieel instrument voor bedrijven en organisaties die strikte eisen hebben aan privacy, security en datasoevereiniteit. Het model is ontwikkeld door een samenwerking van TNO, het Nederlands Forensisch Instituut (NFI) en SURF, en de pre-training is inmiddels afgerond.
 
 ## Wat betekent dit voor jouw bedrijfsdata?

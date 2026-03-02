@@ -13,8 +13,6 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/recordcijfers-voor-asml-maar-banengroei-stagneert"
 ---
 
-IMAGE_PROMPT: A person looking thoughtfully at a laptop screen showing a job vacancy website, with a printed report about labor market trends on a wooden desk.
-
 ASML boekte een recordjaar maar voegde wereldwijd slechts 182 voltijdbanen toe, een fractie van de groei uit voorgaande jaren. Tegelijk kondigt het bedrijf een reorganisatie aan die 1700 banen kost. Deze stagnatie bij een van Nederlands grootste tech-werkgevers is een sterk signaal. Het betekent niet dat de vraag naar technisch talent verdwijnt, maar wel dat deze verschuift en dat grote bedrijven efficiënter gaan werken, mogelijk met behulp van technologie. Voor het MKB verandert daarmee het speelveld op de krappe arbeidsmarkt.
 
 ## Een nieuwe realiteit voor tech-werving

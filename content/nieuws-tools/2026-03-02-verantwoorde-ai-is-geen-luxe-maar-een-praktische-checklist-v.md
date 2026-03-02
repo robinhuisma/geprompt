@@ -13,8 +13,6 @@ source_name: "CustomerThink"
 source_url: "https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/"
 ---
 
-IMAGE_PROMPT: A close-up of a modern office desk in soft daylight, featuring a simple printed checklist next to a laptop, a cup of coffee, and a notebook with handwritten notes about AI principles.
-
 De wereldwijde discussie over kunstmatige intelligentie is aan het kantelen. Waar het eerst vooral ging om wie de snelste of slimste toepassing kon bouwen, is de kernvraag nu: hoe doen we het op een verantwoorde manier? Op de India AI Impact Summit 2026, waar onder andere premier Narendra Modi sprak, klonk een eenduidige boodschap: AI moet transparant, inclusief en verantwoordelijk zijn. Voor ondernemers klinkt dat vaak als een ver-van-mijn-bed-show, iets voor grote corporates of overheden. Het tegendeel is waar. Het is juist een kans om nu, terwijl je begint, de fundamenten goed te leggen.
 
 ## Waar het echt om gaat: drie praktische principes

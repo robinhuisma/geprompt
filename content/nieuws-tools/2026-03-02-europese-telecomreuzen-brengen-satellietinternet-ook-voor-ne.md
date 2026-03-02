@@ -13,8 +13,6 @@ source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/orange-telefnica-three-group-krijgen-satellietinternet"
 ---
 
-IMAGE_PROMPT: A professional working on a laptop at a remote outdoor location, such as a mountain cabin deck or a rural field, with a clear sky in the background.
-
 Drie grote Europese telecomaanbieders gaan mobiel internet leveren via satellieten. Orange, Telefónica en Three Group sluiten daarvoor een deal met Satellite Connect Europe, een samenwerking tussen Vodafone en de Amerikaanse satellietprovider AST Mobile. Het doel is om in tien Europese landen breedbandconnectiviteit vanuit de ruimte aan te bieden. Dit betekent dat ondernemers en mobiele werknemers in de toekomst mogelijk overal, ook buiten het bereik van zendmasten, online kunnen zijn.
 
 De drie telecomgroepen zijn actief in zestien landen, maar zullen de dienst in eerste instantie in tien markten lanceren. Volgens het nieuwsartikel gaat het om Duitsland, Frankrijk, Italië, Spanje, Polen, Roemenië, België, Tsjechië, Zweden en Oostenrijk. Nederland staat niet op deze lijst. De dienst is bedoeld om gaten in de mobiele dekking op te vullen, bijvoorbeeld in afgelegen landelijke gebieden, op zee of in de bergen.

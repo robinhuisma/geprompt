@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/"
 ---
 
-IMAGE_PROMPT: A person looking at a laptop screen showing a search engine results page with local business listings, sitting at a modern desk.
-
 Microsoft heeft de officiële richtlijnen voor Bing herschreven. De belangrijkste boodschap voor ondernemers is dat AI-gegenereerde content niet langer wordt verboden, maar dat er nieuwe, specifieke regels zijn om misbruik tegen te gaan. Tegelijkertijd wordt het belang van GEO-tags, die de geografische relevantie van je pagina aangeven, veel duidelijker benadrukt. Dit heeft directe gevolgen voor hoe je je website inricht om gevonden te worden.
 
 ## AI-content is toegestaan, maar niet zonder voorwaarden

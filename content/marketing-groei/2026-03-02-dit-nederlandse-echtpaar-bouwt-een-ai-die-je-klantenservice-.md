@@ -13,8 +13,6 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
 ---
 
-IMAGE_PROMPT: A married couple working together at a kitchen table, with two laptops open showing customer service chat interfaces and a notebook with sketches.
-
 Wat als je klantenservice volledig door een AI kon worden gedaan, niet alleen met voorgeprogrammeerde antwoorden maar met echt gesprekken? Dat is wat het Nederlandse echtpaar achter 14.ai heeft gebouwd. Hun AI-agent, genaamd 14, kan complete klantinteracties voeren via chat, e-mail en telefoon. Het systeem leert van je kennisbank en vorige gesprekken, en handelt vervolgens zelfstandig vragen en problemen af. Voor startups die snel groeien maar de kosten van een supportteam willen beheersen, biedt dit een concrete oplossing.
 
 ## Hoe werkt zo'n AI-agent voor support?

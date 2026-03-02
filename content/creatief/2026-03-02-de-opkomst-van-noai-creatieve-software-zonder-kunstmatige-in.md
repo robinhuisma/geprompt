@@ -13,8 +13,6 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools"
 ---
 
-IMAGE_PROMPT: A designer working on a digital drawing tablet with a stylus, looking at a screen showing a detailed illustration, in a bright studio.
-
 De term 'NoAI' duikt steeds vaker op. Het staat voor software, apps of diensten die bewust géén kunstmatige intelligentie gebruiken om hun eindresultaat te produceren. Het is een reactie op de alomtegenwoordigheid van generatieve AI in creatieve tools. Voor ontwerpers, illustratoren en andere makers die de volledige creatieve controle in handen willen houden en zich willen onderscheiden door puur vakmanschap, biedt deze beweging een groeiend aanbod van alternatieven.
 
 ## Waarom zou je voor NoAI kiezen?

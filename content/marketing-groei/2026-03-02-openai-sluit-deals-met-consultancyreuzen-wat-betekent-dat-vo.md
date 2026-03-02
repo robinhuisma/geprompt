@@ -13,8 +13,6 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai"
 ---
 
-IMAGE_PROMPT: A modern, minimalist European office meeting room with a laptop open on a wooden table, soft daylight filtering through blinds, and a consultant's notebook with strategic diagrams next to a coffee cup.
-
 OpenAI, het bedrijf achter ChatGPT, sluit wereldwijd strategische partnerschappen met grote consultancy- en IT-dienstverleners zoals PwC, EY, KPMG en Accenture. Het doel is om generatieve AI dieper in grote bedrijven te integreren. Voor ondernemers betekent dit dat geavanceerde AI steeds vaker wordt aangeboden als onderdeel van grote digitale transformatieprojecten, begeleid door deze adviesreuzen. De directe route naar OpenAI voor maatwerk blijft bestaan, maar er komt een parallel spoor bij via gevestigde adviseurs.
 
 ## Wat houdt deze samenwerking precies in?

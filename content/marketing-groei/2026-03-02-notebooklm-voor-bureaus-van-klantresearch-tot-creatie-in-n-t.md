@@ -13,8 +13,6 @@ source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---
 
-IMAGE_PROMPT: A marketing professional sits at a modern desk with an open laptop showing a document analysis interface and a notebook with handwritten ideas.
-
 NotebookLM is een AI-tool van Google die je eigen documenten, notities en PDF's leest en begrijpt, om je vervolgens te helpen met research, brainstormen en het maken van samenvattingen. Voor marketing- en communicatiebureaus betekent dit dat je veel tijd kunt besparen bij het verwerken van klantinformatie en het opstarten van nieuwe projecten.
 
 ## Hoe werkt het precies?

@@ -13,9 +13,6 @@ source_name: "Blog"
 source_url: "https://blog.n8n.io/human-in-the-loop-automation/"
 ---
 
-IMAGE_PROMPT: A modern, minimalist European home office desk with a laptop screen showing a simple workflow diagram, a notification on a smartphone, and a handwritten note next to a cup of coffee. Cinematic photography, natural soft daylight from a window, shallow depth of field.
-
-
 Je kunt AI-taken automatiseren zonder het stuur volledig los te laten. Het concept heet 'human-in-the-loop' (HITL): je bouwt slimme checkpoints in je workflows waar een mens even moet meekijken, goedkeuren of bijsturen voordat een actie definitief wordt. Het doel is niet om alles te vertragen, maar om de snelheid van AI te combineren met het oordeel van een mens op de momenten dat het er echt toe doet.
 
 ## Waarom menselijke controle cruciaal is

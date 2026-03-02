@@ -13,8 +13,6 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/"
 ---
 
-IMAGE_PROMPT: A person holding a smartphone, filming a simple, authentic-looking product demonstration on a desk in a sunlit room.
-
 Een groeiend deel van de YouTube Shorts die nieuwe gebruikers te zien krijgen, bestaat uit AI-gegenereerde, inhoudsloze video's. Volgens een analyse van Search Engine Journal gaat het om ongeveer 21 procent. Dit fenomeen, ook wel 'AI slop' genoemd, creëert een paradoxale kans voor marketeers en ondernemers. Waar het algoritme wordt overspoeld door generieke, door AI gegenereerde inhoud, wordt authentieke, menselijke content juist schaarser en daardoor waardevoller.
 
 ## Wat is 'AI slop' en waarom is het een probleem?
