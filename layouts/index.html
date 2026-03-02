@@ -4,8 +4,8 @@
   {{- partial "home_info.html" . -}}
 {{- end -}}
 
-{{- $secties := slice "nieuws-tools" "marketing-groei" "slimmer-werken" -}}
-{{- $labels := dict "nieuws-tools" "NIEUWS & TOOLS" "marketing-groei" "MARKETING & GROEI" "slimmer-werken" "SLIMMER WERKEN" -}}
+{{- $secties := slice "nieuws-tools" "marketing-groei" "slimmer-werken" "creatief" -}}
+{{- $labels := dict "nieuws-tools" "NIEUWS & TOOLS" "marketing-groei" "MARKETING & GROEI" "slimmer-werken" "SLIMMER WERKEN" "creatief" "CREATIEF" -}}
 
 {{- range $sectie := $secties -}}
   {{- $pages := where site.RegularPages "Section" $sectie -}}
