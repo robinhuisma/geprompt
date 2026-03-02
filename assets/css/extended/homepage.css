@@ -295,3 +295,99 @@ h1.post-title { font-weight: 700 !important; }
   box-shadow: 0 2px 12px rgba(0,0,0,0.10);
   border-radius: 8px;
 }
+
+/* === LIGHT MODE: lichtgrijs achtergrond, donkere tekst === */
+:root {
+  --light-bg: #f5f5f5;
+  --light-entry: #ffffff;
+  --light-text: #1a1a1a;
+  --light-secondary: #555555;
+}
+
+.list:not(.dark) {
+  background-color: var(--light-bg) !important;
+  color: var(--light-text) !important;
+}
+
+.list:not(.dark) body,
+body:not(.dark) {
+  background-color: var(--light-bg) !important;
+}
+
+.list:not(.dark) .main,
+.list:not(.dark) main {
+  background-color: var(--light-bg) !important;
+}
+
+.list:not(.dark) header,
+.list:not(.dark) .header {
+  background-color: var(--light-bg) !important;
+}
+
+.list:not(.dark) .post-title,
+.list:not(.dark) h1,
+.list:not(.dark) h2:not(.sectie-kop):not(.hero-title),
+.list:not(.dark) h3 {
+  color: var(--light-text) !important;
+}
+
+.list:not(.dark) p,
+.list:not(.dark) li,
+.list:not(.dark) .post-content {
+  color: var(--light-text) !important;
+}
+
+.list:not(.dark) .news-meta {
+  color: var(--light-secondary) !important;
+}
+
+.list:not(.dark) nav a {
+  color: var(--light-text) !important;
+}
+
+.list:not(.dark) nav a:hover {
+  color: #00A19B !important;
+}
+
+.list:not(.dark) .footer {
+  background-color: var(--light-bg) !important;
+  color: var(--light-secondary) !important;
+}
+
+.list:not(.dark) .footer a,
+.list:not(.dark) .footer-nav a {
+  color: var(--light-secondary) !important;
+}
+
+.list:not(.dark) .footer-nav a:hover {
+  color: #00A19B !important;
+}
+
+/* Home info tekst */
+.list:not(.dark) .home-info h1,
+.list:not(.dark) .first-entry h1 {
+  color: var(--light-text) !important;
+}
+
+.list:not(.dark) .home-info p,
+.list:not(.dark) .first-entry p {
+  color: var(--light-secondary) !important;
+}
+
+/* Sectie beschrijving */
+.list:not(.dark) .section-desc {
+  color: var(--light-secondary) !important;
+}
+
+/* Newsletter blok */
+.list:not(.dark) .newsletter-box,
+.list:not(.dark) .newsletter {
+  background-color: #ffffff !important;
+  color: var(--light-text) !important;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+/* GEPROMPT logo in light mode */
+.list:not(.dark) .logo a {
+  color: #00A19B !important;
+}
