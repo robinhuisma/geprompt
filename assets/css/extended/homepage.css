@@ -419,3 +419,130 @@ body:not(.dark) .newsletter-avg span {
 body:not(.dark) .newsletter-box input[type="checkbox"] {
   accent-color: #00A19B;
 }
+
+/* === DARK MODE: expliciete regels zodat dark mode altijd werkt === */
+body.dark {
+  background-color: #1d1e20 !important;
+  color: #d1d1d1 !important;
+}
+
+body.dark main,
+body.dark .main {
+  background-color: #1d1e20 !important;
+}
+
+body.dark header,
+body.dark .header {
+  background-color: #1d1e20 !important;
+}
+
+body.dark .post-title,
+body.dark h1,
+body.dark h2:not(.sectie-kop):not(.hero-title),
+body.dark h3 {
+  color: #d1d1d1 !important;
+}
+
+body.dark p,
+body.dark li,
+body.dark .post-content {
+  color: #d1d1d1 !important;
+}
+
+body.dark .news-meta {
+  color: #888 !important;
+}
+
+body.dark nav a {
+  color: #d1d1d1 !important;
+}
+
+body.dark nav a:hover {
+  color: #00A19B !important;
+}
+
+body.dark .footer {
+  background-color: #1d1e20 !important;
+  color: #888 !important;
+}
+
+body.dark .footer a,
+body.dark .footer-nav a {
+  color: #888 !important;
+}
+
+body.dark .footer-nav a:hover {
+  color: #00A19B !important;
+}
+
+body.dark .news-item {
+  border-bottom-color: rgba(255,255,255,0.08) !important;
+}
+
+body.dark .news-title {
+  color: #d1d1d1 !important;
+}
+
+body.dark .newsletter-box,
+body.dark .newsletter {
+  background-color: #2a2b2d !important;
+  color: #d1d1d1 !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+body.dark .newsletter-box h3 {
+  color: #d1d1d1 !important;
+}
+
+body.dark .newsletter-box p {
+  color: #888 !important;
+}
+
+body.dark .newsletter-box input[type="text"],
+body.dark .newsletter-box input[type="email"] {
+  background-color: #1d1e20 !important;
+  color: #d1d1d1 !important;
+  border: 1px solid rgba(255,255,255,0.15) !important;
+}
+
+body.dark .newsletter-box input[type="text"]::placeholder,
+body.dark .newsletter-box input[type="email"]::placeholder {
+  color: #666 !important;
+}
+
+body.dark .newsletter-avg span {
+  color: #888 !important;
+}
+
+body.dark .logo a {
+  color: #00A19B !important;
+}
+
+body.dark #theme-toggle svg {
+  color: #d1d1d1 !important;
+  stroke: #d1d1d1 !important;
+}
+
+body.dark .home-info h1,
+body.dark .first-entry h1 {
+  color: #d1d1d1 !important;
+}
+
+body.dark .home-info p,
+body.dark .first-entry p {
+  color: #888 !important;
+}
+
+body.dark .section-desc {
+  color: #888 !important;
+}
+
+body.dark .ad-slot {
+  border-color: rgba(255,255,255,0.1) !important;
+  background: rgba(255,255,255,0.03) !important;
+}
+
+body.dark .post-single figcaption,
+body.dark figure.post-cover figcaption {
+  color: rgba(255,255,255,0.5) !important;
+}
