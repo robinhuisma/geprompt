@@ -1,36 +1,36 @@
 ---
 title: "Hoe AI de zoektocht naar nieuwe medicijnen versnelt"
-date: 2026-03-02T18:19:51.310Z
-tags: ["ai", "gezondheidszorg", "innovatie", "farma"]
+date: 2026-03-02T19:18:33.525Z
+tags: ["ai", "farmacie", "innovatie", "onderzoek"]
 categorieen: ["slimmer-werken"]
-summary: "Onderzoekers gebruiken AI om in de biologie te 'zoeken' naar nieuwe medicijnkandidaten, wat de ontwikkeling van nieuwe therapieën drastisch kan versnellen."
+summary: "AI-modellen kunnen de ontwikkeling van nieuwe antibiotica en andere medicijnen drastisch versnellen door miljoenen moleculen te screenen en de meest kansrijke kandidaten te vinden."
 cover:
-  image: "https://images.pexels.com/photos/7964503/pexels-photo-7964503.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "Two professionals working on laptops in a modern office cubicle setup."
-  caption: "Foto: Felicity Tai via Pexels"
-draft: false
+  image: "https://images.pexels.com/photos/7818104/pexels-photo-7818104.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Organized workspace with laptop, notebook, and glasses, perfect for planning and strategy."
+  caption: "Foto: Leeloo The First via Pexels"
+draft: true
 source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
 ---
 
-IMAGE_PROMPT: A researcher in a lab coat reviews data on a laptop screen next to a microscope in a clean, modern laboratory.
+IMAGE_PROMPT: Cinematic photography of a modern, clean European laboratory. Soft natural daylight from a large window illuminates a researcher's hand holding a petri dish, with a laptop screen showing a complex molecular structure in the background. Shallow depth of field, centered composition, professional and calm atmosphere.
 
-Onderzoekers gebruiken kunstmatige intelligentie om op een nieuwe manier naar biologische systemen te kijken en zo de ontwikkeling van nieuwe medicijnen te versnellen. In plaats van jarenlang te testen, kunnen AI-modellen voorspellen welke moleculen of cellulaire processen een therapeutisch effect zouden kunnen hebben. Deze aanpak, die valt onder de noemer 'synthetische biologie', combineert biologie met wiskundige modellen en machine learning.
+Een van de grootste uitdagingen in de farmaceutische industrie is het vinden van nieuwe, werkzame moleculen. Traditioneel is dit een extreem lang en kostbaar proces van vallen en opstaan. Onderzoekers van het MIT laten nu zien hoe kunstmatige intelligentie dit proces kan versnellen door in korte tijd miljoenen potentiële moleculen te screenen en de meest veelbelovende kandidaten te identificeren.
 
-## AI als ontdekkingsmachine voor antibiotica
+## AI als krachtige partner in het lab
 
-Een concreet voorbeeld is de zoektocht naar nieuwe antibiotica. Het team van professor James Collins aan het MIT werkte samen met AI-experts om een deep learning-model te trainen. Dit model kreeg de opdracht om in een gigantische digitale bibliotheek van chemische verbindingen te zoeken naar moleculen die bacteriën zouden kunnen doden, maar die veilig zijn voor menselijke cellen. Op deze manier identificeerde het AI-systeem in korte tijd een veelbelovende nieuwe kandidaat, halicin genaamd, waar traditionele screeningsmethoden mogelijk aan voorbij waren gegaan.
+De kern van deze aanpak is niet dat AI het menselijk onderzoek vervangt, maar dat het een krachtige partner wordt. Onderzoekers zoals James Collins van het MIT combineren hun expertise in biologie en geneeskunde met de rekenkracht van deep learning-modellen. Deze modellen worden getraind op enorme datasets van bekende moleculen en hun eigenschappen. Vervolgens kunnen ze voorspellen welke nieuwe, nog onbekende moleculen de gewenste biologische werking zouden kunnen hebben, bijvoorbeeld om een bacterie te doden. Dit reduceert het aantal moleculen dat fysiek in het lab getest moet worden van miljoenen naar een handvol hoogstwaarschijnlijke kandidaten.
 
-## Van data naar levende therapie
+## Een concreet voorbeeld: de strijd tegen antibioticaresistentie
 
-De toepassing gaat verder dan het vinden van een enkel molecuul. Het ultieme doel is het ontwerpen van 'geprogrammeerde' cellen. Je kunt dit zien als het bouwen van een biologisch circuit binnen een cel. Onderzoekers gebruiken AI en modellering om te voorspellen hoe ze een cel zo kunnen aanpassen dat deze een specifieke taak uitvoert, zoals het detecteren van een ziekteverwekker in het lichaam en het vervolgens afgeven van een therapeutische stof. Dit veld, waarin biologie en engineering samenkomen, opent de deur voor volledig nieuwe soorten 'levende medicijnen'.
+Een urgent probleem waar deze methode al succesvol voor is ingezet, is de zoektocht naar nieuwe antibiotica. Door de opkomst van resistente bacteriën zijn veel bestaande medicijnen niet meer effectief. Het MIT-team gebruikte een AI-model om een database van meer dan 100 miljoen chemische verbindingen te doorzoeken op zoek naar moleculen die effectief zouden kunnen zijn tegen resistente bacteriën. Het model identificeerde een molecule, later halicin genoemd, die in het lab bleek te werken tegen een breed spectrum van resistente pathogenen. Dit hele proces van digitale screening tot labbevestiging was aanzienlijk sneller dan traditionele methoden.
 
-## De kracht van samenwerking tussen disciplines
+## De bredere impact voor de gezondheidszorg
 
-De doorbraken komen niet uit één vakgebied. Het werk van Collins benadrukt het cruciale belang van samenwerking tussen biologen, datawetenschappers en AI-onderzoekers. Een bioloog begrijpt het ziekteproces, maar een AI-expert kan algoritmen bouwen om patronen in complexe biologische data te vinden die het menselijk oog nooit zou zien. Deze kruisbestuiving is essentieel om abstracte modellen om te zetten in praktische, werkende therapieën.
+Deze aanpak beperkt zich niet tot antibiotica. Hetzelfde principe kan worden toegepast op het ontdekken van medicijnen voor kanker, zeldzame ziekten of neurodegeneratieve aandoeningen zoals Alzheimer. Het versnelt niet alleen de ontdekkingsfase, maar kan ook helpen bij het optimaliseren van bestaande medicijnen, bijvoorbeeld door bijwerkingen te verminderen of de effectiviteit te verhogen. Voor farmaceutische bedrijven en biotech-startups betekent dit een potentiële besparing van jaren ontwikkelingstijd en honderden miljoenen euro's aan onderzoekskosten.
 
 ## Hoe kun je dit vandaag toepassen?
 
-Voor Nederlandse biotech-startups en onderzoeksgroepen in de life sciences is de boodschap duidelijk: kijk verder dan je eigen discipline. Een eerste stap is het verkennen van samenwerkingen met data science-afdelingen van universiteiten of het inhuren van talent met expertise in bio-informatica. Je kunt ook beginnen met het gestructureerd digitaliseren en annoteren van je onderzoeksdata, zodat deze later geschikt zijn voor analyse door machine learning-modellen.
+Hoewel het ontwikkelen van eigen AI-modellen voor medicijnontdekking voorbehouden is aan gespecialiseerde onderzoeksinstellingen en grote farmaceuten, kunnen kleinere spelers wel profiteren van de trend. Een praktische stap is het verkennen van samenwerkingen met academische instellingen die over deze expertise beschikken. Daarnaast kunnen bedrijven in de life sciences zich verdiepen in AI-gestuurde platforms voor data-analyse in hun eigen onderzoek, bijvoorbeeld voor het analyseren van klinische trial-data of het vinden van patronen in biomedische datasets.
 
 Bron: [MIT News](https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204)
