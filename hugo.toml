@@ -99,21 +99,21 @@ summaryLength = 100
 
 # Footer menu
 [[menu.footer]]
-  identifier = "partnerships"
-  name = "Partnerships"
-  url = "/commercieel/"
-  weight = 1
-
-[[menu.footer]]
   identifier = "over"
   name = "Over Geprompt"
   url = "/over/"
+  weight = 1
+
+[[menu.footer]]
+  identifier = "transparantie"
+  name = "Transparantie"
+  url = "/transparantie/"
   weight = 2
 
 [[menu.footer]]
-  identifier = "privacy"
-  name = "Privacyverklaring"
-  url = "/privacy/"
+  identifier = "disclaimer"
+  name = "Disclaimer"
+  url = "/disclaimer/"
   weight = 3
 
 [[menu.footer]]
@@ -123,16 +123,34 @@ summaryLength = 100
   weight = 4
 
 [[menu.footer]]
+  identifier = "privacy"
+  name = "Privacyverklaring"
+  url = "/privacy/"
+  weight = 5
+
+[[menu.footer]]
+  identifier = "cookies"
+  name = "Cookiebeleid"
+  url = "/cookies/"
+  weight = 6
+
+[[menu.footer]]
+  identifier = "partnerships"
+  name = "Partnerships"
+  url = "/commercieel/"
+  weight = 7
+
+[[menu.footer]]
   identifier = "tips"
   name = "Tips voor de redactie"
   url = "/tips/"
-  weight = 5
+  weight = 8
 
 [[menu.footer]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
-  weight = 6
+  weight = 9
 
 # Gerelateerde artikelen onderaan posts
 [related]
