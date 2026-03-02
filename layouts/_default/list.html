@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{- $paginator := .Paginate .Pages -}}
+{{- $paginator := .Paginate .Pages 50 -}}
 {{- $pages := $paginator.Pages -}}
 
 <div class="section-header">
