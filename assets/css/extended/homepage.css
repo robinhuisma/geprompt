@@ -178,19 +178,19 @@
 }
 
 /* LIGHT MODE overrides */
-.list:not(.dark) .news-title {
+body:not(.dark) .news-title {
   color: var(--content, #1d1d1d);
 }
 
-.list:not(.dark) .hero-overlay {
+body:not(.dark) .hero-overlay {
   background: linear-gradient(transparent, rgba(0,0,0,0.8));
 }
 
-.list:not(.dark) .news-item {
+body:not(.dark) .news-item {
   border-bottom-color: rgba(0,0,0,0.08);
 }
 
-.list:not(.dark) .ad-slot {
+body:not(.dark) .ad-slot {
   border-color: rgba(0,0,0,0.1);
   background: rgba(0,0,0,0.02);
 }
@@ -218,7 +218,7 @@ h1.post-title { font-weight: 700 !important; }
 
 /* Foto bijschrift lichter */
 .post-single figcaption, figure.post-cover figcaption { color: rgba(255,255,255,0.5) !important; }
-.list:not(.dark) .post-single figcaption, .list:not(.dark) figure.post-cover figcaption { color: rgba(0,0,0,0.5) !important; }
+body:not(.dark) .post-single figcaption, body:not(.dark) figure.post-cover figcaption { color: rgba(0,0,0,0.5) !important; }
 
 
 
@@ -288,10 +288,10 @@ h1.post-title { font-weight: 700 !important; }
 .footer span { color: #00A19B; }
 
 /* Light mode: lichte schaduw op alle afbeeldingen */
-.list:not(.dark) .hero-img,
-.list:not(.dark) .news-thumb img,
-.list:not(.dark) .post-content img,
-.list:not(.dark) figure img {
+body:not(.dark) .hero-img,
+body:not(.dark) .news-thumb img,
+body:not(.dark) .post-content img,
+body:not(.dark) figure img {
   box-shadow: 0 2px 12px rgba(0,0,0,0.10);
   border-radius: 8px;
 }
@@ -304,119 +304,118 @@ h1.post-title { font-weight: 700 !important; }
   --light-secondary: #555555;
 }
 
-.list:not(.dark) {
+body:not(.dark) {
   background-color: var(--light-bg) !important;
   color: var(--light-text) !important;
 }
 
-.list:not(.dark) body,
 body:not(.dark) {
   background-color: var(--light-bg) !important;
 }
 
-.list:not(.dark) .main,
-.list:not(.dark) main {
+body:not(.dark) .main,
+body:not(.dark) main {
   background-color: var(--light-bg) !important;
 }
 
-.list:not(.dark) header,
-.list:not(.dark) .header {
+body:not(.dark) header,
+body:not(.dark) .header {
   background-color: var(--light-bg) !important;
 }
 
-.list:not(.dark) .post-title,
-.list:not(.dark) h1,
-.list:not(.dark) h2:not(.sectie-kop):not(.hero-title),
-.list:not(.dark) h3 {
+body:not(.dark) .post-title,
+body:not(.dark) h1,
+body:not(.dark) h2:not(.sectie-kop):not(.hero-title),
+body:not(.dark) h3 {
   color: var(--light-text) !important;
 }
 
-.list:not(.dark) p,
-.list:not(.dark) li,
-.list:not(.dark) .post-content {
+body:not(.dark) p,
+body:not(.dark) li,
+body:not(.dark) .post-content {
   color: var(--light-text) !important;
 }
 
-.list:not(.dark) .news-meta {
+body:not(.dark) .news-meta {
   color: var(--light-secondary) !important;
 }
 
-.list:not(.dark) nav a {
+body:not(.dark) nav a {
   color: var(--light-text) !important;
 }
 
-.list:not(.dark) nav a:hover {
+body:not(.dark) nav a:hover {
   color: #00A19B !important;
 }
 
-.list:not(.dark) .footer {
+body:not(.dark) .footer {
   background-color: var(--light-bg) !important;
   color: var(--light-secondary) !important;
 }
 
-.list:not(.dark) .footer a,
-.list:not(.dark) .footer-nav a {
+body:not(.dark) .footer a,
+body:not(.dark) .footer-nav a {
   color: var(--light-secondary) !important;
 }
 
-.list:not(.dark) .footer-nav a:hover {
+body:not(.dark) .footer-nav a:hover {
   color: #00A19B !important;
 }
 
 /* Home info tekst */
-.list:not(.dark) .home-info h1,
-.list:not(.dark) .first-entry h1 {
+body:not(.dark) .home-info h1,
+body:not(.dark) .first-entry h1 {
   color: var(--light-text) !important;
 }
 
-.list:not(.dark) .home-info p,
-.list:not(.dark) .first-entry p {
+body:not(.dark) .home-info p,
+body:not(.dark) .first-entry p {
   color: var(--light-secondary) !important;
 }
 
 /* Sectie beschrijving */
-.list:not(.dark) .section-desc {
+body:not(.dark) .section-desc {
   color: var(--light-secondary) !important;
 }
 
 /* Newsletter blok */
-.list:not(.dark) .newsletter-box,
-.list:not(.dark) .newsletter {
+body:not(.dark) .newsletter-box,
+body:not(.dark) .newsletter {
   background-color: #ffffff !important;
   color: var(--light-text) !important;
   border: 1px solid rgba(0,0,0,0.1);
 }
 
 /* GEPROMPT logo in light mode */
-.list:not(.dark) .logo a {
+body:not(.dark) .logo a {
   color: #00A19B !important;
 }
 
 /* Light mode: newsletter inputs */
-.list:not(.dark) .newsletter-box input[type="text"],
-.list:not(.dark) .newsletter-box input[type="email"] {
+body:not(.dark) .newsletter-box input[type="text"],
+body:not(.dark) .newsletter-box input[type="email"] {
   background-color: #ffffff !important;
   color: #1a1a1a !important;
   border: 1px solid #cccccc !important;
 }
 
-.list:not(.dark) .newsletter-box input[type="text"]::placeholder,
-.list:not(.dark) .newsletter-box input[type="email"]::placeholder {
+body:not(.dark) .newsletter-box input[type="text"]::placeholder,
+body:not(.dark) .newsletter-box input[type="email"]::placeholder {
   color: #999999 !important;
 }
 
-.list:not(.dark) .newsletter-box h3 {
+body:not(.dark) .newsletter-box h3 {
   color: #1a1a1a !important;
 }
 
-.list:not(.dark) .newsletter-box p {
+body:not(.dark) .newsletter-box p {
   color: #555555 !important;
 }
 
-.list:not(.dark) .newsletter-avg span {
+body:not(.dark) .newsletter-avg span {
   color: #555555 !important;
 }
 
-.list:not(.dark) .newsletter-box input[type="checkbox"] {
+body:not(.dark) .newsletter-box input[type="checkbox"] {
   accent-color: #00A19B;
 }

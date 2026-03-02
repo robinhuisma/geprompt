@@ -29,21 +29,21 @@
 }
 
 /* Light mode: AI-label en bronvermelding zichtbaar maken */
-.list:not(.dark) .post-content em:last-of-type {
+body:not(.dark) .post-content em:last-of-type {
   border-top: 1px solid rgba(0,0,0,0.1);
   color: rgba(0,0,0,0.4);
 }
 
-.list:not(.dark) .post-content p:last-child {
+body:not(.dark) .post-content p:last-child {
   color: rgba(0,0,0,0.45);
 }
 
-.list:not(.dark) .post-content p:last-child a {
+body:not(.dark) .post-content p:last-child a {
   color: rgba(0,0,0,0.55);
   text-decoration-color: rgba(0,0,0,0.2);
 }
 
-.list:not(.dark) .post-content p:last-child a:hover {
+body:not(.dark) .post-content p:last-child a:hover {
   color: rgba(0,0,0,0.8);
   text-decoration-color: rgba(0,0,0,0.5);
 }
@@ -54,11 +54,11 @@
 }
 
 /* Theme toggle: zichtbaar in light mode */
-.list:not(.dark) #theme-toggle svg {
+body:not(.dark) #theme-toggle svg {
   color: #1a1a1a !important;
   stroke: #1a1a1a !important;
 }
 
-.list:not(.dark) #theme-toggle {
+body:not(.dark) #theme-toggle {
   color: #1a1a1a !important;
 }
