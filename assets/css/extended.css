@@ -52,3 +52,13 @@
 .post-content > p:first-of-type {
   font-weight: 600;
 }
+
+/* Theme toggle: zichtbaar in light mode */
+.list:not(.dark) #theme-toggle svg {
+  color: #1a1a1a !important;
+  stroke: #1a1a1a !important;
+}
+
+.list:not(.dark) #theme-toggle {
+  color: #1a1a1a !important;
+}
