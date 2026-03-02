@@ -25,6 +25,6 @@ Veel bedrijven werken met verschillende marketingbureaus per regio of hebben lok
 ## Hoe kun je dit vandaag toepassen?
 Begin niet met het uitbreiden van campagnes, maar met het maken van een eenvoudig strategiedocument. Pak een whiteboard of een Google Doc en beantwoord samen met je team of hoofd-bureau deze drie vragen: 1) Wat zijn de drie kernwaarden van ons merk die in élke markt moeten doorklinken? 2) Wat is het belangrijkste doel van onze campagnes in alle landen (meer leads, meer webshopverkopen, meer demo-aanvragen)? 3) Hoe meten we dat op identieke wijze? Dit document wordt je heilige graal voor elke nieuwe markt die je betreedt en voor elk gesprek met een (nieuw) lokaal bureau.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl.*
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
 Bron: Search Engine Journal

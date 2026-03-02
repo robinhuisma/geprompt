@@ -27,6 +27,6 @@ Een cruciaal detail in de aankondiging is de focus op "AI-native teams". Dit zij
 ## Hoe kun je dit vandaag toepassen?
 Denk niet meteen aan ontslagen, maar begin met het identificeren van repetitief, tijdrovend werk in je team. Dit kan het schrijven van standaard e-mails, het analyseren van data, of het maken van eerste versies van content zijn. Experimenteer met een tool als ChatGPT of een gespecialiseerde AI-assistent voor dat specifieke werk. Meet de tijdwinst en bespreek met je team hoe jullie structureel slimmer kunnen werken, zodat iedereen meer tijd heeft voor werk dat echt impact heeft. Zo bouw je geleidelijk aan aan een wendbaardere, AI-ondersteunde organisatie.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl.*
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
 Bron: Emerce

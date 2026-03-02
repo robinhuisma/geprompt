@@ -27,6 +27,6 @@ Volgens HubSpot begint effectieve AEO bij het grondwerk van goede SEO: duidelijk
 ## Hoe kun je dit vandaag toepassen?
 Begin met het analyseren van je bestaande, meest waardevolle content. Stel je voor dat ChatGPT een vraag over jouw onderwerp beantwoordt: welke twee zinnen uit jouw artikel zouden het meest geschikt zijn om geciteerd te worden? Zorg dat die kernboodschap helder en feitelijk is verwoord. Een praktische test is om je eigen product- of dienstpagina's in te voeren in ChatGPT met de vraag "Kun je uitleggen wat [jouw dienst] is?". Kijk wat er terugkomt en pas je tekst aan op basis van het antwoord.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl.*
+*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
 Bron: HubSpot
