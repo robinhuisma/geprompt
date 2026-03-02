@@ -391,3 +391,32 @@ body:not(.dark) {
 .list:not(.dark) .logo a {
   color: #00A19B !important;
 }
+
+/* Light mode: newsletter inputs */
+.list:not(.dark) .newsletter-box input[type="text"],
+.list:not(.dark) .newsletter-box input[type="email"] {
+  background-color: #ffffff !important;
+  color: #1a1a1a !important;
+  border: 1px solid #cccccc !important;
+}
+
+.list:not(.dark) .newsletter-box input[type="text"]::placeholder,
+.list:not(.dark) .newsletter-box input[type="email"]::placeholder {
+  color: #999999 !important;
+}
+
+.list:not(.dark) .newsletter-box h3 {
+  color: #1a1a1a !important;
+}
+
+.list:not(.dark) .newsletter-box p {
+  color: #555555 !important;
+}
+
+.list:not(.dark) .newsletter-avg span {
+  color: #555555 !important;
+}
+
+.list:not(.dark) .newsletter-box input[type="checkbox"] {
+  accent-color: #00A19B;
+}
