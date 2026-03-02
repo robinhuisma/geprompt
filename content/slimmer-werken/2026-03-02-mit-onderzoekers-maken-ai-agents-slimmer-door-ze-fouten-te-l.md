@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7681562/pexels-photo-7681562.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Team of diverse call center professionals smiling and standing confidently with headsets and microphones."
   caption: "Foto: Mikhail Nilov via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/helping-ai-agents-search-to-get-best-results-from-llms-0205"
 ---

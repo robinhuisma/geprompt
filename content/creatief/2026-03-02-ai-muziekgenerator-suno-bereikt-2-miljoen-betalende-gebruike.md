@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/17485741/pexels-photo-17485741.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Intricate wireframe with dynamic ribbons in an abstract 3D composition."
   caption: "Foto: Google DeepMind via Pexels"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/1181307/pexels-photo-1181307.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "An overhead view of a person working on a laptop at a desk with documents and papers."
   caption: "Foto: Christina Morillo via Pexels"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/18069493/pexels-photo-18069493.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A colorful and vibrant abstract 3D render featuring intricate geometric shapes and structures."
   caption: "Foto: Google DeepMind via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8566456/pexels-photo-8566456.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A modern toy robot held in a hand with an office desk in the background, showcasing innovation."
   caption: "Foto: Kindel Media via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies"
 ---

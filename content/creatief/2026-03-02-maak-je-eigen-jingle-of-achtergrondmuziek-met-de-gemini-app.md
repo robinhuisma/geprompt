@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/545580/pexels-photo-545580.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A collection of new paint brushes in a plastic container, ideal for art projects."
   caption: "Foto: OVAN via Pexels"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
 ---

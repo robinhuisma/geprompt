@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Scrabble tiles spelling 'SEO' on a wooden surface. Ideal for digital marketing themes."
   caption: "Foto: Pixabay via Pexels"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/"
 ---

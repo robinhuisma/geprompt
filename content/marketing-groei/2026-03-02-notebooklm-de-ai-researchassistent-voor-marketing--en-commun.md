@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5561919/pexels-photo-5561919.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Tablet, magnifying glass, and clipboard for stock market analysis."
   caption: "Foto: Leeloo The First via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---

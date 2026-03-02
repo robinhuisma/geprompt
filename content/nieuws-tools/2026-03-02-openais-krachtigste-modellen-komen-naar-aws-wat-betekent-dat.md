@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface."
   caption: "Foto: Sanket  Mishra via Pexels"
-draft: true
+draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---

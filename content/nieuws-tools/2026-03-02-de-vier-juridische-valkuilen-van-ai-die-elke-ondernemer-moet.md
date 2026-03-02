@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6069483/pexels-photo-6069483.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A detective interrogates a handcuffed suspect inside a police station room."
   caption: "Foto: RDNE Stock project via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies"
 ---

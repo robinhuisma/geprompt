@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/6914645/pexels-photo-6914645.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A cheerful and diverse team engages in a lively brainstorming session in a modern office environment."
   caption: "Foto: Tima Miroshnichenko via Pexels"
-draft: true
+draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-downgrades-its-ai-safety-policy"
 ---

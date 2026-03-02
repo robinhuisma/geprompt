@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5917844/pexels-photo-5917844.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A woman in a yellow sweater working on a laptop at a modern, minimalistic office desk."
   caption: "Foto: Jack Sparrow via Pexels"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.n8n.io/best-mcp-servers/"
 ---

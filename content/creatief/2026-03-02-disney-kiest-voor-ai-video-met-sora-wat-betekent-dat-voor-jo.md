@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/4415057/pexels-photo-4415057.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Statue of a filmmaker with vintage camera, located outdoors at a park in Orlando, Florida."
   caption: "Foto: Allan Rodrigo via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---

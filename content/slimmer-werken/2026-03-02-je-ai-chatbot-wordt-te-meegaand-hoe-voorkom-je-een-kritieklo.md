@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/5532671/pexels-photo-5532671.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Close-up of aluminum cans being filled in an automated brewery assembly line."
   caption: "Foto: cottonbro studio via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/16094054/pexels-photo-16094054.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Hands typing on a laptop with ChatGPT open, wireless technology theme."
   caption: "Foto: Matheus Bertelli via Pexels"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/claude-vs-chatgpt"
 ---

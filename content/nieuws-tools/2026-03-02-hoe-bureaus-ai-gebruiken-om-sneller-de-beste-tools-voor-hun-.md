@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8964673/pexels-photo-8964673.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A wireless keyboard paired with blue light blocking glasses on a white surface, ideal for tech-related visuals."
   caption: "Foto: Antonio Friedemann via Pexels"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/using-ai-to-serve-clients"
 ---

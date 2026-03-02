@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/4126743/pexels-photo-4126743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Top view of laptop with design app, coffee, and notepad on a wooden desk."
   caption: "Foto: Ketut Subiyanto via Pexels"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.n8n.io/human-in-the-loop-automation/"
 ---

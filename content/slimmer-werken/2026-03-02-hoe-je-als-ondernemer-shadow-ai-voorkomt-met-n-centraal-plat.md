@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/8284724/pexels-photo-8284724.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A woman types on a laptop using a messaging app in a modern office setting."
   caption: "Foto: Mikhail Nilov via Pexels"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.n8n.io/introducing-chat-hub/"
 ---

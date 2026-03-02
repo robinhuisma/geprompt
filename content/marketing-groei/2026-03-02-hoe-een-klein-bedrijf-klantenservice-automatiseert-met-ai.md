@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7873561/pexels-photo-7873561.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A pair of eyeglasses resting on a financial document and magazine with bold headline \"LEADERS\" in focus."
   caption: "Foto: Leeloo The First via Pexels"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
 ---

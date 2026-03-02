@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/7818104/pexels-photo-7818104.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Organized workspace with laptop, notebook, and glasses, perfect for planning and strategy."
   caption: "Foto: Leeloo The First via Pexels"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
 ---
