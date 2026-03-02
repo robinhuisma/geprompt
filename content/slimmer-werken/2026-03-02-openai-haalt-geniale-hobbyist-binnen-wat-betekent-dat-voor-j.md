@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-openai-haalt-de-maker-van-openclaw-binnen.webp"
   alt: "OpenAI haalt de maker van OpenClaw binnen"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "AI Report"
 source_url: "https://www.aireport.email/p/openclaw-maker-kiest-openai-straks"
 ---

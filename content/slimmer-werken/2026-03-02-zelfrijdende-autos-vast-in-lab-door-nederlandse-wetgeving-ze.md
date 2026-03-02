@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-de-zelfrijdende-auto-moet-het-lab-uit.webp"
   alt: "De zelfrijdende auto moet het lab uit"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/"
 ---

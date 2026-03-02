@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-disney-sora-billion-dollar-partnership-signals-new-era.webp"
   alt: "Disney + Sora: Billion Dollar Partnership Signals New Era"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---

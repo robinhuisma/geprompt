@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-3-questions-using-ai-to-accelerate-the-discovery-and-design-.webp"
   alt: "3 Questions: Using AI to accelerate the discovery and design of therapeutic drugs"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
 ---

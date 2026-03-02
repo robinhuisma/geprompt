@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-a-shortcut-to-testing-tools-how-agencies-can-leverage-ai-to-.webp"
   alt: "A Shortcut to Testing Tools: How Agencies Can Leverage AI to Serve Clients Better"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/using-ai-to-serve-clients"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-bing-adds-geo-to-official-guidelines-expands-ai-abuse-defini.webp"
   alt: "Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions via @sejournal, @MattGSouthern"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/"
 ---

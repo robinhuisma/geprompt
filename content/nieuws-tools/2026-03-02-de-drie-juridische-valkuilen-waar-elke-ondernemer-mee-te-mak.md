@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-the-legal-questions-ai-is-forcing-every-agency-to-face.webp"
   alt: "The Legal Questions AI Is Forcing Every Agency to Face"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies"
 ---

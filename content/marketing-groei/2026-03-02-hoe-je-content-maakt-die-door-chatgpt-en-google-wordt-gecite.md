@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-why-seo-now-depends-on-citation-worthy-content-webinar-via-s.webp"
   alt: "Why SEO Now Depends on Citation-Worthy Content [Webinar] via @sejournal, @hethr_campbell"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/"
 ---

@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technolo.webp"
   alt: "Marketingfacts Jaarboek 2026: AI is geen kwestie van technologie, maar een organisatievraagstuk"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"
 ---

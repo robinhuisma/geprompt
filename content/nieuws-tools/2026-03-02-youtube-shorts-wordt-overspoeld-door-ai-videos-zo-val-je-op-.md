@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-youtube-s-ai-slop-problem-and-how-marketers-can-compete-via-.webp"
   alt: "YouTube’s AI Slop Problem And How Marketers Can Compete via @sejournal, @MattGSouthern"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/"
 ---

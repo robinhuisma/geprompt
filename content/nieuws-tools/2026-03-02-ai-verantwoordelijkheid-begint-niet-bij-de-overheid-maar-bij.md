@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-after-the-india-ai-impact-summit-2026-what-enterprise-leader.webp"
   alt: "After the India AI Impact Summit 2026: What Enterprise Leaders Are Still Getting Wrong About Responsible AI"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/"
 ---

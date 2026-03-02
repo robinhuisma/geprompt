@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/1034646/pexels-photo-1034646.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Contemporary home office setup with a computer and desk lamp on a wooden table."
   caption: "Foto: Tom Swinnen via Pexels"
-draft: true
+draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/orange-telefnica-three-group-krijgen-satellietinternet"
 ---

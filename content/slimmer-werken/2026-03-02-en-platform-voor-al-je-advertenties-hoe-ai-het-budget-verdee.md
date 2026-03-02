@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/19238352/pexels-photo-19238352.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A clean and modern desk setup featuring a computer, clock, and accessories in a home office."
   caption: "Foto: Mateusz Haberny via Pexels"
-draft: true
+draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17283060/knorex-xpo-reach-your-audience-everywhere-with-ai"
 ---

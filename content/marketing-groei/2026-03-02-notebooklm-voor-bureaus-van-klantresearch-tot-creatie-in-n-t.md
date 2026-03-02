@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-notebooklm-in-action-7-killer-use-cases-for-agencies.webp"
   alt: "NotebookLM in Action: 7 Killer Use Cases for Agencies"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"
 ---

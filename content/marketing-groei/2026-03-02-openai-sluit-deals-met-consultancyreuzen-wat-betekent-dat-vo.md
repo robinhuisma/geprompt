@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-openai-partners-with-consulting-giants-in-enterprise-ai-push.webp"
   alt: "OpenAI Partners With Consulting Giants in Enterprise AI Push"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai"
 ---

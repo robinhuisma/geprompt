@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-a-married-founder-duo-8217-s-company-14-ai-is-replacing-cust.webp"
   alt: "A married founder duo&#8217;s company, 14.ai, is replacing customer support teams at startups"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
 ---

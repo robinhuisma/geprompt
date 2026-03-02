@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-gpt-4o-image-generation-is-finally-here.webp"
   alt: "GPT 4o image generation is finally here"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here"
 ---

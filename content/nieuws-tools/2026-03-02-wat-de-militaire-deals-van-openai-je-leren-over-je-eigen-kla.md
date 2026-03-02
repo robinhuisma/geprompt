@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-how-openai-caved-to-the-pentagon-on-ai-surveillance.webp"
   alt: "How OpenAI caved to the Pentagon on AI surveillance"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
 ---

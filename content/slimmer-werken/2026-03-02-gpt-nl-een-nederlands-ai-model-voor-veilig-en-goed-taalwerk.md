@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-gpt-nl-groeit-uit-tot-alternatief-commerci-le-ai-modellen.webp"
   alt: "GPT-NL groeit uit tot alternatief commerciële ai-modellen"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/"
 ---

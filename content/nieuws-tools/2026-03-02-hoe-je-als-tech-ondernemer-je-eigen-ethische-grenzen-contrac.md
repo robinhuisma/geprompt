@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-l.webp"
   alt: "AI vs. the Pentagon: killer robots, mass surveillance, and red lines"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
 ---

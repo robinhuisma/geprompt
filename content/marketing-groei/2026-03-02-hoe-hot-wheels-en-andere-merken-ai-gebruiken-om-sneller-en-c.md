@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-from-hot-wheels-to-handling-content-how-brands-are-using-mic.webp"
   alt: "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Blogs"
 source_url: "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/"
 ---

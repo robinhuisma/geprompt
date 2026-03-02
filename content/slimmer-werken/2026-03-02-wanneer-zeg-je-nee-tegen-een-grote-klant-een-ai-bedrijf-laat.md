@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/10801695/pexels-photo-10801695.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "A serene home office desk setup with a laptop, candle, and plants creating a peaceful ambiance."
   caption: "Foto: Mayıs via Pexels"
-draft: true
+draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/het-bestaat-dus-toch-een-amerikaans-techbedrijf-met-ruggengraat"
 ---

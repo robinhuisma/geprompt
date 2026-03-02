@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-recordcijfers-voor-asml-maar-banengroei-stagneert-8211-penta.webp"
   alt: "Recordcijfers voor ASML, maar banengroei stagneert &#8211; Pentagon voert druk op Anthropic op"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/recordcijfers-voor-asml-maar-banengroei-stagneert"
 ---

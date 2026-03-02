@@ -8,7 +8,7 @@ cover:
   image: "https://images.pexels.com/photos/3184454/pexels-photo-3184454.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Discover a clean, organized workspace featuring a laptop, AirPods, and stationery essentials on a marble desk."
   caption: "Foto: fauxels via Pexels"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/23/waarom-openclaw-het-chatgpt-moment-voor-agents-kan-zijn/"
 ---

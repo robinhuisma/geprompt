@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-what-ai-sees-when-it-visits-your-website-and-how-to-fix-it.webp"
   alt: "What AI Sees When It Visits Your Website (And How To Fix It)"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---

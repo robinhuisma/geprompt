@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-ai-music-generator-suno-hits-2m-paid-subscribers-and-300m-in.webp"
   alt: "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
 ---

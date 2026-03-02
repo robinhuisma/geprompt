@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-openai-and-amazon-announce-strategic-partnership.webp"
   alt: "OpenAI and Amazon announce strategic partnership"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---

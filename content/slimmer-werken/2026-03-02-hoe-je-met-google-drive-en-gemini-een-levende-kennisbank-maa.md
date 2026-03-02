@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-how-google-drive-and-gemini-ai-just-retired-the-knowledge-ba.webp"
   alt: "How Google Drive and Gemini (AI) Just Retired the Knowledge Base Industry"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry"
 ---

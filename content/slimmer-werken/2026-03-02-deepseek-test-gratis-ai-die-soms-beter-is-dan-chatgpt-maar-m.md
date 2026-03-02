@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-i-tested-deepseek-vs-chatgpt-with-5-prompts.webp"
   alt: "I tested DeepSeek vs ChatGPT with 5 prompts"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"
 ---

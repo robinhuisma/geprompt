@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-a-new-way-to-express-yourself-gemini-can-now-create-music.webp"
   alt: "A new way to express yourself: Gemini can now create music"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
 ---

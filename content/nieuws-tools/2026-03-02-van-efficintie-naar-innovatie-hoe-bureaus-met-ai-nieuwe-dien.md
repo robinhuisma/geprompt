@@ -8,7 +8,7 @@ cover:
   image: "/images/covers/2026-03-02-the-ai-innovation-imperative-for-agencies-why-optimization-i.webp"
   alt: "The AI Innovation Imperative for Agencies: Why Optimization Isn’t Enough Anymore"
   caption: "Beeld gegenereerd met AI voor geprompt.nl"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies"
 ---
