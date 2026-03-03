@@ -7,7 +7,7 @@ summary: "Als Apple Google-servers gebruikt voor een slimmere Siri, kan dit de b
 cover:
   image: "/images/covers/2026-03-03-apple-might-use-google-servers-to-store-data-for-its-upgrade.webp"
   alt: "Apple might use Google servers to store data for its upgraded AI Siri"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
 ---

@@ -7,7 +7,7 @@ summary: "SEO verschuift van ranking op zoekwoorden naar het creëren van gezagh
 cover:
   image: "/images/covers/2026-03-03-why-seo-now-depends-on-citation-worthy-content-webinar-via-s.webp"
   alt: "Why SEO Now Depends on Citation-Worthy Content [Webinar] via @sejournal, @hethr_campbell"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/"
 ---

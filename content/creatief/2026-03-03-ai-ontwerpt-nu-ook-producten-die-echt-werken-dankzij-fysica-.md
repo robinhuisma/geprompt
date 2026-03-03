@@ -7,7 +7,7 @@ summary: "Een nieuw AI-systeem combineert creatief ontwerp met fysica-simulaties
 cover:
   image: "/images/covers/2026-03-03-mixing-generative-ai-with-physics-to-create-personal-items-t.webp"
   alt: "Mixing generative AI with physics to create personal items that work in the real world"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"
 ---

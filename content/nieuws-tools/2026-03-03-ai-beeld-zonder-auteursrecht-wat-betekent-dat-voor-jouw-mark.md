@@ -7,7 +7,7 @@ summary: "Het Amerikaanse Hooggerechtshof laat een regel staan dat AI-gegenereer
 cover:
   image: "/images/covers/2026-03-03-ai-generated-art-can-8217-t-be-copyrighted-after-supreme-cou.webp"
   alt: "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
 ---

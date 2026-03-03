@@ -7,7 +7,7 @@ summary: "Terwijl concurrenten AI als marketingtool gebruiken, investeert Xiaomi
 cover:
   image: "/images/covers/2026-03-03-xiaomi-unlike-google-and-samsung-thinks-camera-hardware-come.webp"
   alt: "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first"
 ---

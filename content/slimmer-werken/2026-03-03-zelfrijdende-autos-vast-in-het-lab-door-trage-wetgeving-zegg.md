@@ -7,7 +7,7 @@ summary: "Trage wetgeving houdt zelfrijdende auto's in het lab, wat innovatie en
 cover:
   image: "/images/covers/2026-03-03-de-zelfrijdende-auto-moet-het-lab-uit.webp"
   alt: "De zelfrijdende auto moet het lab uit"
-draft: true
+draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/"
 ---

@@ -7,7 +7,7 @@ summary: "Een effectieve AI-SEO-strategie is een geïntegreerd systeem, geen los
 cover:
   image: "/images/covers/2026-03-03-how-to-build-an-ai-seo-strategy-that-outlasts-tactics-via-se.webp"
   alt: "How To Build An AI SEO Strategy That Outlasts Tactics via @sejournal, @Kevin_Indig"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/"
 ---

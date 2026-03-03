@@ -7,7 +7,7 @@ summary: "OpenAI en Amazon slaan de handen ineen, waardoor bedrijven op AWS stra
 cover:
   image: "/images/covers/2026-03-03-openai-and-amazon-announce-strategic-partnership.webp"
   alt: "OpenAI and Amazon announce strategic partnership"
-draft: true
+draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"
 ---

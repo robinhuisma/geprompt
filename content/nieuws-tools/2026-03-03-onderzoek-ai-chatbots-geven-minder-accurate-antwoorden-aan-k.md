@@ -7,7 +7,7 @@ summary: "AI-chatbots zoals GPT-4 geven minder accurate en waarheidsgetrouwe ant
 cover:
   image: "/images/covers/2026-03-03-study-ai-chatbots-provide-less-accurate-information-to-vulne.webp"
   alt: "Study: AI chatbots provide less-accurate information to vulnerable users"
-draft: true
+draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"
 ---

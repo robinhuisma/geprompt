@@ -7,7 +7,7 @@ summary: "Disney investeert miljarden in AI-video van OpenAI, wat de creatieve i
 cover:
   image: "/images/covers/2026-03-03-disney-sora-billion-dollar-partnership-signals-new-era.webp"
   alt: "Disney + Sora: Billion Dollar Partnership Signals New Era"
-draft: true
+draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
 ---

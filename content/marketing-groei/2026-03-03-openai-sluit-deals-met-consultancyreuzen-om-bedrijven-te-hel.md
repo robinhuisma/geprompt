@@ -7,7 +7,7 @@ summary: "OpenAI werkt samen met grote adviesbureaus om bedrijven te helpen AI t
 cover:
   image: "/images/covers/2026-03-03-openai-partners-with-consulting-giants-in-enterprise-ai-push.webp"
   alt: "OpenAI Partners With Consulting Giants in Enterprise AI Push"
-draft: true
+draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai"
 ---

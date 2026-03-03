@@ -7,7 +7,7 @@ summary: "Met de AI-modellen Qwen Image Edit kun je oude, beschadigde foto's uit
 cover:
   image: "/images/covers/2026-03-03-ai-powered-photo-restoration-using-qwen-image-edit.webp"
   alt: "Ai Powered Photo Restoration using QWEN Image Edit"
-draft: true
+draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"
 ---

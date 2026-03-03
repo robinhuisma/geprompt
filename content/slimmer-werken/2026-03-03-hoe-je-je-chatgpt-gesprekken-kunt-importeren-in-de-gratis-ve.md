@@ -7,7 +7,7 @@ summary: "Je kunt nu je gespreksgeschiedenis en voorkeuren van ChatGPT overzette
 cover:
   image: "/images/covers/2026-03-03-anthropic-upgrades-claude-s-memory-to-attract-ai-switchers.webp"
   alt: "Anthropic upgrades Claude’s memory to attract AI switchers"
-draft: true
+draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
 ---

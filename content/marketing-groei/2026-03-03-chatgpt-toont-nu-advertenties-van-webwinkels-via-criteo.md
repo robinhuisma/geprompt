@@ -7,7 +7,7 @@ summary: "Criteo plaatst als eerste advertentietechnologiepartner reclame van re
 cover:
   image: "/images/covers/2026-03-03-criteo-levert-advertenties-in-chatgpt-antwoorden.webp"
   alt: "Criteo levert advertenties in ChatGPT-antwoorden"
-draft: true
+draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/criteo-levert-advertenties-chatgptantwoorden"
 ---

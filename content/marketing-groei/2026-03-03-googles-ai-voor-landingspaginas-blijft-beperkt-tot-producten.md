@@ -7,7 +7,7 @@ summary: "Google's nieuwe patent voor AI-gemaakte landingspagina's is alleen bed
 cover:
   image: "/images/covers/2026-03-03-google-s-ai-generated-landing-page-patent-is-limited-to-shop.webp"
   alt: "Google’s AI Generated Landing Page Patent Is Limited To Shopping &amp; Ads via @sejournal, @martinibuster"
-draft: true
+draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/"
 ---
