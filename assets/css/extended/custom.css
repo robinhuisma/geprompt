@@ -685,3 +685,15 @@ a {
     height: 48px;
   }
 }
+
+/* Newsletter tekst beter leesbaar */
+.newsletter-box h3 {
+  color: #fff !important;
+}
+.newsletter-box p {
+  color: #ccc !important;
+}
+.newsletter-avg,
+.newsletter-avg label {
+  color: #aaa !important;
+}
