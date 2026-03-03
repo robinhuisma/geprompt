@@ -456,12 +456,94 @@ h1.post-title {
 }
 
 /* ===========================
-   LIGHT MODE OVERRIDES
+   DARK MODE ENFORCEMENT
+   Forceert donker thema op alle pagina's
    =========================== */
 
-/* Paginering */
-/* Newsletter box */
-/* Foto bijschrift */
-/* AI-transparantielabel */
-/* QGC-label */
-/* QGC formulier - aanvullend op bestaande light mode */
+:root {
+  --theme: rgb(29, 30, 32) !important;
+  --entry: rgb(46, 46, 51) !important;
+  --primary: rgb(218, 218, 219) !important;
+  --secondary: rgb(155, 156, 157) !important;
+  --tertiary: rgb(65, 66, 68) !important;
+  --content: rgb(196, 196, 197) !important;
+  --code-block-bg: rgb(46, 46, 51) !important;
+  --code-bg: rgb(55, 56, 62) !important;
+  --border: rgb(51, 51, 51) !important;
+  color-scheme: dark !important;
+}
+
+body {
+  background: rgb(29, 30, 32) !important;
+  color: rgb(218, 218, 219) !important;
+}
+
+body.list {
+  background: rgb(29, 30, 32) !important;
+}
+
+.main {
+  background: rgb(29, 30, 32) !important;
+}
+
+.post-content {
+  color: rgb(196, 196, 197) !important;
+}
+
+.header {
+  background: rgb(29, 30, 32) !important;
+}
+
+.footer {
+  background: rgb(29, 30, 32) !important;
+}
+
+.post-entry {
+  background: rgb(46, 46, 51) !important;
+}
+
+.first-entry {
+  background: rgb(29, 30, 32) !important;
+}
+
+.post-title,
+.entry-title,
+h1, h2, h3, h4, h5 {
+  color: rgb(218, 218, 219) !important;
+}
+
+a {
+  color: rgb(218, 218, 219) !important;
+}
+
+.post-meta {
+  color: rgb(155, 156, 157) !important;
+}
+
+.post-content a {
+  color: #00A19B !important;
+}
+
+.breadcrumbs a,
+.breadcrumbs span {
+  color: rgb(155, 156, 157) !important;
+}
+
+.paginav {
+  background: rgb(46, 46, 51) !important;
+  border-color: rgb(51, 51, 51) !important;
+}
+
+.toc {
+  background: rgb(46, 46, 51) !important;
+}
+
+#searchbox {
+  background: rgb(46, 46, 51) !important;
+  color: rgb(218, 218, 219) !important;
+  border-color: rgb(51, 51, 51) !important;
+}
+
+#searchResults .post-entry {
+  background: rgb(46, 46, 51) !important;
+}
