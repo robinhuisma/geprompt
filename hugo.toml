@@ -23,7 +23,7 @@ buildFuture = false
   ShowCodeCopyButtons = false
   disableSpecial1stPost = false
 
-  disableThemeToggle = false
+  disableThemeToggle = true
   ShowMenu = true
 
 
