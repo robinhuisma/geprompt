@@ -1,9 +1,9 @@
 ---
 title: "ChatGPT toont nu advertenties van webwinkels via Criteo"
-date: 2026-03-03T21:40:34.283Z
-tags: ["chatgpt", "adverteren", "retail", "conversie"]
+date: 2026-03-03T22:31:59.571Z
+tags: ["chatgpt", "adverteren", "retail", "marketing"]
 categorieen: ["marketing-groei"]
-summary: "Criteo plaatst als eerste advertentietechnologiepartner reclame van retailklanten in ChatGPT-antwoorden, met claims over hogere conversie."
+summary: "Criteo plaatst als eerste advertentietechnologiepartner reclame van retailklanten in de antwoorden van ChatGPT, met claims over hogere conversie."
 cover:
   image: "/images/covers/2026-03-03-criteo-levert-advertenties-in-chatgpt-antwoorden.webp"
   alt: "Criteo levert advertenties in ChatGPT-antwoorden"
@@ -12,15 +12,16 @@ source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/criteo-levert-advertenties-chatgptantwoorden"
 ---
 
-ChatGPT begint met het tonen van gesponsorde antwoorden aan zijn gebruikers, en het Franse advertentieplatform Criteo is een van de eerste partners die dit voor retailadvertenties mogelijk maakt. Dit betekent dat wanneer Amerikaanse gebruikers van de gratis versie of ChatGPT Go een vraag stellen, zij in de antwoorden advertenties kunnen zien van webwinkels die klant zijn bij Criteo. Het is een eerste stap in een nieuw verdienmodel voor OpenAI, dat tot nu toe vooral afhankelijk was van abonnementen.
+ChatGPT begint met het tonen van gesponsorde antwoorden voor webwinkels. Het Franse advertentieplatform Criteo is volgens eigen zeggen de eerste advertentietechnologiepartner die integreert met de advertentieproef van OpenAI in ChatGPT. Amerikaanse gebruikers van de gratis versie en van ChatGPT Go zien nu reclames in de marge van de antwoorden. Dit markeert een nieuw verdienmodel voor OpenAI, dat voorheen alleen inkomsten haalde uit abonnementen en zakelijke licenties.
 
-Volgens Criteo levert dit soort advertenties in grote taalmodellen (LLM's) zoals ChatGPT bijzondere resultaten op. Uit hun geaggregeerde inzichten bij Amerikaanse klanten blijkt dat gebruikers die via LLM-platforms worden doorverwezen, ongeveer anderhalf keer zo vaak converteren als via andere doorverwijskanalen. Het is belangrijk om te benadrukken dat dit een claim van het bedrijf zelf is en niet onafhankelijk is geverifieerd. Het mechanisme lijkt op dat van zoekmachines: OpenAI relateert zoekvragen aan commerciële partijen die een inhoudelijke match kunnen bieden.
+## Wat betekent dit voor adverteren?
+OpenAI relateert zoekvragen in ChatGPT aan commerciële aanbieders die een inhoudelijke match hebben met de vraag, vergelijkbaar met hoe Google dat in zijn zoekmachine doet. Criteo claimt op basis van geaggregeerde data van Amerikaanse klanten dat gebruikers die via zulke LLM-platforms zoals ChatGPT worden doorverwezen, ongeveer anderhalf keer zo vaak converteren als via andere doorverwijskanalen. Het is belangrijk om te benadrukken dat dit een claim van het bedrijf zelf is en niet onafhankelijk is geverifieerd.
 
-## Wat betekent dit voor webwinkels?
-Voor retailbedrijven opent dit een potentieel nieuw kanaal om klanten te bereiken op het moment dat zij via een gesprek met een AI advies vragen of producten zoeken. De advertenties verschijnen in de marge van het ChatGPT-antwoord. Het ligt in de lijn der verwachting dat andere partijen in de e-commercestack, zoals voorraadbeheerders of feedmanagers, zullen volgen om de koppeling tussen winkelvoorraden en AI-zoekmachines te vergemakkelijken. Op dit moment is de pilot echter beperkt tot de Amerikaanse markt en klanten van Criteo.
+## Wie krijgt de advertenties te zien?
+De advertenties worden momenteel getoond aan gebruikers in de Verenigde Staten, zowel die met een gratis account als degenen met een betaald ChatGPT Go-abonnement. Dat Go-abonnees ook advertenties zien, zou volgens het bronartikel een A/B-test kunnen zijn, wat de mogelijkheid opent dat dit abonnement in de toekomst niet meer advertentievrij is. Andere AI-assistenten, zoals Claude en Perplexity, tonen bewust (nog) geen reclame in hun antwoorden.
 
-## Een verschuiving in het AI-landschap
-De introductie van advertenties markeert een strategische verschuiving voor OpenAI. Zelfs betalende Go-abonnees krijgen de reclameboodschappen te zien, wat mogelijk een A/B-test is voor een toekomstig model. Het contrasteert met de aanpak van concurrenten als Claude en Perplexity, die bewust geen reclame in hun antwoorden tonen. De beweging onderstreept de commerciële druk, mede gezien de recente financieringsronde van OpenAI van 110 miljard dollar.
+## Wat is de bredere context?
+Deze stap valt samen met een grote financieringsronde voor OpenAI. Het bedrijf haalde vorige week volgens het artikel 110 miljard dollar nieuw groeigeld op. De introductie van advertenties kan gezien worden als een manier om nieuwe inkomstenstromen te ontwikkelen naast abonnementen. Voor retail- en e-commercebedrijven opent het een potentieel nieuw kanaal om klanten te bereiken op het moment dat ze een vraag stellen aan een AI-assistent.
 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
