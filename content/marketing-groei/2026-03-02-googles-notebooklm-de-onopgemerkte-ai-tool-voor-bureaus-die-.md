@@ -5,7 +5,7 @@ tags: ["ai-tools", "bureaus", "efficiëntie", "contentcreatie"]
 categorieen: ["marketing-groei"]
 summary: "NotebookLM is een AI-tool die je eigen documenten begrijpt en helpt bij het analyseren van klantinformatie en het genereren van nieuwe content."
 cover:
-  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-google-s-notebooklm-de-onopgemerkte-ai-tool-voor-bureaus-die.webp"
   alt: "NotebookLM in Action: 7 Killer Use Cases for Agencies"
   caption: "Foto via Pexels"
 draft: false

@@ -5,7 +5,7 @@ tags: ["anthropic", "claude", "robots.txt", "webcrawler"]
 categorieen: ["nieuws-tools"]
 summary: "Anthropic splitst zijn AI-crawler op in drie aparte bots, waardoor je nu kunt kiezen welke Claude toegang krijgt tot je site voor training, zoeken of gebruikershulp."
 cover:
-  image: "https://images.pexels.com/photos/34007082/pexels-photo-34007082.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-02-28-anthropic-maakt-robots-txt-voor-claude-specifieker-wat-betek.webp"
   alt: "Anthropic maakt robots.txt voor Claude specifieker, wat betekent dat voor jouw website?"
   caption: "Foto via Pexels"
 draft: false

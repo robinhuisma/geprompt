@@ -5,7 +5,7 @@ tags: ["google ads", "internationale marketing", "ppc", "campagnebeheer"]
 categorieen: ["marketing-groei"]
 summary: "Een praktisch raamwerk om je advertenties in verschillende landen consistent en effectief te houden, zelfs als je met meerdere bureaus werkt."
 cover:
-  image: "https://images.pexels.com/photos/11393307/pexels-photo-11393307.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-02-28-waarom-internationale-advertentiecampagnes-zo-vaak-mislukken.webp"
   alt: "Waarom internationale advertentiecampagnes zo vaak mislukken"
   caption: "Foto via Pexels"
 draft: false

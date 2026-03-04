@@ -5,7 +5,7 @@ tags: ["openai", "aws", "cloud", "ai-modellen"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI's modellen komen beschikbaar op Amazon Web Services, wat voor Nederlandse bedrijven kan leiden tot meer keuze, betere integratie en mogelijk lagere kosten."
 cover:
-  image: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-openai-komt-naar-aws-wat-betekent-dat-voor-jouw-cloudkosten.webp"
   alt: "OpenAI and Amazon announce strategic partnership"
   caption: "Foto via Pexels"
 draft: false

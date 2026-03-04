@@ -5,7 +5,7 @@ tags: ["ai-implementatie", "organisatieverandering", "strategie", "leiderschap"]
 categorieen: ["marketing-groei"]
 summary: "Succesvolle AI gaat niet om de nieuwste tool, maar om het aanpassen van je bedrijfsprocessen en het trainen van je mensen."
 cover:
-  image: "https://images.pexels.com/photos/33569862/pexels-photo-33569862.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-ai-implementeren-het-probleem-zit-niet-in-de-software-maar-i.webp"
   alt: "Marketingfacts Jaarboek 2026: AI is geen kwestie van technologie, maar een organisatievraagstuk"
   caption: "Foto via Pexels"
 draft: false

@@ -5,7 +5,7 @@ tags: ["ai-afbeeldingen", "chatgpt", "creatief", "ontwerp"]
 categorieen: ["creatief"]
 summary: "OpenAI's GPT-4o kan nu ook afbeeldingen maken, met een bijzondere focus op het correct weergeven van tekst en het ontwerpen van consistente visuele elementen."
 cover:
-  image: "https://images.pexels.com/photos/6353770/pexels-photo-6353770.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-gpt-4o-maakt-nu-ook-afbeeldingen-en-dat-is-vooral-handig-voo.webp"
   alt: "GPT 4o image generation is finally here"
   caption: "Foto via Pexels"
 draft: false

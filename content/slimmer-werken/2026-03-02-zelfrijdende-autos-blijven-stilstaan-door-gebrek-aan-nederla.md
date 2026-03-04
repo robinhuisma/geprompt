@@ -5,7 +5,7 @@ tags: ["zelfrijdende auto's", "logistiek", "regelgeving", "innovatie"]
 categorieen: ["slimmer-werken"]
 summary: "De ontwikkeling van zelfrijdende voertuigen in Nederland loopt vast omdat er geen plek is om ze op grote schaal in de echte wereld te testen."
 cover:
-  image: "https://images.pexels.com/photos/4480507/pexels-photo-4480507.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-zelfrijdende-auto-s-blijven-stilstaan-door-gebrek-aan-nederl.webp"
   alt: "De zelfrijdende auto moet het lab uit"
   caption: "Foto via Pexels"
 draft: false

@@ -5,7 +5,7 @@ tags: ["ai", "website", "zoekmachines", "technische seo"]
 categorieen: ["marketing-groei"]
 summary: "AI-crawlers lezen je website anders dan mensen; met een paar technische checks zorg je dat je boodschap correct overkomt in chatbots en AI-zoekmachines."
 cover:
-  image: "https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-zo-zorg-je-dat-ai-je-website-begrijpt-en-goed-doorgeeft-aan.webp"
   alt: "What AI Sees When It Visits Your Website (And How To Fix It)"
   caption: "Foto via Pexels"
 draft: false

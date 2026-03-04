@@ -5,7 +5,7 @@ tags: ["ai-model", "dataprivacy", "compliance", "nederlands"]
 categorieen: ["slimmer-werken"]
 summary: "GPT-NL is een Nederlands AI-taalmodel, getraind op rechtmatige data, dat een veilig alternatief biedt voor het verwerken van gevoelige bedrijfsinformatie."
 cover:
-  image: "https://images.pexels.com/photos/33009722/pexels-photo-33009722.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-gpt-nl-een-nederlands-ai-model-voor-veilige-en-compliant-bed.webp"
   alt: "GPT-NL groeit uit tot alternatief commerciële ai-modellen"
   caption: "Foto via Pexels"
 draft: false

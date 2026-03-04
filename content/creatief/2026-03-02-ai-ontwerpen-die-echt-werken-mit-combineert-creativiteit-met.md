@@ -5,7 +5,7 @@ tags: ["ai-ontwerp", "3d-printen", "productontwikkeling", "fysieke simulatie"]
 categorieen: ["creatief"]
 summary: "Een nieuw systeem voegt natuurkundige simulaties toe aan AI-ontwerp, zodat je creatieve ideeën ook echt kunt 3D-printen en gebruiken."
 cover:
-  image: "https://images.pexels.com/photos/31364374/pexels-photo-31364374.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  image: "/images/covers/2026-03-02-ai-ontwerpen-die-echt-werken-mit-combineert-creativiteit-met.webp"
   alt: "Mixing generative AI with physics to create personal items that work in the real world"
   caption: "Foto via Pexels"
 draft: false
