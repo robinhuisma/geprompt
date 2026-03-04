@@ -1,31 +1,34 @@
 ---
 title: "Waarom AI-startups hun aandelen soms voor twee verschillende prijzen verkopen"
-date: 2026-03-04T15:06:04.962Z
-tags: ["startup financiering", "investeren", "ai-bedrijven", "risicobeheer"]
+date: 2026-03-04T23:03:00.877Z
+tags: ["startup financiering", "investeren", "ai-bedrijven", "aandelen"]
 categorieen: ["nieuws-tools"]
-summary: "Sommige AI-startups gebruiken 'dual pricing' om hun waardering kunstmatig op te krikken, wat risico's creëert voor investeerders en het ecosysteem."
+summary: "AI-startups gebruiken soms een constructie met 'preferred stock' om een hoge waardering te claimen, wat voor investeerders en mede-oprichters risico's met zich meebrengt."
 cover:
-  image: "https://images.pexels.com/photos/6804612/pexels-photo-6804612.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "Contemporary workspace featuring computers, coding screens, and office essentials in a tech environment."
-  caption: "Foto: cottonbro studio via Pexels"
+  image: "/images/covers/2026-03-04-why-ai-startups-are-selling-the-same-equity-at-two-different.webp"
+  alt: "Why AI startups are selling the same equity at two different prices"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
 ---
 
-Sommige AI-startups verkopen letterlijk hetzelfde aandeel voor twee verschillende prijzen. Dit mechanisme, 'dual pricing' genoemd, wordt gebruikt om de totale waardering van het bedrijf kunstmatig op te krikken, vaak om de felbegeerde 'unicorn'-status te bereiken. Het is een financieringsconstructie die je als ondernemer of investeerder moet kunnen herkennen, omdat het een vertekend beeld van de werkelijke gezondheid en waarde van een bedrijf kan geven.
+Sommige AI-startups hanteren een financieringsconstructie waarbij ze effectief hetzelfde eigendom voor twee verschillende prijzen verkopen. Dit gebeurt niet door fraude, maar door het gebruik van verschillende soorten aandelen. Het doel is vaak om een hoge, 'unicorn'-waardering te kunnen claimen in persberichten, terwijl de werkelijke waarde van het bedrijf lager ligt. Voor ondernemers die zelf financiering zoeken of te maken krijgen met investeringsvoorstellen, is het cruciaal om te begrijpen hoe dit werkt en wat de implicaties zijn.
 
-## Hoe werkt dual pricing precies?
-In een traditionele financieringsronde krijgen alle investeerders dezelfde voorwaarden voor dezelfde soort aandelen. Bij dual pricing creëert een startup twee klassen van hetzelfde type aandeel, bijvoorbeeld Series A-aandelen, maar verkoopt deze aan verschillende investeerders tegen verschillende prijzen. Een grote, strategische investeerder krijgt de aandelen tegen een hoge prijs, wat de officiële waardering van het bedrijf bepaalt. Andere investeerders krijgen dezelfde rechten, maar betalen een aanzienlijk lagere prijs. Op papier lijkt het bedrijf daardoor veel meer waard dan wat de markt in werkelijkheid voor het grootste deel van de aandelen wil betalen.
+## Het mechanisme achter de twee prijzen
 
-## Waarom doen startups dit?
-De belangrijkste drijfveer is vaak het bereiken van een hoge waardering voor marketing- en wervingsdoeleinden. Het label 'unicorn' (een startup gewaardeerd op meer dan $1 miljard) trecht talent aan en genereert media-aandacht. Voor AI-startups, waar de hype groot is en de concurrentie om kapitaal fel, kan deze kunstmatige status een tijdelijk voordeel opleveren. Het stelt founders in staat om te zeggen dat hun bedrijf een bepaalde waardering heeft, gebaseerd op die ene dure transactie, terwijl het merendeel van het kapitaal tegen een lagere, meer realistische waarde binnenkomt.
+De constructie draait om het verschil tussen 'preferred stock' en 'common stock'. Preferred stock zijn aandelen met speciale rechten, zoals gegarandeerde uitbetaling bij een verkoop van het bedrijf. Common stock zijn de gewone aandelen, meestal in handen van oprichters en werknemers. Startups kunnen een kleine ronde preferred stock verkopen aan durfkapitalisten tegen een hoge prijs per aandeel. Vervolgens claimen ze dat deze prijs de volledige waardering van het bedrijf bepaalt. Tegelijkertijd verkopen ze een veel grotere hoeveelheid common stock aan bijvoorbeeld nieuwe mede-oprichters of via een werknemersoptieplan tegen een veel lagere prijs. Technisch gezien zijn het verschillende soorten aandelen, maar ze vertegenwoordigen wel eigendom in hetzelfde bedrijf.
 
-## Wat zijn de risico's van deze constructie?
-Het grootste risico ligt bij de investeerders die tegen de lagere prijs instappen. Hoewel zij op het eerste gezicht een 'korting' krijgen, investeren zij in een bedrijf waarvan de officiële waardering is opgeblazen. Dit maakt het voor hen veel moeilijker om later een goed rendement te halen, omdat elke volgende financieringsronde moet starten vanaf die kunstmatig hoge waardering. Voor het ecosysteem als geheel creëert het een vervormd beeld van de markt. Het kan leiden tot een zeepbel waarin bedrijven worden gewaardeerd op basis van een enkele transactie, niet op basis van fundamentele waarde of brede marktacceptatie. Uiteindelijk ondermijnt het vertrouwen, omdat het onderscheid tussen echte groei en financiële trucs vervaagt.
+## De redenen en de risico's voor oprichters
+
+De directe reden voor startups om dit te doen is het creëren van momentum en prestige. Een 'unicorn'-status trekt aandacht, talent en soms verdere investeringen aan. Voor de durfkapitalist die de dure preferred stock koopt, lijkt het een goede deal: hij krijgt sterke beschermende rechten en een klein stukje van de taart tegen een prijs die, door de hoge waardering, relatief laag lijkt. Het grootste risico ligt echter bij de houders van common stock, vaak de oprichters en werknemers zelf. Als het bedrijf wordt verkocht, krijgen de preferred shareholders eerst hun geïnvesteerde bedrag (of een veelvoud daarvan) terug. Pas daarna is er iets over voor de common shareholders. Bij een bescheiden exit kan dit betekenen dat de oprichters met lege handen achterblijven, terwijl de investeerders hun geld terugkrijgen.
+
+## Wat dit betekent voor ondernemers en investeerders
+
+Als je zelf een startup runt en een dergelijke investeringsvoorstel krijgt, is het essentieel om verder te kijken dan de geclaimde waardering. De voorwaarden van de preferred stock, de zogenaamde 'liquidation preference', bepalen de werkelijke verdeling van de opbrengst bij een verkoop. Een hoge waardering gecombineerd met een agressieve liquidation preference kan de common stock bijna waardeloos maken totdat er een zeer grote exit plaatsvindt. Als je als angel investor of early-stage investeerder betrokken bent, is het belangrijk te beseffen dat je mogelijk common stock koopt. Je positie in de kapitaalstructuur is dan veel zwakker dan die van de durfkapitalisten met preferred stock, ook al betaal je misschien een vergelijkbare prijs per aandeel.
 
 ## Hoe kun je dit vandaag toepassen?
-Als je investeert in of samenwerkt met startups, is een mogelijkheid om bij due diligence expliciet te vragen naar de structuur van de laatste financieringsronde en of alle investeerders dezelfde prijs per aandeel hebben betaald. Je zou kunnen overwegen om de focus te leggen op bedrijfsprestaties en inkomstenstromen in plaats van uitsluitend op de geadverteerde waardering. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+
+Een mogelijke stap is om bij elke investeringsronde of waarderingsdiscussie expliciet te vragen naar het onderscheid tussen preferred en common stock, en naar de specifieke voorwaarden van de liquidation preference. Je zou kunnen overwegen om een financieel adviseur of jurist met ervaring in venture capital te raadplegen om de term sheet te laten doorgronden, zodat je het werkelijke risico en de potentiële opbrengst begrijpt voordat je tekent.
 
 *Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
