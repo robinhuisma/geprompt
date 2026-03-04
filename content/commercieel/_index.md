@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 
 Geprompt.nl is hét Nederlandse AI-nieuwsplatform voor ondernemers en professionals die AI willen inzetten in hun werk. Dagelijks lezen onze bezoekers over de nieuwste tools, praktische toepassingen en strategieën om slimmer te werken.
 
-Adverteren kan bij Geprompt.nl via de **website**, de **nieuwsbrief** en **events**. Bij interesse kun je terecht bij Geprompt of direct contact opnemen met **sales@geprompt.nl** — wij sturen je dan onze brochure met meer informatie over onze formats, zoals de host-read en branded articles.
+Adverteren kan bij Geprompt.nl via de **website**, de **nieuwsbrief** en **events**. Bij interesse kun je terecht bij Geprompt of direct contact opnemen met **partnership@geprompt.nl** — wij sturen je dan onze brochure met meer informatie over onze formats, zoals de host-read en branded articles.
 
 ---
 
@@ -50,4 +50,4 @@ Zichtbaarheid bij een betrokken publiek tijdens kennissessies en netwerkmomenten
 
 ## Contact
 
-Interesse in een samenwerking? Neem contact op via **sales@geprompt.nl** en ontvang onze mediakit met tarieven, bereikscijfers en beschikbaarheid.
+Interesse in een samenwerking? Neem contact op via **partnership@geprompt.nl** en ontvang onze mediakit met tarieven, bereikscijfers en beschikbaarheid.
