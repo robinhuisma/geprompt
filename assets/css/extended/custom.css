@@ -691,9 +691,9 @@ a {
   color: #fff !important;
 }
 .newsletter-box p {
-  color: #ccc !important;
+  color: #fff !important;
 }
 .newsletter-avg,
 .newsletter-avg label {
-  color: #aaa !important;
+  color: #ccc !important;
 }
