@@ -1,9 +1,9 @@
 ---
 title: "Wat AI ziet op je website en hoe je dat kunt verbeteren"
-date: 2026-03-04T09:17:58.980Z
-tags: ["ai", "website", "chatbots", "seo"]
+date: 2026-03-04T10:25:39.299Z
+tags: ["ai", "website", "content", "chatbots"]
 categorieen: ["marketing-groei"]
-summary: "AI-bots lezen je website anders dan mensen; met een paar technische aanpassingen zorg je dat je content correct wordt doorgegeven aan chatbots en klanten."
+summary: "AI-bots lezen je website anders dan mensen; met een paar aanpassingen zorg je dat ze je content correct doorgeven aan potentiële klanten."
 cover:
   image: "/images/covers/2026-03-04-what-ai-sees-when-it-visits-your-website-and-how-to-fix-it.webp"
   alt: "What AI Sees When It Visits Your Website (And How To Fix It)"
@@ -12,21 +12,24 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"
 ---
 
-Als je klanten vragen stellen aan een chatbot zoals ChatGPT of Gemini, en die chatbot raadt jouw bedrijf aan, is dat een geweldige kans. Maar die kans valt in het water als de chatbot je website verkeerd begrijpt en foute informatie doorgeeft. Het probleem is dat de AI-bots die websites 'crawlen' om ze te leren kennen, je site vaak anders interpreteren dan een menselijke bezoeker. Ze kunnen bijvoorbeeld de verkeerde bedrijfsnaam oppikken, contactgegevens missen of de kern van je dienstverlening misvatten.
+Wanneer een AI-bot, zoals die van ChatGPT of een andere chatbot, je website bezoekt, ziet die niet wat jij ziet. De bot leest de onderliggende code en structuur van je pagina om de inhoud te begrijpen en samen te vatten voor gebruikers. Als die structuur rommelig is, kan de AI je boodschap verkeerd interpreteren of cruciale informatie missen. Het gevolg is dat een potentiële klant via een chatbot een onvolledig of fout antwoord krijgt over jouw dienst of product.
 
-Volgens een analyse van het platform Scrunchie AI, dat websites scant op hoe AI ze ziet, zijn er een paar veelvoorkomende valkuilen. De bots lezen de tekst op je pagina, maar ze interpreteren ook metadata, structuur en de relatie tussen verschillende elementen. Een veelgemaakte fout is dat de AI de verkeerde entiteit als het hoofdonderwerp van de pagina aanwijst. Stel, je hebt een blog over 'projectmanagement voor architecten'. De AI zou kunnen concluderen dat de pagina over een specifiek softwarebedrijf gaat dat in de blog wordt genoemd, in plaats van over jouw adviesdiensten.
+Dit is geen toekomstmuziek maar de huidige realiteit. Steeds meer mensen gebruiken AI-assistenten om informatie te zoeken. Die assistenten crawlen het web, net als zoekmachines, om hun kennis op te bouwen. Het verschil is dat ze de informatie vaak direct in een samengevat antwoord presenteren, zonder dat de gebruiker nog op je site komt. Je website optimaliseren voor deze AI-crawlers wordt daarom een steeds belangrijker onderdeel van je online aanwezigheid.
 
-## Waar AI-bots naar kijken
-De bots die websites indexeren voor grote taalmodellen kijken verder dan alleen de zichtbare tekst. Ze analyseren de semantische structuur: welke kopjes zijn het belangrijkst (H1, H2), welke woorden staan in de titel en meta-omschrijving, en hoe zijn verschillende onderdelen van de pagina met elkaar verbonden. Ze proberen de 'entiteit' – het hoofdonderwerp – van de pagina te bepalen. Als die entiteit onduidelijk is, of als er meerdere sterke kandidaten zijn, kan de AI de verkeerde keuze maken. Dit leidt ertoe dat een chatbot bijvoorbeeld zegt dat je een reseller bent van een bepaald product, terwijl je alleen een review schreef.
+## Hoe AI je website 'leest'
+Een AI-bot scant primair de tekstuele inhoud en de semantische structuur van je pagina. Hij kijkt naar elementen zoals titels (H1, H2), paragrafen, lijsten en de algehele opbouw. Visuele elementen zoals afbeeldingen of video's worden alleen begrepen via hun alt-tekst of bijschrift. Complexe lay-outs met veel JavaScript, inhoud die achter een login zit, of tekst die verborgen is in afbeeldingen (zonder alt-tekst) zijn vaak onzichtbaar voor de bot. Het resultaat kan een gefragmenteerd en onsamenhangend beeld van je bedrijf zijn.
 
-## Praktische stappen om je website AI-vriendelijk te maken
-De oplossing is niet ingewikkeld, maar vereist wel een technische check. Het begint met duidelijkheid. Zorg dat je belangrijkste boodschap – wie je bent en wat je doet – eenduidig en prominent op de pagina staat, bij voorkeur in de titel (H1) en de eerste alinea. Gebruik gestructureerde data (Schema.org markup) om essentiële informatie zoals je bedrijfsnaam, adres, telefoonnummer en type dienstverlening expliciet aan te geven. Dit is een taal die bots heel goed begrijpen. Controleer daarnaast of je 'over ons'-pagina en contactpagina makkelijk vindbaar en duidelijk zijn.
+## Praktische verbeterpunten voor je site
+Een eerste stap is om de basis op orde te hebben. Zorg dat je website technisch gezond is: snelle laadtijden, een duidelijke URL-structuur en een correct sitemap-bestand helpen alle crawlers. Voor de inhoud zelf is helderheid cruciaal. Gebruik beschrijvende, hiërarchische kopjes (H1 voor de paginatitel, H2 voor hoofdsecties) en schrijf paragrafen die een duidelijk punt maken. Vermijd jargon en zorg dat je kernboodschap – wat je doet, voor wie en wat de waarde is – vroeg op de pagina staat in gewone tekst.
 
-Een andere valkuil is 'boilerplate' tekst: standaard stukken tekst die op elke pagina terugkomen, zoals in de footer. Als deze tekst veel keywords bevat die niets met de pagina-inhoud te maken hebben, kan dat de AI in verwarring brengen. Het is verstandig om deze standaardonderdelen kritisch te bekijken en ervoor te zorgen dat ze de kernboodschap van de individuele pagina niet overheersen.
+Een andere belangrijke overweging is het gebruik van gestructureerde data (Schema.org markup). Dit is code die je aan je webpagina toevoegt om specifieke informatie, zoals je bedrijfsnaam, adres, openingsuren of productkenmerken, expliciet te labelen voor machines. Hoewel niet alle AI-crawlers dit momenteel gebruiken, is het een geaccepteerde standaard die de kans vergroot dat je details correct worden geïnterpreteerd en weergegeven.
+
+## De balans tussen mens en machine
+Het doel is niet om alleen voor AI's te schrijven. De ultieme lezer blijft de menselijke bezoeker. De optimalisaties die AI-crawlers helpen, komen over het algemeen ook de gebruiksvriendelijkheid en toegankelijkheid voor mensen ten goede. Een logische pagina-opbouw, duidelijke taal en snelle laadtijden zijn voor iedereen prettig. Je zou het kunnen zien als het opruimen en goed etiketteren van je digitale magazijn: het maakt het voor zowel menselijke medewerkers als robot-assistenten makkelijker om snel te vinden wat ze nodig hebben.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om een gratis scan te laten uitvoeren door een tool zoals Scrunchie AI, die specifiek laat zien hoe AI-bots je website interpreteren en welke entiteit ze als hoofdonderwerp zien. Je zou daarnaast de gestructureerde data op je website kunnen controleren met Google's Rich Results Test, om te zien of je bedrijfsinformatie goed is gemarkeerd. Een derde stap is om simpelweg je belangrijkste dienstenpagina's te lezen alsof je een bot bent: is in de eerste 100 woorden glashelder wat je aanbiedt en voor wie?
+Een mogelijkheid is om een tool zoals de 'Rich Results Test' van Google te gebruiken om te controleren of je gestructureerde data correct is geïmplementeerd. Je zou ook een eenvoudige audit kunnen doen door je belangrijkste pagina's te bekijken in een tekstbrowser of door de 'view page source' optie te gebruiken om te zien of de kerninhoud direct in de HTML-code staat en niet verborgen is in complexe scripts. De praktische toepassing hangt verder af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: [Search Engine Journal](https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/)
+Bron: Search Engine Journal
