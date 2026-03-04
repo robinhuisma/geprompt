@@ -25,6 +25,6 @@ Je opent de Gemini-app, typt een beschrijving van de muziek die je voor ogen heb
 Download de Gemini-app op je telefoon en ga naar de experimentele functies. Probeer een eenvoudige prompt zoals "vrolijke, uptempo pianomuziek voor een bedrijfsvideo" of "rustige, ambient achtergrondmuziek voor een uitlegvideo". Gebruik het resultaat als eerste schets voor je volgende marketingproject.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Google Blog](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)

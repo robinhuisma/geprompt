@@ -32,6 +32,6 @@ Niet alles is een-op-een over te zetten. Claude heeft zijn eigen sterktes en zwa
 Maak een gratis account aan bij Claude en test het met een concreet werkstuk. Upload een lang document dat je recent moest analyseren of geef het de opdracht een lastige e-mail in een vriendelijkere toon te herschrijven. Vergelijk de uitkomst side-by-side met wat ChatGPT produceert. Alleen door het zelf te proberen met je eigen materiaal, ontdek je of de switch voor jouw werk waardevol is.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Techcrunch

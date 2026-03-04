@@ -32,6 +32,6 @@ De samenwerking benadrukt ook een belangrijk onderscheid: AI is (nu nog) een too
 Begin niet met wachten op Sora, maar experimenteer nu met de beschikbare tools. Maak een account bij Runway of Pika Labs en probeer een visueel idee voor een aanstaande klus of campagne te genereren. Gebruik het niet om het perfecte plaatje te maken, maar om snel drie tot vijf visuele varianten te produceren voor een brainstormsessie. Dit verlaagt de drempel voor je team of klant om feedback te geven en scherpt het creatieve proces aan zonder dat er direct budget opgaat aan een videoproductie.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketingaiinstitute

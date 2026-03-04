@@ -28,6 +28,6 @@ Je hoeft geen militaire contracten te weigeren om van dit voorbeeld te leren. He
 Neem een uur de tijd om met je team de vraag te beantwoorden: voor wat voor soort werk of met wat voor soort klanten zeggen we principieel "nee"? Schrijf drie tot vijf concrete scenario's op. Dit wordt de basis van je interne richtlijn. Bespreek vervolgens hoe je dit communiceert naar prospects, niet als een afwijzing maar als een kenmerk van je bedrijfsintegriteit.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: The Verge

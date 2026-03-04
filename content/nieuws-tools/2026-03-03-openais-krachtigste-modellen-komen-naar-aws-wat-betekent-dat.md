@@ -30,6 +30,6 @@ Deze deal is een duidelijke zet in de concurrentiestrijd om enterprise AI. Micro
 
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Openai](https://openai.com/index/amazon-partnership)

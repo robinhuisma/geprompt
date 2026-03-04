@@ -26,6 +26,6 @@ De oplossing ligt niet in het bedenken van nieuwe trucjes, maar in het fundament
 Test hoe AI je website ziet door een tool zoals Scrutinize of Merlin's Web Search Check te gebruiken, waarmee je kunt simuleren hoe een AI-crawler je pagina 'leest'. Controleer vervolgens of je belangrijkste diensten, unieke waarde en contactinformatie direct in de HTML-broncode staan en niet afhankelijk zijn van JavaScript. Dit is een praktische eerste stap om ervoor te zorgen dat je niet onzichtbaar bent voor de nieuwe generatie informatiezoekers.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/)

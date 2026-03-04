@@ -28,6 +28,6 @@ Een praktische verandering voor lokale bedrijven is dat GEO-informatie nu is opg
 Controleer je website op nauwkeurige GEO-informatie (adres, plaats, telefoonnummer) en zorg voor consistentie. Als je AI gebruikt voor content, focus je dan volledig op kwaliteit en waarde voor de lezer. Bekijk daarnaast of je een beleid wilt voor het gebruik van je content in Copilot en overweeg de nieuwe meta-tags voor `max-snippet` of `none` in te stellen.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Search Engine Journal

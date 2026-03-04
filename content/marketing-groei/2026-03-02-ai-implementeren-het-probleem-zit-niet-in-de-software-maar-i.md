@@ -32,6 +32,6 @@ De implementatie valt of staat met leiderschap. Het is aan de directie of het ma
 Begin niet met het uitzoeken van tools. Begin met het identificeren van één repetitief, tijdrovend proces in je team, zoals het verwerken van offerte-aanvragen of het screenen van CV’s. Bespreek met het team hoe dit proces nu werkt en hoe AI het zou kunnen ondersteunen. Laat ze zelf meedenken. Test een eenvoudige, toegankelijke tool zoals ChatGPT of een gespecialiseerde SaaS-oplossing voor dat specifieke proces, maar doe dit altijd met het hele team erbij. Het doel van deze eerste stap is niet de perfecte automatisering, maar het gezamenlijk leren hoe AI jullie werk kan veranderen.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketingfacts

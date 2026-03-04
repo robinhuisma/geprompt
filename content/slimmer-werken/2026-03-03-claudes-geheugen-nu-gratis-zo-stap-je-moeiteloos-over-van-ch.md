@@ -30,6 +30,6 @@ Deze move van Anthropic is een directe poging om marktaandeel te winnen in de co
 
 Een mogelijkheid is om de gratis versie van Claude te proberen en de geheugenfunctie in te schakelen voor een lopend project, om te zien of de AI je voorkeuren beter onthoudt. Als je overweegt over te stappen van een andere chatbot, kun je in de instellingen van die dienst zoeken naar een optie om je data te exporteren, en vervolgens in Claude kijken of er een importfunctie beschikbaar is om die geschiedenis te laden. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)

@@ -26,6 +26,6 @@ De vraag naar rekenkracht voor AI groeit exponentieel, en de traditionele manier
 Als ondernemer hoef je je nu geen zorgen te maken over het kopen van optische transceivers. De directe toepassing ligt bij cloudproviders en grote techbedrijven. Voor jou is de les vooral strategisch: de snelheid en kosten van AI worden fundamenteel bepaald door de onderliggende hardware. Wanneer je een clouddienst of AI-tool kiest, is het de moeite waard om te vragen naar hun roadmap voor energie-efficiëntie en netwerksnelheid. Bedrijven die investeren in deze nieuwe infrastructuur, kunnen op termijn een voorsprong hebben in snelheid en prijs.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent)

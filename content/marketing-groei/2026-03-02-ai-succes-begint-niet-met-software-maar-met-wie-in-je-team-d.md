@@ -28,6 +28,6 @@ De angst of onwetendheid bij medewerkers is een van de grootste barrières. De o
 Begin niet met het uitzoeken van een tool, maar met een gesprek. Roep je kernteam bij elkaar en bespreek één specifiek, terugkerend probleem waar jullie tegenaan lopen. Vraag vervolgens: "Wie van ons gaat de komende twee weken uitzoeken of en hoe AI hier een rol in kan spelen?" Geef die persoon het mandaat om een klein, beheersbaar experiment op te zetten en de resultaten te delen. Zo creëer je direct eigenaarschap en een praktijkgerichte leeromgeving.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketingfacts

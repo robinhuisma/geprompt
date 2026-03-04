@@ -23,6 +23,6 @@ Een belangrijk verschil met het simpelweg chatten met een standaard AI-model is 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Aibusiness](https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins)

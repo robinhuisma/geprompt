@@ -26,6 +26,6 @@ Om dit lokaal op je eigen computer te gebruiken, heb je een specifieke opstellin
 
 Een mogelijkheid is om te onderzoeken of je oude foto's van je bedrijfspand, teamuitjes of productgeschiedenis hebt die een opknapbeurt kunnen gebruiken. Je zou kunnen beginnen met het downloaden en installeren van ComfyUI om de software-omgeving klaar te zetten. Vervolgens kun je de specifieke Qwen Image Edit-modellen zoeken en volgens de instructies in de juiste mappen plaatsen om het restauratiewerkflow te kunnen gebruiken.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Weird Wonderful AI](https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/)

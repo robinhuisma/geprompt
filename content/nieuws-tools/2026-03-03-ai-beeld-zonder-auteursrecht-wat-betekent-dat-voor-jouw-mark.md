@@ -26,6 +26,6 @@ Voor praktisch gebruik betekent dit dat je voorzichtig moet zijn met het inzette
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om AI-gegenereerde beelden vooral te gebruiken als startpunt of inspiratie, en ze vervolgens significant aan te passen met menselijke creativiteit in een bewerkingsprogramma. Dit versterkt de claim op 'menselijk auteurschap'. Voor cruciale merkassets zoals een logo zou je kunnen overwegen om een menselijke ontwerper in te schakelen of het AI-ontwerp door een ontwerper te laten omvormen tot een origineel werk. Daarnaast is het raadzaam om de servicevoorwaarden van de gebruikte AI-image generator te raadplegen om te zien welke rechten zij toekennen.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)

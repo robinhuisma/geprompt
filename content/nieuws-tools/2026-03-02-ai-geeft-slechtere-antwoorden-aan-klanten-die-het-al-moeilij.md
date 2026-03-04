@@ -25,6 +25,6 @@ Als je een chatbot op je website hebt staan of AI gebruikt om klantvragen te bea
 Test je AI-tools niet alleen met perfect geformuleerde, formele vragen. Laat medewerkers of een diverse testgroep vragen stellen zoals echte klanten dat doen, inclusief spreektaal, typfouten en eenvoudig taalgebruik. Controleer of de antwoorden voor iedereen even accuraat en behulpzaam zijn. Een andere optie is om in je prompts expliciet instructies op te nemen, zoals "Geef antwoorden in eenvoudig, duidelijk Nederlands, geschikt voor alle opleidingsniveaus." Wees je bewust dat dit een fundamentele beperking is van de huidige generatie AI, en monitor de output daarop.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [MIT News](https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)

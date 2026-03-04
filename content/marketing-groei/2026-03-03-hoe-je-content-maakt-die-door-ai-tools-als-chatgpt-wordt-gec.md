@@ -26,6 +26,6 @@ Deze ontwikkeling opent nieuwe kansen. Een vermelding in een AI-antwoord kan je 
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijke stap is om bij het plannen van nieuwe content expliciet de vraag te stellen: "Zou een AI-tool deze informatie kunnen gebruiken om een direct, feitelijk antwoord te geven?" Richt je op het creëren van duidelijke, accurate en goed gestructureerde informatie die een specifieke vraag beantwoordt. Een andere optie is om je bestaande, meest waardevolle content te auditen op autoriteit en volledigheid, en deze waar nodig te verdiepen om de kans op citatie te vergroten.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/)

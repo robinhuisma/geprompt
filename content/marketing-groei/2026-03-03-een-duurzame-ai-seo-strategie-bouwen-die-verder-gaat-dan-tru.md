@@ -26,6 +26,6 @@ AI is het meest krachtig wanneer het niet geïsoleerd wordt gebruikt, maar wordt
 ## Hoe kun je dit vandaag toepassen?
 Een concrete mogelijkheid is om te starten met het documenteren van je huidige SEO-doelen en te kijken op welk punt in het contentproces AI de grootste tijdwinst of kwaliteitsverbetering kan bieden, bijvoorbeeld bij het uitwerken van contentstructuren. Een andere suggestie is om een eenvoudige feedbackloop op te zetten door wekelijks de prestaties van één AI-ondersteund artikel te reviewen en te noteren wat wel en niet werkt voor een volgende keer. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/)

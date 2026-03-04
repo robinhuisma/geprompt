@@ -28,6 +28,6 @@ Je kunt niet wachten tot er wetgeving is. Wat je wel kunt doen is je afhankelijk
 Maak een eenvoudige inventarisatie: voor welke kritieke taken gebruik je AI-tools van grote, externe aanbieders? Voor elke taak, bedenk een plan B. Dit kan een andere tool zijn, een open-source model dat je lokaal draait, of een terugval op een menselijke handeling. Bespreek dit risico bij je volgende teamoverleg, niet als doemscenario, maar als praktische bedrijfscontinuïteit.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Techcrunch

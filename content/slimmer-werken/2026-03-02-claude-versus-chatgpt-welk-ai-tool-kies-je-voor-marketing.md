@@ -28,6 +28,6 @@ De keuze wordt ook bepaald door praktische zaken. De prijsmodellen verschillen. 
 Probeer een split-test voor je volgende taak. Gebruik ChatGPT om tien ideeën te genereren voor een nieuwe campagne of social media-post. Neem het beste idee en vraag Claude om er een uitgewerkte, lange tekst van te maken, zoals een blogpost of een gedetailleerde e-mailnieuwsbrief. Zo ervaar je direct het verschil in snelheid versus diepgang.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [HubSpot Blog](https://blog.hubspot.com/marketing/claude-vs-chatgpt)

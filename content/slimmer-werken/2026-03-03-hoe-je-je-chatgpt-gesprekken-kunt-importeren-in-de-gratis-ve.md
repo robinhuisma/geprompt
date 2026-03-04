@@ -26,6 +26,6 @@ Voor een ondernemer die veel met een AI-assistent werkt, scheelt dit tijd en moe
 
 Een mogelijkheid is om de gratis versie van Claude te verkennen en binnen de interface te zoeken naar de optie om gegevens te importeren. Je zou kunnen kijken of de tool een export van je ChatGPT-gespreksgeschiedenis kan verwerken, zodat je kunt testen of de overstap soepel verloopt zonder je opgebouwde context te verliezen. Dit kan nuttig zijn als je benieuwd bent naar de mogelijkheden van Claude maar niet opnieuw wilt beginnen.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)

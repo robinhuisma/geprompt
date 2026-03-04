@@ -28,6 +28,6 @@ Voor de ondernemer of IT-beheerder lost Chat Hub een groot hoofdpijndossier op. 
 Je kunt beginnen door de gratis cloud-versie van n8n te verkennen en te kijken of Chat Hub beschikbaar is in je workspace. Een praktische eerste stap is om één bestaande, eenvoudige n8n-workflow (bijvoorbeeld het samenvatten van e-mails) om te zetten in een Workflow Agent en deze te testen met een niet-technische collega via de chat-interface.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [n8n Blog](https://blog.n8n.io/introducing-chat-hub/)

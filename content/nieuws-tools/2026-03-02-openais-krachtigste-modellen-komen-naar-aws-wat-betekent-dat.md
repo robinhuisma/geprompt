@@ -28,6 +28,6 @@ Deze move is ook een antwoord op de dominante positie van Microsoft Azure, dat a
 De integratie is aangekondigd, maar moet nog worden uitgerold. Je kunt nu al voorbereiden door binnen je team de use-cases voor geavanceerde AI in kaart te brengen. Denk aan geautomatiseerde klantenservice, complexe data-analyse of het genereren van technische content. Houd daarnaast de aankondigingen van AWS in de gaten, bijvoorbeeld via de AWS-blog, voor de exacte releasedata en prijsinformatie. Dit is het moment om je AI-strategie te herzien met het vooruitzicht dat de drempel voor implementatie snel lager wordt.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [OpenAI](https://openai.com/index/amazon-partnership)

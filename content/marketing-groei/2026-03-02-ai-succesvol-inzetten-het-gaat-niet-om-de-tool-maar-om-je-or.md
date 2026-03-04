@@ -28,6 +28,6 @@ Technologie kun je kopen, een cultuur niet. Een organisatie die succesvol is met
 Kies niet meteen een nieuwe AI-tool. Begin met het in kaart brengen van één terugkerend proces in je bedrijf, zoals het opstellen van offertes of het screenen van CV's. Bespreek met je team: welke stappen zou een AI kunnen overnemen, en wat moeten mensen dan anders gaan doen? Deze oefening, los van welke tool dan ook, is de eerste en belangrijkste stap om AI een plek te geven in je organisatie.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Marketingfacts](https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/)

@@ -30,6 +30,6 @@ Voor ondernemers en groeiende teams lost deze aanpak een directe schaalbaarheids
 
 Een mogelijke eerste stap is het aanmaken van een proefmap in Google Drive en het verzamelen van een paar bestaande documenten, zoals een recente presentatie of meetingnotities. Vervolgens kun je, als je Google Workspace met Gemini gebruikt, testen of je vragen kunt stellen over de inhoud van die specifieke map. Een andere optie is om met je team te bespreken welke terugkerende vragen het meeste tijd kosten, en te kijken of de antwoorden al ergens in bestaande documenten staan die je kunt centraliseren.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Martech](https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry)

@@ -28,6 +28,6 @@ Daarnaast is heldere, gestructureerde content koning. Gebruik semantische HTML-t
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om eens kritisch naar je eigen homepage te kijken met de blik van een machine. Schakel JavaScript uit in je browser en herlaad de pagina. Zie je nog steeds je belangrijkste boodschap en content? Zo niet, dan is dat een punt om aan te pakken. Een andere suggestie is om je robots.txt-bestand te controleren. Zorg ervoor dat je geen cruciale pagina's per ongeluk blokkeert voor AI-crawlers van partijen zoals OpenAI of Google.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/)

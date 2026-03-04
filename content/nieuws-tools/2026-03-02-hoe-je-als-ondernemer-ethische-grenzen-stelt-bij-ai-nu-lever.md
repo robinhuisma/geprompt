@@ -32,6 +32,6 @@ De ultieme verantwoordelijkheid ligt bij jou. Welke toepassingen vind jij ontoel
 Plan een kort intern overleg met je team of collega's. Bespreek niet alleen welke AI-tools handig zijn, maar ook waar jullie absoluut geen AI voor willen inzetten. Schrijf twee of drie eenvoudige, concrete "rode lijnen" op en neem deze mee in je volgende evaluatie van een tool of dienst. Dit kost weinig tijd, maar maakt je keuzes bewuster en minder afhankelijk van de wisselende principes van grote techbedrijven.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: The Verge

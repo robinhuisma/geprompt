@@ -28,6 +28,6 @@ Het is belangrijk om te weten wat je kunt verwachten. De muziekstukken zijn nu b
 Download de Gemini-app of ga naar de website en zoek naar de optie om muziek te maken. Begin eenvoudig: beschrijf de sfeer en het genre voor je volgende social media video. Test verschillende prompts om te zien welk resultaat het beste past bij je merk. Het is een laagdrempelige manier om te experimenteren met eigen audiobranding.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Google Blog](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)

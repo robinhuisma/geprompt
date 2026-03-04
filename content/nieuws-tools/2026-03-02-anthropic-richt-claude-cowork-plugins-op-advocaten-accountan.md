@@ -26,6 +26,6 @@ Het is belangrijk om te benadrukken dat dit een aankondiging van Anthropic zelf 
 Als je in de professionele dienstverlening werkt, kun je de ontwikkelingen rond Claude Cowork volgen en je afvragen welke van jouw tijdrovende, document-gedreven taken het meest geschikt zijn voor automatisering. Een praktische eerste stap is om te experimenteren met de kernmogelijkheden van een LLM zoals Claude of ChatGPT voor een specifieke taak, zoals het laten samenvatten van een lang juridisch artikel of het extraheren van kernpunten uit een jaarverslag, om een gevoel te krijgen voor de mogelijkheden en beperkingen.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Aibusiness

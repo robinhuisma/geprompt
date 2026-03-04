@@ -28,6 +28,6 @@ Als ondernemer betekent dit dat je klantenservice of interne kennisbank mogelijk
 Test je AI-chatbot of -assistent niet alleen met perfect geformuleerde vragen, maar ook met eenvoudiger, minder gestructureerd taalgebruik dat je doelgroep mogelijk gebruikt. Let daarbij specifiek op de nauwkeurigheid van de antwoorden. Overweeg om in je prompts expliciet instructies op te nemen die de chatbot vragen om eenvoudig, duidelijk en respectvol taalgebruik voor alle gebruikers, ongeacht hun formulering. Dit is geen garantie, maar een eerste stap om bewustwording om te zetten in actie.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [MIT News](https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)

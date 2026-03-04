@@ -28,6 +28,6 @@ Een principiële keuze kan op korte termijn een opdracht of relatie kosten. Op d
 Begin met een eenvoudige sessie met je team of voor jezelf: voor welke drie specifieke toepassingen van AI zou je 'nee' zeggen, ongeacht het financiële gewin? Schrijf deze principes op in een kort document, zoals "Onze AI-richtlijnen". Dit wordt je kompas voor toekomstige keuzes, van het selecteren van tools tot het accepteren van projecten. Je kunt dit document ook delen op je website; het maakt je positie transparant en nodigt gelijkgestemde klanten uit.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: The Verge

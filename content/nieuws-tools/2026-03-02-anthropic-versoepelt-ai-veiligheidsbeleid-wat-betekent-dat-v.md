@@ -28,6 +28,6 @@ Je moet leveranciersbeheer voor AI-tools serieus nemen, net zoals je dat voor an
 Begin met het in kaart brengen van alle AI-tools die je gebruikt of overweegt. Stel voor elk een korte risico-analyse op: wat zijn de potentiële gevolgen als de tool fouten maakt of data lekt? Gebruik deze analyse om een bewustere keuze te maken tussen de snelste tool en de tool die het beste past bij jouw risicotolerantie. Een optie is om voor kritieke processen te kiezen voor modellen met sterke veiligheidsgaranties, en voor minder risicovolle toepassingen te experimenteren met de nieuwste, krachtigste opties.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Aibusiness

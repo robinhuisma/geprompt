@@ -30,6 +30,6 @@ Volgens het voorbeeld in het bronartikel vereist deze aanpak geen training, comp
 
 Een mogelijke eerste stap is het aanmaken van een centrale 'Kennisbank'-map in het gedeelde Google Drive van je team en hier belangrijke documenten, presentaties en notities in te plaatsen. Vervolgens kun je, als je Google Workspace gebruikt, onderzoeken of de Gemini-functies voor je organisatie beschikbaar zijn en hoe je team ermee kan experimenteren door vragen te stellen over de inhoud van die map. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Martech](https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry)

@@ -31,6 +31,6 @@ Wanneer je gevoelige bedrijfsinformatie, klantdata of strategische plannen invoe
 Begin met het opstellen van een eenvoudig intern AI-gebruiksprotocol. Neem hierin minimaal op dat alle AI-output door een mens wordt gecontroleerd op juistheid en juridische risico's, dat er nooit vertrouwelijke klantdata in open tools worden geplaatst, en dat er altijd menselijke creatieve input wordt toegevoegd aan gegenereerde content. Bespreek deze punten in je team.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketing AI Institute

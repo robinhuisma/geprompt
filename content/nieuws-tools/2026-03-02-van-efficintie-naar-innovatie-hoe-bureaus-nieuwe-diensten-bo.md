@@ -32,6 +32,6 @@ De traditionele bureau-business is gebouwd op het verkopen van tijd. Innovatie m
 Begin niet met de technologie, maar met de vraag: welk terugkerend, complex probleem van onze beste klanten kunnen we nu oplossen door onze kennis te combineren met AI? Brainstorm niet over taken, maar over nieuwe uitkomsten. Een praktische eerste stap is om met een kleine, betalende proefklant een prototype van zo'n nieuwe dienst te ontwikkelen, bijvoorbeeld door bestaande AI-tools als ChatGPT of een no-code platform te koppelen aan je eigen data en templates. Test de waarde in de praktijk, voordat je groots investeert.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketing AI Institute

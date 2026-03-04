@@ -24,6 +24,6 @@ Diensten als Suno en Udio bestonden al langer en kunnen indrukwekkende volledige
 ## Hoe kun je dit vandaag toepassen?
 Open de Gemini-app (of ga naar de website) en probeer het uit. Begin met een eenvoudige tekstprompt die het genre, de stemming en het doel beschrijft, zoals "een vrolijke, uptempo instrumentale track voor de intro van mijn bedrijfspodcast". Upload eventueel een sfeerbeeld om de visuele inspiratie mee te geven. Het resultaat is een korte track die je direct kunt gebruiken om te testen of AI-muziek iets toevoegt aan jouw content.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Therundown

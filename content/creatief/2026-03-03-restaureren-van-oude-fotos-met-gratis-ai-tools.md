@@ -32,6 +32,6 @@ Het succes van de restauratie hangt sterk af van de instructie die je aan de AI 
 
 Een mogelijkheid is om eerst te onderzoeken of je computer voldoet aan de technische eisen, met name een GPU met voldoende VRAM. Je zou kunnen beginnen met het verkennen van ComfyUI, de gratis node-based interface waarop deze workflow draait. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Weird Wonderful AI](https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/)

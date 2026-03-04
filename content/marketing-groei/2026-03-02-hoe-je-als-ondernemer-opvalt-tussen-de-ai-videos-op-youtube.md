@@ -26,6 +26,6 @@ De verleiding is groot om snel mee te surfen op de golf van AI-gegenereerde vide
 Begin met het analyseren van je eigen YouTube-kanaal: in hoeverre voegt jouw content unieke menselijke waarde toe? Plan vervolgens één 'achter-de-schermen' Short in waarin je een persoonlijk verhaal deelt over je bedrijf of een dag uit het leven. Gebruik AI-tools eventueel voor brainstormen of het maken van ondertitels, maar laat de hoofdrol en het persoonlijke contact aan jou.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/)

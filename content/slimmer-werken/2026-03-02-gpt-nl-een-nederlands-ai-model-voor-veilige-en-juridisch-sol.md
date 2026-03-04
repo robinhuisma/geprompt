@@ -30,6 +30,6 @@ Het is belangrijk te benadrukken dat GPT-NL een ander type model is dan de nieuw
 Als jouw organisatie werkt met gevoelige data en twijfelt over het gebruik van tools zoals ChatGPT of Copilot, is het de moeite waard om de ontwikkelingen rond GPT-NL te volgen. Je kunt de voortgang volgen via publicaties van TNO en SURF. Voor een directe toepassing is het model nog niet publiekelijk beschikbaar, maar de eerste praktijkresultaten van de testende overheidsorganisaties geven later dit jaar een goed beeld van de mogelijkheden.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Computable](https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/)

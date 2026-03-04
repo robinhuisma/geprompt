@@ -30,6 +30,6 @@ Het incident benadrukt het gebrek aan transparantie. Ondernemers kunnen niet wet
 
 Een mogelijke stap is om in je volgende leveranciersevaluatie expliciet ethisch beleid en transparantie over klantsegmenten (zoals overheid vs. defensie) als selectiecriterium mee te nemen. Je zou ook kunnen overwegen om, waar mogelijk, niet volledig afhankelijk te worden van één AI-leverancier, maar een multi-vendorstrategie te verkennen om je risico te spreiden. Dit vraagt om een bewuste afweging tussen gemak, kosten en de waarden die voor jouw organisatie belangrijk zijn.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth)

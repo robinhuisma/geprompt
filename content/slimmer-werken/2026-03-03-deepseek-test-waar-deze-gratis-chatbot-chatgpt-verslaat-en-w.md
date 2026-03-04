@@ -30,6 +30,6 @@ De opkomst van DeepSeek illustreert een trend waarbij efficiëntie en lagere kos
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om DeepSeek eens uit te proberen voor taken waarbij je uitgebreide, verkennende antwoorden nodig hebt, zoals het opstellen van een eerste versie van een marktanalyse of het genereren van ideeën voor een langetermijnstrategie. Houd er wel rekening mee dat je voor actuele feitencontrole of het opzoeken van de laatste ontwikkelingen op een website een andere tool nodig hebt. Je zou kunnen overwegen om beide chatbots naast elkaar te gebruiken: de ene voor diepgaande creatie en de andere voor research met internettoegang.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt)

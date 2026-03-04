@@ -27,6 +27,6 @@ Op het gebied van foto- en beeldbewerking biedt **GIMP** een gratis, AI-vrije al
 Bekijk je huidige creatieve workflow en identificeer momenten waarop je generatieve AI gebruikt, bijvoorbeeld voor snel ideeën genereren of beeldmanipulatie. Onderzoek dan of een van de genoemde tools dat specifieke deel van het proces kan overnemen op een meer gecontroleerde, handmatige manier. Een goede eerste stap is het downloaden van Blender of Krita om te ervaren hoe het is om zonder AI-ondersteuning te werken. Het gaat erom bewust te kiezen welke tool bij welk deel van je werk past.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=collection-of-noai-tools)

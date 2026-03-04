@@ -32,6 +32,6 @@ De eerste stap is intern. Bespreek met je team en eventueel aandeelhouders: voor
 Neem je standaard serviceovereenkomst of algemene voorwaarden erbij. Is er een clausule over 'toegestaan gebruik' die alleen verwijst naar 'wettelijke doeleinden'? Overweeg om deze aan te vullen met een bijlage waarin je specifiek uitsluitingen definieert. Je kunt bijvoorbeeld opnemen: "De dienst mag niet worden gebruikt voor [bijv. het ontwikkelen van volledig autonome wapensystemen, massasurveillance zonder gerechtelijk bevel, of het nemen van geautomatiseerde beslissingen die juridische gevolgen hebben zonder menselijke tussenkomst]." Raadpleeg een jurist gespecialiseerd in IT-recht om dit juridisch sluitend te formuleren. Dit geeft je een basis om op terug te vallen bij onderhandelingen met een potentiële grote klant.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: The Verge

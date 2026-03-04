@@ -32,6 +32,6 @@ Experts roepen op tot het inrichten van een speciale economische zone waar op gr
 Als ondernemer in de logistiek of mobiliteit kun je je laten informeren door brancheorganisaties over de ontwikkelingen en je stem laten horen bij de overheid voor betere testfaciliteiten. Voor tech-ontwikkelaars is het zaak om samenwerkingen met kennisinstellingen zoals de TU/e of TNO te verkennen, waar nu al binnen de bestaande kaders wordt gewerkt aan de volgende generatie perceptiesystemen.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Computable

@@ -31,6 +31,6 @@ Google's concept van Experience, Expertise, Authoritativeness en Trustworthiness
 Kies één kernpagina op je website die perfect moet zijn. Onderzoek welk artikel of welke bron momenteel als standaard wordt gezien voor dat onderwerp. Schrijf jouw versie die nog completer, actueler en praktischer is, gebaseerd op je eigen expertise. Deel deze vervolgens niet alleen op je eigen kanalen, maar stuur hem naar andere experts of relevante nieuwsbrieven met de vraag naar hun mening. Het doel is niet een backlink, maar erkenning als serieuze bron.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Search Engine Journal

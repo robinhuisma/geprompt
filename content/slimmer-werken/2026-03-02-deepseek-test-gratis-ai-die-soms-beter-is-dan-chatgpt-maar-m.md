@@ -28,6 +28,6 @@ Het meest opvallende aan DeepSeek is het kostenplaatje. Volgens het MIT Technolo
 Je kunt DeepSeek vandaag testen voor interne, niet-gevoelige schrijftaken. Ga naar de website van DeepSeek en registreer je (met een Google-account is eenvoudig). Test het bijvoorbeeld eens naast ChatGPT door beide hetzelfde te vragen: "Schrijf een professionele e-mail aan een leverancier om een betalingstermijn van 30 naar 60 dagen te verzoeken." Vergelijk de resultaten op duidelijkheid, toon en volledigheid. Gebruik het absoluut niet voor taken waarbij internetzoekopdrachten nodig zijn of waar je vertrouwelijke bedrijfsdata in moet voeren, gezien de privacyonduidelijkheden.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt)

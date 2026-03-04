@@ -30,6 +30,6 @@ Deze les is direct toepasbaar buiten de technologiesector. Stel je voor dat je e
 
 Een mogelijkheid is om eens kritisch naar je eigen product of dienst te kijken en je af te vragen: "Wat is de fysieke of fundamentele 'hardware' van mijn aanbod?" Dit kan een tastbaar product zijn, je infrastructuur, of de kernvaardigheid van je team. Een andere suggestie is om bij een geplande innovatie te overwegen of een investering in die basis eerst meer waarde oplevert dan het toevoegen van een nieuwe, trendy feature. De praktische toepassing hangt verder af van jouw specifieke situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first)

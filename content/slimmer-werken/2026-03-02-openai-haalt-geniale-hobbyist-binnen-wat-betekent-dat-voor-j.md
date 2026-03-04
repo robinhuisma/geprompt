@@ -30,6 +30,6 @@ De keerzijde is dat innovatie steeds meer geconcentreerd raakt bij een paar grot
 Je kunt nu al experimenteren met de basisprincipes van een AI-agent door in ChatGPT of een andere chatbot zeer specifieke opdrachten te geven. Probeer bijvoorbeeld een prompt als: "Handel namens mij. Stel een korte, vriendelijke e-mail op aan [naam] om een afspraak volgende week dinsdag om 14:00 uur voor te stellen. Vermeld dat ik het over [onderwerp] wil hebben." Dit geeft je een gevoel bij de mogelijkheden en beperkingen van de huidige generatie tools, terwijl je wacht op de geavanceerde assistent van de toekomst.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Report](https://www.aireport.email/p/openclaw-maker-kiest-openai-straks)

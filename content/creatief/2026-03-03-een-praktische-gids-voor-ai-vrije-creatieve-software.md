@@ -28,6 +28,6 @@ De keuze voor AI-vrije software betekent vaak een keuze voor meer controle en tr
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om voor een specifieke taak, zoals het maken van een eenvoudige sociale media-afbeelding, eens te kijken naar een gratis tool zoals **Canva** voor de basisfunctionaliteiten, terwijl je bewust de AI-functies vermijdt. Voor meer geavanceerd vectorwerk of illustratie zou je de gratis software **Inkscape** of **Krita** kunnen downloaden en een online tutorial kunnen volgen om de basisprincipes te leren. Als je behoefte hebt aan een uitgebreid overzicht van AI-vrije opties voor jouw specifieke creatieve behoefte, kun je via geprompt.nl/stel-je-vraag een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools)

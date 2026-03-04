@@ -28,6 +28,6 @@ Je kunt zelf testen wat een AI-crawler ziet door tools te gebruiken die de pagin
 Open je website in Chrome en activeer de 'Reader View'. Kijk wat er overblijft: is dat je volledige, kernboodschap? Controleer vervolgens de broncode van je belangrijkste pagina. Zoek naar een duidelijke hiërarchie met `<h1>` en `<h2>` tags en check of je contactgegevens als leesbare tekst in de `<body>` staan. Dit zijn de eerste, cruciale stappen om ervoor te zorgen dat AI-assistenten je correct kunnen representeren.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Search Engine Journal

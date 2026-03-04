@@ -29,6 +29,6 @@ Volgens de documentatie van Anthropic zijn er zichtbaarheidsafwegingen. Als je d
 
 Als je wilt controleren of Claude jouw site crawlt of om instellingen aan te passen, ga je naar het `robots.txt`-bestand van je website (meestal te vinden op `jouwdomein.nl/robots.txt`). Je kunt specifieke regels toevoegen voor elke bot, bijvoorbeeld `User-agent: Claude-Webbot-Training` gevolgd door `Disallow: /` om die te blokkeren. Raadpleeg de officiële documentatie van Anthropic of je webdeveloper voor de exacte syntax. Het is een technische, maar eenmalige aanpassing die meer regie geeft over hoe AI met jouw content omgaat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Search Engine Journal

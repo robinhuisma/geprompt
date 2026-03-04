@@ -28,6 +28,6 @@ Het onderzoek, gepresenteerd in een wetenschappelijke paper, is een proof-of-con
 Hoewel PhysiOpt zelf nog niet beschikbaar is, kun je wel experimenteren met de principes. Gebruik bestaande generatieve AI-tools voor 3D-ontwerp, maar test je creaties altijd kritisch op praktische haalbaarheid voordat je ze laat printen. Een optie is om een eenvoudig fysiek prototype te maken van klei of karton om stabiliteit te checken. Blijf ontwikkelingen op het gebied van "physics-aware AI" voor ontwerp volgen, want dit is een belangrijke volgende stap om AI echt nuttig te maken voor het maken van tastbare producten.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: MIT News](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225)

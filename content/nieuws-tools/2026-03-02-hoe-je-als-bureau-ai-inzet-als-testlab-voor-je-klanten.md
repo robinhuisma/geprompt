@@ -28,6 +28,6 @@ De informatie die een AI geeft, is niet altijd actueel of volledig. Prijzen vera
 Kies een actuele vraag van een klant over een type software, zoals een social media planner of een SEO-tool. Ga naar ChatGPT of een vergelijkbare chatbot en vraag een gedetailleerde vergelijking tussen drie populaire opties. Gebruik de output als basis voor een gesprek met je klant, waarbij je de bevindingen toetst aan hun specifieke wensen en budget. Zo begin je direct met het opbouwen van een efficiënter adviesproces.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketingaiinstitute

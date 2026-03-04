@@ -27,6 +27,6 @@ Een belangrijk onderdeel van het plan is het stimuleren van een "prestatiegerich
 ## Hoe kun je dit vandaag toepassen?
 Begin niet met een meerjarenplan, maar met een eenvoudige audit. Pak een whiteboard of een notitieblok en breng in kaart wat je allemaal doet. Welke diensten, processen of tools overlappen elkaar? Welke kostenposten zijn de afgelopen jaren stilletjes gegroeid? De eerste concrete stap is het schrappen of samenvoegen van minstens één overbodige laag of activiteit. Dit kan een softwareabonnement zijn, een inefficiënt rapportageproces of een dienst die meer energie kost dan hij oplevert. Vereenvoudig eerst, groei later.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Emerce

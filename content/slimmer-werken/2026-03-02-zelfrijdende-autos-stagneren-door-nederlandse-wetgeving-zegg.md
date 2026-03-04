@@ -28,6 +28,6 @@ Experts doen een dringende oproep aan de politiek. Ze hopen dat een nieuw kabine
 Als ondernemer in de logistiek, automotive of tech kun je je stem laten horen. Sluit je aan bij brancheorganisaties die pleiten voor aangepaste regelgeving, zoals FME of Nederland ICT. Je kunt ook direct contact opnemen met de innovatiedeskundigen bij de RDW om jouw praktijkcase voor testen te bespreken en de urgentie duidelijk te maken.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Computable](https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/)

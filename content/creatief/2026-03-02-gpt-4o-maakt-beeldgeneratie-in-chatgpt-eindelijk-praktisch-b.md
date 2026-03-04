@@ -25,6 +25,6 @@ Deze verbeteringen maken de tool direct bruikbaar voor dagelijkse taken. Je kunt
 De GPT-4o beeldgeneratie is op moment van schrijven beschikbaar voor betalende ChatGPT-abonnementen (Plus, Pro en Team). Je kunt het direct uitproberen in dezelfde interface. Vervang vage prompts als "een mooie afbeelding" door specifieke, functionele verzoeken. Probeer bijvoorbeeld: "Maak een infographic met 4 stappen voor klantenservice, met de titel 'Onze aanpak' en bullet points bij elke stap." Of: "Ontwerp een eenvoudige app-knop voor 'Opslaan' met een diskette-icoon in een blauw kleurenschema." Het model pakt deze details veel beter op dan zijn voorganger.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here)

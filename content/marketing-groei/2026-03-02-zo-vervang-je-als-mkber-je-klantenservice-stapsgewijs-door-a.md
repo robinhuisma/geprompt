@@ -32,6 +32,6 @@ De grootste fout is denken dat je de AI er 'even' bij kunt zetten. De kwaliteit 
 Begin niet met het vervangen van je hele team. Kies één specifiek, repetitief type vraag waar je nu veel tijd aan kwijt bent, zoals 'waar is mijn bestelling?' of 'hoe reset ik mijn wachtwoord?'. Train een AI-tool zoals een geavanceerde chatbot of een specifieke customer service AI op dit ene proces. Laat hem eerst naast je bestaande team werken en meet de resultaten: lost hij de vraag op? Is de klant tevreden? Zo bouw je stapsgewijs vertrouwen en expertise op.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Techcrunch

@@ -28,6 +28,6 @@ Verwacht dat andere grote merken en mediabedrijven snel zullen volgen. De vraag 
 Je hoeft niet te wachten op toegang tot Sora om de shift te maken. Begin met het verkennen van bestaande AI-videotools voor storyboarding en conceptontwikkeling in je projecten. Zet een experiment op: gebruik AI gegenereerde beelden in je volgende pitch of moodboard en evalueer de reactie van de klant. Investeer vooral in het ontwikkelen van je skills als creative director voor AI – het formuleren van de perfecte prompt is het nieuwe regisseren.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: Marketing AI Institute

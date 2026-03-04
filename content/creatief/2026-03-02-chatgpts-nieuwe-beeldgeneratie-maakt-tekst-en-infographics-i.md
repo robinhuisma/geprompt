@@ -28,6 +28,6 @@ De nieuwe beeldgeneratie is op dit moment alleen beschikbaar voor betalende gebr
 Als je een ChatGPT Plus-abonnement hebt, kun je het direct testen. Vraag bijvoorbeeld om "een social media infographic over de drie voordelen van onze dienst, met een heldere titel en iconen voor elk voordeel". Voor UI-ontwerp kun je vragen om "een wireframe voor een login-scherm van een mobiele app, met een veld voor e-mail, wachtwoord en een login-knop". Experimenteer met hoe gedetailleerd je je prompt moet maken voor het gewenste resultaat.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here)

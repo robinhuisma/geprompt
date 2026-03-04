@@ -26,6 +26,6 @@ In de betreffende zaak wilde Stephen Thaler copyright aanvragen voor een beeld d
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om bij het gebruik van AI-beeldgeneratoren een eenvoudig logboek bij te houden van je creatieve proces. Noteer bijvoorbeeld de prompts die je gebruikt, bewaar de verschillende gegenereerde varianten en documenteer welke specifieke bewerkingen je in software zoals Photoshop hebt doorgevoerd. Dit kan later dienen als bewijs van je menselijke auteurschap. Een andere optie is om AI-gegenereerde elementen altijd te integreren in een groter, duidelijk door jou ontworpen werk, zoals een marketinglay-out, website-ontwerp of verpakkingsconcept, waarop het geheel wel bescherming kan genieten.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [The Verge](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)

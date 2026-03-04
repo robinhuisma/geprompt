@@ -28,6 +28,6 @@ De trend die op de summit zichtbaar werd, is geen verre toekomstmuziek. De Europ
 Begin niet met een uitgebreid beleidsdocument, maar met een praktische checklist voor je volgende AI-project. Vraag je bij de start af: kunnen we de aanbeveling van dit systeem uitleggen aan een gebruiker? Hebben we gecheckt of onze invoerdata een eerlijke afspiegeling is? En wie is er eindverantwoordelijk om een foute uitkomst te corrigeren? Deze drie vragen, geïnspireerd door de mondiale trend, vormen een eenvoudige maar krachtige basis om vandaag mee te beginnen.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: CustomerThink

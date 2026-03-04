@@ -30,6 +30,6 @@ De vertraging heeft directe gevolgen voor het Nederlandse innovatieklimaat. Bedr
 
 Als je als ondernemer actief bent in mobiliteit, logistiek of aanverwante AI-toepassingen, is dit een signaal om de afhankelijkheid van de Nederlandse testomgeving kritisch te bekijken. Een mogelijkheid is om samen met branchegenoten de lobby voor betere testfaciliteiten te versterken, bijvoorbeeld door aan te sluiten bij initiatieven uit het Nationaal AI Deltaplan. Je zou ook kunnen overwegen om, waar mogelijk, eerste praktijkdata in het buitenland te verzamelen om de ontwikkeling van je technologie niet stil te laten staan.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Computable](https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/)

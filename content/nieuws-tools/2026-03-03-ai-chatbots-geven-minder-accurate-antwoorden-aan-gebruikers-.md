@@ -30,6 +30,6 @@ Dit leidt tot verschillende risico's. Ten eerste schaadt het de gebruikerservari
 
 Als je een AI-chatbot gebruikt of overweegt, is een mogelijke stap om bewust te testen hoe deze reageert op verschillende soorten gebruikersinput. Je zou bijvoorbeeld dezelfde vraag kunnen formuleren in eenvoudig en complex Engels, of deze kunnen laten stellen vanuit verschillende demografische profielen (bijvoorbeeld door dit in de prompt te simuleren) om te zien of de antwoordkwaliteit consistent blijft. Daarnaast is het verstandig om de antwoorden van je chatbot regelmatig te monitoren en te controleren op patronen van weigering of neerbuigende taal, vooral in interacties die als 'moeilijk' worden gecategoriseerd door het systeem zelf.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [MIT News](https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)

@@ -28,6 +28,6 @@ De opkomst van DeepSeek, ontwikkeld door een Chinees bedrijf, is opvallend omdat
 Test DeepSeek zelf voor creatieve taken. Ga naar chat.deepseek.com, log in met je Google-account en stel het een open vraag voor een brainstorm, zoals "Genereer tien ideeën voor een social media-campagne rond duurzaamheid." Vergelijk het resultaat vervolgens met de output van ChatGPT of een andere tool die je gebruikt, om te zien welke stijl en kwaliteit het beste bij jouw behoefte past.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt)

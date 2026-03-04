@@ -26,6 +26,6 @@ Het grootste voordeel is de prijs: de chatbot is op moment van schrijven volledi
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om DeepSeek uit te proberen voor creatieve schrijftaken waar geen actuele internetdata voor nodig zijn, zoals het opstellen van eerste concepten voor interne communicatie, het bedenken van productbeschrijvingen of het structureren van brainstormnotities. Je zou het kunnen vergelijken met je huidige tool om te zien of de kwaliteit van de tekstoutput voor jouw use case voldoende is. Houd daarbij rekening met de beperkingen rond internettoegang en privacy.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt)

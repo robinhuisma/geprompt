@@ -29,6 +29,6 @@ Op het gebied van 3D is Blender een krachtige, open source software voor modelle
 ## Hoe kun je dit vandaag toepassen?
 Een mogelijkheid is om een van de gratis tools, zoals GIMP voor fotobewerking of Inkscape voor vectoren, te downloaden en te verkennen voor een specifiek klein project. Je zou ook kunnen overwegen om, als je op zoek bent naar een betaalde maar eenmalige aanschaf, de website van Affinity Designer of Procreate te bezoeken om hun filosofie rond AI en hun toolset te onderzoeken. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [AI Art Blog](https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools)

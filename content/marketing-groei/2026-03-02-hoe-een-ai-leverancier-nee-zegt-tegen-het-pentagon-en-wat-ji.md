@@ -28,6 +28,6 @@ Deze kwestie maakt het selecteren van een AI-leverancier complexer dan alleen na
 Neem bij je volgende evaluatie van een AI-dienst, of het nu om generatieve AI zoals ChatGPT of een gespecialiseerde SaaS-tool gaat, vijf minuten de tijd om de "Acceptable Use Policy" of "Ethics" pagina van de aanbieder te lezen. Zoek specifiek naar wat er verboden is. Dit geeft je direct inzicht in hun rode lijnen en helpt je inschatten of die aansluiten bij de waarden en compliance-eisen van je eigen bedrijf.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: The Verge

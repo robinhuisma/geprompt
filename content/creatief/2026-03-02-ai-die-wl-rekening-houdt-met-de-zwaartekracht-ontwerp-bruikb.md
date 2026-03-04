@@ -28,6 +28,6 @@ PhysiOpt is op dit moment een onderzoeksproject van MIT. Het is nog geen commerc
 Hoewel PhysiOpt zelf nog niet beschikbaar is, kun je wel experimenteren met de combinatie van AI en 3D-ontwerp. Gebruik tools zoals ChatGPT of Claude om gedetailleerde beschrijvingen voor unieke producten te genereren. Laat die beschrijvingen vervolgens door een menselijke ontwerper of in een bestaand 3D-modelleerprogramma met simulatiemogelijkheden (zoals Fusion 360) uitwerken en testen. Het principe – eerst creatief brainstormen met AI, dan de fysieke haalbaarheid controleren – is nu al toe te passen in je workflow.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [MIT News](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225)

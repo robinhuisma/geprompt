@@ -28,6 +28,6 @@ Een interessant patroon in de voorbeelden is dat AI wordt ingezet als een soort 
 De principes zijn eenvoudig te testen. Als je Microsoft 365 gebruikt, kun je Copilot proberen voor het opstellen van een eerste draft van een lastige e-mail of het samenvatten van een lang rapport. Voor creatieve visuele ideeën kun je tools zoals Microsoft Designer of andere beeldgeneratoren gebruiken om snel variaties op een concept te maken. Begin klein: kies één repetitieve taak en vraag je af hoe AI je daarbij van een eerste aanzet kan voorzien.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Blogs Microsoft](https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/)

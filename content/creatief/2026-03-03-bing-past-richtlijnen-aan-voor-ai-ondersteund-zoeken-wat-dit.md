@@ -28,6 +28,6 @@ Waar zoekmachines voorheen vaak waarschuwden tegen geautomatiseerd gegenereerde 
 ## Hoe kun je dit vandaag toepassen?
 Een eerste stap is om de officiële Bing Webmaster Guidelines te raadplegen voor de exacte syntax van de nieuwe meta-tags, zoals die voor het beheren van 'AI-antwoord-gronding'. Je zou kunnen overwegen om deze tags toe te voegen op pagina's met unieke expertise waarvan je de presentatie wilt controleren. Daarnaast is het verstandig om de geografische targeting-instellingen van je website of CMS te controleren en aan te passen aan je primaire markt, zoals Nederland of de Benelux.
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/)

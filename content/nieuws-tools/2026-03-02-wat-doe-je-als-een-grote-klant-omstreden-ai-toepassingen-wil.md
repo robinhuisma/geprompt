@@ -32,6 +32,6 @@ De keuze van OpenAI – aanpassen onder specifieke voorwaarden – laat een midd
 Bespreek dit scenario bij je volgende strategie- of salesoverleg. Vraag niet *of* je ethische grenzen hebt, maar wat ze concreet zijn en wat je doet als een droomklant erom vraagt ze te overschrijden. Schrijf deze grenzen op in je algemene voorwaarden, maar wees voorbereid op de onderhandelingstafel. Een optie is om, zoals OpenAI lijkt te doen, zeer specifieke verboden te formuleren (geen massa-surveillance) in plaats van brede categorieën (geen militair gebruik). Zo behoud je een helder moreel kompas, maar geef je jezelf wel de flexibiliteit om zakelijk te manoeuvreren.
 
 
-*Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
+
 
 Bron: The Verge
