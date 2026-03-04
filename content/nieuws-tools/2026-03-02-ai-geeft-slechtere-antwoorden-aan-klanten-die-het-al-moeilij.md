@@ -5,7 +5,7 @@ tags: ["ai bias", "klantenservice", "toegankelijkheid", "chatbots"]
 categorieen: ["nieuws-tools"]
 summary: "Onderzoek toont aan dat chatbots als GPT-4 minder accuraat en behulpzaam zijn voor gebruikers met een lagere opleiding of minder goede Engels."
 cover:
-  image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/208494/pexels-photo-208494.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Study: AI chatbots provide less-accurate information to vulnerable users"
   caption: "Foto via Pexels"
 draft: false

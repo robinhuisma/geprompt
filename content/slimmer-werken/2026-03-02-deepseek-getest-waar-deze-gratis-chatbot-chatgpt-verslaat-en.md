@@ -5,7 +5,7 @@ tags: ["deepseek", "chatgpt", "ai-chatbot", "productiviteit"]
 categorieen: ["slimmer-werken"]
 summary: "De gratis chatbot DeepSeek blinkt uit in creatieve taken en lange teksten, maar mist internettoegang en is minder sterk in gestructureerde analyses."
 cover:
-  image: "https://images.pexels.com/photos/8348457/pexels-photo-8348457.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/30530414/pexels-photo-30530414.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "I tested DeepSeek vs ChatGPT with 5 prompts"
   caption: "Foto via Pexels"
 draft: false

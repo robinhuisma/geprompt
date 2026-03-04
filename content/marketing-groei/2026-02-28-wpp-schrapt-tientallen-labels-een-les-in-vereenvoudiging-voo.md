@@ -5,7 +5,7 @@ tags: ["reorganisatie", "bedrijfsvoering", "kostenbeheersing", "strategie"]
 categorieen: ["marketing-groei"]
 summary: "De drastische reorganisatie van WPP laat zien hoe je door te schrappen en te focussen je bedrijf wendbaarder en kostenbewuster maakt."
 cover:
-  image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/3662579/pexels-photo-3662579.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "WPP reorganiseert: schrappen en indikken tot vier divisies"
   caption: "Foto via Pexels"
 draft: false

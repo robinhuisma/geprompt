@@ -5,7 +5,7 @@ tags: ["claude", "ai-agents", "professionele dienstverlening", "automatisering"]
 categorieen: ["nieuws-tools"]
 summary: "De nieuwe plugins voor Claude Cowork automatiseren specifieke taken in juridische, financiële en adviesdiensten, waardoor professionals tijd besparen op documentanalyse en research."
 cover:
-  image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/7938540/pexels-photo-7938540.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Anthropic Targets More Industries With Claude Cowork Plugins"
   caption: "Foto via Pexels"
 draft: false

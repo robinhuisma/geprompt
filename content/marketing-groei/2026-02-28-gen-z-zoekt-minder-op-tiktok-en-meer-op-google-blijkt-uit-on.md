@@ -5,7 +5,7 @@ tags: ["zoekgedrag", "gen z", "tiktok", "google"]
 categorieen: ["marketing-groei"]
 summary: "Het aandeel jongeren dat TikTok verkiest boven Google voor zoeken is in een jaar gehalveerd, wat kansen biedt voor ondernemers die op zoekverkeer mikken."
 cover:
-  image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/4545980/pexels-photo-4545980.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Gen Z zoekt minder op TikTok en meer op Google, blijkt uit onderzoek"
   caption: "Foto via Pexels"
 draft: false

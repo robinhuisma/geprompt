@@ -5,7 +5,7 @@ tags: ["belasting", "startups", "investeren", "ondernemerschap"]
 categorieen: ["nieuws-tools"]
 summary: "Zweden belast vermogenswinst pas bij verkoop en stelt belasting uit bij herinvestering, wat een vliegwieleffect creëerde voor startups. Nederland kiest een ander pad."
 cover:
-  image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Een nieuwe Box 3? Zweden grossiert in unicorns dankzij een veel slimmere vermogensbelasting"
   caption: "Foto via Pexels"
 draft: false

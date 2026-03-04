@@ -5,7 +5,7 @@ tags: ["marketing", "seo", "ai", "content"]
 categorieen: ["marketing-groei"]
 summary: "AEO is het optimaliseren van je content om als bron geciteerd te worden door AI-systemen zoals ChatGPT, naast je reguliere SEO."
 cover:
-  image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "What is Answer Engine Optimization (AEO) and how does it change SEO?"
   caption: "Foto via Pexels"
 draft: false

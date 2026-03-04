@@ -5,7 +5,7 @@ tags: ["creatieve industrie", "ai-beleid", "software", "ontwerp"]
 categorieen: ["creatief"]
 summary: "Een overzicht van professionele, betaalbare tools voor grafisch werk die bewust géén AI gebruiken, van 3D-software tot tekenprogramma's."
 cover:
-  image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/7317289/pexels-photo-7317289.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Collection of NoAI Tools"
   caption: "Foto via Pexels"
 draft: false

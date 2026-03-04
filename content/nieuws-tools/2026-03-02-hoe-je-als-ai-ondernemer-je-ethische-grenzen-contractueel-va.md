@@ -5,7 +5,7 @@ tags: ["ethiek", "overheid", "contracten", "ai-beleid"]
 categorieen: ["nieuws-tools"]
 summary: "Het conflict tussen Anthropic en het Pentagon toont aan dat je als AI-ondernemer je eigen ethische grenzen moet definiëren en contractueel kunt beschermen."
 cover:
-  image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/269790/pexels-photo-269790.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "AI vs. the Pentagon: killer robots, mass surveillance, and red lines"
   caption: "Foto via Pexels"
 draft: false

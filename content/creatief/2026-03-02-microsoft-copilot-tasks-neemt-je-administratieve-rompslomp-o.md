@@ -5,7 +5,7 @@ tags: ["microsoft copilot", "automatisering", "productiviteit", "ai-taken"]
 categorieen: ["creatief"]
 summary: "Een nieuwe AI-functie van Microsoft voert saaie, terugkerende taken voor je uit op een aparte computer, zodat jij je op je echte werk kunt concentreren."
 cover:
-  image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/10142683/pexels-photo-10142683.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done"
   caption: "Foto via Pexels"
 draft: false

@@ -5,7 +5,7 @@ tags: ["ai video", "creatieve industrie", "marketing", "contentproductie"]
 categorieen: ["creatief"]
 summary: "De samenwerking tussen Disney en OpenAI's Sora markeert een kantelpunt: AI-video wordt mainstream, en dat biedt kansen voor snellere conceptontwikkeling en lagere productiekosten."
 cover:
-  image: "https://images.pexels.com/photos/8438922/pexels-photo-8438922.jpeg?auto=compress&cs=tinysrgb&w=1200"
+  image: "https://images.pexels.com/photos/33921159/pexels-photo-33921159.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   alt: "Disney + Sora: Billion Dollar Partnership Signals New Era"
   caption: "Foto via Pexels"
 draft: false
