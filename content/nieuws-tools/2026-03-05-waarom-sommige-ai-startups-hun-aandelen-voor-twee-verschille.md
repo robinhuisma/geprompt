@@ -1,9 +1,9 @@
 ---
 title: "Waarom sommige AI-startups hun aandelen voor twee verschillende prijzen verkopen"
-date: 2026-03-05T03:06:37.650Z
-tags: ["startup financiering", "investeren", "ai-bedrijven", "due diligence"]
+date: 2026-03-05T11:08:10.061Z
+tags: ["startup financiering", "investeren", "waardering", "scale-up"]
 categorieen: ["nieuws-tools"]
-summary: "AI-startups gebruiken soms een 'dual-price' constructie om een hoge waardering te claimen, wat risico's met zich meebrengt voor investeerders en samenwerkingspartners."
+summary: "AI-startups gebruiken soms een constructie met twee prijzen om een hoge waardering te claimen, maar dat brengt risico's met zich mee voor investeerders en de onderneming zelf."
 cover:
   image: "/images/covers/2026-03-05-why-ai-startups-are-selling-the-same-equity-at-two-different.webp"
   alt: "Why AI startups are selling the same equity at two different prices"
@@ -12,23 +12,19 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
 ---
 
-Sommige veelbelovende AI-startups hanteren een opvallende financieringsconstructie waarbij ze exact hetzelfde aandeel tegen twee verschillende prijzen verkopen. Dit mechanisme, 'dual-price' genoemd, stelt hen in staat om officieel een zeer hoge bedrijfswaardering te claimen – vaak de felbegeerde 'unicorn'-status van meer dan een miljard dollar – terwijl ze in werkelijkheid tegen een lagere prijs kapitaal ophalen. Voor ondernemers die overwegen te investeren in of samen te werken met zo'n startup, is het cruciaal te begrijpen hoe dit werkt en welke risico's het met zich meebrengt.
+Sommige snelgroeiende AI-startups verkopen hun aandelen aan investeerders voor twee verschillende prijzen. Dit is geen fout, maar een bewuste financieringsconstructie. Het doel is vaak om officieel een hoge waardering, zoals 'unicorn'-status, te kunnen claimen, terwijl er tegelijkertijd kapitaal wordt opgehaald tegen een lagere, meer realistische prijs. Voor Nederlandse scale-ups die op zoek zijn naar groeikapitaal, is het belangrijk te begrijpen hoe dit werkt en welke valkuilen eraan verbonden zijn.
 
-## Hoe de dual-price constructie in de praktijk werkt
+## Hoe de constructie met twee prijzen werkt
+In de praktijk komt het erop neer dat een startup twee soorten aandelen uitgeeft in dezelfde financieringsronde. Een klein deel van de aandelen wordt verkocht tegen een hoge prijs, wat de officiële 'post-money valuation' bepaalt. Het overgrote deel van het kapitaal wordt echter opgehaald tegen een aanzienlijk lagere prijs per aandeel. Volgens het artikel in Techcrunch doen sommige AI-startups dit om de schijn van een zeer succesvolle, hoog gewaardeerde ronde te wekken, wat weer marketingwaarde en aandacht kan genereren. De onderliggende realiteit is dat de markt voor het merendeel van de aandelen een lagere prijs wil betalen.
 
-De constructie draait om het verkopen van twee soorten aandelen die in wezen identiek zijn, maar een ander prijskaartje hebben. Enerzijds verkoopt de startup een klein aantal aandelen aan durfkapitalisten tegen een zeer hoge prijs per aandeel. Deze transactie, vaak een paar miljoen dollar groot, wordt gebruikt om de formele waardering van het hele bedrijf vast te stellen. Anderzijds verkoopt het bedrijf tegelijkertijd een veel groter aantal van dezelfde aandelen aan andere investeerders, zoals hedgefondsen of family offices, tegen een aanzienlijk lagere prijs. Het is deze tweede, grotere geldstroom die het bedrijf daadwerkelijk van operationeel kapitaal voorziet.
+## De risico's voor de startup en haar investeerders
+Deze aanpak brengt een aantal risico's met zich mee. Ten eerste creëert het een kunstmatig hoge waardering die niet door de volledige investering wordt gedragen. Dit kan problemen opleveren bij een volgende financieringsronde, als nieuwe investeerders niet bereid zijn om tegen die hoge waardering in te stappen. Het zet de startup onder druk om onrealistische groeiverwachtingen waar te maken. Daarnaast kunnen eerdere investeerders die tegen de hoge prijs hebben betaald, zich benadeeld voelen als blijkt dat later het grootste deel van het kapitaal tegen een korting is opgehaald. Het kan het vertrouwen in het management schaden.
 
-## De redenen en risico's achter deze aanpak
-
-Voor founders biedt deze aanpak twee voordelen. Ten eerste genereert het positieve publiciteit en 'hype' door de officiële unicorn-status, wat kan helpen bij het aantrekken van talent en het sluiten van partnerships. Ten tweede kan het de onderhandelingspositie voor toekomstige financieringsronden versterken. De risico's liggen echter vooral aan de kant van de investeerders en zakelijke partners. De hoge officiële waardering weerspiegelt niet de prijs die de markt in bredere zin voor het aandeel wil betalen. Het creëert een kunstmatige en mogelijk onhoudbare waardering, wat het risico op een scherpe correctie ('down round') bij een volgende financiering vergroot. Voor een ondernemer die overweegt diensten te leveren of een strategisch partnerschap aan te gaan, kan een instabiele financiële basis van de startup een groot operationeel risico vormen.
-
-## Waar je op moet letten als ondernemer of investeerder
-
-Als je wordt benaderd voor een investering of een samenwerking met een AI-startup die een hoge waardering claimt, is extra due diligence essentieel. Een mogelijke stap is om niet alleen naar de geadverteerde waardering te kijken, maar ook te vragen naar de volledige voorwaarden van de laatste financieringsronde. Vraag specifiek of er verschillende prijzen voor hetzelfde aandeel zijn betaald en wat de omvang van elke transactie was. De constructie is niet illegaal, maar wel een signaal dat de waardering mogelijk niet solide gefundeerd is. Voor een zakelijke partner kan het verstandig zijn om de financiële gezondheid en het verbruik van kapitaal ('burn rate') van de startup scherp in de gaten te houden, aangezien hun lange-termijn levensvatbaarheid mogelijk onder druk staat.
+## Een realistisch alternatief voor scale-ups
+Voor Nederlandse scale-ups die groeikapitaal nodig hebben, ligt de focus beter op het aantonen van duurzame, schaalbare waardecreatie dan op het najagen van een kunstmatig hoog waarderingsplaatje. Een transparante financieringsronde tegen een prijs die door de markt wordt ondersteund, bouwt een solide basis voor de lange termijn. Het stelt de onderneming in staat om toekomstige rondes te doen zonder de last van een 'down round', waarbij de waardering daalt, wat demotiverend kan werken voor het team en bestaande aandeelhouders.
 
 ## Hoe kun je dit vandaag toepassen?
-
-De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Als je betrokken bent bij de financiering van een scale-up, zou je kunnen vragen naar de verdeling van de aandelenemissie en de gemiddelde prijs per aandeel over de hele ronde, in plaats van alleen naar de geclaimde post-money valuation te kijken. Een mogelijkheid is om in gesprekken met investeerders de nadruk te leggen op realistische, op prestaties gebaseerde waarderingsmodellen die groei op de lange termijn ondersteunen.
 
 *Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
