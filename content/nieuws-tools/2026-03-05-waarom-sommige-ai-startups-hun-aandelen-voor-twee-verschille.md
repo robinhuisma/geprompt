@@ -1,9 +1,9 @@
 ---
 title: "Waarom sommige AI-startups hun aandelen voor twee verschillende prijzen verkopen"
-date: 2026-03-05T11:08:10.061Z
-tags: ["startup financiering", "investeren", "waardering", "scale-up"]
+date: 2026-03-05T19:07:48.658Z
+tags: ["startup financiering", "investeren", "ai-bedrijven", "risico's"]
 categorieen: ["nieuws-tools"]
-summary: "AI-startups gebruiken soms een constructie met twee prijzen om een hoge waardering te claimen, maar dat brengt risico's met zich mee voor investeerders en de onderneming zelf."
+summary: "AI-startups gebruiken een nieuwe financieringsconstructie om een hoge waardering te claimen, maar investeerders krijgen minder rechten voor hun geld."
 cover:
   image: "/images/covers/2026-03-05-why-ai-startups-are-selling-the-same-equity-at-two-different.webp"
   alt: "Why AI startups are selling the same equity at two different prices"
@@ -12,19 +12,19 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
 ---
 
-Sommige snelgroeiende AI-startups verkopen hun aandelen aan investeerders voor twee verschillende prijzen. Dit is geen fout, maar een bewuste financieringsconstructie. Het doel is vaak om officieel een hoge waardering, zoals 'unicorn'-status, te kunnen claimen, terwijl er tegelijkertijd kapitaal wordt opgehaald tegen een lagere, meer realistische prijs. Voor Nederlandse scale-ups die op zoek zijn naar groeikapitaal, is het belangrijk te begrijpen hoe dit werkt en welke valkuilen eraan verbonden zijn.
+Sommige AI-startups die op zoek zijn naar kapitaal, gebruiken een nieuwe en complexe financieringsconstructie. Hierbij verkopen ze in wezen hetzelfde aandeel aan verschillende investeerders voor twee verschillende prijzen. Het doel is om een zeer hoge bedrijfswaardering te kunnen claimen, vaak om de felbegeerde 'unicorn'-status te bereiken, terwijl de realiteit voor investeerders anders is.
 
-## Hoe de constructie met twee prijzen werkt
-In de praktijk komt het erop neer dat een startup twee soorten aandelen uitgeeft in dezelfde financieringsronde. Een klein deel van de aandelen wordt verkocht tegen een hoge prijs, wat de officiële 'post-money valuation' bepaalt. Het overgrote deel van het kapitaal wordt echter opgehaald tegen een aanzienlijk lagere prijs per aandeel. Volgens het artikel in Techcrunch doen sommige AI-startups dit om de schijn van een zeer succesvolle, hoog gewaardeerde ronde te wekken, wat weer marketingwaarde en aandacht kan genereren. De onderliggende realiteit is dat de markt voor het merendeel van de aandelen een lagere prijs wil betalen.
+## Hoe de constructie in zijn werk gaat
+De constructie, die volgens het artikel steeds vaker voorkomt, werkt als volgt. Een startup verkoopt een bepaald type preferent aandeel, bijvoorbeeld een Serie A-aandeel. Echter, binnen diezelfde financieringsronde biedt het bedrijf hetzelfde aandeel aan tegen twee verschillende prijzen. De hogere prijs is de 'officiële' prijs die wordt gebruikt om de totale waardering van het bedrijf te berekenen. Dit levert een spectaculair hoog cijfer op. De lagere prijs is de prijs die de daadwerkelijke investeerders betalen. Het verschil wordt rechtgetrokken via een mechanisme dat 'warrants' of opties omvat, die de investeerders extra aandelen geven, waardoor hun effectieve aankoopprijs per aandeel daalt.
 
-## De risico's voor de startup en haar investeerders
-Deze aanpak brengt een aantal risico's met zich mee. Ten eerste creëert het een kunstmatig hoge waardering die niet door de volledige investering wordt gedragen. Dit kan problemen opleveren bij een volgende financieringsronde, als nieuwe investeerders niet bereid zijn om tegen die hoge waardering in te stappen. Het zet de startup onder druk om onrealistische groeiverwachtingen waar te maken. Daarnaast kunnen eerdere investeerders die tegen de hoge prijs hebben betaald, zich benadeeld voelen als blijkt dat later het grootste deel van het kapitaal tegen een korting is opgehaald. Het kan het vertrouwen in het management schaden.
+## Het doel: de perceptie van succes
+De primaire reden voor deze aanpak is perceptie. Een waardering van een miljard dollar of meer trekt aandacht, persberichten en kan het bedrijf positioneren als een leider in het drukke AI-veld. Het is een marketinginstrument. Voor oprichters kan het helpen om talent aan te trekken en partnerschappen aan te gaan. In essentie 'kopen' ze de unicorn-status. Het is belangrijk om te beseffen dat deze hoge waardering niet betekent dat investeerders daadwerkelijk bereid zijn dat bedrag voor het hele bedrijf neer te leggen.
 
-## Een realistisch alternatief voor scale-ups
-Voor Nederlandse scale-ups die groeikapitaal nodig hebben, ligt de focus beter op het aantonen van duurzame, schaalbare waardecreatie dan op het najagen van een kunstmatig hoog waarderingsplaatje. Een transparante financieringsronde tegen een prijs die door de markt wordt ondersteund, bouwt een solide basis voor de lange termijn. Het stelt de onderneming in staat om toekomstige rondes te doen zonder de last van een 'down round', waarbij de waardering daalt, wat demotiverend kan werken voor het team en bestaande aandeelhouders.
+## De risico's voor investeerders en oprichters
+Voor investeerders, waaronder mogelijk ook Nederlandse business angels of venture capital fondsen, brengt dit risico's met zich mee. De constructie is complex en kan de werkelijke kosten en rechten vertroebelen. Het kan ook de lat voor toekomstige financieringsronden onrealistisch hoog leggen, wat problemen geeft als het bedrijf later geld nodig heeft tegen een lagere waardering (een 'down round'). Voor oprichters is het een gevaarlijk spel. Het creëert een verwachting van extreme groei die waarschijnlijk niet te halen is. Als het bedrijf niet aan die verwachtingen voldoet, kan het in toekomstige onderhandelingen zeer moeilijk worden en het vertrouwen van investeerders beschadigen.
 
 ## Hoe kun je dit vandaag toepassen?
-Als je betrokken bent bij de financiering van een scale-up, zou je kunnen vragen naar de verdeling van de aandelenemissie en de gemiddelde prijs per aandeel over de hele ronde, in plaats van alleen naar de geclaimde post-money valuation te kijken. Een mogelijkheid is om in gesprekken met investeerders de nadruk te leggen op realistische, op prestaties gebaseerde waarderingsmodellen die groei op de lange termijn ondersteunen.
+Als je als ondernemer te maken krijgt met een investeringsvoorstel, is een mogelijkheid om extra alert te zijn op de eenheidsprijs van de aandelen en te vragen naar de volledig verwaterde waardering in plaats van alleen de headline-cijfers. Je zou kunnen overwegen om juridisch advies in te winnen die ervaring heeft met complexe venture capital-structuren om de werkelijke voorwaarden te doorgronden. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
