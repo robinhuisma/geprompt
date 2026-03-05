@@ -1,9 +1,9 @@
 ---
-title: "MIT-onderzoekers versnellen complexe ontwerpproblemen met AI in spreadsheets"
-date: 2026-03-05T07:17:29.654Z
-tags: ["engineering", "optimalisatie", "ai", "spreadsheet"]
+title: "MIT-onderzoekers versnellen complexe ontwerpproblemen met AI voor spreadsheets"
+date: 2026-03-05T23:12:34.932Z
+tags: ["engineering", "optimalisatie", "ai", "onderzoek"]
 categorieen: ["slimmer-werken"]
-summary: "Een nieuwe AI-methode helpt ingenieurs sneller de beste ontwerpen te vinden door honderden variabelen in spreadsheets te analyseren, tot 100 keer sneller dan gangbare methodes."
+summary: "Een nieuwe AI-methode helpt ingenieurs om met 10 tot 100 keer minder dure tests de beste oplossingen te vinden voor complexe ontwerpproblemen met honderden variabelen."
 cover:
   image: "/images/covers/2026-03-05-a-chatgpt-for-spreadsheets-helps-solve-difficult-engineering.webp"
   alt: "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster"
@@ -12,18 +12,18 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304"
 ---
 
-Een nieuwe AI-techniek van MIT-onderzoekers kan ingenieurs en ontwerpers helpen om complexe problemen met honderden variabelen veel sneller op te lossen. De methode werkt als een krachtige optimalisatie-assistent binnen een vertrouwde spreadsheet-omgeving en is speciaal ontwikkeld voor situaties waar fysieke tests of simulaties duur en tijdrovend zijn.
+Een nieuw type AI, ontwikkeld door MIT-onderzoekers, kan ingenieurs en ontwerpers helpen om complexe problemen met honderden variabelen veel sneller op te lossen. Het systeem werkt als een 'ChatGPT voor spreadsheets' en is speciaal getraind op tabulaire data. In tests op realistische problemen, zoals het optimaliseren van een elektriciteitsnet of het ontwerpen van een veiliger voertuig, vond de methode de beste oplossingen 10 tot 100 keer sneller dan gangbare methoden. Dit betekent dat je met aanzienlijk minder dure simulaties of fysieke tests tot een superieur ontwerp kunt komen.
 
-## Wat is het en hoe werkt het?
+## Hoe werkt deze AI voor optimalisatie?
+De techniek is een slimme variant op een bestaande methode genaamd 'Bayesian optimization'. Traditioneel worstelt deze methode als er honderden 'knoppen' zijn om aan te draaien, zoals bij het ontwerpen van een auto waarbij duizenden onderdelen de veiligheid beïnvloeden. De nieuwe aanpak gebruikt een zogenaamd 'foundation model' dat getraind is op enorme hoeveelheden tabulaire gegevens. Dit model leert automatisch welke variabelen het meest belangrijk zijn voor het verbeteren van de prestaties. Vervolgens herhaalt het dit proces om steeds betere oplossingen te vinden. Een groot voordeel is dat dit model niet telkens opnieuw getraind hoeft te worden voor elk nieuw probleem, wat het proces efficiënter maakt.
 
-De techniek is een geavanceerde vorm van optimalisatie, gebaseerd op een bestaande methode genaamd Bayesian optimization. Het kernidee is dat je een doel hebt – bijvoorbeeld een veiligere auto of een efficiënter energiesysteem ontwerpen – en honderden factoren (variabelen) die dat doel kunnen beïnvloeden. Traditionele software kan hierop vastlopen. De nieuwe aanpak gebruikt een zogenaamd foundation model, een groot AI-systeem dat getraind is op tabelgegevens (zoals in spreadsheets). Dit model identificeert automatisch welke variabelen het meest belangrijk zijn om het doel te verbeteren en richt daar de zoektocht op. Het model hoeft niet telkens opnieuw getraind te worden voor elk nieuw probleem, wat het proces efficiënter maakt.
+## Waar kun je dit voor gebruiken?
+De toepassingen zijn breed, vooral in domeinen waar testen of simulaties duur en tijdrovend zijn. De onderzoekers noemen expliciet het optimaliseren van energiesystemen en het ontwerpen van veiligere voertuigen. Volgens hen is de methode bij uitstek geschikt voor veeleisende toepassingen zoals materiaalontwikkeling of medicijnontdekking, waar de complexiteit hoog is en elke test veel geld kost. Het fundamentele idee is dat je met minder 'pogingen' tot een beter resultaat komt, wat tijd en middelen bespaart.
 
-## Wat is de praktische impact voor ingenieurs en ontwerpers?
-
-Volgens de onderzoekers vond hun aanpak in tests op realistische technische problemen, zoals het optimaliseren van een energiesysteem, de beste oplossingen 10 tot 100 keer sneller dan veelgebruikte methodes. Dit betekent dat een ontwerpproces dat normaal weken of maanden van reken- en simulatietijd kost, in dagen of uren kan worden voltooid. De techniek levert volgens hen grotere snelheidswinst op naarmate het probleem ingewikkelder wordt, wat het bijzonder nuttig maakt voor veeleisende toepassingen zoals materiaalontwikkeling of medicijnonderzoek.
+## Wat betekent dit voor de praktijk?
+Voor ingenieurs, onderzoekers en ontwikkelaars betekent dit een potentieel krachtig nieuw gereedschap in de toolbox. Het versnelt het iteratieve ontwerpproces aanzienlijk. Zoals hoofdauteur Rosen Yu het stelt: "Moderne AI-modellen kunnen fundamenteel veranderen hoe ingenieurs en wetenschappers complexe systemen creëren. We hebben één algoritme ontwikkeld dat niet alleen hoog-dimensionale problemen kan oplossen, maar ook herbruikbaar is." Dit suggereert dat dezelfde kerntechniek toegepast kan worden op uiteenlopende problemen, van mechanica tot scheikunde.
 
 ## Hoe kun je dit vandaag toepassen?
-
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*

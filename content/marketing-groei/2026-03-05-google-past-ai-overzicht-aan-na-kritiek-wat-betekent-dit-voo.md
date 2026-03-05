@@ -1,9 +1,9 @@
 ---
-title: "Google past AI-overzicht aan na kritiek, wat betekent dit voor jouw content?"
-date: 2026-03-05T03:11:05.929Z
+title: "Google past AI-overzicht aan na kritiek: wat betekent dit voor jouw content?"
+date: 2026-03-05T23:08:58.918Z
 tags: ["google", "ai-overzicht", "contentstrategie", "zoekmachinemarketing"]
 categorieen: ["marketing-groei"]
-summary: "Google heeft zijn AI-overzicht voor recepten aangepast om meer links naar de oorspronkelijke makers te tonen, een belangrijke ontwikkeling voor contentcreators."
+summary: "Google reageert op kritiek van contentmakers door in zijn AI-overzicht meer links naar receptensites te tonen, een belangrijke les voor alle niche-websites."
 cover:
   image: "/images/covers/2026-03-05-google-updates-ai-mode-recipe-sites-results-in-response-to-b.webp"
   alt: "Google Updates AI Mode Recipe Sites Results In Response To Backlash via @sejournal, @martinibuster"
@@ -12,25 +12,16 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results-in-response-to-backlash/568798/"
 ---
 
-Google heeft zijn AI-overzicht, voorheen bekend als de 'AI Overviews', aangepast in reactie op kritiek van contentmakers, met name foodbloggers. De update zorgt ervoor dat wanneer iemand een recept zoekt, het AI-overzicht nu duidelijker links toont naar de websites van de receptenmakers. Dit is een direct antwoord op zorgen dat de AI de inhoud van receptensites zou overnemen zonder bezoekers naar de originele bron te sturen.
+Google heeft zijn AI-overzicht, voorheen bekend als AI Mode, aangepast na klachten van receptenmakers. Waar het systeem eerst vaak het volledige antwoord, inclusief ingrediënten en stappen, direct in het overzicht toonde, laat het nu vaker alleen een samenvatting zien en plaatst het prominente links naar de originele websites. Deze wijziging is een direct gevolg van feedback uit de community en laat zien dat Google gevoelig is voor de impact die zijn AI-tools hebben op contentcreators. Voor iedereen die afhankelijk is van organisch verkeer uit zoekmachines, is dit een belangrijk signaal over hoe je je strategie kunt vormgeven in het tijdperk van AI-zoeken.
 
-Voor Nederlandse foodbloggers, kookwebsites en andere contentcreators in de lifestyle-hoek is dit een belangrijke ontwikkeling. Het betekent dat de waarde van direct verkeer vanuit Google Search mogelijk behouden blijft, zelfs als meer zoekopdrachten een AI-antwoord genereren. De aanpassing laat zien dat Google gevoelig is voor feedback uit de creatieve gemeenschap en bereid is zijn tools bij te sturen om makers te ondersteunen.
+## Waarom Google de aanpassing doorvoerde
+De aanpassing kwam niet uit de lucht vallen. Contentmakers, met name in de receptenniche, uitten stevige kritiek. Zij zagen dat het AI-overzicht hun volledige content – het werk waar zij uren in staken – gratis weg gaf, waardoor gebruikers geen reden meer hadden om door te klikken naar hun site. Dit bedreigde hun verdienmodel, dat vaak gebaseerd is op advertentie-inkomsten of affiliate-links. Google heeft volgens het artikel gereageerd door de weergave aan te passen, waardoor er nu meer nadruk ligt op het doorverwijzen naar de bron. Het laat zien dat grootschalige feedback vanuit een specifieke sector wel degelijk effect kan hebben op de ontwikkeling van deze nieuwe zoekfuncties.
 
-## Wat verandert er precies in de zoekresultaten?
-
-Volgens het bericht in Search Engine Journal, dat zich baseert op een aankondiging van Google, is de wijziging specifiek gericht op zoekopdrachten naar recepten. Wanneer een gebruiker nu bijvoorbeeld zoekt naar "pasta carbonica recept", zal het AI-overzicht dat boven de organische resultaten verschijnt, niet alleen een samenvatting van de stappen en ingrediënten tonen. Het zal ook prominenter de bronvermeldingen en links naar de betreffende receptensites weergeven. Het doel is om gebruikers makkelijker naar de volledige receptpagina te leiden voor meer details, foto's en persoonlijke verhalen.
-
-Deze aanpassing komt na eerdere kritiek dat de AI-overzichten, door direct antwoorden te geven, bezoekers zouden kunnen tegenhouden om daadwerkelijk op een website te klikken. Voor makers die afhankelijk zijn van advertentie-inkomsten, affiliate-links of de verkoop van eigen kookboeken, is dat klikverkeer essentieel. De update probeert een balans te vinden tussen het bieden van snelle antwoorden via AI en het erkennen van de waarde van de originele contentcreators.
-
-## Wat betekent dit voor jouw contentstrategie?
-
-Deze ontwikkeling benadrukt dat kwaliteit en autoriteit op een specifiek nichegebied, zoals recepten, nog steeds cruciaal zijn. Google's AI haalt zijn informatie immers uit bestaande, hoogwaardige bronnen op het web. Als jouw website een betrouwbare bron is met unieke, goed gestructureerde content, is de kans groter dat de AI jouw site selecteert als bron voor zijn overzicht. Het is dus niet per se een bedreiging, maar eerder een bevestiging dat fundamentele SEO-principes nog steeds gelden.
-
-Een mogelijke strategische overweging is om te kijken hoe jouw content gepresenteerd wordt. Is deze duidelijk gestructureerd met herkenbare ingrediëntenlijsten, stapsgewijze instructies en nuttige aanvullende informatie? Dit zijn de elementen die een AI-systeem makkelijk kan extraheren en samenvatten. Door ervoor te zorgen dat jouw content op een machine-vriendelijke manier is opgebouwd, vergroot je de kans dat deze wordt opgenomen in deze AI-overzichten, mét de bijbehorende bronvermelding.
+## De bredere implicatie voor niche-content
+Hoewel de wijziging specifiek voor receptensites lijkt, is de les veel breder toepasbaar. Het toont een patroon dat voor veel niche-websites herkenbaar is: AI-systemen die zijn getraind op hun content, kunnen diezelfde content vervolgens presenteren als een direct antwoord. Dit risico geldt niet alleen voor recepten, maar ook voor handleidingen, technische uitleg, lijstjes ("top 10"), gezondheidsadvies en financiële tips. De kernvraag voor elke contentmaker wordt: hoe zorg je dat jouw waarde zo uniek en contextafhankelijk is, dat een AI-samenvatting niet volstaat en een bezoeker toch naar jouw site wil? De reactie van Google suggereert dat het, in ieder geval voor nu, de balans zoekt tussen het bieden van een snel antwoord en het ondersteunen van de ecosystemen waar die antwoorden vandaan komen.
 
 ## Hoe kun je dit vandaag toepassen?
-
-De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Een mogelijke stap is om te analyseren of jouw belangrijkste content onderhevig is aan dit risico. Je zou kunnen kijken of jouw "how-to" artikelen of lijstjes nu al volledig worden samengevat in het AI-overzicht van Google. Een andere optie is om, net als de receptenmakers, je stem te laten horen via relevante kanalen als je merkt dat je verkeer significant daalt door deze ontwikkelingen. De praktische aanpak hangt sterk af van jouw specifieke niche en contenttype. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *Dit artikel is geschreven met behulp van AI en gecontroleerd door de redactie van geprompt.nl. De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
