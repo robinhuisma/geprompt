@@ -1,9 +1,9 @@
 ---
 title: "WordPress lanceert AI-plugins voor Claude, Gemini en OpenAI"
-date: 2026-03-06T09:03:36.813Z
-tags: ["wordpress", "ai", "contentcreatie", "chatbots"]
+date: 2026-03-06T15:54:43.383Z
+tags: ["wordpress", "ai", "contentcreatie", "automatisering"]
 categorieen: ["slimmer-werken"]
-summary: "WordPress biedt nu officiële plugins om AI van Claude, Gemini of OpenAI direct in je website te integreren voor content en ondersteuning."
+summary: "WordPress brengt drie officiële plugins uit waarmee je direct Claude, Gemini of ChatGPT aan je website kunt koppelen voor slimme content en interactie."
 cover:
   image: "/images/covers/2026-03-06-wordpress-releases-ai-plugins-for-anthropic-claude-google-ge.webp"
   alt: "WordPress Releases AI Plugins For Anthropic Claude, Google Gemini, And OpenAI via @sejournal, @martinibuster"
@@ -12,19 +12,23 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/wordpress-releases-ai-plugins-for-anthropic-claude-google-gemini-and-openai/568822/"
 ---
 
-WordPress heeft drie officiële plugins uitgebracht waarmee je eenvoudig een van de grote AI-modellen in je website kunt integreren. De plugins zijn specifiek voor Anthropic Claude, Google Gemini en OpenAI. Dit betekent dat je niet langer hoeft te sleutelen met complexe code of externe koppelingen; je installeert simpelweg de plugin van je keuze en verbindt deze met de bijbehorende AI-dienst via een API-sleutel. Het is een directe, door WordPress ondersteunde manier om AI-functionaliteit toe te voegen.
+WordPress heeft drie officiële plugins uitgebracht waarmee je eenvoudig een van de grote AI-modellen – Claude van Anthropic, Gemini van Google of ChatGPT van OpenAI – aan je website kunt koppelen. Dit betekent dat je, zonder zelf te programmeren, de kracht van deze taalmodellen kunt gebruiken voor taken op je eigen site. Het is een directe, geïntegreerde manier om AI-functionaliteit toe te voegen.
 
-## Wat kun je met deze plugins?
-De kernfunctionaliteit is het integreren van een AI-chat-assistent op je website. Bezoekers kunnen dan vragen stellen en antwoorden krijgen die zijn gegenereerd door het gekozen model, zoals Claude, Gemini of ChatGPT. Dit kan dienen als een eerste klantensupportlijn, een FAQ-helper of een interactief element om betrokkenheid te vergroten. Daarnaast bieden de plugins de mogelijkheid om AI te gebruiken voor het genereren of bewerken van content binnen de WordPress-editor zelf. Je zou bijvoorbeeld een concept voor een blogpost kunnen laten opstellen of bestaande tekst kunnen laten herschrijven.
+De plugins zijn ontwikkeld door WordPress.com en zijn beschikbaar voor zelf-hostende WordPress.org websites. Volgens de aankondiging bieden ze een veiligere en betrouwbaardere integratie dan veel externe, niet-officiële plugins, omdat ze rechtstreeks met de API's van de AI-bedrijven werken. Je hebt wel een eigen API-sleutel nodig van het betreffende AI-platform om de plugin te kunnen gebruiken.
 
-## Hoe kies je tussen Claude, Gemini en OpenAI?
-De keuze hangt af van je specifieke behoeften en budget. Elke AI heeft zijn eigen sterke punten en prijsmodel. OpenAI's modellen, zoals GPT-4, zijn breed inzetbaar en bekend van ChatGPT. Google Gemini kan sterk zijn in taken die verband houden met zoeken en het verwerken van grote context. Anthropic's Claude staat bekend om zijn zorgvuldige en veiligheidsgerichte benadering, wat handig kan zijn voor klantinteracties. Een praktische overweging is om te kijken bij welke aanbieder je al een account hebt of welk prijsmodel het beste past bij je verwachte gebruik.
+## Wat kun je ermee op je website?
 
-## Wat zijn de beperkingen?
-Het zijn plugins voor integratie, geen kant-en-klare oplossingen. Je moet zelf een account en een betaalde API-sleutel hebben bij de betreffende AI-aanbieder (Claude, Gemini of OpenAI). De kosten voor het gebruik van de AI lopen via hun platform, niet via WordPress. Daarnaast ben je zelf verantwoordelijk voor het configureren van de chatbot, het bepalen van de kennisbron (de plugin gebruikt standaard de openbare kennis van het model) en het monitoren van de antwoorden. Het is een tool, geen geautomatiseerde vervanging voor menselijke controle.
+De kern van deze plugins is dat ze een blok toevoegen aan de WordPress editor, de zogenaamde Gutenberg editor. Binnen dat blok kun je een opdracht (prompt) geven aan het AI-model, waarna het de gegenereerde tekst direct in je pagina of bericht plaatst. Dit maakt het schrijven van productbeschrijvingen, blogposts of landingspaginateksten een stuk sneller. Je kunt de AI ook gebruiken om bestaande tekst samen te vatten of te herschrijven.
+
+Een andere mogelijke toepassing is het creëren van interactieve elementen. Je zou bijvoorbeeld een chatbot kunnen inbouwen die veelgestelde vragen van bezoekers beantwoordt, gebaseerd op de kennis op je site. Of je kunt gepersonaliseerde aanbevelingen genereren op basis van wat een bezoeker leest. De precieze mogelijkheden hangen af van hoe je het AI-blok configureert en welke prompts je gebruikt.
+
+## Een veiligere en gestroomlijnde aanpak
+
+Voor ondernemers die al met AI op hun website experimenteren, bieden deze officiële plugins een belangrijk voordeel: betrouwbaarheid en veiligheid. Omdat ze door WordPress zelf worden onderhouden, is de kans kleiner op compatibiliteitsproblemen bij updates en is de beveiliging van de code doorgaans beter geregeld dan bij plugins van derden. Het gebruik van een officiële API-sleutel zorgt er ook voor dat je dataverkeer rechtstreeks naar het AI-platform gaat, wat de privacy van je bezoekers beter waarborgt.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om de plugin van één aanbieder te installeren en te testen in een staging-omgeving of op een testpagina. Je zou kunnen beginnen met het instellen van een eenvoudige FAQ-chatbot op een contactpagina. Een andere optie is om de content-generatiefunctie binnen de editor uit te proberen voor het opstellen van eerste concepten voor productbeschrijvingen of blogideeën. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+
+Een eerste stap is om te bepalen welk AI-model het beste past bij je behoefte en budget, aangezien de kosten voor API-gebruik per model verschillen. Vervolgens kun je in de WordPress plugin directory zoeken naar "AI Powered" gevolgd door de naam van het model (bijvoorbeeld "AI Powered: OpenAI") om de juiste plugin te vinden en te installeren. Daarna is het een kwestie van een API-sleutel aanvragen bij het gekozen platform en deze in de plugin-instellingen invoeren om te beginnen met experimenteren in een nieuwe pagina of bericht.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

@@ -1,9 +1,9 @@
 ---
 title: "DeepSeek test: gratis AI-chatbot kan concurreren met ChatGPT op specifieke taken"
-date: 2026-03-06T09:01:24.328Z
-tags: ["deepseek", "chatgpt", "ai-chatbot", "test"]
+date: 2026-03-06T15:52:08.214Z
+tags: ["deepseek", "ai-chatbot", "productiviteit", "test"]
 categorieen: ["slimmer-werken"]
-summary: "Een praktische test laat zien waar de gratis chatbot DeepSeek beter of slechter presteert dan ChatGPT, zoals bij het analyseren van webinhoud."
+summary: "De gratis chatbot DeepSeek presteert in praktische tests vergelijkbaar met ChatGPT op open vragen, maar mist internettoegang en heeft privacy-issues."
 cover:
   image: "/images/covers/2026-03-06-i-tested-deepseek-vs-chatgpt-with-5-prompts.webp"
   alt: "I tested DeepSeek vs ChatGPT with 5 prompts"
@@ -12,18 +12,20 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"
 ---
 
-Een nieuwe, gratis AI-chatbot genaamd DeepSeek R1 positioneert zichzelf als een directe concurrent van OpenAI's ChatGPT, specifiek het o1-model. Volgens een praktische test op AI Art Blog zijn er duidelijke verschillen in prestaties op specifieke soorten vragen, wat voor ondernemers betekent dat de keuze voor de ene of de andere tool afhangt van de taak die je wilt uitvoeren. Een opvallend feit is dat het trainen van het DeepSeek-model volgens de bron aanzienlijk minder kostte: ongeveer $5,6 miljoen in plaats van de geschatte $100 miljoen voor vergelijkbare modellen.
+De gratis AI-chatbot DeepSeek is een serieuze, kostenefficiënte concurrent voor ChatGPT, blijkt uit een praktische test. Waar ChatGPT lang de enige speler van formaat was, komt er nu een uitdager die volgens de bron getraind is voor een fractie van de kosten. De grote vraag voor ondernemers is niet welke technisch superieur is, maar bij welke specifieke zakelijke taken de ene of de andere beter presteert. De test geeft inzicht in sterke en zwakke punten.
 
-## Waar DeepSeek tekortschiet in de test
-De test begon met een open vraag over de geschiedenis van AI-beeldgeneratoren, waarop beide chatbots gedetailleerde antwoorden gaven. De eerste duidelijke beperking van DeepSeek kwam naar voren bij een praktische, onderzoekende vraag: "Wat is het laatste bericht op de AI Timeline van aiartblog.com?". DeepSeek gaf aan geen toegang tot het internet te hebben om deze vraag te beantwoorden. Dit is een cruciaal verschil voor zakelijk gebruik. Als je een chatbot nodig hebt die actuele informatie van een specifieke website kan opzoeken en samenvatten – bijvoorbeeld om concurrentie te analyseren, nieuws te monitoren of een recent rapport te doorzoeken – dan is een tool met internettoegang, zoals bepaalde versies van ChatGPT, op dit moment een betere keuze.
+## Waar DeepSeek goed in is
+Uit de test blijkt dat DeepSeek uitstekende, gedetailleerde antwoorden kan geven op open, algemene vragen. Toen de tester bijvoorbeeld vroeg naar de huidige stand van zaken op het gebied van AI-beeldgeneratoren in 2025, gaf het een uitgebreid overzicht met mogelijke toekomstige ontwikkelingen zoals DALL-E 4 en nieuwe Stable Diffusion-versies. Dit soort capaciteiten zijn direct toepasbaar voor het snel opdoen van kennis over een breed onderwerp, het brainstormen over trends of het structureren van gedachten voor een presentatie. De chatbot lijkt dus een krachtige tool voor kenniswerk en creatieve verkenning.
 
-## De potentie van een efficiënter, goedkoper model
-Het verhaal achter DeepSeek is opvallend. Het model is ontwikkeld met een focus op efficiëntie en lagere kosten, wat volgens de MIT Technology Review deels wordt gedreven door de noodzaak om te innoveren binnen bepaalde beperkingen. Voor een ondernemer kan dit twee dingen betekenen. Ten eerste: als de ontwikkelkosten lager zijn, kan de service op de lange termijn mogelijk goedkoper blijven of zelfs gratis, wat een financieel voordeel is. Ten tweede suggereert efficiëntere training mogelijk ook een lagere energieconsumptie, een factor die voor steeds meer bedrijven relevant wordt in hun duurzaamheidsbeleid. De opkomst van DeepSeek heeft zelfs invloed gehad op de beurs, waar de koers van Nvidia tijdelijk daalde.
+## De belangrijke beperkingen
+Een cruciaal verschil is dat DeepSeek, in tegenstelling tot sommige versies van ChatGPT, geen toegang heeft tot het internet. Toen de tester vroeg naar de laatste post op een specifieke website, antwoordde de chatbot dat hij geen internettoegang had. Dit betekent dat je DeepSeek niet kunt gebruiken voor taken die actuele informatie vereisen, zoals het samenvatten van het laatste nieuws, het opzoeken van recente bedrijfscijfers of het checken van een concurrerende website. Voor actueel onderzoek of marktanalyse is het dus minder geschikt.
 
-## Praktische overwegingen en beschikbaarheid
-Op het moment van schrijven is de DeepSeek-service volledig gratis en kun je registreren met een Google-account. Er zijn echter wel praktische hobbels. De test wijst erop dat inloggen momenteel moeilijk kan zijn omdat het systeem, volgens het bedrijf zelf, onder een grootschalige hackeraanval zou liggen. Daarnaast is er reguliere aandacht: mobiele apps van DeepSeek zijn in Italië verboden vanwege gegevensbeschermingskwesties, en de privacywaakhond in Frankrijk heeft een onderzoek naar de chatbot geopend. Dit onderstreept het belang om, naast functionaliteit, ook de beschikbaarheid en compliance van een tool in jouw regio te checken voordat je erop inzet.
+## Praktische en ethische overwegingen
+Een ander belangrijk punt is de beschikbaarheid en privacy. Hoewel registratie eenvoudig is en de dienst momenteel volledig gratis is, kampte het platform volgens het artikel op het moment van schrijven met toegangsproblemen door een grootschalige cyberaanval. Meer zorgwekkend zijn de privacykwesties: mobiele apps van DeepSeek zijn in Italië verboden vanwege databeschermingsproblemen, en de Franse privacywaakhond heeft een onderzoek ingesteld. Dit zijn factoren om mee te nemen bij het overwegen van gebruik voor gevoelige of persoonlijke bedrijfsinformatie.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om DeepSeek eens te testen op gesloten, analytische taken waar geen actuele internetdata voor nodig is, zoals het herschrijven van interne documenten, het genereren van ideeën voor projecten of het analyseren van tekst die je zelf aanlevert. Vergelijk de uitkomsten dan met je huidige tool. Omdat de service gratis is, kun je dit zonder kosten doen. Houd wel rekening met de huidige beperkingen, zoals het gebrek aan internetzoekfunctie en de mogelijke instabiliteit van de login.
+Een mogelijkheid is om DeepSeek eens uit te proberen voor creatieve brainstorm-sessies of het verkennen van complexe onderwerpen waar geen actuele online data voor nodig zijn, zoals het bedenken van productconcepten of het structureren van een intern proces. Je zou kunnen overwegen het te gebruiken als een aanvullende, gratis tool naast een betaalde chatbot met internettoegang, specifiek voor die taken waar het sterk in is. Houd daarbij wel de privacy-overwegingen in gedachten.
+
+*De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
 Bron: [AI Art Blog](https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt)
