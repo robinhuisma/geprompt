@@ -1,9 +1,9 @@
 ---
 title: "Waarom een Nederlandse ondernemer een Europees alternatief voor ChatGPT bouwt"
-date: 2026-03-06T14:59:57.623Z
-tags: ["ai", "ondernemerschap", "privacy", "europa"]
+date: 2026-03-06T19:02:37.051Z
+tags: ["ai", "privacy", "ondernemerschap", "europese markt"]
 categorieen: ["slimmer-werken"]
-summary: "Mark Vletter werkt aan een 100% Europese AI-dienst die privacy en soevereiniteit voorop stelt, maar het vooral moet winnen door gebruiksgemak."
+summary: "Een Nederlandse ondernemer werkt aan een 100% Europese AI-chatbot, met focus op privacy en controle, maar de vraag is of gemak uiteindelijk wint van principes."
 cover:
   image: "/images/covers/2026-03-06-must-reads-week-10-comeback-kid-aldi-en-shell-opzij-rift-kom.webp"
   alt: "Must reads week 10: Comeback kid Aldi en Shell, opzij: Rift komt eraan"
@@ -12,19 +12,21 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/must-reads-week-10-comeback-kid-aldi-en-shell-opzij-rift-komt-eraan"
 ---
 
-Mark Vletter, de oprichter van Voys, werkt samen met andere ondernemers aan een nieuw AI-product. Het doel is niet om de technisch beste chatbot te maken, maar om een 100% Europees alternatief te bieden voor diensten zoals ChatGPT. Dit initiatief draait om drie principes: de data staan op Europese servers, het bedrijfsmodel is 'steward owned' (wat betekent dat het bedrijf niet verkocht kan worden), en privacy is een fundamenteel recht, geen optie.
+Een groep Europese ondernemers, waaronder de Nederlandse Voys-oprichter Mark Vletter, werkt aan de bouw van een 100% Europees alternatief voor diensten zoals ChatGPT. Het doel is een AI-chatbot die volledig draait op Europese servers, gebouwd is op Europese principes van privacy en gegevensbescherming, en een steward-ownership model hanteert, wat betekent dat het bedrijf niet zomaar verkocht kan worden. Dit initiatief probeert een antwoord te bieden op de dominantie van grote Amerikaanse techbedrijven in de AI-ruimte.
 
-## Het Europese antwoord op een Amerikaans gemak
-Het grote vraagstuk waar Vletter en zijn team mee worstelen, is het gemaksvoordeel van de gevestigde, vaak Amerikaanse, spelers. Gebruikers zijn gewend aan de interface, de snelheid en de integraties van tools zoals ChatGPT. Een principieel alternatief wint het zelden van puur gemak. Daarom is de kernstrategie van dit Europese project om het vooral te laten winnen door gebruiksgemak. Ze erkennen dat ze de strijd niet kunnen winnen op technische superioriteit alleen; de ervaring voor de eindgebruiker moet naadloos, intuïtief en zelfs aangenamer zijn.
+## Het speelveld: privacy en controle versus gebruiksgemak
 
-## De keuzes achter een 'soevereine' AI
-Het bouwen van een dergelijk platform brengt praktische en principiële keuzes met zich mee. Allereerst is er de keuze voor infrastructuur: servers moeten fysiek in Europa staan om aan Europese privacywetgeving te voldoen. Ten tweede is er het eigendomsmodel. Door te kiezen voor 'steward ownership' willen de oprichters voorkomen dat het bedrijf ooit wordt overgenomen door een partij met andere belangen, wat de principiële belofte aan gebruikers zou kunnen ondermijnen. Dit model plaatst de missie van het bedrijf voorop aandeelhouderswinst.
+Het centrale idee achter dit Europese alternatief is soevereiniteit: de controle over data en technologie terugbrengen naar Europa. Voor ondernemers die gevoelige bedrijfsinformatie verwerken, klantdata beschermen of werken binnen strikte regelgeving zoals de AVG, kan dit een belangrijk principe zijn. Een dienst die garandeert dat data nooit Europa verlaat en niet gebruikt wordt voor het trainen van algemene modellen elders, kan een oplossing zijn voor compliance-zorgen. Het steward-ownership model voegt daar de belofte aan toe van langetermijndenken, zonder de druk van externe aandeelhouders die om snelle winst vragen.
 
-## Het overwinnen van het gemaksvoordeel
-De grootste uitdaging is niet technisch, maar gedragsmatig. Hoe haal je mensen over om te switchen van een bekende, krachtige tool naar een nieuwe? Volgens het artikel in Sprout is het antwoord dat het nieuwe product simpelweg beter en makkelijker in gebruik moet zijn. Het moet de frictie wegnemen die gebruikers nu mogelijk ervaren bij andere tools. Dit vereist een scherpe focus op user experience en design, gebieden waar Europese tech soms achterloopt op Silicon Valley.
+De grote uitdaging die de initiatiefnemers zelf erkennen, is echter het gebruiksgemak. De stelling is dat gemak uiteindelijk vaak wint van principes. Consumenten en professionals kiezen massaal voor de meest toegankelijke en krachtigste tool, zelfs als dat betekent dat hun data elders wordt verwerkt. Het succes van dit Europese project hangt dus niet alleen af van de principes, maar vooral van het leveren van een AI-dienst die even intuïtief, snel en capabel is als de gevestigde alternatieven. Het is een race tegen de klok om de technologische kloof te dichten voordat de gewoontes van gebruikers definitief zijn gevormd.
+
+## De afweging voor Nederlandse ondernemers
+
+Voor een Nederlandse ondernemer of professional roept dit een praktische vraag op: waar baseer je je keuze voor een AI-tool op? Aan de ene kant staan de bekende, krachtige tools die direct resultaat leveren maar waarbij je afhankelijk bent van een buitenlands ecosysteem met eigen regels. Aan de andere kant staat het principe van data-soevereiniteit en ondersteuning van een lokaal, controleerbaar alternatief, dat mogelijk in de beginfase minder geavanceerd is of een ander prijsmodel kent. Het is een afweging tussen directe operationele efficiëntie en langetermijnvisie op digitale autonomie.
 
 ## Hoe kun je dit vandaag toepassen?
-Als ondernemer die waarde hecht aan data-privacy en Europese soevereiniteit, zou je kunnen overwegen om, zodra dit product beschikbaar komt, het te evalueren voor interne, niet-kritieke taken waar gevoelige informatie wordt besproken. Een andere mogelijkheid is om de ontwikkeling van dergelijke alternatieven te volgen, niet alleen als toekomstige gebruiker, maar ook om te begrijpen hoe principes en praktisch gebruiksgemak in nieuwe businessmodellen worden verweven. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
