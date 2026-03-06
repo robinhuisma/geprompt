@@ -1,9 +1,9 @@
 ---
 title: "Waarom je als marketeer moet weten hoe AI werkt, niet alleen wat het doet"
-date: 2026-03-06T19:03:11.058Z
-tags: ["ai-strategie", "marketing", "machine learning", "basiskennis"]
+date: 2026-03-06T23:02:23.485Z
+tags: ["ai", "marketing", "strategie", "machine learning"]
 categorieen: ["slimmer-werken"]
-summary: "Een basiskennis van de werking van AI helpt je betere strategische keuzes te maken en voorkomt dure fouten door blind vertrouwen in 'slimme' tools."
+summary: "AI is geen magie maar wiskunde. Begrijpen hoe het werkt voorkomt dure fouten en maakt je een strategische gebruiker in plaats van een passagier."
 cover:
   image: "/images/covers/2026-03-06-beyond-the-how-to-of-ai-why-marketers-must-understand-what-a.webp"
   alt: "Beyond the “How-To” of AI: Why Marketers Must Understand What AI Is"
@@ -12,19 +12,19 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17294636/machines-that-think"
 ---
 
-De marketingwereld is gefocust op het *gebruiken* van AI: tools voor creatives, automatisering en voorspellingen. Maar bijna niemand legt uit hoe de motor onder de motorkap werkt. Dat is een probleem, want zonder dat basisbegrip maak je strategische fouten en vertrouw je blind op systemen die je niet begrijpt. Het verschil tussen een passagier en een bestuurder van je AI-strategie zit 'm in het begrijpen van de fundamenten.
+AI is geen magische zwarte doos, maar een wiskundig proces dat patronen zoekt in data. Dat is de kernboodschap die marketeers volgens het bronartikel moeten begrijpen. De huidige focus ligt volledig op het 'hoe': welke tool te gebruiken, welk prompt te geven. Maar zonder een basiskennis van 'wat' er onder de motorkap gebeurt, loop je het risico je budget te verspillen aan verkeerde verwachtingen en strategische fouten. Het verschil tussen een passagier en een bestuurder van AI-strategie zit in dit begrip.
 
-## Het verschil tussen instructies volgen en leren
-Volgens de inzichten uit het boek *Machines That Think* van fysicus Inga Strümke, is er een cruciaal onderscheid tussen oude, symbolische AI en moderne machine learning. Symbolische AI volgt starre, door mensen geschreven regels. Moderne AI, of 'machines that learn', leert zelf regels af uit de data die je ze voert. Het is geen magisch bewustzijn, maar een wiskundig optimalisatieproces dat fouten probeert te minimaliseren. Voor een marketeer betekent dit: je implementeert geen digitale medewerker die je merkwaarden begrijpt, maar een complexe functie die patronen zoekt.
+## Het verschil tussen regels volgen en patronen leren
+Het artikel maakt een cruciaal onderscheid dat elke marketeer moet kennen: het verschil tussen Symbolische AI en Machine Learning. Symbolische AI werkt met starre, door mensen geschreven regels ("als dit, dan dat"). Moderne AI, of Machine Learning, is fundamenteel anders. Het is een systeem dat zelf regels afleidt uit de data die je het voert. Je geeft het geen instructies, je voedt het met voorbeelden. Het resultaat is geen digitaal medewerker dat je merkwaarden begrijpt, maar een wiskundige functie die is ontworpen om fouten te minimaliseren. Dit inzicht verandert hoe je een tool selecteert en wat je ervan kunt verwachten.
 
-## De illusie van triljoenen parameters
-Er wordt veel gesproken over de honderden miljarden of triljoenen parameters in grote taalmodelen (LLM's), alsof dat gelijkstaat aan intelligentie. Een belangrijk inzicht is echter de schaal van wat deze modellen *niet* weten. Ze zijn uitsluitend beperkt tot de wereld van hun trainingsdata. Ze kunnen subtiele patronen herkennen binnen die data, maar hebben geen begrip van context daarbuiten. Voor een marketeer is dit een waarschuwing: een tool getraind op algemene data begrijpt de specifieke nuance van jouw niche, klant of campagne niet, tenzij je die context expliciet toevoegt.
+## De illusie van de triljoen parameters
+Grote Taalmodellen (LLM's) worden vaak geprezen om hun enorme aantal parameters – honderden miljarden of zelfs biljoenen. Die worden ten onrechte gezien als een maat voor intelligentie. Het artikel benadrukt echter de schaal van wat deze modellen *niet* weten. Ze zijn uitsluitend beperkt tot de wereld van hun trainingsdata. Ze kunnen verbluffend subtiele patronen in die data vangen, maar ze hebben geen begrip van context buiten die dataset. Voor een marketeer betekent dit: een tool die getraind is op algemene webteksten, begrijpt niet automatisch de specifieke nuance van jouw branche, jargon of klantsegment, tenzij je die context expliciet toevoegt.
 
 ## Van passagier naar bestuurder van je AI-strategie
-Zonder technisch inzicht blijf je een passagier. Je kunt knopjes indrukken, maar je begrijpt niet waarom de tool een bepaalde output geeft, wanneer hij faalt, of welke data hij nodig heeft om beter te presteren. Dit leidt tot strategische blinde vlekken. Je zou bijvoorbeeld kunnen investeren in een geavanceerde voorspellende tool zonder te beseffen dat de kwaliteit van je eigen klantdata de beperkende factor is. Begrip van de basis stelt je in staat om de juiste vragen te stellen aan leveranciers, de beperkingen van tools in te calculeren en betere beslissingen te nemen over waar AI waarde toevoegt en waar niet.
+De conclusie is dat effectief gebruik van AI vraagt om een fundamentele verschuiving. In plaats van alleen te zoeken naar de volgende 'hoe'-handleiding, is het waardevol om tijd te investeren in het 'wat'. Dit stelt je in staat om kritische vragen te stellen: Op wat voor data is deze tool getraind? Welk specifiek probleem minimaliseert het algoritme? Waar liggen de grenzen van zijn kennis? Met dit begrip kun je tools strategischer inzetten, hun output beter beoordelen en kostbare misstappen voorkomen, zoals het blind vertrouwen op gegenereerde content die buiten de context van het model valt.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om te beginnen met het opdoen van basiskennis over hoe machine learning werkt, bijvoorbeeld via het boek dat in het bronartikel wordt genoemd. Een andere suggestie is om bij de evaluatie van een nieuwe AI-tool niet alleen te vragen *wat* hij doet, maar ook *hoe* hij tot zijn conclusies komt en op wat voor data hij is getraind. Dit helpt je om de kloof tussen de algemene capaciteiten van de tool en de specifieke context van jouw merk te identificeren.
+Een mogelijkheid is om bij de evaluatie van een nieuwe AI-tool voor marketing niet alleen te vragen 'wat het doet', maar ook te onderzoeken 'hoe het werkt'. Vraag naar het type model en de aard van de trainingsdata. Een andere suggestie is om, voordat je een tool voor een kritieke taak inzet, eerst een kleine, gecontroleerde test uit te voeren met materiaal dat specifiek is voor jouw context, om het 'context-gat' van het model in kaart te brengen.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
