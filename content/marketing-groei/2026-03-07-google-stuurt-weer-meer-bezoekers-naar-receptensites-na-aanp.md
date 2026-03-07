@@ -1,9 +1,9 @@
 ---
-title: "Google stuurt weer meer bezoekers naar receptensites na aanpassing AI-resultaten"
-date: 2026-03-07T19:01:57.496Z
+title: "Google stuurt weer meer bezoekers naar receptensites na aanpassing AI-zoekresultaten"
+date: 2026-03-07T23:01:17.308Z
 tags: ["google", "zoekmachines", "content", "food"]
 categorieen: ["marketing-groei"]
-summary: "Google heeft zijn AI-overzicht voor recepten aangepast, waardoor bezoekers weer vaker doorklikken naar de originele websites van foodbloggers."
+summary: "Google heeft zijn AI-samenvattingen bij receptenzoekopdrachten aangepast, waardoor foodblogs weer meer direct bezoek kunnen krijgen."
 cover:
   image: "/images/covers/2026-03-07-google-updates-ai-recipe-results-to-send-more-traffic-via-se.webp"
   alt: "Google Updates AI Recipe Results To Send More Traffic via @sejournal, @martinibuster"
@@ -12,19 +12,19 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results/568798/"
 ---
 
-Google heeft een belangrijke aanpassing gedaan aan de manier waarop het recepten toont in zoekresultaten. Waar de zoekmachine eerder met zijn AI-overzicht, 'AI Mode' genaamd, uitgebreide instructies en ingrediëntenlijsten direct op de resultatenpagina liet zien, stuurt het nu gebruikers weer vaker door naar de originele websites van receptenblogs. Deze update is bedoeld om meer verkeer naar de makers van die content te leiden.
+Google heeft een belangrijke aanpassing gedaan aan de manier waarop zijn AI-samenvattingen recepten tonen in de zoekresultaten. Waar eerder een volledig recept met ingrediënten en instructies direct in de zoekmachine getoond kon worden, stuurt de nieuwe weergave gebruikers nu vaker door naar de originele website van de foodblogger of receptensite. Dit is een direct gevolg van feedback uit de uitgeversgemeenschap, die aangaf dat de vorige AI-overzichten het directe verkeer naar hun sites ondermijnden.
 
-## Wat veranderde er in de zoekresultaten?
+## Wat is er precies veranderd?
 
-Toen Google zijn AI-overzicht voor recepten introduceerde, konden zoekers het volledige recept vaak direct op de Google-pagina bekijken, zonder te hoeven doorklikken. Voor foodbloggers en receptensites was dit een probleem, omdat het hun paginaweergaves en advertentie-inkomsten kon ondermijnen. De nieuwe aanpassing beperkt de hoeveelheid informatie die direct zichtbaar is. Gebruikers zien nu bijvoorbeeld alleen de eerste paar stappen van de bereidingswijze of een korte samenvatting, met een duidelijke knop om naar de volledige pagina op de originele site te gaan.
+De aanpassing zit in de zogenaamde 'AI Overview' of 'AI-samenvatting' die Google soms toont boven de organische zoekresultaten. Voorheen kon zo'n samenvatting bij een zoekopdracht als "pasta carbonara recept" het volledige recept bevatten, waardoor een gebruiker niet meer hoefde te klikken. Nu toont de AI-overzicht vaak alleen een korte beschrijving, de bereidingstijd en het aantal porties. Voor de daadwerkelijke ingrediëntenlijst en stapsgewijze instructies moet de gebruiker alsnog op een van de getoonde websites klikken. Google geeft volgens het bronartikel aan dat het doel is om een nuttig overzicht te bieden, terwijl het tegelijkertijd de bronnen van de informatie promoot en verkeer naar hen doorstuurt.
 
-## Wat betekent dit voor Nederlandse foodblogs en receptensites?
+## Waarom is dit relevant voor Nederlandse foodwebsites?
 
-Deze wijziging is goed nieuws voor eigenaren van Nederlandse foodwebsites. Het betekent dat de kans groter is dat zoekers daadwerkelijk op je site terechtkomen. Meer bezoekers betekent potentieel meer engagement, langere sessieduur en meer mogelijkheden voor advertentie-inkomsten of het promoten van eigen producten, zoals kookboeken of workshops. Het is een signaal dat Google, ondanks de inzet van AI, de waarde erkent van gespecialiseerde contentmakers en hun websites wil blijven ondersteunen.
+Voor eigenaren van Nederlandse receptenblogs, kookwebsites of foodmagazines betekent deze wijziging dat de waarde van hun content in de zoekmachine mogelijk weer toeneemt. Het gevaar dat een gebruiker alles al in Google vindt en wegblijft van je site, is nu kleiner. Het creëert weer een kans om dat bezoek te krijgen, de gebruiker te engagen met je volledige recept, foto's en verhaal, en hem of haar mogelijk te converteren naar een nieuwsbriefabonnee of terugkerende bezoeker. Het onderstreept dat Google, ondanks de opkomst van AI-answers, de balans zoekt tussen het direct beantwoorden van vragen en het ondersteunen van de websites die de internetcontent creëren.
 
 ## Hoe kun je dit vandaag toepassen?
 
-Een mogelijkheid is om de structuur van je receptpagina's te controleren. Zorg ervoor dat de belangrijkste informatie – de ingrediëntenlijst en de eerste cruciale stappen – duidelijk en snel vindbaar is boven de vouw, zodat deze goed wordt opgepikt en weergegeven in het beperktere AI-overzicht. Je zou kunnen overwegen om unieke, persoonlijke context toe te voegen die verder gaat dan het basisrecept, zoals de herkomst van een ingrediënt of variatietips. Deze toegevoegde waarde moedigt zoekers aan om door te klikken voor het volledige verhaal.
+Een mogelijke stap is om de structuur van je receptpagina's te controleren op duidelijkheid voor zoekmachines. Zorg dat basisinformatie zoals bereidingstijd en porties gemakkelijk vindbaar is in de code van je pagina, bijvoorbeeld via gestructureerde data. Je zou kunnen overwegen om de kwaliteit en uniciteit van je receptbeschrijvingen en persoonlijke tips te versterken, aangezien dit de elementen zijn die een AI-samenvatting niet volledig kan vervangen en die gebruikers naar je site lokken.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

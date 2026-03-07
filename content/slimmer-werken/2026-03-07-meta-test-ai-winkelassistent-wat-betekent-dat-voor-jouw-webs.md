@@ -1,9 +1,9 @@
 ---
 title: "Meta test AI-winkelassistent: wat betekent dat voor jouw webshop?"
-date: 2026-03-07T19:03:00.280Z
+date: 2026-03-07T23:02:11.411Z
 tags: ["meta", "e-commerce", "ai-assistent", "social commerce"]
 categorieen: ["slimmer-werken"]
-summary: "Meta test een AI die producten voorstelt in chats, wat de ontdekking van jouw producten via sociale apps kan vergemakkelijken."
+summary: "Meta test een AI-assistent die producten aanbeveelt in Facebook en Instagram, wat de zichtbaarheid van webshops kan vergroten."
 cover:
   image: "/images/covers/2026-03-07-meta-begint-met-test-van-ai-winkelassistent.webp"
   alt: "Meta begint met test van AI-winkelassistent"
@@ -12,16 +12,16 @@ source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/meta-begint-test-aiwinkelassistent"
 ---
 
-Meta test momenteel een nieuwe AI-functie die gebruikers helpt bij het zoeken naar producten. Wanneer iemand in de chat van Facebook, Instagram of WhatsApp een vraag stelt over winkelen, kan de AI-assistent automatisch een visuele carrousel tonen met productkaarten, afbeeldingen en details. Het is een experiment dat nu loopt bij een beperkte groep gebruikers in de Verenigde Staten. Voor Nederlandse webshops die actief zijn op deze platforms, kan dit op termijn een nieuwe manier worden waarop klanten hun producten ontdekken.
+Meta is begonnen met het testen van een AI-assistent die gebruikers helpt bij het vinden van producten binnen Facebook en Instagram. Dit is een experimentele functie die momenteel alleen voor sommige gebruikers in de Verenigde Staten beschikbaar is. De assistent maakt deel uit van Meta AI en reageert wanneer iemand een vraag stelt over winkelen of productonderzoek. Het resultaat is een visuele carrousel met productkaarten, compleet met afbeeldingen en details. Klikken op een product opent een zijpaneel met meer informatie. Het lijkt erop dat direct kopen of afrekenen via de assistent in deze testfase nog niet mogelijk is.
 
-## Hoe de AI-winkelassistent werkt
-De assistent maakt deel uit van Meta AI, de ingebouwde chatbot van het bedrijf. Stel, een gebruiker vraagt in een chat: "Ik zoek een comfortabele bureaustoel." De AI kan dan een reeks producten laten zien die aan die omschrijving voldoen. Gebruikers kunnen op een product klikken voor een zijpaneel met meer informatie, zoals een beschrijving en foto's. Volgens Meta gebruikt de AI gegevens over interesses en gedrag binnen zijn eigen diensten om deze suggesties te doen. In de huidige testfase lijkt het nog niet mogelijk om direct via de chat af te rekenen; het is vooral een tool voor productonderzoek.
+## Wat betekent dit voor jouw webshop?
+Deze ontwikkeling wijst op een toekomst waarin productontdekking steeds meer via een gesprek met een AI verloopt, in plaats van via traditionele zoekbalken of feed-scrollen. Voor webshops die actief zijn op Meta's platformen, kan dit een nieuwe manier worden om zichtbaarheid te krijgen. De assistent gebruikt gegevens over interesses en gedrag binnen Meta's diensten om suggesties te doen. Dit betekent dat een sterke aanwezigheid met goede productcatalogi, aantrekkelijke afbeeldingen en duidelijke beschrijvingen mogelijk nog belangrijker wordt. Het is een stap in de richting van een geïntegreerde shop-ervaring binnen de sociale apps zelf, waar Meta mee wil concurreren met vergelijkbare functies in chatbots van OpenAI en Google.
 
-## De strategie achter de test
-Deze stap past in een bredere trend waarbij grote techbedrijven AI integreren in het winkelproces. Meta wil concurreren met vergelijkbare functies in chatbots van OpenAI (ChatGPT) en Google (Gemini). Het doel is om gebruikers langer en actiever binnen de eigen apps te houden, door hen te helpen bij het vinden van producten zonder dat ze naar een externe zoekmachine of webshop hoeven te gaan. Voor adverteerders en webshopeigenaren betekent dit dat de zichtbaarheid van producten steeds meer kan verschuiven naar deze geïntegreerde, door AI gestuurde ontdekkingskanalen.
+## Hoe werkt de AI-winkelassistent?
+Wanneer een gebruiker in de chat met Meta AI een vraag stelt zoals "wat zijn goede hardloopschoenen voor asfalt?" of "zoek een zwarte leren bank", activeert dat de winkelassistent. De AI toont dan een carrousel met productkaarten die bij de vraag passen. Elke kaart bevat een afbeelding, een titel, een prijs en de naam van de verkoper of het merk. Het is een visuele en directe manier van productaanbevelingen krijgen, geïntegreerd in een normaal gesprek. De test laat zien dat Meta AI niet alleen voor algemene vragen kan worden gebruikt, maar ook specifiek wordt ingezet voor commerciële doeleinden.
 
-## Wat dit betekent voor ondernemers
-Op korte termijn verandert er voor de meeste Nederlandse ondernemers nog weinig, omdat de test beperkt is tot de VS. Het is wel een belangrijke indicator van de richting die Meta inslaat. Social commerce – verkopen via sociale media – wordt mogelijk nog slimmer en persoonlijker. De AI kan als een soort shopassistent fungeren die jouw producten matcht met de intentie van een gebruiker, zelfs als die geen specifiek merk noemt. Dit kan de drempel voor impulsaankopen verlagen en de kans vergroten dat jouw producten worden gevonden door mensen die op zoek zijn naar wat jij verkoopt.
+## Is dit hetzelfde als Instagram Shopping?
+Nee, dit is een aanvulling op bestaande functies zoals Instagram Shopping of Facebook Shops. Die zijn vaak gebaseerd op advertenties of een shop-tab in een profiel. De AI-assistent werkt op aanvraag en is conversationeel. Het initiatief ligt bij de gebruiker die een vraag stelt, waarna de AI actief producten gaat zoeken en tonen. Het is een meer proactieve en persoonlijke vorm van productontdekking. Meta's strategie is om met behulp van AI gebruikers te helpen producten te vinden die aansluiten bij hun gesprekken en interesses, waardoor de lijn tussen sociaal browsen en winkelen verder vervaagt.
 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
