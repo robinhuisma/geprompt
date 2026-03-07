@@ -1,9 +1,9 @@
 ---
 title: "Google stuurt weer meer bezoekers naar receptensites na aanpassing AI-resultaten"
-date: 2026-03-07T15:03:17.610Z
-tags: ["google", "zoekmachines", "content", "foodblogs"]
+date: 2026-03-07T19:01:57.496Z
+tags: ["google", "zoekmachines", "content", "food"]
 categorieen: ["marketing-groei"]
-summary: "Google heeft zijn AI-samenvattingen bij receptenzoekopdrachten aangepast, waardoor foodblogs en receptensites weer meer direct bezoekers krijgen."
+summary: "Google heeft zijn AI-overzicht voor recepten aangepast, waardoor bezoekers weer vaker doorklikken naar de originele websites van foodbloggers."
 cover:
   image: "/images/covers/2026-03-07-google-updates-ai-recipe-results-to-send-more-traffic-via-se.webp"
   alt: "Google Updates AI Recipe Results To Send More Traffic via @sejournal, @martinibuster"
@@ -12,19 +12,19 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results/568798/"
 ---
 
-Google heeft een belangrijke aanpassing gedaan aan de manier waarop zijn AI-tool, Search Generative Experience (SGE), omgaat met recepten. Waar de AI voorheen uitgebreide samenvattingen van recepten toonde die gebruikers mogelijk op de zoekresultatenpagina zelf hielden, stuurt het systeem nu actiever door naar de originele websites. Dit is een direct gevolg van feedback uit de uitgeverswereld, die aangaf dat de vorige aanpak te veel verkeer weghield bij de makers van de content.
+Google heeft een belangrijke aanpassing gedaan aan de manier waarop het recepten toont in zoekresultaten. Waar de zoekmachine eerder met zijn AI-overzicht, 'AI Mode' genaamd, uitgebreide instructies en ingrediëntenlijsten direct op de resultatenpagina liet zien, stuurt het nu gebruikers weer vaker door naar de originele websites van receptenblogs. Deze update is bedoeld om meer verkeer naar de makers van die content te leiden.
 
-Voor Nederlandse foodbloggers, kookwebsites en uitgevers van recepten is dit een relevante ontwikkeling. Het betekent dat de investering in kwalitatieve, goed gestructureerde receptencontent weer meer direct kan worden beloond met bezoekers vanuit Google Search. De aanpassing richt zich specifiek op de zogenaamde 'AI-overzichten' of 'AI-samenvattingen' die getoond werden bij zoekopdrachten zoals "pasta carbonia recept". In plaats van alle stappen en ingrediënten prominent in de zoekresultaten te tonen, geeft de AI nu een kortere preview en moedigt deze de gebruiker aan om op de link naar de website te klikken voor het volledige recept.
+## Wat veranderde er in de zoekresultaten?
 
-## Wat betekent dit voor jouw contentstrategie?
+Toen Google zijn AI-overzicht voor recepten introduceerde, konden zoekers het volledige recept vaak direct op de Google-pagina bekijken, zonder te hoeven doorklikken. Voor foodbloggers en receptensites was dit een probleem, omdat het hun paginaweergaves en advertentie-inkomsten kon ondermijnen. De nieuwe aanpassing beperkt de hoeveelheid informatie die direct zichtbaar is. Gebruikers zien nu bijvoorbeeld alleen de eerste paar stappen van de bereidingswijze of een korte samenvatting, met een duidelijke knop om naar de volledige pagina op de originele site te gaan.
 
-De kern van deze update is dat Google erkent dat voor bepaalde soorten informatie – zoals een gedetailleerd recept – de waarde vaak ligt op de originele website. De AI fungeert meer als een verfijnde gids die de gebruiker naar de beste bronnen leidt, in plaats van als een eindbestemming. Dit onderstreept het blijvende belang van het creëren van onmisbare, diepgaande content die meer biedt dan alleen een basisrecept. Denk aan unieke variaties, stap-voor-stap video's, diepgaande achtergrondinformatie over ingrediënten of persoonlijke verhalen die de lezer ervaring bieden.
+## Wat betekent dit voor Nederlandse foodblogs en receptensites?
 
-Een praktische implicatie is dat het optimaliseren van je content voor deze AI-gestuurde zoekomgeving nog steeds cruciaal is, maar nu met een ander doel. Het doel verschuift van het 'verslaan' van de AI-samenvatting naar het zo aantrekkelijk mogelijk presenteren van je content, zodat de AI jouw pagina kiest als de beste bron om naar door te linken. Dit betekent dat technische SEO-fundamenten zoals een duidelijke, gestructureerde opmaak met schema markup (bijvoorbeeld `Recipe` schema) essentieel blijven. De AI gebruikt deze structuur om je content te begrijpen en correct te presenteren.
+Deze wijziging is goed nieuws voor eigenaren van Nederlandse foodwebsites. Het betekent dat de kans groter is dat zoekers daadwerkelijk op je site terechtkomen. Meer bezoekers betekent potentieel meer engagement, langere sessieduur en meer mogelijkheden voor advertentie-inkomsten of het promoten van eigen producten, zoals kookboeken of workshops. Het is een signaal dat Google, ondanks de inzet van AI, de waarde erkent van gespecialiseerde contentmakers en hun websites wil blijven ondersteunen.
 
 ## Hoe kun je dit vandaag toepassen?
 
-Een mogelijke stap is om de receptenpagina's op je website opnieuw te bekijken. Zorg ervoor dat de kerninformatie – ingrediënten en basisbereidingswijze – perfect gestructureerd en gemarkeerd is met schema.org `Recipe` markup. Dit helpt Google's AI om je content te begrijpen en correct te categoriseren. Daarnaast kun je overwegen om de toegevoegde waarde op je pagina te versterken, bijvoorbeeld door unieke foto's, persoonlijke tips of variatietips toe te voegen die een bezoeker niet snel in een korte AI-samenvatting zou vinden.
+Een mogelijkheid is om de structuur van je receptpagina's te controleren. Zorg ervoor dat de belangrijkste informatie – de ingrediëntenlijst en de eerste cruciale stappen – duidelijk en snel vindbaar is boven de vouw, zodat deze goed wordt opgepikt en weergegeven in het beperktere AI-overzicht. Je zou kunnen overwegen om unieke, persoonlijke context toe te voegen die verder gaat dan het basisrecept, zoals de herkomst van een ingrediënt of variatietips. Deze toegevoegde waarde moedigt zoekers aan om door te klikken voor het volledige verhaal.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

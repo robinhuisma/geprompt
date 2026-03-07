@@ -1,9 +1,9 @@
 ---
-title: "Grammarly gebruikt namen van experts zonder toestemming, ook die van jouw team"
-date: 2026-03-07T06:59:39.513Z
-tags: ["ai-ethiek", "privacy", "contentcreatie", "tools"]
+title: "Grammarly gebruikt namen van experts zonder toestemming, ook van journalisten"
+date: 2026-03-07T18:59:34.871Z
+tags: ["ai-ethiek", "contentcreatie", "tools", "privacy"]
 categorieen: ["nieuws-tools"]
-summary: "AI-tools kunnen de identiteit en expertise van jou of je medewerkers gebruiken zonder toestemming, wat vragen oproept over controle en toestemming."
+summary: "Grammarly's AI-tool 'Expert Review' gebruikt de identiteit van echte experts, zoals hoofdredacteuren, zonder hun toestemming voor schrijfadvies."
 cover:
   image: "/images/covers/2026-03-07-grammarly-is-using-our-identities-without-permission.webp"
   alt: "Grammarly is using our identities without permission"
@@ -12,19 +12,23 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
 ---
 
-Grammarly, een populaire schrijfhulp, gebruikt de namen en vermeende expertise van echte personen in zijn AI-functies zonder dat die personen daarvoor toestemming hebben gegeven. Journalisten van *The Verge* ontdekten dat de namen van hun eigen hoofdredacteur en andere senior redacteuren werden gebruikt in Grammarly's "expert review"-functie, die gebruikers advies geeft "geïnspireerd door" deskundigen. Geen van hen had toestemming gegeven om op deze manier te worden genoemd. Dit voorval zet een spotlight op een bredere vraag voor ondernemers: hoe bescherm je de intellectuele identiteit van jezelf en je team tegen ongeautoriseerd gebruik door AI-diensten?
+Grammarly, een populaire schrijfhulp, gebruikt de namen en vermeende expertise van echte personen in zijn AI-functie zonder dat die personen daarvoor toestemming hebben gegeven. De tool 'Expert Review', die in augustus werd gelanceerd, biedt gebruikers schrijfadvies dat 'geïnspireerd is door' experts op een bepaald gebied. Uit onderzoek van *The Verge* blijkt dat onder die experts ook hun eigen hoofdredacteur en andere senior redacteuren staan, die nooit toestemming hebben gegeven om in deze functie te worden opgenomen. Dit roept praktische en ethische vragen op voor ondernemers die op AI-tools vertrouwen.
 
-## Wat betekent dit voor jouw merk en expertise?
-Voor bedrijven die hun kennis en reputatie hebben opgebouwd, is dit een belangrijk signaal. De kern van het issue is *toestemming*. Wanneer een AI-tool suggereert dat feedback "geïnspireerd is door" een specifiek persoon, impliceert dat een vorm van endorsment of goedkeuring die er niet is. Voor een ondernemer of expert kan dit betekenen dat je naam en autoriteit worden ingezet om een product te verkopen waar je geen band mee hebt. Het risico is niet alleen ethisch, maar ook praktisch: wat als de AI-adviezen die onder jouw naam worden gegeven, niet overeenkomen met jouw werkelijke standpunten of kwaliteitsnormen?
+## Wat doet de 'Expert Review' functie precies?
 
-## Hoe gaan AI-bedrijven om met toestemming?
-Volgens het artikel in *The Verge* lijkt Grammarly de namen te hebben verzameld uit publiek beschikbare bronnen, zoals artikelen en profielen, zonder expliciete toestemming te vragen. Grammarly gaf in een reactie aan dat de functie bedoeld is om "de stijlen van verschillende soorten experts" te emuleren en dat het bedrijf "de feedback van de community waardeert" over hoe het deze functie presenteert. Dit benadrukt een gangbare, maar problematische praktijk in de AI-industrie: het gebruik van publieke data als een vrijbrief voor het commercialiseren van iemands identiteit. Het is een grijs gebied waar nog weinig duidelijke regels voor zijn.
+De functie presenteert zich als een manier om feedback te krijgen van een expert. Een gebruiker die bijvoorbeeld een technisch artikel schrijft, kan kiezen voor feedback 'in de stijl van' een bekende tech-journalist. De AI genereert dan commentaar en suggesties die zogenaamd door die persoon zijn geïnspireerd. Het probleem is dat de echte personen wiens namen worden gebruikt – in dit geval journalisten van *The Verge* – hier niet mee hebben ingestemd. Hun identiteit wordt gebruikt om de geloofwaardigheid van de AI-uitvoer te vergroten, zonder dat zij er controle over hebben of er iets aan verdienen.
 
-## De grotere context van AI en persoonlijke data
-Dit incident met Grammarly is geen op zichzelf staand geval. Het past in een patroon waarbij AI-systemen worden getraind op, of refereren aan, data die is gecreëerd door individuen – van schrijvers en kunstenaars tot experts en journalisten. De vraag wie er eigenaar is van een bepaalde stijl, expertise of publieke reputatie, en onder welke voorwaarden die mag worden nagebootst door een machine, is nog grotendeels onbeantwoord. Voor ondernemers die zelf content creëren of een team van experts in dienst hebben, is het een reden om bewust te zijn van hoe hun publieke output mogelijk wordt gebruikt.
+## Waarom is dit een probleem voor ondernemers?
+
+Voor ondernemers die content creëren, gaat dit verder dan een privacy-kwestie. Het raakt aan betrouwbaarheid en reputatie. Stel, je gebruikt een tool die advies geeft 'als' een gerenommeerd marketingbureau, terwijl dat bureau daar niet achter staat. De kwaliteit van het advies is niet door hen gecontroleerd, maar hun naam wordt wel geassocieerd met de output. Als dat advies slecht of misleidend is, kan dat indirect afstralen op de expert wiens naam wordt gebruikt. Jij als gebruiker bouwt vervolgens beslissingen op op basis van autoriteit die niet authentiek is geverifieerd.
+
+## Het grotere plaatje van AI en toestemming
+
+Dit incident bij Grammarly is geen alleenstaand geval, maar een symptoom van een bredere trend in AI-ontwikkeling: het gebruik van bestaande namen, stemmen en expertise zonder expliciete licentie of toestemming. Het laat zien hoe persoonlijke of professionele identiteit kan worden ingezet als een marketingfeature voor een AI-dienst. Voor professionals betekent dit dat hun publieke reputatie en expertise potentieel kunnen worden gekaapt en gecommercialiseerd door derden, zonder dat zij daar zeggenschap over hebben.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke stap is om na te gaan of jouw naam of die van sleutelpersonen in je bedrijf wordt gebruikt door AI-diensten waar je geen relatie mee hebt. Je zou kunnen beginnen met het uitproberen van dergelijke "expert" functies in tools die je gebruikt om te zien of je eigen expertisegebied onverwacht wordt gerepresenteerd. Daarnaast is het een optie om, als je een licentieovereenkomst aangaat met een AI-tool, te controleren op clausules over het gebruik van je data of identiteit voor het trainen of presenteren van hun modellen.
+
+Als je AI-tools gebruikt die refereren aan specifieke experts of bronnen, is een mogelijkheid om na te gaan of die referenties legitiem zijn. Je zou kunnen controleren of de tool duidelijk maakt hoe de 'expertise' is samengesteld en of er toestemming is verleend. Daarnaast is het verstandig om de output van dergelijke tools altijd met een kritische blik te beoordelen, ongeacht de geclaimde autoriteit erachter. De praktische toepassing hangt verder af van jouw situatie. Via [geprompt.nl/stel-je-vraag](https://geprompt.nl/stel-je-vraag) kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
