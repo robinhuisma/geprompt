@@ -1,9 +1,9 @@
 ---
 title: "Meta test AI-winkelassistent: wat betekent dat voor jouw webshop?"
-date: 2026-03-08T03:03:28.886Z
-tags: ["meta", "e-commerce", "ai-assistent", "social commerce"]
+date: 2026-03-08T07:37:29.918Z
+tags: ["meta", "ai", "e-commerce", "social commerce"]
 categorieen: ["slimmer-werken"]
-summary: "Meta test een AI-assistent die producten vindt in Facebook en Instagram, wat de zichtbaarheid van jouw webshop in sociale apps kan veranderen."
+summary: "Meta test een AI-assistent die producten aanbeveelt in WhatsApp en Instagram, wat de zichtbaarheid van webshops in sociale apps kan vergroten."
 cover:
   image: "/images/covers/2026-03-08-meta-begint-met-test-van-ai-winkelassistent.webp"
   alt: "Meta begint met test van AI-winkelassistent"
@@ -12,23 +12,19 @@ source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/meta-begint-test-aiwinkelassistent"
 ---
 
-Meta test momenteel een nieuwe AI-functie in de Verenigde Staten die gebruikers helpt bij het zoeken naar producten. Wanneer iemand in de Meta AI-assistent (beschikbaar in apps als Facebook, Instagram en WhatsApp) een vraag stelt over winkelen, toont de assistent automatisch een visuele carrousel met productkaarten. Deze kaarten bevatten afbeeldingen en details. Klikt een gebruiker erop, dan verschijnt er een zijpaneel met meer informatie zoals beschrijvingen en foto's. Volgens Meta is het in deze testfase nog niet mogelijk om direct via de assistent te kopen of af te rekenen.
+Meta test momenteel een AI-assistent die automatisch producten aanbeveelt wanneer gebruikers in WhatsApp, Instagram of Facebook vragen stellen over winkelen. Het gaat om een experiment voor een beperkte groep gebruikers in de Verenigde Staten. De assistent, ingebouwd in Meta AI, toont een visuele carrousel met productkaarten. Klikken op een kaart opent een zijpaneel met meer details. Dit is een directe stap om het ontdekken en onderzoeken van producten binnen de eigen apps te vergemakkelijken, met als doel te concurreren met vergelijkbare functies in chatbots van OpenAI en Google.
 
-## Wat betekent dit voor jouw webshop?
+## Hoe de AI-winkelassistent werkt
+Wanneer een gebruiker een vraag stelt die te maken heeft met winkelen, zoals "wat is een goed cadeau voor een tiener?" of "toon me duurzame hardloopschoenen", activeert dat de AI-winkelassistent. Deze zoekt dan in de achtergrond naar relevante producten en presenteert die in een scrollbare rij met afbeeldingen, prijzen en korte beschrijvingen. Het is volgens de eerste berichten nog niet mogelijk om direct via dit paneel af te rekenen. De gebruiker wordt dus waarschijnlijk doorgestuurd naar de website van de betreffende winkel. De aanbevelingen zijn gebaseerd op gegevens over interesses en gedrag binnen de ecosystemen van Meta.
 
-Deze ontwikkeling is een directe stap in de richting van social commerce, waarbij het ontdekken en kopen van producten steeds meer binnen sociale apps zelf plaatsvindt. De AI-assistent fungeert als een nieuwe, intelligente zoeklaag bovenop de bestaande shops en advertenties op het platform. Het betekent dat de zichtbaarheid van jouw producten niet alleen meer afhangt van geplaatste advertenties of organische posts, maar ook van hoe goed ze matcht met de vragen die gebruikers aan een AI stellen. Meta geeft aan dat de assistent gebruikmaakt van gegevens over interesses en gedrag binnen zijn eigen diensten om producten te vinden.
+## De impact op zichtbaarheid en verkoop
+Voor webshops betekent deze ontwikkeling dat producten die zij aanbieden, mogelijk vaker en contextueler worden getoond aan potentiële kopers, precies op het moment dat die kopers actief op zoek zijn. Het verplaatst een deel van het productonderzoek van zoekmachines of specifieke retailplatforms naar sociale en messaging-apps. De zichtbaarheid hangt af van hoe goed een product of webshop is geïntegreerd in het systeem van Meta. Het is een nieuwe laag in de zogenaamde 'social commerce', waar het gesprek en de ontdekking direct in de app plaatsvinden.
 
-## Hoe werkt de assistent in de praktijk?
-
-Stel, een gebruiker vraagt in de chat: "Wat zijn goede hardloopschoenen voor asfalt?" De AI-assistent kan dan een carrousel tonen met verschillende modellen hardloopschoenen, compleet met afbeeldingen, prijzen en een link naar meer informatie. De producten die getoond worden, komen waarschijnlijk uit de catalogi van bedrijven die hun producten al via Meta's tools zoals de Facebook Shop hebben aangeboden. Het is een manier voor Meta om de enorme hoeveelheid productinformatie op zijn platform beter doorzoekbaar en actiever te maken voor de eindgebruiker, en zo te concurreren met vergelijkbare shopping-functies in AI's van andere grote techbedrijven.
-
-## Is dit een bedreiging of een kans?
-
-Voor webshopeigenaren die hun productcatalogus al gekoppeld hebben aan Meta's platform, kan dit een kans zijn op extra, gratis exposure. Je producten worden mogelijk gevonden door mensen die een specifieke, gesproken vraag stellen, in plaats van alleen door te scrollen. Het is wel belangrijk om te beseffen dat de controle over hoe en wanneer je product getoond wordt, verschuift van een puur advertentie- of content-logica naar een AI-gestuurde match. De kwaliteit van je productdata – denk aan heldere titels, goede afbeeldingen en accurate beschrijvingen – wordt hierdoor alleen maar belangrijker, omdat een AI-assistent daarop moet kunnen 'oordelen'.
+## Een verschuiving in de concurrentie
+Meta positioneert deze functie expliciet als concurrentie voor de winkelgerichte AI-tools van anderen, zoals ChatGPT en Google Gemini. Het unieke voordeel van Meta is de enorme hoeveelheid gedrags- en interessegegevens die het heeft via zijn sociale platforms. De test laat zien dat het bedrijf deze data actief wil inzetten om de gebruikerservaring te verbeteren en tegelijkertijd de commerciële waarde van zijn netwerken te vergroten. Voor adverteerders en webshops kan dit op termijn een nieuw, krachtig kanaal worden om doelgroepen te bereiken.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een mogelijke stap is om te controleren of je productcatalogus actief en volledig is ingericht in tools zoals de Meta Commerce Manager. Zorg ervoor dat je productafbeeldingen van hoge kwaliteit zijn en dat beschrijvingen duidelijk de belangrijkste kenmerken en gebruiksscenario's benoemen, aangezien dit de taal is waarop een AI-assistent gaat matchen. Je zou kunnen overwegen om te monitoren of er in de VS, waar de test loopt, al veranderingen zijn in het verkeer vanuit Meta's apps naar je shop.
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
