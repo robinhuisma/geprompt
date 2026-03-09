@@ -1,9 +1,9 @@
 ---
 title: "Waarom marketeers moeten weten hoe AI werkt, niet alleen hoe je het gebruikt"
-date: 2026-03-09T03:07:11.429Z
+date: 2026-03-09T11:09:56.758Z
 tags: ["ai-strategie", "marketing", "machine learning", "basiskennis"]
 categorieen: ["slimmer-werken"]
-summary: "AI is geen magie maar een wiskundige functie; basiskennis voorkomt strategische fouten en helpt je de juiste toepassing te kiezen."
+summary: "AI is geen magie maar een wiskundige functie. Basisbegrip voorkomt strategische fouten en helpt je de juiste vragen te stellen."
 cover:
   image: "/images/covers/2026-03-09-beyond-the-how-to-of-ai-why-marketers-must-understand-what-a.webp"
   alt: "Beyond the “How-To” of AI: Why Marketers Must Understand What AI Is"
@@ -12,19 +12,19 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17294636/machines-that-think"
 ---
 
-AI is geen magie. Het is een wiskundige functie die ontworpen is om fouten te minimaliseren. Dat is de kern van het boek "Machines That Think" van fysicus Inga Strümke, en het is de belangrijkste les voor marketeers die AI willen inzetten. De marketingwereld is gefocust op de laatste stap: tools gebruiken, content genereren en taken automatiseren. Maar bijna niemand legt uit hoe de motor onder de motorkap werkt. En zonder dat begrip blijf je een passagier in plaats van de bestuurder van je eigen AI-strategie. Je kunt dan dure fouten maken, omdat je niet begrijpt waar de grenzen van de technologie liggen.
+AI is geen digitale medewerker die je kunt inhuren. Het is een wiskundige functie die is ontworpen om fouten te minimaliseren. Dat is de kern van het boek "Machines That Think" van fysicus Inga Strümke, en het is een essentieel inzicht voor elke marketeer die AI serieus wil inzetten. De marketingwereld is gefocust op de laatste stap: tools gebruiken, prompts schrijven en taken automatiseren. Maar bijna niemand legt uit hoe de motor onder de motorkap werkt. Zonder dat basisbegrip blijf je een passagier in je eigen AI-strategie en loop je het risico op dure, strategische fouten.
 
-## Het verschil tussen regels volgen en patronen leren
-Strümke legt een fundamenteel onderscheid bloot. Vroeger was er Symbolische AI: systemen die rigide, door mensen geschreven regels volgden. Denk aan een simpele chatbot met een beslisboom. De moderne AI, zoals machine learning, werkt anders. Deze systemen leren zelf regels af te leiden uit de data die ze gevoed krijgen. Voor een marketeer betekent dit een cruciale verschuiving. Je implementeert geen digitale medewerker die je merkwaarden begrijpt. Je implementeert een proces dat patronen zoekt in historische data om een specifieke uitkomst te voorspellen. Als je dat beseft, kijk je anders naar de beloftes van een tool.
+## Het verschil tussen instructies volgen en regels afleiden
+Strümke legt een fundamenteel onderscheid bloot tussen twee soorten AI. De oude, symbolische AI, volgt rigide, door mensen geschreven regels. De moderne AI, machine learning, leert zelf regels af uit de data die je het voert. Voor een marketeer betekent dit een cruciale verschuiving. Je implementeert geen systeem dat jouw instructies opvolgt, maar een systeem dat zijn eigen conclusies trekt op basis van de informatie die het krijgt. Dit verklaart waarom een AI-tool soms onverwachte of ongewenste uitkomsten kan produceren; het optimaliseert voor een patroon in de data, niet voor jouw bedrijfsdoelstelling.
 
 ## De illusie van de triljoen parameters
-Een veelgehoord verkoopargument voor grote taalmodellen (LLM's) is het aantal parameters, vaak in de honderden miljarden. Dat klinkt als een maat voor intelligentie. Strümke's werk relativeert dat sterk. Het benadrukt de enorme schaal van wat deze modellen *niet* weten. Ze zijn uitsluitend beperkt tot de wereld van hun trainingsdata. Voor een marketeer vertaalt dit zich direct naar de praktijk: een model dat getraind is op algemene internetteksten, kent de specifieke nuance, toon of jargon van jouw niche-markt niet. Het kan die niet 'begrijpen' zoals een mens dat doet. Het genereert tekst op basis van statistische waarschijnlijkheid, niet op basis van begrip.
+Er wordt veel gesproken over de honderden miljarden parameters in grote taalmodellen alsof dat een maatstaf voor intelligentie is. Een van de meest nuchtere inzichten uit Strümke's werk is de enorme schaal van wat deze modellen *niet* weten. Ze zijn beperkt tot de wereld van hun trainingsdata. Voor een marketeer is dit een belangrijk besef: je AI-tool kent jouw specifieke merk, klant of marktcontext niet, tenzij je die expliciet in de data of prompt verwerkt. Het model kan verbanden leggen, maar het begrijpt de context niet op een menselijke manier.
 
-## Waarom deze kennis je strategie verandert
-Als je weet dat AI een patroonherkenningsmachine is met beperkte context, ga je anders plannen. Je stelt realistischere verwachtingen. Je begrijpt waarom een tool voor het genereren van sociale media-berichten soms inhoudelijk de plank misslaat – het heeft geen concept van je merkbelofte. Je ziet in waarom het trainen van een model op je eigen klantdata (zoals e-mails of chatgeschiedenissen) vaak betere resultaten geeft dan een generiek model. Het helpt je ook om kritische vragen te stellen aan leveranciers. In plaats van te vragen "Kan dit AI?", vraag je "Op welke data is dit getraind?" en "Hoe minimaliseert het model de foutmarge voor mijn specifieke use-case?".
+## Van passagier naar bestuurder van je AI-strategie
+Het doel van dit basisbegrip is niet om zelf programmeur te worden. Het doel is om de juiste vragen te kunnen stellen en realistische verwachtingen te stellen. Wanneer je begrijpt dat AI een patroonherkenner is, kun je kritischer kijken naar de data die je erin stopt. Je kunt je afvragen of de trainingsdata van een tool representatief is voor jouw doelgroep. Je snapt waarom prompt engineering zo belangrijk is: je geeft het model context die het uit zichzelf mist. Dit inzicht stelt je in staat om AI niet als een zwarte doos te gebruiken, maar als een strategisch instrument waar je regie over voert.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om bij je volgende evaluatie van een AI-tool voor marketing niet te beginnen bij de features, maar bij de onderliggende werking. Vraag expliciet naar het type model en de aard van de trainingsdata. Een andere suggestie is om, voordat je een tool voor contentcreatie inzet, eerst een kleine, gecontroleerde test te doen met zeer specifieke instructies om het 'context-gat' in de praktijk te ervaren. De praktische toepassing hangt verder af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Een mogelijkheid is om bij de volgende evaluatie van een AI-tool voor marketing niet alleen te vragen wat het doet, maar ook *hoe* het tot zijn antwoorden komt. Vraag naar de aard van de trainingsdata en de beperkingen van het model. Een andere stap is om je team een basisuitleg te geven over het verschil tussen regelgebaseerde systemen en machine learning, zodat iedereen begrijpt waarom de kwaliteit van de inputdata zo cruciaal is. Dit helpt om AI effectiever en veiliger in te zetten.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
