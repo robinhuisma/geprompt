@@ -1,9 +1,9 @@
 ---
-title: "AI vervangt (nog) geen banen, maar verandert wel wie je aanneemt"
-date: 2026-03-09T03:01:42.252Z
-tags: ["personeelsbeleid", "ai-strategie", "arbeidsmarkt", "investering"]
+title: "AI vervangt nog geen banen, maar verandert wel wie je aanneemt"
+date: 2026-03-09T07:02:11.075Z
+tags: ["personeelsbeleid", "arbeidsmarkt", "strategie", "ai-impact"]
 categorieen: ["nieuws-tools"]
-summary: "Een intern onderzoek van AI-maker Anthropic toont aan dat AI banen nog niet vervangt, maar wel invloed heeft op de instroom van jongere werknemers."
+summary: "Een intern onderzoek van AI-bouwer Anthropic laat zien dat AI banen nog niet vervangt, maar wel invloed heeft op het aannemen van jongere werknemers."
 cover:
   image: "/images/covers/2026-03-09-anthropic-report-says-it-s-too-early-for-ai-to-affect-jobs.webp"
   alt: "Anthropic Report Says It’s Too Early for AI to Affect Jobs"
@@ -12,13 +12,13 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs"
 ---
 
-Een intern onderzoek van AI-bedrijf Anthropic, dat zelf de chatbot Claude maakt, wijst uit dat het nog te vroeg is om te spreken van banenverlies door AI. De onderzoekers, die keken naar de effecten van hun eigen technologie, constateren dat werknemers in functies die het meest blootstaan aan automatisering door AI vooralsnog minimale effecten zien op hun baan. Het opvallendste signaal dat ze wel vonden, is een verschuiving in het aannamebeleid: bedrijven huren minder jongere werknemers in voor functies waar AI een grote rol kan spelen.
+Volgens een intern onderzoek van AI-bedrijf Anthropic is het nog te vroeg om te spreken van grootschalige banenvervanging door kunstmatige intelligentie. Het bedrijf, dat zelf de AI-modellen Claude ontwikkelt, analyseerde de impact op functies die het meest blootstaan aan automatisering. De conclusie is dat werknemers in die functies vooralsnog minimale effecten ondervinden. De belangrijkste bevinding voor ondernemers ligt echter op een ander vlak: het onderzoek suggereert dat bedrijven minder jongere werknemers aannemen voor functies waar AI een grote rol kan spelen.
 
-## Wat betekent dit voor jouw personeelsplanning?
-De bevindingen, die afkomstig zijn uit een intern rapport van het bedrijf zelf en dus met de nodige voorzichtigheid moeten worden bekeken, suggereren een subtielere impact dan vaak wordt gevreesd. In plaats van dat ervaren medewerkers worden vervangen, lijkt de eerste invloed van AI zich te manifesteren bij de instroom. Als bedrijven verwachten dat bepaalde taken geautomatiseerd kunnen worden, investeren ze mogelijk minder in het aanleren van die vaardigheden bij nieuwe, jonge werknemers. Voor jou als ondernemer kan dit betekenen dat de balans in je team verschuift. De focus zou kunnen komen te liggen op het bij- en omscholen van je bestaande team om met AI te werken, in plaats van het continu aannemen van nieuw talent voor routinematige taken.
+## Wat betekent dit voor je personeelsplanning?
+Het beeld dat uit dit onderzoek naar voren komt, is niet zozeer dat bestaande rollen verdwijnen, maar dat de instroom verandert. Als bepaalde taken geautomatiseerd kunnen worden, vermindert de behoefte aan instroom op juniorniveau voor die specifieke werkzaamheden. Dit heeft gevolgen voor je strategie voor talentontwikkeling en carrièrepaden binnen je organisatie. Het betekent dat je mogelijk anders moet nadenken over hoe je junior talent binnenhaalt en opleidt, als een deel van de traditionele leercurve wordt overgenomen door AI-tools.
 
-## Hoe beïnvloedt dit je investeringen in AI?
-Het rapport van Anthropic biedt een nuance in het debat over AI en werk. Het idee dat AI op korte termijn massaal banen zal vernietigen, wordt hier niet ondersteund door hun eigen data. Dit kan een relevant gegeven zijn voor je investeringsplanning. Het suggereert dat investeren in AI-tools waarschijnlijk eerst gericht is op het versterken en ondersteunen van je huidige personeel, niet op het reduceren van je team. Een mogelijke strategie is daarom om te investeren in tools die de productiviteit van je bestaande team verhogen, terwijl je tegelijkertijd nadenkt over hoe je de kennis in huis houdt en ontwikkelt voor de langere termijn.
+## De relatie tussen AI-investering en werving
+Een mogelijke interpretatie van de bevindingen is dat bedrijven die investeren in AI, deze technologie in eerste instantie inzetten om bestaande teams productiever te maken of om vacatures voor ervaren krachten in te vullen, in plaats van om junior posities te schrappen. De focus lijkt te liggen op het versterken van de capaciteit, niet op het reduceren van het aantal hoofden. Voor je eigen investeringsbeslissingen kan dit inzicht relevant zijn: het rendement op AI-investering kan zich vertalen in het aantrekken van gespecialiseerd senior talent, terwijl de training van nieuwkomers een andere vorm krijgt.
 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
