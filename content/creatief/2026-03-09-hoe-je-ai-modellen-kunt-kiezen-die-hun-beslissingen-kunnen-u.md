@@ -1,9 +1,9 @@
 ---
 title: "Hoe je AI-modellen kunt kiezen die hun beslissingen kunnen uitleggen"
-date: 2026-03-09T11:07:12.807Z
-tags: ["ai-verantwoording", "machine learning", "compliance", "uitlegbare ai"]
+date: 2026-03-09T23:05:20.210Z
+tags: ["ai-verklaringen", "vertrouwen", "computer vision", "modellen"]
 categorieen: ["creatief"]
-summary: "Een nieuwe methode maakt bestaande AI-modellen uitlegbaar door ze te dwingen hun redenering in menselijke concepten te verwoorden, wat cruciaal is voor vertrouwen in sectoren als zorg en financiën."
+summary: "Een nieuwe methode maakt AI-modellen beter in het geven van begrijpelijke uitleg voor hun voorspellingen, wat cruciaal is voor vertrouwen in sectoren als zorg en financiën."
 cover:
   image: "/images/covers/2026-03-09-improving-ai-models-ability-to-explain-their-predictions.webp"
   alt: "Improving AI models’ ability to explain their predictions"
@@ -12,19 +12,25 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309"
 ---
 
-Een nieuwe techniek kan bestaande, getrainde AI-modellen omvormen tot systemen die hun voorspellingen kunnen uitleggen in menselijke taal. Dit is vooral waardevol in sectoren waar vertrouwen en controle cruciaal zijn, zoals medische diagnostiek, financiële risicoanalyse of kwaliteitscontrole in de industrie. De methode, ontwikkeld door onderzoekers van MIT en de Polytechnische Universiteit van Milaan, dwingt een model om zijn beslissingen te baseren op herkenbare concepten, in plaats van een ondoorzichtig 'black box'-antwoord te geven.
+In sectoren waar de gevolgen groot zijn, zoals medische diagnostiek of financiële risicoanalyse, is het niet genoeg dat een AI-systeem alleen een voorspelling doet. Gebruikers moeten kunnen begrijpen *waarom* het systeem tot die conclusie komt om te bepalen of ze het kunnen vertrouwen. Onderzoekers van MIT hebben een nieuwe methode ontwikkeld die AI-modellen dwingt om hun redenering uit te leggen in voor mensen begrijpelijke concepten, en dat bovendien nauwkeuriger doet dan bestaande technieken.
 
-## Wat is een uitlegbaar AI-model?
+## Wat is een concept bottleneck model?
 
-Traditioneel werken veel geavanceerde AI-modellen als een gesloten doos: je stopt er data in, en er komt een voorspelling uit, zonder dat duidelijk is hoe het model tot die conclusie is gekomen. Bij 'concept bottleneck'-modellen wordt het model gedwongen om via vooraf door experts gedefinieerde concepten te redeneren. Een dermatologie-AI zou bijvoorbeeld eerst moeten aangeven of het 'geclusterde bruine vlekken' of 'gevlekte pigmentatie' ziet, voordat het een diagnose stelt. Het probleem is dat deze vooraf bedachte concepten soms niet precies genoeg of zelfs irrelevant zijn voor de specifieke taak, wat de nauwkeurigheid van het model kan verminderen.
+Een gangbare aanpak om AI uitlegbaar te maken is het zogenaamde 'concept bottleneck model'. Hierbij wordt het deep learning-model gedwongen om zijn voorspelling te baseren op een vooraf gedefinieerde set van menselijke concepten. Een arts zou bijvoorbeeld concepten als "geclusterde bruine stippen" of "bonte pigmentatie" kunnen aanleveren om een model te helpen bij het herkennen van melanoom op een medische afbeelding. Het model moet dan via deze tussenstap zijn voorspelling doen, wat de beslissing inzichtelijker maakt.
 
-De nieuwe aanpak lost dit op door niet vooraf gedefinieerde concepten op te leggen, maar door de concepten te gebruiken die het model zelf al heeft geleerd tijdens zijn training. Het pakt als het ware de kennis uit het bestaande model en vertaalt die naar begrijpelijke taal. Hierdoor sluiten de uitleg en de interne logica van het model beter op elkaar aan, wat volgens de onderzoekers kan leiden tot hogere nauwkeurigheid en duidelijkere, bondigere verklaringen.
+Het probleem met deze aanpak is dat de vooraf door experts bedachte concepten soms niet relevant genoeg zijn voor de specifieke taak, of te weinig detail bevatten. Dit kan de nauwkeurigheid van het model verminderen. Het nieuwe onderzoek pakt dit probleem aan door het model te laten werken met concepten die het *zelf* heeft geleerd tijdens zijn training.
 
-## Waarom is dit belangrijk voor ondernemers?
+## De nieuwe methode: concepten uit het model halen
 
-Voor een ondernemer die AI overweegt voor kritieke processen, gaat het niet alleen om de uitkomst, maar ook om het vertrouwen in die uitkomst. Stel je voor dat een AI-systeem een leningaanvraag afwijst of een productielijn stillegt vanwege een vermeende fout. Zonder uitleg is dat een bron van frustratie en wantrouwen. Met een uitlegbaar model krijg je inzichten als: "De aanvraag is afgewezen vanwege een combinatie van een ongebruikelijk uitgavenpatroon in de afgelopen drie maanden en een hoge schuldratio." Dat maakt de beslissing controleerbaar.
+De MIT-onderzoekers ontwikkelden een techniek die gebruikmaakt van een paar gespecialiseerde machine learning-modellen. Deze modellen halen automatisch kennis uit een getraind computervisie-model en vertalen die kennis naar duidelijke, tekstuele concepten. In plaats van concepten op te leggen, extraheren ze de concepten die het model impliciet al gebruikt om zijn voorspellingen te doen. Volgens de onderzoekers is het alsof je "de gedachten van deze computervisie-modellen kunt lezen".
 
-In sterk gereguleerde sectoren, zoals de financiële dienstverlening of de gezondheidszorg, groeit de vraag naar 'uitlegbaarheid' (explainability) vanuit compliance-oogpunt. Regels zoals de AVG bevatten soms een recht op uitleg. Een AI die zijn werk kan verantwoorden, is niet alleen een technische verbetering, maar kan ook een compliance-voordeel zijn. Het stelt professionals in staat om het oordeel van de AI te valideren en, waar nodig, te overrulen op basis van duidelijke informatie.
+Deze aanpak heeft twee voordelen. Ten eerste leidt het gebruik van deze intern geleerde concepten vaak tot een hogere voorspellingsnauwkeurigheid vergeleken met modellen die werken met vooraf opgelegde concepten. Ten tweede produceert het duidelijkere en beknoptere uitleg, omdat de concepten beter aansluiten bij de werkelijke redenering van het model. De techniek kan in principe elk voorgetraind computervisie-model omzetten in een model dat concepten gebruikt om zijn redenering uit te leggen.
+
+## Praktische implicaties voor ondernemers
+
+Voor ondernemers en professionals in domeinen waar uitlegbaarheid en verantwoording cruciaal zijn, biedt dit een belangrijk inzicht. Het betekent dat bij het selecteren of ontwikkelen van een AI-tool voor taken zoals kwaliteitsinspectie, fraude-detectie of medische beeldanalyse, je niet alleen moet kijken naar de nauwkeurigheid. Je zou ook moeten vragen naar de *uitlegbaarheid* van het model. Een tool die zijn beslissingen kan onderbouwen met begrijpelijke concepten – vooral als die concepten uit het model zelf komen en niet kunstmatig zijn opgelegd – kan het vertrouwen in de uitkomsten aanzienlijk vergroten.
+
+Dit is niet alleen een kwestie van transparantie, maar ook van praktische bruikbaarheid. Een arts die een tweede mening van een AI wil, kan de onderliggende concepten (zoals specifieke visuele kenmerken) beoordelen. Een kwaliteitscontroleur in een fabriek kan begrijpen waarom een product als defect wordt aangemerkt. Dit maakt samenwerking tussen mens en machine effectiever.
 
 ## Hoe kun je dit vandaag toepassen?
 
