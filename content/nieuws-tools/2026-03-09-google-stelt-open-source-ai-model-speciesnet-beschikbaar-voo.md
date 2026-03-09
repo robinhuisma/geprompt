@@ -1,9 +1,9 @@
 ---
 title: "Google stelt open-source AI-model SpeciesNet beschikbaar voor natuurbehoud"
-date: 2026-03-09T15:05:27.128Z
-tags: ["ai", "natuurbehoud", "open source", "monitoring"]
+date: 2026-03-09T19:02:55.882Z
+tags: ["ai", "duurzaamheid", "open source", "natuurbehoud"]
 categorieen: ["nieuws-tools"]
-summary: "Google's open-source AI-model SpeciesNet helpt bij het identificeren van diersoorten op camerabeelden, wat natuurorganisaties en bedrijven kunnen gebruiken voor monitoring."
+summary: "Google's open-source AI-model SpeciesNet helpt bij het identificeren van diersoorten op camerabeelden, wat kansen biedt voor bedrijven in monitoring en duurzaamheid."
 cover:
   image: "/images/covers/2026-03-09-how-our-open-source-ai-model-speciesnet-is-helping-to-promot.webp"
   alt: "How our open-source AI model SpeciesNet is helping to promote wildlife conservation"
@@ -12,16 +12,16 @@ source_name: "Blog"
 source_url: "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"
 ---
 
-Google heeft een open-source AI-model gelanceerd genaamd SpeciesNet, speciaal ontworpen om dieren op camerabeelden te herkennen. Het model is getraind op miljoenen afbeeldingen van duizenden soorten en kan worden gebruikt door iedereen die werkt aan natuurbehoud, van lokale boswachters tot internationale organisaties. Het doel is om het monitoren van wilde dieren eenvoudiger en toegankelijker te maken, zonder dat er dure, gespecialiseerde software nodig is.
+Google heeft een open-source AI-model gelanceerd genaamd SpeciesNet, speciaal ontworpen om dieren in het wild te identificeren op basis van camerabeelden. Het model is getraind op miljoenen afbeeldingen van duizenden soorten en kan helpen bij het monitoren van biodiversiteit. Voor Nederlandse bedrijven die actief zijn in de groene sector, landbeheer, ecologisch advies of toerisme, biedt dit een concreet instrument dat direct ingezet kan worden voor data-gedreven natuurbehoud.
 
-## Wat is SpeciesNet precies?
-SpeciesNet is een neuraal netwerk, een type kunstmatige intelligentie, dat is getraind om dieren te identificeren op basis van foto's en video's. Het model is 'open-source', wat betekent dat de onderliggende code vrij beschikbaar is voor iedereen om te gebruiken, aan te passen of te verbeteren. Volgens Google is het getraind op een dataset van miljoenen gelabelde afbeeldingen, afkomstig van cameravallen en andere bronnen, die duizenden verschillende diersoorten vertegenwoordigen. De kracht van het model schuilt in zijn vermogen om te werken met de vaak uitdagende beelden die cameravallen produceren, zoals slechte belichting, beweging of dieren die slechts gedeeltelijk in beeld zijn.
+## Wat is SpeciesNet en hoe werkt het?
+SpeciesNet is een kunstmatig intelligent model dat is gebouwd om dieren te herkennen op foto's en video's, vaak gemaakt met zogenaamde 'camera traps'. Deze cameravallen worden in natuurgebieden geplaatst en maken automatisch opnames wanneer er beweging is. Het analyseren van die enorme hoeveelheid beeldmateriaal was tot voor kort handwerk. SpeciesNet kan dit proces automatiseren door soorten te identificeren, wat volgens Google het monitoren van populaties en het beschermen van bedreigde diersoorten efficiënter maakt. Het model is open source, wat betekent dat de techniek vrij beschikbaar is voor iedereen om te gebruiken, aan te passen of verder te ontwikkelen.
 
-## Hoe kunnen organisaties dit gebruiken?
-Voor natuurbeheerorganisaties, nationale parken of bedrijven met een groen imago die betrokken zijn bij biodiversiteitsprojecten, biedt dit een praktische toepassing. Traditioneel kost het handmatig doorzoeken van duizenden uren camerabeeld enorm veel tijd. Een AI-model als SpeciesNet kan dit proces automatiseren door automatisch te scannen op de aanwezigheid van dieren en deze voor te sorteren op soort. Dit stelt ecologen en boswachters in staat zich te richten op analyse en actie in plaats van op administratief werk. Het kan helpen bij het volgen van populatietrends, het detecteren van zeldzame soorten of het monitoren van de effecten van natuurherstelprojecten.
+## Welke kansen biedt dit voor ondernemers en organisaties?
+De beschikbaarheid van een gespecialiseerd, kosteloos AI-model opent deuren voor verschillende toepassingen. Een ecologisch adviesbureau zou het kunnen inzetten om sneller en grondiger milieu-effectrapportages uit te voeren voor grote infrastructurele projecten. Een beheerder van natuurgebieden of landgoederen kan de biodiversiteit op zijn terrein objectief in kaart brengen en trends volgen. Ook voor bedrijven in het duurzame toerisme ligt er een kans: het bieden van data-ondersteuning aan lokale natuurprojecten kan een sterke, authentieke duurzaamheidsclaim ondersteunen. Het gebruik van een open-source tool van een grote partij als Google kan daarnaast het innovatieve en technologische imago van een bedrijf versterken.
 
-## De voordelen van een open-source aanpak
-Het feit dat SpeciesNet open-source is, is een belangrijk verschil met veel andere AI-tools. Het betekent dat organisaties het model niet alleen gratis kunnen gebruiken, maar het ook kunnen aanpassen aan hun lokale context. Een organisatie die werkt in de Nederlandse duinen zou het model bijvoorbeeld kunnen 'fine-tunen' met extra afbeeldingen van lokale soorten zoals de rugstreeppad of de konijn, om de herkenning voor dat specifieke gebied te verbeteren. Deze aanpak vermindert de afhankelijkheid van gesloten, commerciële software en geeft meer controle over de tool.
+## Wat zijn de beperkingen en aandachtspunten?
+Hoewel de technologie krachtig is, is het belangrijk om de beperkingen te begrijpen. Het model is zo goed als de data waarop het is getraind. Het kan moeite hebben met zeer zeldzame soorten of soorten die sterk op elkaar lijken. De uiteindelijke interpretatie van de resultaten en de besluitvorming blijft menselijk werk. Daarnaast vereist het implementeren van zo'n AI-model enige technische kennis, bijvoorbeeld voor het verwerken van beeldbestanden via een API. Het is dus vooral een hulpmiddel dat de expert ondersteunt, niet vervangt.
 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
