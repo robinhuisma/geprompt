@@ -1,30 +1,33 @@
 ---
 title: "Google stelt open-source AI-model SpeciesNet beschikbaar voor natuurbehoud"
-date: 2026-03-10T03:06:03.421Z
-tags: ["ai", "duurzaamheid", "open source", "natuurbehoud"]
+date: 2026-03-10T15:01:51.924Z
+tags: ["ai", "duurzaamheid", "natuurbehoud", "open source"]
 categorieen: ["nieuws-tools"]
-summary: "Google's open-source AI-model SpeciesNet helpt organisaties wereldwijd wilde dieren te identificeren en monitoren, een kosteneffectief instrument voor MVO."
+summary: "Google's open-source AI-model SpeciesNet helpt bij het identificeren van diersoorten op camerabeelden, wat kansen biedt voor duurzaam toerisme en landbouw."
 cover:
-  image: "/images/covers/2026-03-10-how-our-open-source-ai-model-speciesnet-is-helping-to-promot.webp"
-  alt: "How our open-source AI model SpeciesNet is helping to promote wildlife conservation"
+  image: "https://images.pexels.com/photos/17489151/pexels-photo-17489151.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of tower servers in a data center with blue and red lighting."
+  caption: "Foto: panumas nikhomkhai via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"
 ---
 
-Google heeft een open-source AI-model genaamd SpeciesNet vrijgegeven dat is ontworpen om wilde dieren te identificeren. Het model is getraind op miljoenen afbeeldingen en kan duizenden verschillende diersoorten herkennen op foto's van cameravallen. Dit stelt natuurbeschermingsorganisaties, onderzoekers en mogelijk ook bedrijven die zich met duurzaamheid bezighouden in staat om populaties te monitoren zonder enorme manuele inspanning.
+Google heeft een open-source AI-model gelanceerd, genaamd SpeciesNet, dat is ontworpen om dieren in het wild te identificeren op basis van camerabeelden. Het model is getraind op miljoenen afbeeldingen en kan duizenden verschillende soorten herkennen, van vogels en zoogdieren tot reptielen. Het doel is om natuurbeschermers, onderzoekers en anderen te ondersteunen bij het monitoren van biodiversiteit. Voor Nederlandse ondernemers, met name in sectoren die direct of indirect met het landschap te maken hebben, opent dit nieuwe mogelijkheden om data-gedreven bij te dragen aan natuurbehoud.
 
 ## Wat is SpeciesNet en hoe werkt het?
-SpeciesNet is een neuraal netwerk, een type kunstmatige intelligentie, dat specifiek is getraind om dieren te herkennen. Het is 'open-source', wat betekent dat de onderliggende code vrij beschikbaar is voor iedereen om te gebruiken, aan te passen en te verbeteren. Volgens Google is het model getraind op een dataset van miljoenen gelabelde afbeeldingen en kan het duizenden soorten identificeren, van grote zoogdieren tot kleine vogels. De primaire toepassing is het analyseren van beelden die zijn vastgelegd door cameravallen, die vaak maandenlang in het wild staan en duizenden foto's produceren waarvan het handmatig sorteren en labelen een monnikenwerk is.
+SpeciesNet is een machine learning-model dat specifiek is getraind voor 'camera trap'-beelden: foto's en video's die automatisch worden gemaakt door bewegingsgeactiveerde camera's in de natuur. Traditioneel moet al dit beeldmateriaal handmatig worden bekeken en gelabeld, een tijdrovend proces. De AI automatiseert deze eerste analyse door dieren te detecteren en te classificeren. Omdat het model open-source is, kan iedereen de technologie downloaden, aanpassen en integreren in eigen systemen zonder licentie-kosten. Google ontwikkelde het model naar eigen zeggen om de inspanningen voor natuurbehoud wereldwijd te ondersteunen.
 
-## De praktische waarde voor organisaties en MVO
-Voor een Nederlandse stichting die zich inzet voor het herstel van een natuurgebied, een waterschap dat biodiversiteit monitort, of een bedrijf met een MVO-beleid gericht op lokale ecologie, biedt dit soort technologie een concrete mogelijkheid. In plaats van dat biologen of vrijwilligers wekenlang door foto's moeten scrollen, kan een geautomatiseerd systeem een eerste, snelle analyse doen. Het kan helpen bij het tellen van dieren, het vaststellen van welke soorten in een gebied voorkomen, en het volgen van migratiepatronen. Dit levert niet alleen tijdwinst op, maar kan ook leiden tot nauwkeurigere en uitgebreidere datasets voor wetenschappelijk onderzoek en beleidsondersteuning.
+## Praktische kansen voor ondernemers en organisaties
+Voor een ondernemer in de recreatie- of toerismesector, zoals een eigenaar van een natuurcamping, een boswachterij of een ecologisch adviesbureau, biedt dit een concrete tool. Je zou cameravallen kunnen inzetten op je terrein om de lokale fauna in kaart te brengen. De AI kan dan helpen om snel te zien welke beschermde of indicator-soorten er aanwezig zijn. Deze data is waardevol voor het aantonen van de ecologische waarde van je grond, het opstellen van beheerplannen of het versterken van je duurzame imago richting gasten en partners. Het is een manier om van passief grondbezit naar actief biodiversiteitsbeheer te gaan, ondersteund door data.
 
-## Een open-source aanpak voor bredere toegang
-Een belangrijk aspect van SpeciesNet is dat het geen commercieel, gesloten product is. De open-source aard maakt het in theorie toegankelijker voor organisaties met beperkte budgetten. Ze hoeven geen dure licenties aan te schaffen, maar kunnen het model op hun eigen servers of in de cloud draaien. Dit sluit aan bij een trend waarbij grote techbedrijven gespecialiseerde AI-tools voor maatschappelijke doelen beschikbaar stellen. Het stelt organisaties ook in staat om het model verder te trainen met lokale data, bijvoorbeeld om specifiek soorten te herkennen die in de Nederlandse delta of op de heide voorkomen.
+Ook voor agrarische ondernemers die werken aan natuur-inclusieve landbouw of het beheren van landschapselementen kan dit relevant zijn. Het monitoren van vogelpopulaties, hazen of andere dieren op perceelsranden wordt met zo'n tool minder arbeidsintensief. De verzamelde informatie kan gebruikt worden in gesprekken met overheden, bij aanmelding voor subsidieprogramma's zoals het Gemeenschappelijk Landbouwbeleid (GLB) of om de effecten van beheermaatregelen te meten. Het transformeert visuele waarnemingen in gestructureerde data.
+
+## De waarde van open-source in dit domein
+Het open-source karakter is hier een groot voordeel. Het betekent dat de kern-technologie vrij beschikbaar is en niet afhankelijk van een specifieke leverancier of een dure SaaS-abonnement. Voor een technisch onderlegde medewerker of een samenwerking met een lokale MBO- of HBO-opleiding kan dit een startpunt zijn om een eenvoudig monitoringssysteem op te zetten. Je bouwt voort op bestaande, krachtige AI zonder het wiel opnieuw uit te vinden. Wel vereist het enige technische kennis om het model te implementeren en te koppelen aan een beeldstroom van camera's.
 
 ## Hoe kun je dit vandaag toepassen?
-De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Een mogelijkheid is om te verkennen of er op jouw terrein behoefte is aan betere monitoring van diersoorten, bijvoorbeeld voor natuurbeheer, certificering of communicatie. Je zou kunnen onderzoeken of lokale natuurverenigingen, waterschappen of provincies al met soortgelijke technologie werken en of samenwerking mogelijk is. Voor een eerste verkenning is het raadzaam de documentatie van het open-source SpeciesNet-model te bekijken om de technische vereisten in te schatten.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

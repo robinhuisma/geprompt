@@ -1,9 +1,9 @@
 ---
 title: "Retailers verschuiven marketingbudget naar meetbare kanalen en AI"
-date: 2026-03-10T07:02:30.587Z
-tags: ["retail", "marketingbudget", "retail media", "ai"]
+date: 2026-03-10T15:03:02.010Z
+tags: ["retail", "marketing", "budget", "ai"]
 categorieen: ["marketing-groei"]
-summary: "Retailers sturen hun marketingbudget steeds meer naar kanalen met direct meetbaar resultaat, zoals retail media en AI-tools voor automatisering."
+summary: "Retailers sturen hun marketingbudget in 2026 weg van algemene reclame naar meetbare kanalen als retail media en AI voor garantie op resultaat."
 cover:
   image: "/images/covers/2026-03-10-the-state-of-retail-marketing-budgets-2026-the-shift-to-prec.webp"
   alt: "The State of Retail Marketing Budgets 2026: The Shift to Precision and Performance"
@@ -12,23 +12,19 @@ source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17296552/retailers-spending-advertising-dollars"
 ---
 
-Retailers zijn hun marketingbudgetten fundamenteel aan het herverdelen. Waar het totale budget als percentage van de omzet redelijk stabiel blijft op ongeveer 7,1 procent, verschuift het geld intern naar kanalen die directe verkoop kunnen aantonen en naar AI-tools die de efficiëntie verhogen. De consument is voorzichtig met uitgeven, en marketeers reageren daarop door te investeren in wat zekerheid biedt: meetbare resultaten.
+Retailers zijn hun marketingbudgetten fundamenteel aan het herverdelen. Waar voorheen een groot deel naar algemene merkbekendheid en 'eyeballs' ging, verschuift het geld nu naar kanalen die directe verkoop en meetbare resultaten garanderen. Dit is een reactie op de voorzichtige consument, die volgens Gartner in een recessiemodus zit, en de druk op marketingteams om met hetzelfde budget meer te doen. De kern van de verschuiving is een beweging naar digitale dominantie en precisie.
 
-## De verschuiving naar digitale dominantie
+## De cijfers achter de verschuiving
+Het totale marketingbudget als percentage van de omzet is redelijk stabiel gebleven, met een niveau van ongeveer 7,1 procent voor retailers. De interne verdeling van dat budget is echter compleet anders geworden. Bijna 87,1 procent van de totale reclame-uitgaven in de retail gaat nu naar digitale kanalen. Binnen die digitale uitgaven zijn er drie grote verschuivingen. Ten eerste gaat er meer geld naar Retail Media Networks, zoals advertenties op Amazon of Bol.com. Ten tweede wordt een groter deel van het budget ingezet voor AI-toepassingen in marketingtechnologie. Ten derde wordt budget weggehaald bij traditionele bureaus en meer in-house gehouden, vooral voor het beheer van data en retail media.
 
-Bijna 87,1 procent van het totale reclamebudget in de retail gaat nu naar digitale kanalen. Binnen die digitale uitgaven zie je een duidelijke beweging. Traditionele betaalde media op het open web maken plaats voor Retail Media Networks, zoals advertenties op Amazon, Walmart of bol.com. Deze netwerken zijn uitgegroeid tot een miljardenmarkt; alleen al in de Verenigde Staten wordt de uitgave voor retail media in 2026 geraamd op bijna 70 miljard dollar. De reden is simpel: hier kun je met gesloten attributie precies zien of een klik tot een aankoop leidt.
+## De opkomst van Retail Media als garantie op verkoop
+Retail Media Networks zijn uitgegroeid tot een van de belangrijkste posten. Dit zijn advertentieplatforms van retailers zelf, waar adverteerders producten kunnen promoten op de plek waar consumenten kopen. De aantrekkingskracht zit in de gesloten attributie: je ziet exact of een klik op een advertentie leidt tot een aankoop in dezelfde winkel. Volgens de data wordt de uitgave aan Retail Media in de Verenigde Staten dit jaar naar verwachting bijna 70 miljard dollar. Retailers halen budget weg van algemene zoekmachinemarketing, zoals Google Ads, om dit te investeren in gesponsorde producten op specifieke retailplatforms. Ook binnen fysieke winkels groeit dit concept, via digitale schermen.
 
-## AI als antwoord op krapte en kosten
-
-Een ander groot deel van het budget, ongeveer een kwart, gaat naar marketingtechnologie met AI. Dit is geen keuze uit luxe, maar een noodzaak. Uit onderzoek blijkt dat 59 procent van de marketingdirecteuren zegt onvoldoende budget te hebben om hun strategie uit te voeren. AI wordt ingezet om dit 'efficiëntiegat' te dichten. Denk aan AI-agents die klantinteracties automatiseren of tools die automatisch honderden varianten van een advertentiecreatie genereren, waardoor de druk op het interne team afneemt. De uitgaven aan externe bureaus nemen af, omdat retailers deze data-gedreven taken steeds vaker in-house houden.
-
-## De opkomst van in-store media
-
-De fysieke winkel is niet dood, maar transformeert tot een mediakanaal. Er is een groeiende trend om digitale schermen en displays binnen de winkel in te zetten voor gerichte advertenties. Volgens de bronnen zal tegen 2027 een vijfde van alle uitgaven aan digitale out-of-home reclame zich binnen fysieke winkels bevinden. Dit biedt een kans om de online en offline klantreis te verbinden en op het laatste moment nog een impuls te geven.
+## De rol van AI als budgetvermenigvuldiger
+Ondanks de stabiele budgetten geeft 59 procent van de marketingdirecteuren aan onvoldoende middelen te hebben voor hun strategie. De oplossing wordt gezocht in AI-gestuurde automatisering. Een kwart van het marketingbudget gaat nu naar marketingtechnologie met AI. De focus ligt hierbij op zogenaamde 'Agentic Commerce', waarbij AI-agenten taken overnemen, en op het automatisch genereren van creatieve varianten voor advertenties. Dit moet het tekort aan menskracht opvangen en efficiëntie creëren, zodat het bestaande budget verder reikt.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een mogelijke stap is om je eigen betaalde media-uitgaven eens onder de loep te nemen. Je zou kunnen onderzoeken of een deel van je budget voor zoekadvertenties op Google verschoven kan worden naar zoekadvertenties op een groot retailplatform zoals bol.com of Amazon, waar de link tussen klik en aankoop directer is. Een andere optie is om te verkennen welke repetitieve taken in je marketingproces, zoals het maken van advertentievarianten of het beantwoorden van standaard klantvragen, door AI-tools overgenomen kunnen worden om je team efficiënter in te zetten.
+Een mogelijke stap is om je eigen budgetverdeling onder de loep te nemen. Vergelijk het aandeel dat naar algemene merkcampagnes gaat met het aandeel voor kanalen met directe, gesloten attributie, zoals de advertentiemogelijkheden op de platformen waar je verkoopt. Een andere optie is om te onderzoeken of AI-tools voor het automatisch aanpassen van advertentiecreatie of voor klantinteracties de druk op je team kunnen verlichten, zoals in het bronartikel gesuggereerd wordt.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
