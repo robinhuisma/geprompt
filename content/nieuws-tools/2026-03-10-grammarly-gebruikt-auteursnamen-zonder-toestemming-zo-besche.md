@@ -1,9 +1,9 @@
 ---
 title: "Grammarly gebruikt auteursnamen zonder toestemming: zo bescherm je je werk"
-date: 2026-03-10T19:01:12.926Z
+date: 2026-03-10T23:00:53.619Z
 tags: ["grammarly", "ai-ethiek", "auteursrecht", "privacy"]
 categorieen: ["nieuws-tools"]
-summary: "Grammarly's nieuwe AI-functie gebruikt namen van auteurs om suggesties te staven, zonder hen eerst te vragen. Dit is hoe je controleert of jij erbij zit en je kunt afmelden."
+summary: "Grammarly's nieuwe AI-functie gebruikt namen van auteurs om suggesties geloofwaardiger te laten lijken, zonder dat zij daar toestemming voor hebben gegeven."
 cover:
   image: "/images/covers/2026-03-10-grammarly-will-keep-using-authors-identities-without-permiss.webp"
   alt: "Grammarly will keep using authors’ identities without permission unless they opt out"
@@ -12,24 +12,20 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
 ---
 
-Grammarly, de populaire schrijfhulp, gebruikt de namen en identiteiten van auteurs om zijn nieuwe AI-functie 'Expert Review' geloofwaardigheid te geven, zonder hen daarvoor om toestemming te vragen. Dit blijkt uit onderzoek van onder andere The Verge en Wired. De tool suggereert bijvoorbeeld dat een tekst is "gecontroleerd door" of "goedgekeurd door" specifieke journalisten of experts, terwijl die personen daar niets van afweten en niet zijn gecompenseerd. Het bedrijf biedt nu een manier om je hieruit terug te trekken, maar dat moet je zelf actief doen.
+Grammarly, de bekende schrijfhulp, heeft een nieuwe AI-functie gelanceerd die de namen van auteurs gebruikt om zijn suggesties meer gewicht te geven. Dit gebeurt zonder dat die auteurs daar toestemming voor hebben gegeven of zelfs maar van op de hoogte zijn gesteld. De functie, 'Expert Review' genaamd, presenteert AI-aanbevelingen alsof ze afkomstig zijn van specifieke journalisten of experts, zoals bleek uit onderzoek door onder andere *The Verge* en *Wired*. Het bedrijf biedt nu een opt-out mogelijkheid, maar de initiële actie zet vraagtekens bij hoe AI-tools omgaan met intellectueel eigendom en persoonlijke data.
 
-## Wat is het probleem precies?
+## Wat is er precies aan de hand?
+De kern van de kwestie is dat Grammarly's AI is getraind op publiek beschikbare teksten van duizenden auteurs. Vervolgens gebruikt het systeem hun namen om bepaalde schrijfstijlsuggesties te labelen. Als een gebruiker bijvoorbeeld een tekst schrijft, kan Grammarly voorstellen om een zin anders te formuleren en daarbij vermelden: "Zoals [Naam van Bekende Auteur] het zou schrijven." Dit geeft de indruk dat de auteur de suggestie onderschrijft of er op de een of andere manier bij betrokken is, wat niet het geval is. Het is een manier om de AI-output een autoriteit te verlenen die niet van de genoemde persoon afkomstig is.
 
-De kern van de kwestie is dat Grammarly's AI namen van bestaande, vaak bekende auteurs koppelt aan zijn automatische schrijfsuggesties. Als een gebruiker bijvoorbeeld een tekst over technologie schrijft, kan de tool voorstellen om de tekst te laten 'reviewen' door een specifieke techjournalist wiens naam in de database staat. Voor de lezer van die suggestie lijkt het dan alsof die journalist persoonlijk achter de aanbeveling staat, wat de indruk van onafhankelijk expertadvies wekt. De betrokken auteurs zijn hier niet over geïnformeerd, hebben geen toestemming gegeven en ontvangen geen vergoeding. Volgens de betrokken media heeft Grammarly dit gedaan om zijn AI-suggesties meer autoriteit te geven.
+## Waarom is dit een probleem voor professionals?
+Voor schrijvers, journalisten, marketeers of academici is hun naam en hun unieke stem een essentieel onderdeel van hun vak. Wanneer een tool die identiteit gebruikt om een product te verkopen of te verbeteren zonder compensatie of toestemming, raakt dat aan hun auteursrecht en persoonlijk merk. Het kan ook verwarrend zijn voor het publiek, dat mogelijk denkt dat de auteur daadwerkelijk achter de AI-suggestie staat. Bovendien creëert het een precedent: als het met namen kan, wat dan met andere persoonlijke of bedrijfsgebonden intellectuele eigendommen?
 
-## Hoe reageert Grammarly?
-
-Grammarly heeft na de publicaties niet de functie ingetrokken of excuses aangeboden. In plaats daarvan heeft het bedrijf een 'opt-out' procedure opgezet. Dit betekent dat auteurs die niet willen dat hun naam wordt gebruikt, zelf actie moeten ondernemen om zich af te melden. Het bedrijf stelt dat het de namen heeft verzameld uit "publiek beschikbare bronnen". De verantwoordelijkheid om deze praktijk te stoppen ligt dus niet bij Grammarly, maar bij de persoon wiens identiteit wordt gebruikt.
-
-## Waarom is dit relevant voor Nederlandse professionals?
-
-Of je nu freelance schrijver, marketeer, academicus of consultant bent: je naam en reputatie zijn kapitaal. Dit voorbeeld laat zien hoe AI-tools jouw professionele identiteit kunnen inzetten om hun eigen producten te verkopen, zonder jouw medeweten. Het zet een precedent voor hoe bedrijven om kunnen gaan met de naam en het werk van professionals in het AI-tijdperk. Het is een kwestie van controle over je eigen merk en integriteit.
+## Hoe heeft Grammarly gereageerd?
+Na de onthullingen en de daaropvolgende kritiek heeft Grammarly niet besloten om de functie stop te zetten of zijn excuses aan te bieden. In plaats daarvan heeft het bedrijf een opt-out procedure aangekondigd. Dit betekent dat auteurs die niet willen dat hun naam wordt gebruikt, actief contact moeten opnemen met Grammarly om zich af te melden. Het initiatief en de moeite om je gegevens te beschermen liggen dus volledig bij de individuele persoon, niet bij het bedrijf dat de data gebruikt.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een eerste stap is om uit te zoeken of jouw naam wordt gebruikt door tools zoals Grammarly. Je zou kunnen proberen de 'Expert Review' functie zelf te gebruiken in een relevant onderwerp en kijken welke namen naar voren komen. Als je je naam tegenkomt of denkt dat deze gebruikt wordt, is een mogelijkheid om contact op te nemen met Grammarly via hun officiële kanalen om een verzoek tot 'opt-out' in te dienen. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Als je schrijft voor je vak en je wilt controleren of Grammarly jouw naam gebruikt, of je wilt je afmelden, dan is een mogelijke stap om contact op te nemen met Grammarly via hun officiële kanalen om navraag te doen over hun opt-out beleid. Een andere optie is om je bewust te worden van de voorwaarden en privacybeleidsupdates van de AI-tools die je gebruikt, om te zien hoe zij omgaan met trainingsdata en attributie. De praktische toepassing hangt verder af van jouw specifieke situatie. Via [geprompt.nl/stel-je-vraag](https://geprompt.nl/stel-je-vraag) kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: [The Verge](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)
+Bron: The Verge
