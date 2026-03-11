@@ -1,9 +1,9 @@
 ---
-title: "AI vervangt (nog) geen banen, maar verandert wel wie je aanneemt"
-date: 2026-03-11T11:03:43.291Z
-tags: ["personeelsbeleid", "arbeidsmarkt", "strategie", "ai-impact"]
+title: "AI vervangt nog geen banen, maar verandert wel wie je aanneemt"
+date: 2026-03-11T23:02:52.816Z
+tags: ["personeelsbeleid", "arbeidsmarkt", "ai-strategie", "investering"]
 categorieen: ["nieuws-tools"]
-summary: "Een rapport van AI-maker Anthropic laat zien dat AI banen nog niet vervangt, maar wel invloed heeft op het aannemen van jongere werknemers."
+summary: "Een intern onderzoek van AI-bouwer Anthropic laat zien dat AI banen nog niet vervangt, maar wel invloed heeft op de instroom van jongere werknemers."
 cover:
   image: "/images/covers/2026-03-11-anthropic-report-says-it-s-too-early-for-ai-to-affect-jobs.webp"
   alt: "Anthropic Report Says It’s Too Early for AI to Affect Jobs"
@@ -12,19 +12,19 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs"
 ---
 
-Volgens een intern rapport van AI-bedrijf Anthropic is het nog te vroeg om te spreken van grootschalige banenvervanging door kunstmatige intelligentie. Het bedrijf, bekend van de AI-assistent Claude, onderzocht de impact op werknemers wier functies als "hoog blootgesteld" aan automatisering worden gezien. De conclusie is dat het effect op deze groep tot nu toe minimaal is. De bevindingen, die door het bedrijf zelf zijn gepubliceerd, wijzen er echter op dat er wel een andere, significante verschuiving gaande is: bedrijven lijken minder jongere werknemers aan te nemen voor functies waar AI een grote rol kan spelen.
+Een intern onderzoek van AI-bedrijf Anthropic, dat de eigen modellen bouwt, komt tot een opvallende conclusie: het is nog te vroeg om te spreken van banenverlies door AI. Werknemers in functies die het meest blootstaan aan automatisering door AI, zien vooralsnog een minimaal effect op hun baan. Dit rapport, dat is gebaseerd op interne data van het bedrijf, biedt een tegenwicht aan de vaak alarmerende voorspellingen over massale werkloosheid door kunstmatige intelligentie.
 
-## Wat betekent dit voor je personeelsplanning?
-Het rapport suggereert dat de directe dreiging van massale ontslagen door AI, in ieder geval op korte termijn, mogelijk wordt overdreven. Voor een ondernemer betekent dit dat je investeringsplanning in AI zich minder hoeft te richten op het vervangen van mensen, en meer op het ondersteunen en productiever maken van je bestaande team. De angst dat je over een jaar een groot deel van je personeel moet laten gaan vanwege automatisering, lijkt voorbarig. Dit geeft lucht om na te denken over hoe je AI op een verantwoorde manier in je bedrijfsprocessen integreert, zonder dat dit direct leidt tot ingrijpende reorganisaties.
+## De werkelijke impact zit in de instroom
 
-## De verschuiving in het aannamebeleid
-Een opvallender bevinding uit het onderzoek is de trend rond het aannemen van jongere werknervaring. Anthropic stelt dat er aanwijzingen zijn dat bedrijven minder vaak jongere, vaak startende, werknemers aannemen voor functies die gevoelig zijn voor AI-automatisering. Dit kan komen doordat de taken die traditioneel aan junior roles werden gegeven – zoals basis data-analyse, het opstellen van eerste concepten of het filteren van informatie – steeds vaker door AI-tools kunnen worden uitgevoerd. Het gevolg is dat de instapmogelijkheden voor nieuwe generaties op de arbeidsmarkt kunnen veranderen.
+Waar het onderzoek van Anthropic wel een duidelijk signaal ziet, is in de aanwerving van nieuw personeel. Het bedrijf constateert dat er minder jongere werknemers worden aangenomen voor functies die gevoelig zijn voor AI-automatisering. Dit suggereert dat bedrijven hun wervingsstrategie aanpassen voordat ze bestaande rollen elimineren. In plaats van mensen te ontslaan, lijkt de eerste reactie te zijn: minder nieuwe mensen aannemen voor bepaalde taken. Voor een ondernemer betekent dit dat de impact van AI zich mogelijk eerst vertaalt in een verschuiving van je personeelsplanning, niet in een directe reductie van je team.
 
-## Strategische implicaties voor ondernemers
-Deze inzichten hebben directe gevolgen voor je strategie. Als je minder junior talent binnenhaalt, heeft dat impact op je pijplijn voor toekomstig senior talent. Je zou kunnen overwegen om je aannamebeleid hierop aan te passen. In plaats van een junior aan te nemen voor ondersteunende taken, kun je ervoor kiezen om een medior of senior aan te trekken die complexere problemen kan oplossen, terwijl AI de basistaken overneemt. Dit vraagt om een andere investering in salarissen, maar kan op de lange termijn de productiviteit verhogen. Het is een verschuiving van het idee van "vervanging" naar het idee van "opschaling" van menselijke capaciteiten.
+## Wat dit betekent voor je investeringsplanning
+
+De bevindingen kunnen gevolgen hebben voor hoe je naar investeringen in AI-tools kijkt. Als AI op korte termijn niet leidt tot directe besparingen op personeelskosten door ontslagen, verandert de business case. De return on investment kan dan meer liggen in het verhogen van de productiviteit en kwaliteit van je bestaande team, of in het kunnen groeien zonder proportioneel meer mensen aan te nemen. Het wijst erop dat een gefaseerde aanpak verstandig kan zijn: eerst experimenteren met AI als productiviteitshulpmiddel voor je huidige medewerkers, voordat je rigoureuze reorganisaties doorvoert.
 
 ## Hoe kun je dit vandaag toepassen?
-De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+
+Een mogelijkheid is om bij je volgende vacature voor een administratieve, creatieve of analytische functie kritisch te kijken of bepaalde taken al door AI-ondersteunde tools kunnen worden uitgevoerd. Dit kan de scope van de functie veranderen en invloed hebben op het ervaringsniveau dat je zoekt. Je zou ook kunnen overwegen om in je strategische personeelsplanning een scenario op te nemen waarin je groeit door bestaande medewerkers met AI te ondersteunen, in plaats van direct extra capaciteit aan te nemen.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
