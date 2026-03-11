@@ -1,9 +1,9 @@
 ---
-title: "Grammarly gebruikt auteursnamen zonder toestemming: zo bescherm je jouw werk"
-date: 2026-03-11T03:02:07.473Z
-tags: ["grammarly", "auteursrecht", "ai-ethiek", "privacy"]
+title: "Grammarly gebruikt auteursnamen zonder toestemming: zo bescherm je je bedrijf"
+date: 2026-03-11T07:02:31.011Z
+tags: ["grammarly", "ai-ethiek", "privacy", "auteursrecht"]
 categorieen: ["nieuws-tools"]
-summary: "Grammarly's nieuwe AI-functie gebruikt namen van auteurs om suggesties geloofwaardigheid te geven, zonder dat zij daar toestemming voor hebben gegeven."
+summary: "Grammarly's nieuwe AI-functie gebruikt namen van auteurs zonder toestemming voor geloofwaardigheid; je kunt je alleen uitschrijven via een opt-out."
 cover:
   image: "/images/covers/2026-03-11-grammarly-will-keep-using-authors-identities-without-permiss.webp"
   alt: "Grammarly will keep using authors’ identities without permission unless they opt out"
@@ -12,20 +12,20 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
 ---
 
-Grammarly, de bekende schrijfhulp, gebruikt de namen en identiteiten van auteurs om zijn nieuwe AI-functie 'Expert Review' geloofwaardigheid te geven, zonder dat die auteurs daar toestemming voor hebben gegeven. Dit blijkt uit onderzoek van onder andere *The Verge* en *Wired*. De tool suggereert bijvoorbeeld dat een tekst is "beoordeeld door" een specifieke, bekende journalist of expert, wat de indruk wekt dat die persoon achter de AI-suggestie staat. Het bedrijf heeft op de kritiek gereageerd, niet met een verontschuldiging of het intrekken van de functie, maar door een opt-out mogelijkheid te creëren voor de betrokkenen.
+Grammarly, de populaire schrijfhulp, gebruikt de namen en identiteiten van auteurs zonder hun toestemming om een nieuwe AI-functie geloofwaardigheid te geven. Het bedrijf voegde een optie toe genaamd "Expert Review" die, wanneer een gebruiker om feedback vraagt, kan antwoorden met zinnen als "Volgens [Naam van auteur]..." alsof die persoon het advies persoonlijk heeft gegeven. Dit gebeurt zonder dat de genoemde auteurs hiervoor toestemming hebben gegeven of hiervan op de hoogte zijn gesteld. Volgens een rapportage door *The Verge* en *Wired* overkwam dit onder meer hun eigen redacteuren en andere bekende auteurs. Grammarly's reactie op de ophef was niet om de functie terug te draaien of excuses aan te bieden, maar om een opt-out mogelijkheid te creëren. Dit betekent dat je als auteur of ondernemer actief moet aangeven dat je naam niet gebruikt mag worden, anders gaat Grammarly ervan uit dat het mag.
 
-## Wat is er precies aan de hand?
-De kern van de kwestie is dat Grammarly's AI, als onderdeel van het betaalde Grammarly Premium-aanbod, namen van echte mensen gebruikt om zijn suggesties autoriteit te verlenen. Wanneer een gebruiker de 'Expert Review' functie activeert, kan de tool bijvoorbeeld voorstellen om een zin te herschrijven "in de stijl van" of "zoals beoordeeld door" een bepaalde auteur. Volgens de berichten in *The Verge* en *Wired* gebeurde dit met namen van journalisten en andere publieke figuren zonder dat zij hiervoor waren geconsulteerd of toestemming hadden gegeven. Het bedrijf claimt dat het gaat om het nabootsen van een publiekelijk beschikbare schrijfstijl, niet om een goedkeuring van de inhoud.
+## Wat betekent dit voor jouw bedrijf?
+Als je bedrijf content produceert – zoals blogposts, nieuwsbrieven of rapporten – loop je het risico dat de namen van jou of je medewerkers op deze manier worden ingezet. De functie suggereert een persoonlijke goedkeuring of expertise waar die niet bestaat, wat misleidend kan zijn voor klanten die de tool gebruiken. Het raakt ook aan de kern van intellectueel eigendom en persoonlijke merkbouw. Je naam wordt gekoppeld aan AI-gegenereerd advies waar je geen controle over hebt en dat mogelijk niet overeenkomt met je eigen standpunten of kwaliteitsnormen. Voor bedrijven die zorgvuldig hun reputatie managen, is dit een direct risico.
 
-## Waarom is dit een probleem voor professionals?
-Voor ondernemers, consultants, auteurs en andere professionals die hun naam en reputatie als kapitaal zien, is dit een belangrijk signaal. Je naam en expertise worden mogelijk gebruikt om een commercieel product te verkopen, zonder dat je daar iets over te zeggen hebt. Het risico is dat je ongewild geassocieerd wordt met AI-gegenereerde inhoud waar je geen controle over hebt en die mogelijk niet aan je eigen standaarden voldoet. Het ondermijnt het vertrouwen als een klant denkt dat jij persoonlijk een tekst hebt beoordeeld, terwijl het in werkelijkheid een algoritme was dat jouw naam gebruikte.
+## Hoe werkt de opt-out en waarom is dat problematisch?
+Grammarly stelt nu dat auteurs zich kunnen uitschrijven door contact op te nemen via een specifiek e-mailadres (expert-review-opt-out@grammarly.com) met het verzoek om hun naam te verwijderen. Dit is een typisch voorbeeld van "opt-out" in plaats van "opt-in": de standaardinstelling is dat je toestemming geeft, tenzij je de moeite neemt om dit tegen te gaan. Voor een drukke ondernemer is dit een extra administratieve handeling die gemakkelijk blijft liggen. Bovendien vereist het dat je weet dat je naam wordt gebruikt, wat zonder monitoring niet het geval is. Het plaatst de verantwoordelijkheid voor bescherming volledig bij het individu, niet bij het bedrijf dat de data gebruikt.
 
-## Hoe heeft Grammarly gereageerd?
-Grammarly heeft, na de publicatie van de kritische artikelen, een opt-out procedure in het leven geroepen. Mensen van wie de naam wordt gebruikt kunnen zich nu afmelden. Dit betekent echter dat de bewijslast en de actie bij de betrokken persoon liggen: je moet eerst ontdekken dat je naam wordt gebruikt en vervolgens zelf stappen ondernemen om dit te stoppen. Het bedrijf heeft niet aangekondigd het systeem fundamenteel te veranderen of voortaan vooraf toestemming te vragen.
+## De bredere trend van data-gebruik door AI
+Dit incident bij Grammarly is geen op zichzelf staand geval, maar onderdeel van een patroon. Veel AI-tools trainen hun modellen met data van het open web of gebruiken persoonlijke informatie om diensten te personaliseren, vaak zonder transparante toestemming. Het laat zien hoe belangrijk het is om als ondernemer bewust te zijn van de servicevoorwaarden en privacybeleiden van de tools die je gebruikt, zowel voor jezelf als voor je team. Het is niet alleen een kwestie van persoonlijke privacy, maar ook van zakelijke risico's en compliance, vooral met strengere regelgeving zoals de AVG in het achterhoofd.
 
 ## Hoe kun je dit vandaag toepassen?
-Als je vermoedt dat jouw naam of werk op deze manier wordt gebruikt, is een eerste stap om te controleren of Grammarly's 'Expert Review' jou noemt. Je zou online kunnen zoeken naar combinaties van je naam en termen als "Grammarly Expert Review". Vind je iets, dan kun je via de officiële kanalen van Grammarly contact opnemen om een opt-out verzoek in te dienen. Voor professionals die hun intellectuele eigendom actief willen beschermen, is dit een aanleiding om alert te zijn op hoe AI-tools publiek beschikbare data en namen inzetten.
+Een mogelijke stap is om te controleren of jouw naam of die van belangrijke medewerkers in het domein van Grammarly's "Expert Review" wordt gebruikt. Je zou kunnen overwegen om, als je vindt dat je naam zonder toestemming wordt ingezet, een opt-out verzoek te sturen naar het genoemde e-mailadres. Voor een structurelere aanpak is het raadzaam het beleid te herzien van alle AI-tools die je bedrijf gebruikt, om te begrijpen hoe zij omgaan met data en toestemming.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: The Verge
+Bron: [The Verge](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)
