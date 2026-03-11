@@ -1,31 +1,32 @@
 ---
 title: "ChatGPT maakt nu interactieve visuals voor wiskunde en wetenschap"
-date: 2026-03-11T11:05:09.778Z
-tags: ["chatgpt", "interactieve content", "opleiden", "visualisatie"]
+date: 2026-03-11T15:04:52.211Z
+tags: ["chatgpt", "training", "visualisatie", "educatie"]
 categorieen: ["nieuws-tools"]
-summary: "ChatGPT kan nu interactieve diagrammen en modellen genereren waarmee cursisten zelf kunnen experimenteren, ideaal voor trainers en opleiders."
+summary: "ChatGPT kan nu interactieve visuals genereren, waardoor trainers complexe concepten in workshops veel effectiever kunnen uitleggen."
 cover:
-  image: "/images/covers/2026-03-11-chatgpt-can-now-create-interactive-visuals-to-help-you-under.webp"
-  alt: "ChatGPT can now create interactive visuals to help you understand math and science concepts"
+  image: "https://images.pexels.com/photos/5532720/pexels-photo-5532720.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of automated canning equipment in a brewery showcasing production efficiency."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/"
 ---
 
-ChatGPT heeft een nieuwe functie gekregen waarmee het interactieve visuals kan genereren om complexe concepten uit te leggen. In plaats van een statische afbeelding of een tekstuele uitleg, creëert de tool nu diagrammen, grafieken en modellen waar gebruikers direct mee kunnen interacteren. Dit opent nieuwe mogelijkheden voor iedereen die kennis overdraagt, van trainers in het bedrijfsleven tot docenten in beroepsopleidingen.
+ChatGPT heeft een nieuwe mogelijkheid gekregen om interactieve visuals te genereren voor wiskundige en wetenschappelijke concepten. In plaats van een statische afbeelding of een tekstuele uitleg, creëert de tool nu dynamische, aanraakbare modellen waar gebruikers direct mee kunnen interacteren. Dit opent nieuwe mogelijkheden voor trainers, opleiders en iedereen die complexe materie moet overbrengen.
 
 ## Wat betekent dit voor training en opleiding?
-De kern van deze ontwikkeling is dat abstracte of moeilijke onderwerpen tastbaarder worden. Stel je voor dat je een workshop geeft over statistiek en het concept 'standaarddeviatie' moet uitleggen. In plaats van een vaste grafiek op een slide, kun je nu een interactief model laten genereren. Cursisten kunnen dan zelf de datapunten verschuiven en direct zien hoe de spreiding en de bijbehorende curve veranderen. Deze directe feedbackloop kan het leerproces versnellen en de betrokkenheid vergroten, omdat deelnemers actief kunnen experimenteren in plaats van passief te luisteren.
+Voor trainers betekent dit een verschuiving van passieve naar actieve uitleg. Waar je voorheen een diagram op een slide toonde of een proces probeerde te beschrijven, kun je nu een interactief model laten genereren. Denk aan een draaiend 3D-model van een molecuul dat deelnemers kunnen bekijken vanuit elke hoek, of een grafiek die reageert wanneer ze een variabele aanpassen. Het concept wordt niet alleen getoond, maar ook ervaren. Dit kan met name waardevol zijn voor abstracte onderwerpen zoals statistiek, natuurkunde, scheikunde of financiële modellen, waar een visuele en interactieve aanpak het begrip aanzienlijk kan verdiepen.
 
-## Praktische toepassingen voor professionals
-Voor Nederlandse trainers en opleiders ligt de waarde vooral in het maatwerk en de flexibiliteit. Je hoeft niet langer te zoeken naar de perfecte, kant-en-klare animatie online. Je kunt in een gesprek met ChatGPT een specifiek vraagstuk uit jouw sector voorleggen en vragen om een interactieve visualisatie. Denk aan een model dat de doorlooptijd in een productieproces laat zien, waarbij je parameters als capaciteit of storingsfrequentie kunt aanpassen. Of een interactief diagram van een organisatiestructuur tijdens een verandertraject. De tool maakt abstracte theorie concreet en toepasbaar op de situatie van de cursist.
+## Hoe werkt de nieuwe functionaliteit?
+Volgens het artikel van TechCrunch, dat is gebaseerd op een aankondiging van OpenAI, vraag je ChatGPT simpelweg om een uitleg van een concept en specificeer je dat je een interactieve visual wilt. De AI genereert vervolgens code voor een interactieve weergave die direct in de chat kan worden uitgevoerd. Je hoeft dus zelf geen programmeur te zijn om deze tools te maken. Het is een directe integratie binnen de bestaande ChatGPT-interface, bedoeld om leren meer hands-on en onderzoekend te maken.
 
-## Hoe werkt de functie?
-Volgens het bericht van TechCrunch, dat is gebaseerd op een aankondiging van OpenAI, vraag je simpelweg aan ChatGPT om een uitleg met een interactieve visual. De AI genereert vervolgens code voor een dynamische weergave die in de chat geïntegreerd wordt. Gebruikers kunnen vervolgens met sliders, knoppen of door te slepen met de muis het model manipuleren. Het is een directe uitbreiding van de bestaande mogelijkheden om afbeeldingen en diagrammen te genereren, maar nu met een laag interactiviteit eroverheen.
+## De praktische waarde voor professionals
+De waarde ligt niet alleen in het onderwijs, maar ook in de professionele praktijk. Stel je voor: je geeft een workshop over data-analyse en wilt uitleggen hoe een bepaalde algoritmische parameter de uitkomst beïnvloedt. In plaats van een reeks slides met verschillende uitkomsten, genereer je één interactieve visual waar deelnemers zelf de schuifregelaar kunnen bewegen en het effect direct zien. Hetzelfde geldt voor het uitleggen van een technisch productontwerp, een supply chain-model of een economisch principe tijdens een strategiebespreking. Het transformeert abstracte informatie in een gedeelde, tastbare ervaring.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om in een volgende training over een technisch onderwerp ChatGPT te vragen een interactief model te maken van het kernconcept. Je zou de gegenereerde visual kunnen gebruiken als discussiestarter of oefening tijdens de workshop. Een andere optie is om de tool in te zetten voor het ontwikkelen van aanvullend cursusmateriaal, waar deelnemers na de sessie zelf nog mee kunnen experimenteren om hun begrip te verdiepen.
+Een mogelijkheid is om in een volgende training over een technisch onderwerp ChatGPT te vragen een interactieve visual te maken van het kernconcept, bijvoorbeeld "laat een interactief model zien van hoe rente-op-rente werkt". Je kunt dit dan integreren in je presentatie om het gesprek met de groep te starten. Een andere optie is om de tool te gebruiken om snel verhelderende voorbeelden te maken voor individuele vragen tijdens coaching sessies, waar een statische afbeelding tekort schiet. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: Techcrunch
+Bron: [Techcrunch](https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/)
