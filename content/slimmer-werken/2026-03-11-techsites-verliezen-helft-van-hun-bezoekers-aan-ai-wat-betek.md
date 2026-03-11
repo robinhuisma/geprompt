@@ -1,9 +1,9 @@
 ---
-title: "Techsites verliezen helft van hun bezoekers aan AI: wat betekent dat voor jouw content?"
-date: 2026-03-11T15:09:51.966Z
-tags: ["zoekmachines", "contentstrategie", "ai", "online marketing"]
+title: "Techsites verliezen helft van hun bezoekers aan AI: wat betekent dat voor jouw website?"
+date: 2026-03-11T19:08:36.829Z
+tags: ["zoekverkeer", "contentstrategie", "ai search", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "AI-antwoorden in Google zorgen voor een enorme daling in doorkliks naar websites. Dit vraagt om een nieuwe strategie voor online zichtbaarheid."
+summary: "Grote techwebsites zien hun zoekverkeer halveren door AI-antwoorden in Google, een trend die ook Nederlandse ondernemers raakt."
 cover:
   image: "/images/covers/2026-03-11-internationale-techsites-verloren-58-verkeer-aan-ai.webp"
   alt: "Internationale techsites verloren 58% verkeer aan AI"
@@ -12,19 +12,16 @@ source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/internationale-techsites-verloren-58-verkeer-ai"
 ---
 
-Grote internationale techwebsites hebben sinds 2024 meer dan de helft van hun bezoekers van Google verloren. Onderzoek toont aan dat sites als Wired, CNET en The Verge gezamenlijk daalden van 112 miljoen naar 47 miljoen maandelijkse bezoekers uit de VS. De oorzaak wordt gezocht bij de uitrol van AI-antwoorden (AI Overviews) direct in de zoekresultaten van Google, waardoor gebruikers niet meer hoeven door te klikken. Voor Nederlandse ondernemers die afhankelijk zijn van zoekverkeer is dit een signaal dat de traditionele contentstrategie op de schop moet.
+Grote Engelstalige techwebsites hebben sinds 2024 meer dan de helft van hun organische zoekverkeer verloren. Volgens een analyse door Emerce daalde het maandelijkse bezoek van de tien grootste technologiepublicaties in de VS van 112 miljoen naar 47 miljoen bezoekers. De dalingen variëren van 30 tot 90 procent en zijn sterk toegenomen sinds medio 2025, toen Google zijn AI-overzichten (AI Overviews) aanzienlijk uitbreidde. Deze ontwikkeling is niet Amerikaans; ook Britse media zoals de Daily Mail melden dalingen in doorklikratio's van 80 tot 90 procent wanneer AI-antwoorden in de zoekresultaten staan. Voor jou als ondernemer betekent dit dat de traditionele route naar je website via Google onder druk staat.
 
 ## Waarom klikken mensen niet meer door?
-De kern van het probleem is simpel: waarom zou je naar een artikel gaan als het antwoord al boven aan de pagina staat? Uit het onderzoek blijkt dat de sterkste daling in bezoekers begon medio 2025, toen Google de AI-overzichten aanzienlijk uitbreidde. In sommige gevallen, zoals bij de Daily Mail, daalden de doorklikratio's met 80 tot 90 procent wanneer er een AI-overzicht aanwezig was. De zoekmachine geeft steeds vaker een samenvattend antwoord, gebaseerd op meerdere bronnen, waardoor de individuele bron zelf minder relevant wordt voor de zoeker.
+De kern van het probleem is dat zoekmachines antwoorden steeds vaker direct op de resultatenpagina geven. Waar een zoeker eerst moest doorklikken naar een artikel voor een uitleg over een product of een hoe-to, krijgt hij nu een samenvattend AI-antwoord bovenaan de pagina. De noodzaak om jouw website te bezoeken voor basisinformatie verdwijnt daarmee. Daarnaast wijzen de onderzoekers op twee andere trends. Ten eerste krijgt platformen met gebruikerservaringen, zoals Reddit, meer autoriteit van Google en dus meer zichtbaarheid. Ten tweede gaan gebruikers Google steeds vaker helemaal voorbij voor productonderzoek en starten ze direct in een chatbot zoals ChatGPT, Claude of Perplexity.
 
-## Welke bronnen winnen wel terrein?
-Het onderzoek wijst op twee andere verschuivingen naast AI-antwoorden. Ten eerste kreeg het forum Reddit meer autoriteit toegewezen van Google en daardoor meer exposure in de resultaten. Gebruikers zoeken blijkbaar naar ervaringen en meningen van gelijken. Ten tweede slaat een groeiend aantal gebruikers Google volledig over voor productonderzoek en gaat direct naar gespecialiseerde AI-tools zoals ChatGPT, Claude of Perplexity. Dit betekent dat het speelveld voor aandacht niet alleen verandert, maar ook versplintert.
-
-## Wat betekent dit voor jouw bedrijf?
-Als je bedrijf afhankelijk is van organisch zoekverkeer via Google, is dit geen ver-van-mijn-bed-show. Het is een fundamentele verandering in hoe mensen informatie vinden. Het oude model – een zoekwoord targeten, hoog ranken en bezoekers ontvangen – wordt uitgehold. De waarde verschuift van het genereren van kliks naar het leveren van de informatie die AI gebruikt om zijn antwoorden samen te stellen, of naar het bieden van iets wat een AI (nog) niet kan: authentiek advies, diepgaande expertise of community.
+## Wat betekent dit voor jouw content?
+Deze verschuiving vraagt om een andere kijk op je contentstrategie. Content die puur gericht is op het beantwoorden van veelgestelde vragen of het uitleggen van basisconcepten (de zogenaamde "informational queries") loopt het grootste risico om irrelevant te worden. De waarde van je website verschuift van een bron van feitelijke antwoorden naar een plek voor diepgaande analyse, unieke expertise, betrouwbare gebruikerservaringen of het faciliteren van een transactie. Je autoriteit en betrouwbaarheid als bron worden belangrijker dan ooit.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke stap is om te evalueren of jouw belangrijkste content nog wel gevonden wordt zoals voorheen. Check of voor jouw kernonderwerpen AI-overzichten worden getoond en wat daar in staat. Je zou kunnen overwegen om meer te investeren in content die verder gaat dan feitelijke antwoorden, zoals praktijkcases, diepgaande analyses of het faciliteren van community-discussies, vergelijkbaar met de groeiende populariteit van fora. De praktische toepassing hangt verder af van jouw specifieke situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Een mogelijke stap is om je bestaande content te evalueren. Je zou kunnen inventariseren welke pagina's vooral bezoek trekken via algemene zoektermen en bedenken hoe je die kunt verdiepen met unieke casestudies, praktijkvoorbeelden uit je eigen klantenbestand of specialistisch advies dat verder gaat dan een basisuitleg. Een andere optie is om te experimenteren met het vormgeven van je kennis voor directe AI-interacties, bijvoorbeeld door te zorgen dat je productinformatie gestructureerd en accuraat online staat, zodat chatbots er correct uit kunnen putten.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
