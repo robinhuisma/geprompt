@@ -1,9 +1,9 @@
 ---
 title: "Vraag jezelf dit af voordat je SEO-budget naar AI verschuift"
-date: 2026-03-12T19:12:02.915Z
+date: 2026-03-12T23:08:20.426Z
 tags: ["seo", "ai", "marketing", "strategie"]
 categorieen: ["marketing-groei"]
-summary: "Verschuif niet blindelings budget naar AI-SEO; stel eerst kritische vragen over je huidige omzet, klantreis en meetbaarheid."
+summary: "Een praktische checklist om te bepalen of je budget naar AI-zoekmachines moet gaan, of dat traditionele SEO nog steeds je beste investering is."
 cover:
   image: "/images/covers/2026-03-12-before-you-shift-seo-budget-to-ai-ask-these-questions-webina.webp"
   alt: "Before You Shift SEO Budget to AI, Ask These Questions [Webinar] via @sejournal, @hethr_campbell"
@@ -12,23 +12,22 @@ source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/before-you-shift-seo-budget-to-ai-ask-these-questions-webinar/568836/"
 ---
 
-Voordat je marketingbudget verschuift van traditionele SEO naar AI-zoekmachines, is er één cruciale vraag: levert je huidige SEO nog steeds meetbare omzet op? Volgens een analyse in Search Engine Journal, een vakpublicatie, drijft traditionele SEO voor veel bedrijven nog steeds concrete inkomsten aan. De reflex om budget te verplaatsen naar de nieuwste trend, zoals optimaliseren voor generatieve AI-zoekopdrachten, kan daarom prestaties verdunnen in plaats van groei stimuleren. Het advies is niet om AI te negeren, maar om eerst een helder kader te hebben voordat je middelen verschuift van bewezen strategieën.
+Voordat je marketingbudget verschuift van bewezen SEO naar de hype van AI-zoekmachines, is er één cruciale vraag: levert het je ook daadwerkelijk meer op? Het gesprek wordt momenteel gedomineerd door AI, en de druk om een 'AI-strategie' te hebben is groot. Maar een snelle herverdeling van budget, weg van traditionele SEO die meetbare omzet genereert, kan je prestaties eerder verwateren dan groei stimuleren. De kunst is niet om mee te gaan met de hype, maar om een gefundeerde afweging te maken.
 
-## Waarom de keuze niet zwart-wit is
-Generatieve AI verandert hoe mensen informatie ontdekken, bijvoorbeeld via antwoorden direct in zoekresultaten (zoals Google's AI Overviews). Dit kan de traditionele klik-through naar websites verminderen. De kernvraag voor ondernemers is echter niet "AI of geen AI?", maar "Waar komt mijn omzet vandaan en hoe verandert dat?". Voor sommige bedrijven, vooral in transactionele of lokale zoekopdrachten, blijft traditionele SEO de ruggengraat van de verkoop. Voor anderen, met name in informatieve of onderzoeksfases, wordt AI-zoeken mogelijk steeds belangrijker. De kunst is om te bepalen waar jouw bedrijf staat.
+## Waarom de reflex om te verschuiven riskant is
+Traditionele SEO, het optimaliseren van je website voor zoekmachines zoals Google, is een bewezen kanaal waarvan de return on investment vaak direct meetbaar is in leads, verkopen of andere conversies. AI-zoekmachines, zoals de AI-overzichten van Google of tools als ChatGPT, veranderen weliswaar hoe mensen informatie ontdekken, maar het verdienmodel en de meetbaarheid ervan zijn voor de meeste bedrijven nog onduidelijk. Budget weghalen bij een bewezen, winstgevende activiteit voor een onzekere nieuwe is een strategische keuze die je niet op gevoel moet maken.
 
-## Vragen om je huidige SEO-waarde te meten
-Een eerste stap is het objectief in kaart brengen van de huidige situatie. Je zou je kunnen afvragen welk percentage van je omzet direct traceerbaar is naar organisch zoekverkeer. Dit gaat verder dan alleen bezoekersaantallen; het draait om conversies en klantwaarde. Een andere vraag is hoe je klanten je momenteel vinden. Doorloop hun reis: gebruiken ze vooral informatieve zoekwoorden waar AI antwoorden kan overnemen, of zoeken ze op productnamen of bedrijfsnamen waar direct bezoek nog steeds de norm is? Deze analyse helpt om te zien of je huidige SEO-budget nog op de juiste plek zit.
+## De vragen voor je eigen checklist
+Een gefundeerde beslissing begint met het stellen van de juiste vragen aan jezelf of je team. Een eerste vraag is: waar komt je huidige omzet en groei vandaan? Als traditionele zoekmachines nog steeds de belangrijkste aanjager zijn van je bedrijfsresultaten, is een radicale verschuiving riskant. Vervolgens kun je je afvragen wat het concrete doel is van investeren in AI-zoekoptimalisatie. Is het voor brand awareness, het beantwoorden van complexe vragen, of directe verkoop? De verwachtingen moeten in lijn zijn met wat de technologie op dit moment kan bieden.
 
-## Vragen om de AI-kans te evalueren
-Aan de andere kant is het belangrijk om de potentiële impact van AI-zoeken voor jouw specifieke niche te onderzoeken. Een vraag om te stellen is of jouw doelgroep waarschijnlijk early adopters zijn van nieuwe zoekinterfaces. Daarnaast kun je kijken naar het type vragen dat AI goed beantwoordt. Gaat het om feitelijke, samenvattende informatie waar jouw content mogelijk voor gerankt wordt, of om complexe, transactionele vragen waar een bezoek aan je website nog essentieel is? Het antwoord hierop bepaalt hoe urgent een strategie-aanpassing is.
+Een andere essentiële vraag gaat over meetbaarheid. Hoe ga je het succes en de ROI van je inspanningen in AI-zoek meten? Voor traditionele SEO heb je tools en KPI's zoals rankings, organisch verkeer en conversies. Voor AI-zoek zijn deze metrics vaak nog niet eenduidig of zelfs niet beschikbaar. Zonder een plan om impact te meten, investeer je in het duister.
 
-## Het belang van een gefaseerde aanpak
-Een volledige budgetverschuiving is zelden het juiste antwoord. Een mogelijkheid is om een gefaseerde aanpak te overwegen. Je zou een klein, afgebakend experiment kunnen opzetten om content te testen die mogelijk beter presteert in AI-zoekomgevingen, zonder je kern-SEO-activiteiten aan te tasten. Denk aan het creëren van uitgebreide, gezaghebbende content die directe, accurate antwoorden geeft op veelgestelde vragen in jouw vakgebied. Dit stelt je in staat te leren en data te verzamelen over wat werkt, voordat je grotere beslissingen neemt.
+## Hoe verhoudt AI-zoek zich tot je huidige strategie?
+In plaats van te denken in 'of-of', is het verstandiger om te kijken naar 'en-en'. AI-zoek hoeft niet per se een vervanging te zijn, maar kan een aanvulling zijn op je bestaande SEO-strategie. De vraag is dan: vullen ze elkaar aan of concurreren ze? Voor sommige bedrijven, vooral in informatieve of complexe branches, kan het zinvol zijn om content te creëren die goed presteert in AI-antwoorden. Voor anderen, bijvoorbeeld in directe e-commerce, blijft het optimaliseren voor traditionele productzoekopdrachten waarschijnlijk het meest effectief. Analyseer waar jouw doelgroep zich bevindt en welk type vraag ze stelt.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke eerste stap is het analyseren van je huidige websiteverkeer om te bepalen welk deel van je omzet direct van organische zoekresultaten komt. Vervolgens zou je kunnen onderzoeken of jouw belangrijkste zoektermen steeds vaker een direct AI-antwoord tonen in zoekmachines, bijvoorbeeld door handmatig te zoeken of tools te gebruiken die SERP-features monitoren. Op basis van die inzichten kun je een kleine test opzetten, zoals het optimaliseren van een bestaande blogpost om een uitgebreider, direct antwoord te geven op een veelgestelde vraag.
+Een mogelijke eerste stap is een interne audit: breng exact in kaart welk percentage van je omzet en leads momenteel van organische zoekresultaten komt voordat je iets wijzigt. Vervolgens zou je kunnen beginnen met een kleine, afgebakende pilot. Kies bijvoorbeeld één type content of één dienst en test hoe deze presteert in AI-zoekinterfaces versus traditionele zoekmachines, zonder je hoofdstrategie aan te tasten. Tot slot is een optie om de ontwikkelingen te volgen via betrouwbare bronnen, zoals het genoemde webinar van Search Engine Journal, om geïnformeerd te blijven zonder direct budget te moeten herverdelen.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: Search Engine Journal
+Bron: [Search Engine Journal](https://www.searchenginejournal.com/before-you-shift-seo-budget-to-ai-ask-these-questions-webinar/568836/)
