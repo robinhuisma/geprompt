@@ -1,6 +1,6 @@
 ---
 title: "Canva's nieuwe 'ontlaag'-tool maakt AI-ontwerpen direct aanpasbaar"
-date: 2026-03-12T03:08:19.301Z
+date: 2026-03-12T15:16:22.243Z
 tags: ["canva", "ai design", "creatief", "huisstijl"]
 categorieen: ["creatief"]
 summary: "Canva's Magic Layers zet vlakke AI-afbeeldingen om in gelaagde ontwerpen, zodat je elk element kunt aanpassen voor je huisstijl."
@@ -12,17 +12,20 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta"
 ---
 
-Canva heeft een nieuwe functie gelanceerd die een groot probleem van AI-ontwerpen oplost: de starheid. De tool, Magic Layers genaamd, neemt een vlakke afbeelding – zoals een door AI gegenereerde illustratie, logo-idee of complete poster – en breekt deze automatisch op in afzonderlijke, bewerkbare lagen. Volgens Canva's chief product officer, Cameron Adams, komt dit na een doorbraak van hun AI-onderzoeksteam. Het resultaat is dat je objecten, tekstvakken en andere grafische elementen individueel kunt selecteren en aanpassen, terwijl de oorspronkelijke opmaak behouden blijft. Voor ondernemers betekent dit dat je een AI-concept niet meer vanaf scratch hoeft na te maken om het in je huisstijl te gieten.
+Canva heeft een nieuwe functie gelanceerd die een groot praktisch probleem oplost voor ondernemers die met AI ontwerpen. De tool, Magic Layers genaamd, kan een vlakke afbeelding – zoals een gegenereerde illustratie of een geüploade PNG – automatisch opsplitsen in afzonderlijke, bewerkbare lagen. Dat betekent dat je een AI-ontwerp niet langer als een statisch plaatje hoeft te accepteren, maar elk onderdeel ervan kunt aanpassen, verplaatsen of verwijderen, precies zoals bij een professioneel gelaagd ontwerp.
 
-## Wat Magic Layers praktisch betekent voor je bedrijf
-Stel, je gebruikt een AI-tool om een visueel idee voor een sociale media-campagne of een nieuw logo-element te genereren. Meestal krijg je dan één statische afbeelding. Wil je de kleur van één onderdeel veranderen, de tekst aanpassen of een element verplaatsen, dan moet je ofwel de prompt opnieuw formuleren en hopen op een beter resultaat, of het hele ontwerp handmatig nabouwen in een editor. Magic Layers elimineert die stap. Het zet die vlakke output om in een bewerkbaar Canva-document. Je kunt dan direct de kleuren afstemmen op je huisstijl, bedrijfsspecifieke tekst toevoegen of elementen herschikken zonder dat je designvaardigheden nodig hebt. Het transformeert een inspiratiebeeld in een bruikbaar, professioneel asset.
+## Wat de Magic Layers-tool precies doet
+Stel, je gebruikt een AI-tool om een logo-idee of een illustratie voor je website te genereren. Het resultaat is meestal één vlak bestand. Met Magic Layers analyseert Canva's AI dat bestand en herkent het verschillende componenten: een achtergrond, losse objecten, tekstvakken en grafische elementen. Vervolgens zet het die componenten om in individuele lagen binnen de Canva-editor, waarbij de originele opzet behouden blijft. Je kunt dan met één klik op een element in de illustratie dat onderdeel selecteren en aanpassen, zonder dat je het hele ontwerp opnieuw hoeft te maken of te genereren.
 
-## De beperkingen en beschikbaarheid
-De functie is op dit moment in open bèta en gelanceerd in de Verenigde Staten, het Verenigd Koninkrijk, Canada en Australië. Een wereldwijde release, inclusief Nederland, zal waarschijnlijk volgen. Het is belangrijk om te beseffen dat dit een door Canva aangekondigde functie is. De praktische effectiviteit – hoe goed de AI verschillende elementen in complexe afbeeldingen uit elkaar kan houden – moet in de dagelijkse praktijk blijken. Het werkt waarschijnlijk het beste met duidelijke, grafische ontwerpen in plaats van zeer gedetailleerde, fotorealistische beelden.
+## De praktische waarde voor je merk en huisstijl
+Voor ondernemers ligt de echte waarde in consistentie en efficiëntie. Je kunt nu een AI-gegenereerde visuele stijl nemen en die moeiteloos doorvertalen naar al je uitingen. Bijvoorbeeld: je genereert een complexe header-afbeelding voor je website met een bepaalde sfeer en kleur. Vervolgens gebruik je Magic Layers om dezelfde grafische elementen uit die header te halen en te hergebruiken voor een social media-post, een presentatiedia of een flyer, allemaal binnen hetzelfde Canva-document. Het maakt AI-ontwerpen eindelijk flexibel en integreerbaar in een bestaande huisstijl, in plaats van dat het losse, niet-aanpasbare plaatjes blijven.
+
+## Beschikbaarheid en beperkingen
+Volgens Canva is de Magic Layers-tool vanaf nu beschikbaar in open bèta voor gebruikers in de Verenigde Staten, het Verenigd Koninkrijk, Canada en Australië. Het is een functie binnen het bestaande Canva-platform. Een logische beperking is dat de kwaliteit van het 'ontlagen' afhangt van de complexiteit en helderheid van de bronafbeelding. Hoe duidelijker de afzonderlijke elementen in de vlakke afbeelding, hoe beter de AI ze waarschijnlijk kan isoleren.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om de komende tijd de Canva-editor in de gaten te houden voor de wereldwijde beschikbaarstelling van Magic Layers. Je zou dan bestaande AI-afbeeldingen die je hebt gegenereerd kunnen uploaden om te zien of ze om te zetten zijn in bewerkbare lagen. Een andere optie is om, als je in de genoemde landen actief bent, de bètaversie nu al uit te proberen met eenvoudige, grafische AI-ontwerpen om het potentieel voor je eigen materiaal te testen.
+Een mogelijkheid is om te experimenteren met AI-ontwerpen die je al hebt, door ze in Canva te uploaden en te kijken of de Magic Layers-functie (als je toegang hebt) ze kan opsplitsen. Je zou kunnen proberen een gegenereerde afbeelding te gebruiken als startpunt voor een volledig aanpasbare template voor je volgende marketingcampagne. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: [The Verge](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)
+Bron: The Verge
