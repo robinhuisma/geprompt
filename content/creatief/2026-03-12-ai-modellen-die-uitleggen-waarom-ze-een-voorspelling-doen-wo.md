@@ -1,9 +1,9 @@
 ---
 title: "AI-modellen die uitleggen waarom ze een voorspelling doen, worden nu beter"
-date: 2026-03-12T03:07:54.866Z
-tags: ["ai-verklaringen", "compliance", "machine learning", "zorg"]
+date: 2026-03-12T11:16:17.788Z
+tags: ["ai-verklaringen", "compliance", "machine learning", "voorspellingen"]
 categorieen: ["creatief"]
-summary: "Onderzoekers hebben een methode ontwikkeld die AI-modellen dwingt om hun voorspellingen te verklaren met begrijpelijke concepten, wat vertrouwen en compliance in sectoren als de zorg kan vergroten."
+summary: "Onderzoekers hebben een methode ontwikkeld die AI-modellen dwingt om hun voorspellingen uit te leggen met heldere, relevante concepten, wat vertrouwen en compliance vergroot."
 cover:
   image: "/images/covers/2026-03-12-improving-ai-models-ability-to-explain-their-predictions.webp"
   alt: "Improving AI models’ ability to explain their predictions"
@@ -12,23 +12,23 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309"
 ---
 
-In sectoren waar de gevolgen groot zijn, zoals medische diagnostiek of industriële veiligheid, is een voorspelling alleen niet genoeg. Mensen willen weten *waarom* een AI-model tot een bepaalde conclusie komt, om te kunnen beoordelen of ze het kunnen vertrouwen. Onderzoekers van MIT en de Polytechnic University of Milan hebben een nieuwe methode ontwikkeld die AI-modellen dwingt om hun redenering uit te leggen met behulp van voor mensen begrijpelijke concepten, en die tegelijkertijd de nauwkeurigheid van de modellen verbetert.
+In sectoren waar de gevolgen groot zijn, zoals de medische diagnostiek of industriële kwaliteitscontrole, is een voorspelling alleen niet genoeg. Je moet ook kunnen begrijpen *waarom* een AI-model tot die conclusie komt. Onderzoekers van MIT hebben nu een methode ontwikkeld die bestaande computervisie-modellen kan omvormen tot modellen die hun redenering uitleggen met heldere, menselijke concepten. Dit kan het vertrouwen in de technologie vergroten en helpen bij het voldoen aan regelgeving.
 
 ## Wat is een concept bottleneck model?
 
-Een concept bottleneck model is een type AI-model dat niet direct van invoer naar een voorspelling springt. In plaats daarvan moet het eerst zijn redenering vertalen naar een tussenlaag van vooraf gedefinieerde, begrijpelijke concepten. Een voorbeeld uit de bron: een arts zou concepten als "geclusterde bruine stippen" en "bonte pigmentatie" kunnen definiëren. Het model moet dan eerst aangeven of het die concepten in een medische afbeelding herkent, en pas daarna de voorspelling "melanoom" doen. Dit geeft inzicht in de denkstappen van de AI.
+Een concept bottleneck model is een type AI dat niet direct van invoer naar uitvoer springt. In plaats daarvan dwingt het model zichzelf om eerst een tussenstap te nemen: het moet zijn voorspelling baseren op een set van vooraf gedefinieerde, begrijpelijke concepten. Een voorbeeld uit de bron: een arts zou concepten als "geclusterde bruine stippen" en "bonte pigmentatie" kunnen aanreiken om een model te helpen bij het herkennen van melanoom op een medische scan. Het model moet dan eerst deze concepten identificeren en vervolgens zeggen: "Omdat ik geclusterde bruine stippen en bonte pigmentatie zie, voorspel ik dat dit melanoom is."
 
 ## Het probleem met vooraf bedachte concepten
 
-De traditionele aanpak heeft een belangrijk nadeel: de concepten worden door menselijke experts vooraf bedacht. Deze kunnen te algemeen zijn, irrelevant voor de specifieke taak, of essentiële details missen. Als het model gedwongen wordt om met onvolledige of slecht gekozen concepten te werken, kan dat de nauwkeurigheid van de voorspellingen verminderen. Je krijgt dan wel een uitleg, maar mogelijk ten koste van de kwaliteit van het resultaat.
+De traditionele aanpak heeft een belangrijk nadeel. De concepten worden door mensen bedacht voordat het model getraind wordt. Deze concepten kunnen irrelevant zijn voor de specifieke taak, of juist te vaag. Als het model gedwongen wordt om met slechte of onvolledige concepten te werken, daalt de nauwkeurigheid van de voorspelling. Het is alsof je een detective dwingt een moord op te lossen met alleen een vooraf opgestelde checklist van verdachte aanwijzingen, terwijl hij op de plaats delict veel betere aanwijzingen ziet die niet op de lijst staan.
 
-## De nieuwe aanpak: concepten leren van het model zelf
+## De nieuwe methode: concepten leren uit het model zelf
 
-De nieuwe methode, ontwikkeld door het MIT-team, lost dit op door de concepten niet vooraf op te leggen, maar ze te laten *extracteren* uit het AI-model zelf. Het gebruikt een paar gespecialiseerde machine-learning modellen die de kennis uit een getraind computervisie-model "uitlezen" en vertalen naar duidelijke, tekstuele concepten. Deze concepten zijn dus inherent aan wat het model heeft geleerd om zijn taak goed uit te voeren. Volgens de onderzoekers leidt dit tot betere, beknoptere uitleg en tegelijkertijd tot een hogere voorspellingnauwkeurigheid vergeleken met standaard concept bottleneck modellen. De techniek kan in principe elk bestaand computervisie-model omzetten in een model dat zijn redenering kan uitleggen.
+De door MIT-onderzoekers ontwikkelde methade pakt dit probleem aan door de concepten niet vooraf op te leggen, maar ze uit het AI-model zelf te halen. De techniek gebruikt een paar gespecialiseerde machine learning-modellen die de kennis uit een reeds getraind doelmodel extraheren en vertalen naar begrijpelijke concepten. In essentie "leest" de methode de kennis die het model al heeft opgedaan tijdens zijn training en formuleert die in duidelijke taal. Volgens de onderzoekers leidt het gebruik van deze betere, taakspecifieke concepten tot hogere nauwkeurigheid en duidelijkere uitleg dan bij standaard concept bottleneck modellen.
 
 ## Waarom dit belangrijk is voor ondernemers en professionals
 
-Voor toepassingen waar vertrouwen, verantwoording en compliance cruciaal zijn, is deze ontwikkeling relevant. Denk aan een medisch diagnostisch hulpmiddel dat niet alleen een kans op een ziekte geeft, maar ook de visuele kenmerken benoemt die tot die conclusie leidden. Of een AI-systeem in een fabriek dat een defect voorspelt en uitlegt welke afwijkingen in het product het heeft waargenomen. Dit vergroot het vertrouwen van gebruikers, zoals artsen of technici, en kan helpen bij het voldoen aan regelgeving die transparantie van algoritmen vereist. Het maakt zogenaamde "black-box" AI-modellen meer verantwoordelijk.
+Voor een ondernemer in de zorg, de maakindustrie, de financiële sector of elke andere compliance-gedreven omgeving gaat dit verder dan alleen technische vooruitgang. Het gaat om *accountability* en vertrouwen. Een model dat kan uitleggen waarom het een defect product, een frauduleuze transactie of een medische afwijking signaleert, maakt de technologie transparanter. Dit kan helpen bij het overtuigen van collega's, het onderbouwen van beslissingen tegenover toezichthouders en het opbouwen van vertrouwen bij klanten of patiënten. Het verandert AI van een "black box" in een samenwerkingspartner die zijn redenering deelt.
 
 ## Hoe kun je dit vandaag toepassen?
 
