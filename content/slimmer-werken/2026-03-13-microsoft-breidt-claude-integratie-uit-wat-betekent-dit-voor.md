@@ -1,7 +1,7 @@
 ---
 title: "Microsoft breidt Claude-integratie uit: wat betekent dit voor jouw dagelijkse werk?"
-date: 2026-03-13T11:22:22.709Z
-tags: ["microsoft copilot", "ai agents", "werkproces", "integratie"]
+date: 2026-03-13T15:25:39.054Z
+tags: ["microsoft copilot", "ai agents", "workflow", "productiviteit"]
 categorieen: ["slimmer-werken"]
 summary: "Microsoft integreert de krachtige AI Claude breder in Copilot, wat kan leiden tot slimmere en meer zelfstandige assistentie in je dagelijkse apps."
 cover:
@@ -12,19 +12,18 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/microsoft-recommits-to-ai-agents"
 ---
 
-Microsoft maakt zijn Copilot-assistent slimmer door de AI-model Claude van Anthropic breder te integreren in zijn producten. Het doel is om tot zogenaamde 'agentic' of zelfstandiger werkende AI-tools te komen die verschillende taken kunnen uitvoeren zonder dat je voor elke stap opnieuw een opdracht hoeft te geven. Dit is een voortzetting van de strategie om AI diep te verweven in de tools die je al gebruikt, zoals Microsoft 365.
+Microsoft maakt zijn Copilot-assistent slimmer door de AI-modelfamilie van Anthropic, Claude, breder te integreren in zijn producten. Dit is geen vervanging van de bestaande GPT-modellen, maar een uitbreiding. Het doel is om gebruikers meer keuze en mogelijk krachtigere, meer zelfstandige (agentic) AI-hulp te bieden binnen de Microsoft 365-apps die je al gebruikt, zoals Outlook, Word en Teams.
 
-## Wat is een AI-agent in deze context?
-In plaats van een chatbot die slechts één vraag per keer beantwoordt, streeft Microsoft naar AI's die meer op een assistent lijken. Zo'n agent kan een complexe opdracht, zoals "Bereid de kwartaalpresentatie voor", opbreken in een reeks acties. Denk aan het verzamelen van data uit Excel, het schrijven van een samenvatting in Word, het maken van slides in PowerPoint en het inplannen van een overleg in Teams. Het idee is dat de AI zelf de logische stappen bepaalt en de juiste apps gebruikt om het doel te bereiken.
+De bredere beschikbaarheid van Claude binnen het Copilot-ecosysteem betekent dat de AI-taken mogelijk beter of anders uitgevoerd kunnen worden. Volgens Microsoft zijn bepaalde modellen beter in specifieke taken. Door meerdere modellen aan te bieden, kan Copilot de taak mogelijk doorsturen naar het model dat er het beste voor geschikt is, of je een keuze geven. Dit kan leiden tot nauwkeurigere samenvattingen van lange documenten, creatievere tekstvoorstellen of complexere logische redeneringen binnen je workflow, zonder dat je zelf hoeft te schakelen tussen verschillende AI-tools.
 
-## De rol van Claude in dit geheel
-Claude, ontwikkeld door het bedrijf Anthropic, staat bekend om zijn sterke prestaties in begrip en het verwerken van lange teksten. Door dit model breder beschikbaar te maken binnen het Copilot-ecosysteem, krijgt de AI mogelijk meer denkvermogen en nuance. Volgens Microsoft is dit een stap naar "interoperabele" agenten, wat suggereert dat verschillende AI-modellen naadloos samen kunnen werken om de beste tool voor de klus te kiezen. Het is een manier voor Microsoft om niet uitsluitend afhankelijk te zijn van zijn eigen modellen, maar de kracht van externe specialisten te benutten.
+## De verschuiving naar 'agentic' AI
+Deze stap past in een grotere trend die Microsoft en anderen omarmen: de ontwikkeling naar 'agentic AI'. Dit zijn AI-systemen die niet alleen reageren op een enkele prompt, maar een reeks stappen kunnen plannen en uitvoeren om een doel te bereiken. Denk aan een assistent die niet alleen een e-mail opstelt, maar ook de bijlage uit je OneDrive haalt, de agenda's van collega's controleert voor een vergadervoorstel en dat voorstel vervolgens in de Teams-kanaal plaatst – allemaal na één instructie. De bredere integratie van geavanceerde modellen zoals Claude is een bouwsteen voor dit soort complexere, zelfstandigere assistentie.
 
-## Praktische gevolgen voor werkprocessen
-Voor jou als ondernemer of professional betekent dit dat de assistentie in tools als Outlook, Word en Excel op termijn mogelijk uitgebreider en autonomer wordt. Waar Copilot nu vooral reageert op directe prompts, kan het in de toekomst meer initiatief nemen en langere workflows beheren. De belofte is minder schakelen tussen apps en minder handmatig kopiëren en plakken. Het is belangrijk om te benadrukken dat dit een doorontwikkeling is van bestaande functionaliteit, geen geheel nieuwe productlancering.
+## Praktische gevolgen voor jouw bedrijf
+Voor Nederlandse ondernemers en teams vertaalt dit zich vooral naar meer mogelijkheden binnen de tools die ze vaak al hebben. Je hoeft niet per se een nieuw systeem aan te leren. In plaats daarvan kan de assistent in je vertrouwde Microsoft-omgeving geleidelijk aan capabeler worden. Het kan de kwaliteit van geautomatiseerde taken verbeteren, zoals het opstellen van contracten op basis van klantspecificaties, het analyseren van data in Excel, of het beantwoorden van complexe vragen over bedrijfsdocumenten. De belofte is een vloeiendere integratie van AI in je dagelijkse werk, waarbij de technologie meer op de achtergrond meedenkt en uitvoert.
 
 ## Hoe kun je dit vandaag toepassen?
-De bredere integratie van Claude is een geleidelijke update binnen het bestaande Copilot-aanbod. Een praktische stap is om de huidige mogelijkheden van Copilot in Microsoft 365 actief te verkennen en te experimenteren met complexere prompts. Je zou kunnen testen of het helpt bij het samenstellen van documenten uit meerdere bronnen. Daarnaast is het zinvol om de aankondigingen van Microsoft te volgen voor wanneer nieuwe, meer 'agent-achtige' features breed beschikbaar komen.
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

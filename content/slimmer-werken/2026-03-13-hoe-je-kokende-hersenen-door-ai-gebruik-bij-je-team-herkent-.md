@@ -1,27 +1,32 @@
 ---
 title: "Hoe je 'kokende hersenen' door AI-gebruik bij je team herkent en voorkomt"
-date: 2026-03-13T07:21:50.940Z
-tags: ["ai", "mentale gezondheid", "productiviteit", "teammanagement"]
+date: 2026-03-13T15:24:54.047Z
+tags: ["ai", "mentale gezondheid", "productiviteit", "werkritme"]
 categorieen: ["slimmer-werken"]
-summary: "Intensief gebruik van AI-tools kan leiden tot mentale overbelasting. Hier lees je hoe je de signalen herkent en praktische grenzen stelt."
+summary: "Intensief gebruik van AI-tools kan leiden tot mentale overbelasting. Hier lees je hoe je de signalen herkent en een gezond werkritme instelt."
 cover:
-  image: "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace"
-  caption: "Foto: Skylar Kang via Pexels"
+  image: "https://images.pexels.com/photos/3184463/pexels-photo-3184463.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Flat lay of a modern workspace featuring a laptop, coffee cup, and various accessories on a white background."
+  caption: "Foto: fauxels via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/nieuw-onderzoek-wijst-op-de-keerzijde-van-intensief-ai-gebruik-kokende-hersenen"
 ---
 
-Intensief gebruik van AI-tools kan leiden tot wat onderzoekers 'AI brain fry' noemen: een staat van mentale overbelasting die de productiviteit ondermijnt. Uit een onderzoek van Boston Consulting Group en de University of California, gepubliceerd in Harvard Business Review, blijkt dat ongeveer 14 procent van de ondervraagde werknemers zich al mentaal oververmoeid voelt door het werken met AI. Het probleem ontstaat niet door het werk zelf, maar door het managen van meerdere AI-agents. Het menselijk brein raakt overbelast door het constante switchen tussen tools en het controleren van hun output, wat leidt tot concentratieproblemen, besluiteloosheid en meer fouten.
+Een groeiend aantal professionals ervaart mentale overbelasting door intensief gebruik van AI-tools, een fenomeen dat 'AI brain fry' wordt genoemd. Dit uit zich in concentratieproblemen, besluiteloosheid, meer fouten en hoofdpijn. Het is soms zo erg dat mensen letterlijk van hun computer moeten weglopen om hun brein te resetten. Dit blijkt uit nieuw onderzoek van Boston Consulting Group en de University of California, gepubliceerd in Harvard Business Review, onder bijna 1500 Amerikaanse werknemers. Ongeveer 14 procent geeft aan wel eens mentaal oververmoeid te raken door intensief AI-gebruik.
 
-## De signalen van overbelasting herkennen
-De mentale overbelasting uit zich in concrete symptomen waar je als leidinggevende op kunt letten. Medewerkers beschrijven het gevoel alsof ze twaalf browsertabs in hun hoofd open hebben staan die allemaal om aandacht strijjden. Ze betrappen zichzelf erop dat ze dezelfde tekst steeds opnieuw lezen, aan hun eigen conclusies gaan twijfelen en ongeduldig worden. Een praktisch signaal is wanneer iemand letterlijk van zijn computer wegloopt om zijn brein te 'resetten'. Het kernprobleem is dat mensen harder werken aan het beheren van de tools dan aan het oplossen van het werkelijke probleem.
+## Waardoor ontstaat die mentale overbelasting?
+De overbelasting ontstaat vooral bij mensen die meerdere AI-agents of -tools tegelijk aansturen en daardoor in een veel hoger tempo werken. De tools leveren zo snel resultaat dat het cognitieve deel van ons brein het niet meer kan bijhouden. Volgens het onderzoek raken mensen niet uitgeput van het werk zelf, maar van het managen van de AI. Het constante switchen tussen tools en het controleren van hun output leidt tot mentale ruis. Een deelnemer aan het onderzoek omschreef het als "twaalf browsertabs in mijn hoofd open hebben staan, die allemaal om aandacht strijden". Dit leidt tot herlezen, twijfel aan eigen conclusies en ongeduld.
 
-## Waarom meer tools minder oplevert
-Het onderzoek toont aan dat het intensief monitoren en controleren van AI-tools de grootste mentale belasting veroorzaakt. Deze vorm van toezicht kost volgens de studie 14 procent meer cognitieve inspanning, leidt tot 12 procent meer mentale vermoeidheid en zorgt voor 19 procent meer informatie-overload. De paradox is dat het inzetten van meer AI, bedoeld om efficiënter te werken, op deze manier juist contraproductief kan worden. Het brein is simpelweg niet gebouwd om op deze schaal en snelheid informatie te verwerken en beslissingen over externe agents te nemen.
+## Wat is de grootste energievreter?
+Het meest vermoeiend voor het menselijk brein is het houden van direct toezicht op de AI-tools. Dit intensief monitoren en controleren van wat de tools doen, kost volgens het onderzoek 14 procent meer cognitieve belasting. Het leidt tot 12 procent meer mentale vermoeidheid en 19 procent meer informatie-overload. Ironisch genoeg kan het inzetten van meer tools dus leiden tot minder productiviteit en een groter gevoel van overweldiging, omdat het beheer van de tools meer energie kost dan het oplossen van het oorspronkelijke probleem.
+
+## Hoe herken je de signalen bij je team?
+Je zou kunnen letten op signalen die wijzen op cognitieve overbelasting. Dit zijn onder meer een afnemend vermogen om zich te concentreren op complexe taken, een toename van besluiteloosheid in situaties waar dat voorheen niet speelde, en een stijging van kleine fouten in het werk. Teamleden kunnen zich ook ongeduldiger tonen of aangeven last te hebben van hoofdpijn. Een ander signaal is wanneer iemand aangeeft harder te werken aan het beheren en controleren van tools dan aan de inhoudelijke taak zelf.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke stap is om met je team in gesprek te gaan over hun ervaringen met AI-tools. Vraag specifiek naar gevoelens van mentale ruis of vermoeidheid na intensief gebruik. Een andere optie is om het aantal gelijktijdig gebruikte AI-agents per persoon of per project te beperken, in plaats van het gebruik aan te moedigen zonder grenzen. Je zou kunnen overwegen om bewust rustmomenten of 'focusblokken' zonder AI in te plannen, gebaseerd op het idee van het 'resetten' van het brein dat in het onderzoek naar voren kwam.
+Een mogelijkheid is om het gesprek aan te gaan over het AI-werkritme binnen je team. Je zou kunnen vragen of mensen het gevoel hebben de regie te verliezen door het gebruik van meerdere tools. Een andere suggestie is om te experimenteren met het beperken van het aantal gelijktijdig gebruikte AI-tools voor een specifieke taak, in plaats van meerdere agents tegelijk in te zetten, om de cognitieve belasting te verminderen.
+
+*De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
 Bron: [Sprout](https://mtsprout.nl/tech-innovatie/nieuw-onderzoek-wijst-op-de-keerzijde-van-intensief-ai-gebruik-kokende-hersenen)
