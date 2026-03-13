@@ -1,9 +1,9 @@
 ---
-title: "AI die zijn beslissingen kan uitleggen: een praktische stap voor risicovolle sectoren"
-date: 2026-03-13T03:16:36.616Z
-tags: ["ai uitlegbaarheid", "computer vision", "risicomanagement", "vertrouwen"]
+title: "AI die zijn beslissingen kan uitleggen: een praktische stap voor compliance"
+date: 2026-03-13T11:17:58.294Z
+tags: ["ai", "uitlegbaarheid", "compliance", "computervisie"]
 categorieen: ["creatief"]
-summary: "Onderzoekers ontwikkelen een methode om bestaande AI-modellen te dwingen hun voorspellingen uit te leggen in begrijpelijke concepten, wat vertrouwen kan vergroten in sectoren als zorg en financiën."
+summary: "Een nieuwe methode maakt bestaande computervisie-modellen beter in het geven van begrijpelijke uitleg, wat vertrouwen en compliance in sectoren als zorg en financiën kan vergroten."
 cover:
   image: "/images/covers/2026-03-13-improving-ai-models-ability-to-explain-their-predictions.webp"
   alt: "Improving AI models’ ability to explain their predictions"
@@ -12,23 +12,23 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309"
 ---
 
-AI-modellen zijn vaak een black box: ze geven een antwoord, maar je weet niet waarom. In risicovolle situaties, zoals een medische diagnose of het beoordelen van een kredietaanvraag, is dat een groot probleem. Onderzoekers van het MIT hebben nu een methode ontwikkeld die bestaande computervisie-modellen kan omvormen tot systemen die hun voorspellingen kunnen uitleggen in begrijpelijke concepten. Dit kan de toepasbaarheid van AI in sectoren waar vertrouwen en controle cruciaal zijn, aanzienlijk vergroten.
+Onderzoekers van MIT hebben een methode ontwikkeld die bestaande AI-modellen voor beeldherkenning kan omvormen tot systemen die hun voorspellingen kunnen uitleggen in begrijpelijke concepten. Deze aanpak, die concepten uit het model zelf haalt in plaats van ze vooraf door mensen te laten definiëren, leidt volgens de onderzoekers tot nauwkeurigere voorspellingen en duidelijkere uitleg. Voor ondernemers in sectoren waar toezicht en vertrouwen cruciaal zijn, zoals medische diagnostiek, financiële risicoanalyse of kwaliteitscontrole, kan dit een manier zijn om de zogenaamde 'black-box' AI transparanter te maken.
 
 ## Wat is een concept bottleneck model?
 
-De kern van de nieuwe aanpak is het concept bottleneck model. Dit is een methode waarbij een AI-model gedwongen wordt om zijn redenering te laten verlopen via vooraf door mensen gedefinieerde concepten. Stel, een AI moet bepalen of een huidfoto melanoom toont. Een arts kan dan concepten voorschrijven zoals "geclusterde bruine stippen" of "bonte pigmentatie". Het model moet eerst aangeven of het die concepten ziet, en vervolgens op basis daarvan een diagnose stellen. Dit geeft de gebruiker inzicht in de denkstappen.
+De methode bouwt voort op een bestaande techniek genaamd 'concept bottleneck modeling'. Hierbij wordt een AI-model gedwongen om zijn voorspelling te baseren op een set van vooraf gedefinieerde, menselijk begrijpelijke concepten. Een voorbeeld uit de bron: een arts zou concepten als "geclusterde bruine stippen" en "bonte pigmentatie" kunnen aanleveren om een model te helpen bij het herkennen van melanoom op een medische scan. Het model moet dan eerst deze concepten identificeren en vervolgens zijn diagnose stellen op basis daarvan. Dit geeft de gebruiker inzicht in de redenering.
 
-Het probleem met deze traditionele aanpak is dat de vooraf bedachte concepten soms niet precies genoeg zijn of niet aansluiten bij wat het model daadwerkelijk heeft geleerd. Dit kan de nauwkeurigheid van het model verminderen. De MIT-onderzoekers hebben dit opgelost door het model niet te forceren externe concepten te gebruiken, maar door de concepten te laten afleiden uit de kennis die het model al in zich heeft.
+## De beperking van vooraf gedefinieerde concepten
 
-## Hoe werkt de nieuwe, automatische methode?
+Het probleem met de standaard aanpak is dat de vooraf door experts bedachte concepten soms niet relevant genoeg zijn of te weinig detail bevatten voor de specifieke taak. Dit kan de nauwkeurigheid van het model verminderen. De nieuwe MIT-methade pakt dit aan door niet te vragen om concepten, maar ze zelf uit het model te halen.
 
-De nieuwe techniek gebruikt een paar gespecialiseerde machine learning-modellen die samenwerken. Het eerste model analyseert een bestaand, getraind AI-model (bijvoorbeeld voor beeldherkenning) en extraheert daaruit de belangrijkste patronen die het heeft geleerd. Het tweede model vertaalt deze abstracte patronen vervolgens naar begrijpelijke, tekstuele concepten. Het resultaat is dat vrijwel elk voorgetraind computervisie-model omgezet kan worden in een model dat zijn voorspellingen kan onderbouwen met deze automatisch gegenereerde concepten.
+## Hoe de nieuwe methode werkt
 
-Volgens de onderzoekers leidt het gebruik van deze intern gegenereerde, taakspecifieke concepten tot betere prestaties en duidelijkere, bondigere uitleg dan bij modellen die werken met vooraf opgelegde concepten. Het doel is, zoals een van de onderzoekers het stelt, om "de gedachten van deze computervisie-modellen te kunnen lezen" en zo de verantwoording van black-box AI te verbeteren.
+De onderzoekers gebruiken een paar gespecialiseerde machine learning-modellen die automatisch kennis extraheren uit een reeds getraind computervisie-model. Deze kennis wordt vervolgens vertaald naar eenvoudige, tekstuele concepten. In essentie "leest" hun techniek de interne logica van het bestaande model en zet die om in een uitleg. Volgens hoofdonderzoeker Antonio De Santis kan hun methode daardoor elk voorgetraind computervisie-model omvormen tot een model dat concepten gebruikt om zijn redenering uit te leggen. Het voordeel is dat deze concepten beter aansluiten bij wat het model daadwerkelijk heeft geleerd, wat volgens het onderzoek leidt tot betere prestaties en duidelijkere uitleg.
 
-## Waarom is dit relevant voor ondernemers en professionals?
+## Praktische implicaties voor ondernemers
 
-Voor professionals in sectoren waar fouten grote gevolgen hebben, is een uitlegbare AI geen luxe maar een noodzaak. Denk aan een radioloog die een AI-second opinion wil, een financiële compliance officer die een fraudemelding moet beoordelen, of een kwaliteitscontroleur in de maakindustrie. Als het systeem kan uitleggen *waarom* het een afwijking ziet – bijvoorbeeld "onregelmatige lasnaad" of "afwijkende textuur" – kan de menselijke expert sneller en met meer vertrouwen een gefundeerde beslissing nemen. Het vermindert het risico op blind vertrouwen in een ondoorzichtig algoritme.
+Voor een Nederlandse ondernemer of professional in een gereguleerde sector gaat dit niet om de technische details, maar om de mogelijkheid. Het betekent dat AI-tools voor beeldanalyse – denk aan het beoordelen van röntgenfoto's, het inspecteren van productiefouten op een lopende band, of het analyseren van satellietbeelden voor verzekeringsclaims – in de toekomst niet alleen een conclusie kunnen geven, maar ook een onderbouwde reden. Dit kan helpen bij het voldoen aan compliance-eisen, het opbouwen van vertrouwen bij klanten of patiënten, en het intern valideren van AI-beslissingen door menselijke experts.
 
 ## Hoe kun je dit vandaag toepassen?
 
