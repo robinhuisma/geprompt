@@ -1,9 +1,9 @@
 ---
-title: "Microsoft zet in op AI-agents die zelfstandig taken uitvoeren in je software"
-date: 2026-03-13T07:22:33.104Z
-tags: ["microsoft", "ai agents", "automatisering", "copilot"]
+title: "Microsoft zet in op AI-agents die zelfstandig taken uitvoeren binnen je bestaande apps"
+date: 2026-03-13T19:17:52.042Z
+tags: ["microsoft copilot", "ai agents", "workflow automatisering", "productiviteit"]
 categorieen: ["slimmer-werken"]
-summary: "Microsoft breidt Copilot uit met 'agents' die langlopende taken kunnen uitvoeren en samenwerken met andere tools, wat processen kan automatiseren."
+summary: "Microsoft integreert AI-agents zoals Claude in Copilot, waardoor je straks complexe workflows kunt automatiseren zonder tussen apps te hoeven schakelen."
 cover:
   image: "/images/covers/2026-03-13-microsoft-recommits-to-ai-agents-with-new-copilot-features.webp"
   alt: "Microsoft Recommits to AI Agents With New Copilot Features"
@@ -12,16 +12,19 @@ source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/microsoft-recommits-to-ai-agents"
 ---
 
-Microsoft werkt aan een nieuwe fase voor zijn AI-tools, waarbij de focus verschuift van een chatbot die je vragen beantwoord naar een 'agent' die zelfstandig langdurige taken kan uitvoeren. Dit betekent dat toekomstige versies van Copilot bijvoorbeeld een volledig onderzoeksproject kunnen managen, van het vinden van bronnen tot het schrijven van een conceptrapport, zonder dat je elke stap handmatig hoeft aan te sturen. Deze ontwikkeling, waarbij AI niet alleen reageert maar zelf initiatief neemt binnen bepaalde kaders, wordt 'agentic AI' genoemd.
+Microsoft verbreedt de mogelijkheden van zijn Copilot door AI-agents zoals Claude van Anthropic dieper te integreren in zijn producten. Het doel is interoperabele, 'agentische' tools te creëren. In de praktijk betekent dit dat de AI niet langer alleen assisteert met vragen of het genereren van tekst, maar zelfstandig acties kan uitvoeren en complexe workflows kan afhandelen over verschillende applicaties heen. Dit is een verschuiving van een assistent naar een autonome agent die taken voor je kan voltooien.
 
-## Wat zijn AI-agents in de praktijk?
-In plaats van één-op-één interacties, waarbij je een prompt intypt en een antwoord krijgt, kunnen agents een reeks acties plannen en uitvoeren. Denk aan een agent die je helpt bij het plannen van een nieuw product: hij kan zelf marktdata ophalen uit bepaalde databases, een vergelijkende analyse maken in Excel, een presentatie-opzet genereren in PowerPoint en dit alles in een Teams-kanaal delen met de juiste collega's. De agent handelt dit af als één doorlopende taak. Microsoft noemt dit streven naar "interoperabele, agentic tools", wat erop neerkomt dat de AI naadloos tussen verschillende applicaties zoals Teams, Excel en de Azure-cloud kan bewegen om een doel te bereiken.
+## Wat betekent een AI-agent voor jouw werk?
+Een traditionele chatbot of Copilot reageert op je prompt. Een AI-agent krijgt een doel toegewezen – bijvoorbeeld "Bereid de wekelijkse verkoopupdate voor" – en voert dan zelf de stappen uit om dat te bereiken. Volgens Microsoft zou zo'n agent kunnen inloggen op verschillende systemen, data ophalen uit een CRM, deze analyseren, een presentatie samenstellen in PowerPoint en deze vervolgens delen met het team via Teams, allemaal zonder dat jij tussen de apps hoeft te schakelen. Het gaat om het automatiseren van multi-stap processen.
 
-## De rol van verschillende AI-modellen
-Om dit mogelijk te maken, integreert Microsoft volgens het artikel het AI-model Claude van concurrent Anthropic breder in zijn aanbod. Het idee is niet om het ene model te vervangen door het andere, maar om het juiste model voor de juiste taak in te zetten. Microsofts eigen GPT-4 van OpenAI zou bijvoorbeeld sterk kunnen zijn in creatieve tekst, terwijl Claude mogelijk beter is in het nauwkeurig volgen van complexe instructies. Voor jou als gebruiker zou dit betekenen dat Copilot op de achtergrond het meest geschikte model kiest voor de taak die je de agent geeft, zonder dat je daar zelf over na hoeft te denken.
+## De bredere integratie van Claude
+Een concrete stap in deze richting is de bredere integratie van het AI-model Claude van Anthropic in het Microsoft ecosysteem. Claude is beschikbaar als een modeloptie binnen Azure AI Studio en wordt nu ook rechtstreeks geïntegreerd in Microsoft Copilot. Dit geeft gebruikers en ontwikkelaars meer keuze in welk taalmodel ze voor welke agentische taak willen inzetten. Het onderstreept de strategie om AI-functionaliteit niet als een geïsoleerde tool, maar als een onderdeel van de bestaande werkruimte aan te bieden.
+
+## De beweging naar interoperabiliteit
+Een kernpunt van Microsoft's aanpak is interoperabiliteit. Het idee is dat AI-agents naadloos moeten kunnen werken tussen verschillende Microsoft 365-apps zoals Outlook, Word, Excel en Teams, maar ook met externe services. Dit vermindert de noodzaak voor handmatige data-overdracht en het constant wisselen tussen vensters. Voor een ondernemer kan dit betekenen dat een agent automatisch offertes uit een e-mail kan halen, de details in een Excel-sheet logt en een herinnering in je agenda zet voor opvolging.
 
 ## Hoe kun je dit vandaag toepassen?
-Deze specifieke agent-capaciteiten zijn nog in ontwikkeling en niet algemeen beschikbaar. Een mogelijke stap is om je vertrouwd te maken met de huidige automatisering in Microsoft 365, zoals het instellen van herhalende workflows in Power Automate, om een beeld te krijgen van waar AI-agents naartoe werken. Daarnaast zou je kunnen verkennen hoe de bestaande Copilot in bijvoorbeeld Word of Outlook nu al taken kan versnellen, als een voorproefje van meer geavanceerde assistentie. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

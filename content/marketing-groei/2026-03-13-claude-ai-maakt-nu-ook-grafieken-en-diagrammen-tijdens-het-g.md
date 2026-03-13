@@ -1,32 +1,29 @@
 ---
 title: "Claude AI maakt nu ook grafieken en diagrammen tijdens het gesprek"
-date: 2026-03-13T11:12:51.635Z
-tags: ["ai", "visualisatie", "communicatie", "productiviteit"]
+date: 2026-03-13T19:09:40.372Z
+tags: ["ai", "visualisatie", "data-analyse", "productiviteit"]
 categorieen: ["marketing-groei"]
-summary: "De AI van Anthropic kan nu zelf bepalen wanneer een visueel overzicht nuttig is en die direct in de chat genereren, van organigrammen tot procesdiagrammen."
+summary: "De AI van Anthropic kan nu zelf grafieken en diagrammen genereren, wat handig is voor data-analyse en het visualiseren van processen."
 cover:
-  image: "https://images.pexels.com/photos/7948062/pexels-photo-7948062.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "Vibrant area and stacked area charts showcased on a modern television."
-  caption: "Foto: RDNE Stock project via Pexels"
+  image: "https://images.pexels.com/photos/8636589/pexels-photo-8636589.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A professional workspace featuring computers and analytical graphs on a monitor, symbolizing modern business environment."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
 ---
 
-Claude, de AI-chatbot van Anthropic, kan nu tijdens een gesprek zelf grafieken, diagrammen en andere visuals genereren. Het systeem bepaalt autonoom of een visuele weergave nuttig zou zijn op basis van de context van je chat. In plaats van deze afbeeldingen in een apart zijpaneel te tonen, plaatst Claude ze direct in de conversatiestroom. Dit betekent dat je tijdens een brainstorm of een vraag-en-antwoordsessie plotseling een helder overzicht krijgt voorgeschoteld.
+Claude, de AI-chatbot van Anthropic, kan nu tijdens een gesprek zelf grafieken, diagrammen en andere visualisaties genereren. Als de AI denkt dat een beeld nuttig is voor je vraag, plaatst hij die direct in het gesprek. Dit betekent dat je niet meer zelf naar een apart programma hoeft te schakelen om data of processen in beeld te brengen. De update maakt Claude geschikter voor taken waarbij inzichtelijk maken centraal staat.
 
-## Van abstract gesprek naar concreet beeld
+## Wat betekent dit voor jouw werk?
+Voor ondernemers en professionals die regelmatig met data of complexe processen werken, kan dit een flinke tijdwinst opleveren. Denk aan het snel maken van een staafdiagram om verkoopcijfers te vergelijken, het uittekenen van een organogram voor je teamstructuur, of het visualiseren van een werkstroom. Claude bepaalt zelf wanneer een visual nuttig is en genereert die dan. Volgens Anthropic kan de AI bijvoorbeeld een interactief periodiek systeem genereren of een diagram dat laat zien hoe gewicht door een gebouw wordt gedragen.
 
-De kracht zit in de spontaniteit. Stel, je bespreekt de herverdeling van verantwoordelijkheden binnen je team. In plaats van een lange tekstuele uitleg, zou Claude een organigram kunnen genereren dat de nieuwe structuur in één oogopslag duidelijk maakt. Een ander voorbeeld uit de aankondiging is een vraag over hoe gewicht zich door een gebouw verspreidt, waarop de AI een technische visualisatie genereert. Het gaat dus om het omzetten van complexe, abstracte concepten uit een gesprek naar begrijpelijke beelden.
-
-## De AI beslist mee over de communicatie
-
-Een opvallend aspect is dat de AI zelf initieert. Je hoeft niet specifiek om een diagram te vragen; Claude analyseert de conversatie en besluit dat een visual de communicatie kan verbeteren. Deze functionaliteit is geïntegreerd in de hoofdinterface, waardoor de flow van het gesprek behouden blijft. Het is een verschuiving van een tool die reageert op commando's naar een gesprekspartner die meedenkt over de beste vorm van uitleg.
+## De kracht van directe visualisatie
+Het belangrijkste verschil met eerdere mogelijkheden is dat de visualisatie nu *in-line* in het gesprek verschijnt. Je hoeft dus niet te wisselen tussen een chatvenster en een apart dashboard of tekenprogramma. Dit maakt het gesprek met de AI vloeiender en de informatie directer toepasbaar. Het is een stap richting AI die niet alleen tekst begrijpt en produceert, maar ook de visuele context van een vraag kan inschatten en daarop kan anticiperen.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een mogelijke toepassing is het gebruik van Claude voor het ophelderen van interne processen. Je zou een beschrijving van een werkstroom kunnen bespreken en laten visualiseren in een stroomschema. Een andere optie is het gebruik bij klantpresentaties, waar een uitgelegd concept direct kan worden omgezet in een eenvoudige grafiek ter verduidelijking. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Een mogelijkheid is om Claude te gebruiken om interne processen, zoals een klantenservicetraject of een productieflow, snel in een diagram te gieten voor een presentatie. Je zou ook kunnen experimenteren met het vragen naar een visuele weergave van marktdata of financiële trends, om sneller een beeld te krijgen zonder spreadsheet-software te openen. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: The Verge
+Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams)
