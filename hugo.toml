@@ -14,7 +14,7 @@ buildFuture = false
   env = "production"
   description = "Dagelijks AI-nieuws voor Nederlandse ondernemers. Kort, feitelijk, toepasbaar."
   author = "Geprompt Redactie"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
@@ -23,7 +23,7 @@ buildFuture = false
   ShowCodeCopyButtons = false
   disableSpecial1stPost = false
 
-  disableThemeToggle = true
+  disableThemeToggle = false
   ShowMenu = true
 
 
