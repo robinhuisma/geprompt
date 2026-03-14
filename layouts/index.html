@@ -10,7 +10,7 @@
 
 {{- range $i, $sectie := $secties -}}
   {{- $pages := where site.RegularPages "Section" $sectie -}}
-  {{- $pages = (sort $pages ".Date" "desc") | first 7 -}}
+  {{- $pages = (sort $pages ".Date" "desc") | first 11 -}}
 
   {{- if gt (len $pages) 0 -}}
 
@@ -26,7 +26,7 @@
       {{/* LINKS: 2 gestapelde artikelen */}}
       <div class="links-stack">
         {{- range $index, $page := $pages -}}
-          {{- if and (ge $index 1) (le $index 2) -}}
+          {{- if and (ge $index 1) (le $index 4) -}}
             <a href="{{ $page.Permalink }}" class="links-card">
               {{- if $page.Params.cover.image -}}
                 <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="links-img" loading="lazy">
@@ -91,7 +91,7 @@
 
     <div class="vierkoloms-grid">
       {{- range $index, $page := $pages -}}
-        {{- if lt $index 4 -}}
+        {{- if lt $index 8 -}}
           <a href="{{ $page.Permalink }}" class="grid-card">
             {{- if $page.Params.cover.image -}}
               <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="grid-img" loading="lazy">

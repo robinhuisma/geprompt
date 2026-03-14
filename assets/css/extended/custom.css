@@ -197,3 +197,11 @@
 [data-theme="dark"] header {
   background: rgb(29, 30, 32) !important;
 }
+
+  line-height: 1.4;
+}
+
+/* Contentbreedte gelijk aan headerbreedte */
+:root {
+  --main-width: 1024px;
+}
