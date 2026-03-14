@@ -1,7 +1,7 @@
 ---
 title: "Google zet AI in voor slimmere routeplanning en navigatie in Maps"
-date: 2026-03-14T03:18:15.525Z
-tags: ["google", "navigatie", "ai-integratie", "routeplanning"]
+date: 2026-03-14T10:15:01.182Z
+tags: ["google", "navigatie", "ai-integratie", "consumententechnologie"]
 categorieen: ["slimmer-werken"]
 summary: "Google integreert zijn AI-model Gemini in Maps, wat leidt tot een meer interactieve en visuele navigatie-ervaring voor gebruikers."
 cover:
@@ -13,16 +13,16 @@ source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/google-brings-gemini-to-the-road"
 ---
 
-Google zet een nieuwe stap in het praktisch toepassen van AI door zijn model, Gemini, te integreren in Google Maps. Dit betekent niet dat je auto plotseling zelfstandig rijdt, maar wel dat de manier waarop je routes plant en navigeert interactiever en visueler wordt. Volgens Google worden er twee nieuwe functies geïntroduceerd: 'Ask Maps' en 'Immersive Navigation'.
+Google brengt zijn AI-model Gemini naar de weg door het te integreren in Google Maps. Dit resulteert in twee nieuwe functies: 'Ask Maps' en 'Immersive Navigation'. Voor ondernemers die veel onderweg zijn of logistiek beheren, betekent dit een verschuiving naar meer interactieve en visueel ondersteunde navigatie.
 
-## Wat Ask Maps voor je kan doen
-Ask Maps is een functie die je in staat stelt om vragen te stellen over je route of bestemmingen. In plaats van zelf door lijsten met restaurants of bezienswaardigheden te scrollen, kun je bijvoorbeeld vragen: "Wat zijn leuke lunchplekken onderweg die ook parkeerruimte hebben?" of "Laat me een route zien langs historische gebouwen." Het AI-model, Gemini, zoekt dan in de database van meer dan 300 miljoen plaatsen en bijbehorende reviews om een relevant antwoord te geven. Dit kan het plannen van een zakelijke trip of een efficiënte route voor bezorgingen vereenvoudigen.
+## Ask Maps maakt routeplanning interactief
+De eerste nieuwe functie heet 'Ask Maps'. In plaats van zelf verschillende zoekopdrachten te doen, kun je nu vragen stellen in natuurlijke taal. Je zou bijvoorbeeld kunnen vragen: "Wat is een goede lunchplek halverwege mijn rit van Amsterdam naar Utrecht die ook parkeerplaatsen heeft?" Volgens Google gebruikt Gemini dan een database van meer dan 300 miljoen plaatsen en beoordelingen om een relevant antwoord te geven. Dit maakt het plannen van een route met tussenstops minder een kwestie van losse zoekacties en meer een conversatie.
 
-## De opkomst van Immersive Navigation
-De tweede grote toevoeging is Immersive Navigation. Deze functie maakt gebruik van Gemini om Street View-beelden en luchtfoto's te analyseren en je route vervolgens in een gedetailleerde 3D-weergave te tonen. Dit betekent dat je op je scherm niet alleen de weg ziet, maar ook gebouwen, viaducten, zebrapaden en andere herkenningspunten in een realistischere vorm krijgt gepresenteerd. Het idee is dat dit je beter voorbereid de weg op stuurt, omdat de omgeving herkenbaarder is.
+## Immersive Navigation geeft een 3D-voorproefje
+De tweede functie is 'Immersive Navigation'. Deze functie rendert de volledige route in 3D. Volgens het bronartikel analyseert Gemini hiervoor Street View-beelden en luchtfoto's om gebouwen, viaducten, zebrapaden en andere details weer te geven voordat je vertrekt. Het idee is dat je een visuele voorstelling van de route krijgt, wat kan helpen om oriëntatiepunten te herkennen en lastige kruispunten beter te begrijpen. Naast deze visuele upgrade krijgt ook de gesproken begeleiding een meer conversatie-achtige toon.
 
-## Andere praktische upgrades in de pijplijn
-Naast deze twee hoofdfuncties kondigt Google ook andere verbeteringen aan. Denk aan meer conversatie-achtige stemaanwijzingen tijdens het rijden, Street View-voorbeelden van je bestemming met informatie over parkeren, en duidelijker weergegeven afwegingen tussen alternatieve routes (zoals sneller versus minder tol). Deze updates passen in een bredere strategie waarbij Google Gemini integreert in veelgebruikte producten zoals Gmail, Docs en Android, zonder dat gebruikers nieuwe apps hoeven te installeren.
+## De bredere strategie van Google
+Deze update voor Maps past in een bredere strategie van Google om Gemini in al zijn bestaande, veelgebruikte producten te integreren. Eerder gebeurde dit al met Gmail, Docs, Sheets en Android. Het voordeel voor Google is duidelijk: door AI toe te voegen aan apps die miljarden mensen al gebruiken, hoeven gebruikers niets nieuws te installeren. Voor de gebruiker verandert de vertrouwde tool geleidelijk in een slimmere assistent.
 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
