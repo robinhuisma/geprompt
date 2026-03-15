@@ -1,9 +1,9 @@
 ---
 title: "OpenAI wil videomodel Sora direct in ChatGPT integreren"
-date: 2026-03-15T10:58:06.929Z
-tags: ["video", "generatieve ai", "chatgpt", "creatief"]
+date: 2026-03-15T22:59:50.853Z
+tags: ["video", "ai", "chatgpt", "creatief"]
 categorieen: ["creatief"]
-summary: "OpenAI werkt aan de integratie van videomodel Sora in ChatGPT, waardoor je video's kunt genereren vanuit een vertrouwde chatinterface."
+summary: "OpenAI werkt aan de integratie van videomodel Sora in ChatGPT, waardoor je video's kunt genereren vanuit een bekende chatinterface."
 cover:
   image: "/images/covers/2026-03-15-openai-wil-videomodel-sora-direct-in-chatgpt-integreren.webp"
   alt: "OpenAI wil videomodel Sora direct in ChatGPT integreren"
@@ -12,19 +12,19 @@ source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1751573/je-kan-binnenkort-video-s-genereren-met-chatgpt.html"
 ---
 
-OpenAI is van plan om zijn geavanceerde videogeneratiemodel, Sora, rechtstreeks in de ChatGPT-interface te bouwen. Het doel is volgens het bedrijf om een nieuwe impuls te geven aan de interesse in generatieve AI. Voor jou als ondernemer betekent dit dat de stap tussen een idee bedenken en een visueel concept zien kleiner wordt, zonder dat je hoeft te schakelen tussen verschillende gespecialiseerde tools.
+OpenAI is bezig om zijn geavanceerde videogeneratiemodel, Sora, rechtstreeks in de ChatGPT-interface te bouwen. Dat betekent dat je straks vanuit hetzelfde chatvenster waar je nu tekst bespreekt of afbeeldingen maakt, ook video's kunt laten genereren op basis van een beschrijving. Het doel van het bedrijf is volgens het artikel om opnieuw momentum en aandacht te creëren in de snel evoluerende AI-markt.
 
-## Wat betekent Sora in ChatGPT?
-Sora is het AI-model van OpenAI dat realistische en complexe videoscènes kan genereren op basis van een tekstbeschrijving. Door dit direct in ChatGPT te plaatsen, verandert de chatinterface van een tekstuele assistent in een multimodaal creatieplatform. Je zou een gesprek kunnen voeren over een marketingconcept en vervolgens direct kunnen vragen om een korte videoscène die dat concept visualiseert. Het schept de verwachting dat creatieve iteratie – het aanpassen van een idee op basis van wat je ziet – veel sneller en natuurlijker verloopt.
+## Wat betekent dit voor jouw werk?
+Voor ondernemers en professionals verandert dit de drempel voor het maken van video-content. In plaats van te moeten schakelen tussen gespecialiseerde videotools of complexe software te leren, zou je straks een idee voor een korte video kunnen uitschrijven in een chat. Denk aan een concept voor een productdemonstratie, een uitleganimatie voor een interne training, of een visuele sfeerimpressie voor een marketingcampagne. De interface blijft de vertrouwde, tekstuele dialoog die je van ChatGPT gewend bent.
 
-## De praktische waarde voor ondernemers
-De directe integratie in een tool die veel professionals al gebruiken, verlaagt de drempel om met AI-video te experimenteren. Je hoeft geen nieuwe software te leren of complexe prompts voor een apart systeem te schrijven. In plaats daarvan kun je binnen hetzelfde ChatGPT-gesprek waarin je copy bedenkt of een strategie bespreekt, ook vragen om visuele ondersteuning. Dit kan nuttig zijn voor het snel maken van moodboards, het visualiseren van productconcepten voor interne presentaties, of het genereren van ideeën voor social media-content.
+## De praktische voordelen op een rij
+Het grootste voordeel is snelheid en gemak in de vroege, creatieve fase. Je hoeft niet eerst een storyboard te tekenen in een apart programma of een editor te openen. Je beschrijft wat je in gedachten hebt, en het systeem genereert een visuele vertaling daarvan. Dit kan vooral waardevol zijn voor het genereren van eerste concepten, het visualiseren van abstracte ideeën voor een team, of het maken van eenvoudige, ondersteunende video-elementen. Het is een manier om sneller van idee naar eerste visuele uitwerking te komen.
 
-## Een heropleving van de hype?
-OpenAI geeft zelf aan dat het met deze move een heropleving van de hype rond generatieve AI wil creëren. De introductie van Sora eerder dit jaar trok veel aandacht, maar de daadwerkelijke, brede beschikbaarheid liet op zich wachten. Door het nu in ChatGPT te stoppen, maakt het bedrijf de technologie toegankelijker voor zijn enorme bestaande gebruikersbasis. Het is een strategische zet om AI-video van een indrukwekkende demo naar een geïntegreerd onderdeel van de dagelijkse werkstroom te brengen.
+## Een belangrijke kanttekening
+Het is cruciaal om te benadrukken dat dit een aankondiging is van een ontwikkeling die nog in volle gang is. De functionaliteit is op het moment van schrijven nog niet beschikbaar voor het publiek. OpenAI geeft aan ermee bezig te zijn, maar concrete releasedata of details over de uiteindelijke mogelijkheden en beperkingen ontbreken nog. Het blijft afwachten hoe krachtig en betrouwbaar de geïntegreerde tool uiteindelijk zal zijn.
 
 ## Hoe kun je dit vandaag toepassen?
-De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+De directe toepassing is er nog niet, maar je kunt je wel voorbereiden. Een mogelijkheid is om nu al te oefenen met het helder en gedetailleerd omschrijven van visuele scenes in tekst, aangezien dat de basis zal vormen voor het genereren van video's. Je zou ook kunnen verkennen welke bestaande videogeneratietools, zoals die van Runway of Pika, al beschikbaar zijn om een gevoel te krijgen bij wat er met tekst-aan-video mogelijk is. De praktische toepassing in ChatGPT zelf hangt af van de uiteindelijke release.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

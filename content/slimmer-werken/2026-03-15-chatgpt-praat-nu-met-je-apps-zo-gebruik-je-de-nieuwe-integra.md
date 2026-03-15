@@ -1,9 +1,9 @@
 ---
 title: "ChatGPT praat nu met je apps: zo gebruik je de nieuwe integraties"
-date: 2026-03-15T19:01:42.908Z
-tags: ["chatgpt", "integraties", "automatisering", "productiviteit"]
+date: 2026-03-15T23:03:04.692Z
+tags: ["chatgpt", "automatisering", "productiviteit", "apps"]
 categorieen: ["slimmer-werken"]
-summary: "Je kunt nu via ChatGPT direct opdrachten geven aan apps zoals Spotify, Canva en Expedia, zonder te schakelen tussen schermen."
+summary: "Je kunt nu via ChatGPT direct acties uitvoeren in apps zoals Spotify, Canva en Expedia, zonder te schakelen tussen schermen."
 cover:
   image: "/images/covers/2026-03-15-how-to-use-the-new-chatgpt-app-integrations-including-doorda.webp"
   alt: "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others"
@@ -12,19 +12,19 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
 ---
 
-ChatGPT kan nu rechtstreeks communiceren met andere applicaties. Dit betekent dat je via het chatvenster van ChatGPT opdrachten kunt geven aan diensten zoals Spotify, Canva, Figma, Expedia en anderen, zonder dat je zelf tussen die apps hoeft te schakelen. Het is een manier om verschillende digitale taken te centraliseren en te versnellen.
+ChatGPT kan nu direct communiceren met andere applicaties. Dat betekent dat je binnen hetzelfde chatvenster een playlist kunt laten aanmaken in Spotify, een afbeelding kunt laten ontwerpen in Canva of een reis kunt laten boeken via Expedia. Het is een manier om taken te automatiseren zonder dat je zelf tussen verschillende apps en tabbladen hoeft te schakelen. De functie, die volgens OpenAI beschikbaar is voor ChatGPT-gebruikers, werkt door je toestemming te geven om ChatGPT toegang te verlenen tot specifieke diensten.
 
-## Wat kun je ermee in de praktijk?
+## Hoe de integraties werken
+De kern is dat je ChatGPT toestemming geeft om namens jou acties uit te voeren in een andere app. In de praktijk vraag je bijvoorbeeld: "Zoek een vlucht van Amsterdam naar Barcelona volgende week en toon de goedkoopste opties." Als je de Expedia-integratie hebt ingeschakeld, kan ChatGPT die zoekopdracht uitvoeren en de resultaten direct in het chatvenster tonen. Hetzelfde principe geldt voor het aanmaken van een ontwerp in Canva op basis van een tekstbeschrijving, of het samenstellen van een werkmuziek-playlist in Spotify. Je blijft de controle houden over wat er gebeurt; ChatGPT vraagt meestal om bevestiging voordat een definitieve actie, zoals een boeking, wordt voltooid.
 
-De integratie werkt zo dat je, binnen een gesprek met ChatGPT, een specifieke app kunt 'oproepen' om een taak uit te voeren. Volgens het artikel op Techcrunch kun je bijvoorbeeld tegen ChatGPT zeggen: "Gebruik Spotify om een afspeellijst te maken voor een werklunch." ChatGPT zal dan, met jouw toestemming, de Spotify-app inschakelen en die afspeellijst samenstellen. Hetzelfde principe geldt voor het maken van een ontwerp in Canva op basis van een tekstbeschrijving, het zoeken naar vluchten via Expedia, of het beheren van een project in een tool als Asana. Het idee is dat je de natuurlijke taal van ChatGPT gebruikt als een universele afstandsbediening voor je software.
+## Mogelijke toepassingen voor ondernemers
+Voor professionals kan dit tijd besparen bij repetitieve, administratieve taken. Een mogelijkheid is het snel genereren van sociale media-afbeeldingen voor een campagne via Canva, gebaseerd op een korte briefing die je in de chat typt. Een andere toepassing is het plannen en onderzoeken van zakenreizen via diensten zoals Expedia of Kayak, allemaal binnen één interface. Voor creatieven kan het handig zijn om direct muziek of audiocontent te laten zoeken en afspelen via Spotify tijdens het werken, zonder de workflow te onderbreken. Het zijn vooral de kleine handelingen die, bij elkaar opgeteld, veel schakeltijd kunnen kosten.
 
-## Waar moet je op letten?
-
-Deze functionaliteit is beschikbaar in de ChatGPT-app en vereist dat je een account hebt bij de externe dienst (zoals Spotify of Canva) en deze koppelt aan je ChatGPT-account. Je geeft daarbij toestemming voor bepaalde acties. Het is een ontwikkeling die de grenzen tussen verschillende apps vervaagt, maar het vraagt ook om bewustwording over welke rechten je aan een AI-assistent geeft. Het is een krachtig hulpmiddel voor het automatiseren van routinehandelingen, zoals het plannen van een reis of het genereren van sociale media-afbeeldingen.
+## Waar je op moet letten
+Het is belangrijk om te beseffen dat je ChatGPT toegang geeft tot je accounts bij deze diensten. Je zou daarom kunnen overwegen om dit alleen in te schakelen voor accounts die specifiek voor werk zijn bedoeld, en niet voor je persoonlijke hoofdaccount. Controleer altijd welke acties een integratie precies mag uitvoeren. Daarnaast zijn deze functies, volgens het artikel, beschikbaar binnen het ChatGPT-platform zelf. Het vereist dus een actief ChatGPT-abonnement dat dergelijke plug-ins of integraties ondersteunt.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een mogelijkheid is om te beginnen met een integratie voor een veelvoorkomende taak, zoals het maken van visuals. Je zou in ChatGPT kunnen vragen om "een vierkant social media-bericht in Canva te maken met de tekst 'Teamuitje vrijdag' en een vrolijke achtergrond". Een andere optie is om de reisplanning te stroomlijnen door ChatGPT te vragen om "via Expedia de goedkoopste retourvlucht van Amsterdam naar Barcelona volgende maand te zoeken". De praktische toepassing hangt af van de apps die je dagelijks gebruikt en de taken die je wilt versnellen.
+Een eerste stap is om binnen je ChatGPT-account te kijken naar de sectie voor plug-ins of integraties, vaak te vinden in de instellingen. Je zou kunnen beginnen met het inschakelen van één integratie, zoals Canva voor snelle ontwerpen of Spotify voor muziekbeheer, om te ervaren hoe het de workflow beïnvloedt. Bekijk per dienst welke specifieke commando's en vragen het beste werken door te experimenteren met duidelijke, eenvoudige instructies.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
