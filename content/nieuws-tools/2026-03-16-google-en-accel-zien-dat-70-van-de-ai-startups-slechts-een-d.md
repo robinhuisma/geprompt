@@ -1,9 +1,9 @@
 ---
 title: "Google en Accel zien dat 70% van de AI-startups slechts een dun laagje vernis is"
-date: 2026-03-16T11:01:03.441Z
-tags: ["ai", "innovatie", "startups", "strategie"]
+date: 2026-03-16T23:00:05.122Z
+tags: ["ai", "startups", "innovatie", "investeren"]
 categorieen: ["nieuws-tools"]
-summary: "Investeerders wijzen 'AI-wrappers' af en zoeken naar startups die fundamentele problemen oplossen, een les voor elke ondernemer die met AI aan de slag wil."
+summary: "Investeerders wijzen oppervlakkige 'AI-wrappers' af en zoeken naar startups die fundamentele problemen oplossen met eigen technologie."
 cover:
   image: "/images/covers/2026-03-16-google-accel-india-accelerator-chooses-5-startups-and-none-a.webp"
   alt: "Google, Accel India accelerator chooses 5 startups and none are &#8216;AI wrappers&#8217;"
@@ -12,19 +12,19 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
 ---
 
-Google en Accel, twee zware namen in de tech-investeringswereld, hebben een duidelijke boodschap na het beoordelen van meer dan 4000 aanmeldingen voor hun acceleratorprogramma in India: het overgrote deel van de AI-startup-pitches is oppervlakkig. Ongeveer 70% van de pitches betrof zogenaamde 'wrappers'. Dit zijn bedrijven die een dun laagje software om een bestaande, vaak openbare AI-model heen bouwen, zonder fundamenteel nieuwe technologie of een diepgaand probleem op te lossen. Uiteindelijk kozen ze vijf startups, en geen daarvan was zo'n wrapper.
+Google en Accel, twee zware namen in de techwereld, hebben onlangs meer dan 4000 aanvragen voor hun Indiase accelerator-programma beoordeeld. Hun conclusie is helder: ongeveer 70% van de AI-startup-pitches waren zogenaamde 'wrappers'. Dit zijn bedrijven die een dun laagje AI, vaak in de vorm van een chat-interface, over een bestaande dienst of API leggen zonder fundamentele nieuwe technologie toe te voegen. Uiteindelijk kozen ze vijf startups die hier wel van verschillen. Voor Nederlandse ondernemers die met AI aan de slag willen, is dit een belangrijk signaal over wat investeerders en de markt écht waarderen.
 
 ## Wat is een 'AI-wrapper' precies?
-Een AI-wrapper is in essentie een toegangspoort. Stel, OpenAI biedt een krachtige taalmodel-API aan, zoals GPT-4. Een wrapper-startup bouwt daar een chatinterface, een specifieke workflow of een eenvoudige integratie omheen en verkoopt dat als een eigen product. Het voegt weinig toe dat niet snel door een concurrent kan worden gekopieerd, omdat de onderliggende 'motor' niet van hen is. Het risico is groot: als de leverancier van het basismodel de prijzen verhoogt, de API verandert of zelf een vergelijkbare dienst lanceert, stort het hele businessmodel in. Investeerders als Google en Accel zien hierin geen duurzame waarde en wijzen dit massaal af.
+Een AI-wrapper is in essentie een oppervlakkige toepassing. Stel, je pakt de API van een grote taalmodel-leverancier, bouwt er een eenvoudige webinterface omheen en verkoopt het als een nieuwe oplossing voor bijvoorbeeld het genereren van marketingteksten. De kerntechnologie is niet van jou, de toegevoegde waarde is minimaal en de concurrentie is moordend omdat iedereen toegang heeft tot dezelfde onderliggende tools. Volgens de analyse van Google en Accel bestaat het merendeel van de huidige AI-startup-pitches uit dit soort concepten. Het is snel gebouwd, maar ook snel gekopieerd en biedt weinig duurzaam concurrentievoordeel.
 
-## De les voor Nederlandse ondernemers en innovators
-Deze trend is niet alleen relevant voor venture capitalists in India. Het is een waarschuwing en een kompas voor elke Nederlandse ondernemer, ZZP'er of professional die met AI aan de slag wil. Het verleidelijk is om snel een tool te bouwen die gebruikmaakt van ChatGPT of een vergelijkbaar model. Het gevaar schuilt erin dat je bedrijf dan geen eigen 'unieke waarde' of 'technisch voordeel' meer heeft. Je onderscheidt je niet meer van de tienduizenden anderen die precies hetzelfde doen. De echte vraag die je jezelf moet stellen is: los ik een concreet, complex probleem op voor een specifieke doelgroep, waar AI een onderdeel van de oplossing is? Of ben ik slechts een doorgeefluik voor andermans technologie?
+## Waarom wijzen investeerders deze af?
+Investeerders zoals Google en Accel zijn op zoek naar bedrijven met een 'verdedigbare positie' – een uniek voordeel dat niet eenvoudig is na te maken. Een wrapper heeft dat niet. De onderliggende AI wordt geleverd door een ander bedrijf, de prijzen en voorwaarden kunnen veranderen, en de marge blijft vaak laag. De vijf startups die wel werden geselecteerd, werken volgens de aankondiging aan fundamentele innovaties op gebieden zoals AI voor Indiase talen, AI-gestuurde diagnostiek en AI voor landbouw. Het verschil zit 'm in het oplossen van een hard, specifiek probleem met eigen technologie of diepgaande integratie, in plaats van het alleen maar toegankelijker maken van een generieke tool.
 
-## De vijf gekozen startups geven richting
-Hoewel het artikel niet in detail ingaat op de vijf geselecteerde startups, is het feit dat ze géén wrappers zijn veelzeggend. Dergelijke programma's zoeken naar bedrijven die werken aan fundamentele innovatie. Denk aan het ontwikkelen van nieuwe AI-modellen voor specifieke domeinen (zoals medische beeldanalyse of materiaalwetenschap), het bouwen van robuuste infrastructuur die AI-toepassingen mogelijk maakt, of het creëren van unieke datasets en toepassingen die zonder diepgaande expertise niet te kopiëren zijn. Dit is de richting waarin serieuze investeerders kijken.
+## Wat betekent dit voor jouw onderneming?
+Het onderscheid tussen een wrapper en fundamentele innovatie is niet alleen relevant voor startups die op zoek zijn naar miljoeneninvesteringen. Het is een nuttige lens voor elke ondernemer die AI wil inzetten. Het gaat om de vraag: voeg je alleen gemak toe, of los je een wezenlijk probleem op? Een wrapper is bijvoorbeeld een eenvoudige chatbot op je website die standaardvragen beantwoordt. Een fundamentele toepassing gebruikt AI om een compleet nieuw inzicht te genereren uit je bedrijfsdata, om een productieproces te optimaliseren dat voorheen ondoorgrondelijk was, of om een dienst te personaliseren op een schaal die voorheen onmogelijk was. De laatste categorie bouwt echte waarde en onderscheidend vermogen op.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijkheid is om bij je volgende AI-project kritisch te kijken of je een fundamenteel probleem aanpakt of slechts een bestaande tool verpakt. Je zou kunnen beginnen door jezelf af te vragen welk uniek inzicht of welke specifieke data alleen jij hebt, die de basis kan vormen voor iets nieuws. Een andere benadering is om AI te zien als een onderdeel van je oplossing, niet als de oplossing zelf, en te focussen op de integratie met bestaande processen of het oplossen van pijnpunten waar generieke tools niet bij kunnen.
+Een mogelijkheid is om bij je volgende AI-project niet te beginnen bij de tool, maar bij het probleem. Stel jezelf de vraag: welk knelpunt in mijn bedrijfsvoering of dienstverlening is complex, tijdrovend en nog niet opgelost? Onderzoek vervolgens of AI het *fundamentele* proces kan verbeteren, in plaats van er alleen een nieuw sausje over te gieten. Een andere suggestie is om kritisch te kijken naar bestaande AI-diensten die je gebruikt of overweegt: is het een eenvoudige interface op andermans technologie, of biedt het unieke aanpassingen, integraties of kennis die specifiek zijn voor jouw sector? Die laatste categorie heeft meer kans op duurzaam succes.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
