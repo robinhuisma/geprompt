@@ -1,9 +1,9 @@
 ---
-title: "EU wil AI-bouwers laten betalen voor jouw content, wat betekent dat voor jou?"
-date: 2026-03-16T06:58:58.614Z
-tags: ["auteursrecht", "ai-beleid", "content", "intellectueel eigendom"]
+title: "EU wil AI-bouwers laten betalen voor jouw content. Wat betekent dat voor jou?"
+date: 2026-03-16T18:58:50.420Z
+tags: ["auteursrecht", "ai-wetgeving", "content", "intellectueel eigendom"]
 categorieen: ["nieuws-tools"]
-summary: "Het Europees Parlement wil dat AI-bedrijven expliciete toestemming moeten hebben om op auteursrechtelijk beschermd werk te trainen, wat gevolgen heeft voor hoe je je eigen content beschermt en welke AI-tools je gebruikt."
+summary: "Het Europees Parlement wil dat AI-bedrijven expliciete toestemming moeten hebben om op jouw teksten of foto's te trainen. Dit kan de regels voor gebruik van AI veranderen."
 cover:
   image: "/images/covers/2026-03-16-eu-parlement-stop-de-contentroof-door-ai-bouwers.webp"
   alt: "EU-parlement: Stop de contentroof door AI-bouwers"
@@ -12,16 +12,16 @@ source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/euparlement-stop-contentroof-door-aibouwers"
 ---
 
-Het Europees Parlement heeft met grote meerderheid een voorstel aangenomen dat de regels voor het trainen van AI-modellen op auteursrechtelijk beschermd materiaal wil aanscherpen. De kern is dat AI-ontwikkelaars in de toekomst moeten kunnen aantonen dat ze expliciete toestemming hebben van de rechthebbenden, bijvoorbeeld via een licentiesysteem. Dit initiatiefrapport is een duidelijke oproep aan de Europese Commissie om wetgeving te maken. Het standpunt is dat alle generatieve AI-systemen onder het EU-auteursrecht moeten vallen, ongeacht waar de training heeft plaatsgevonden, zolang de tool maar op de Europese markt wordt aangeboden.
+Het Europees Parlement heeft met een grote meerderheid een voorstel aangenomen dat de regels voor het trainen van AI-modellen op auteursrechtelijk beschermd werk wil aanscherpen. De kern is dat AI-ontwikkelaars in de toekomst moeten kunnen aantonen dat ze expliciete toestemming hebben om jouw teksten, foto's of andere creaties te gebruiken voor hun modellen. Dit initiatiefrapport is nog geen wet, maar het zet de richting uit voor toekomstige Europese wetgeving. Het parlement roept de Europese Commissie op om een licentiesysteem op te zetten, beheerd door het EU-bureau voor intellectuele eigendom (EUIPO), waar makers kunnen vastleggen wie hun werk onder welke voorwaarden mag gebruiken.
 
-## Wat betekent dit voor jouw bedrijfscontent?
-Als ondernemer produceer je waarschijnlijk content: teksten op je website, productbeschrijvingen, unieke foto's of rapporten. Volgens het EU-voorstel zou je in een toekomstig systeem kunnen vastleggen wie jouw werk onder welke voorwaarden mag gebruiken om AI-modellen te trainen. Een mogelijkheid is dat je een licentie zou kunnen verlenen, waar mogelijk tegen betaling. Dit geeft je meer controle over je intellectuele eigendom en creëert een potentiële inkomstenstroom vanuit de AI-industrie. Het voorstel beoogt een mechanisme dat beheerd zou worden door het Europese Bureau voor intellectuele eigendom (EUIPO).
+## Wat is het praktische doel van dit voorstel?
+Het doel is om makers van originele content meer controle en een mogelijke vergoeding te geven wanneer hun werk wordt gebruikt om AI-systemen te trainen. Volgens het voorstel zouden generatieve AI-systemen, zoals tools voor tekst of afbeeldingen, moeten voldoen aan het Europese auteursrecht, ongeacht waar de training heeft plaatsgevonden. Dit kan gevolgen hebben voor grote techbedrijven die hun modellen buiten de EU trainen maar ze hier wel aanbieden. Het idee is dat er een systeem komt waarbij content-eigenaren kunnen aangeven of en tegen welke voorwaarden hun werk gebruikt mag worden voor AI-training.
 
-## Waar moet je op letten bij het kiezen van een AI-tool?
-Deze ontwikkeling heeft ook gevolgen voor de tools die je zelf gebruikt. Het voorstel kan de markt veranderen. Volgens tegenstanders, zoals de lobbyorganisatie Computer and Communications Industry Association (CCIA) waarin bedrijven als Google en Meta zitten, zouden complexe licentie-eisen vooral startende AI-bedrijven benadelen. Voor jou als gebruiker betekent dit dat je in de toekomst wellicht meer kunt letten op de herkomst en training van een AI-tool. Een vraag die je zou kunnen stellen is of de aanbieder transparant is over de data waarop zijn model is getraind en of de benodigde rechten zijn geregeld. Dit kan een indicator zijn voor toekomstbestendigheid en juridische risico's.
+## Welke bezwaren zijn er tegen deze plannen?
+De voorgestelde aanpak is niet onomstreden. Lobbyorganisaties voor de technologiesector, zoals de Computer and Communications Industry Association (CCIA) waar bedrijven als Google en Meta deel van uitmaken, uiten stevige kritiek. Zij wijzen op een bestaande uitzondering in de Europese copyrightrichtlijn voor text- en datamining (TDM). Die stelt ontwikkelaars in staat om AI-modellen te trainen op openbaar beschikbaar materiaal, tenzij rechthebbenden zich hier actief voor afmelden. Het nieuwe voorstel zou volgens de CCIA een zware nalevingslast opleggen, vooral voor start-ups. Die zouden volgens de lobbyclub geen complexe licentieovereenkomsten met grote uitgevers kunnen afsluiten, wat de markttoegang zou bemoeilijken.
 
-## Hoe reageert de tech-industrie?
-De reactie uit een deel van de technologiesector is kritisch. De CCIA stelt dat de bestaande uitzondering voor tekst- en datamining in de EU-auteursrechtrichtlijn ontwikkelaars al in staat stelt om op openbaar materiaal te trainen, tenzij rechthebbenden zich actief afmelden. Zij waarschuwen dat het nieuwe voorstel een "nalevingsheffing" zou opleggen aan EU-bedrijven en de toegang tot de markt voor nieuwe spelers zou beperken. Deze tegenstelling illustreert de spanning tussen innovatiegemak en de bescherming van creatieve rechten, een debat dat parallel ook in het Verenigd Koninkrijk wordt gevoerd.
+## Wat zijn de gevolgen voor jou als ondernemer?
+De directe impact op jouw dagelijkse werk is nu nog beperkt, omdat dit een politiek signaal is en nog geen wet. Het zet wel een belangrijke lijn uit voor de toekomst. Als contentmaker, zoals een blogger, fotograaf of webwinkeleigenaar, versterkt dit je positie. Het principe dat jouw intellectuele eigendom expliciet beschermd moet worden tegen ongeautoriseerd gebruik door AI, krijgt meer gewicht. Als gebruiker van AI-tools betekent het dat de modellen waarop je vertrouwt in de toekomst mogelijk op een andere, gelicentieerde manier getraind moeten zijn. Dit zou de ontwikkeling kunnen vertragen of de kosten voor AI-diensten kunnen beïnvloeden, hoewel dat nu nog speculatie is.
 
 ## Hoe kun je dit vandaag toepassen?
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
