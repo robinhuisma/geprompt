@@ -1,35 +1,28 @@
 ---
 title: "AI leert menselijke emoties van acteurs voor betere klantgesprekken"
-date: 2026-03-17T15:06:03.755Z
-tags: ["ai training", "klantenservice", "chatbots", "conversational ai"]
+date: 2026-03-17T23:03:53.022Z
+tags: ["ai-training", "klantenservice", "chatbots", "communicatie"]
 categorieen: ["nieuws-tools"]
-summary: "AI-modellen worden nu getraind door acteurs om natuurlijker te klinken, wat chatbots voor klantenservice direct menselijker en effectiever maakt."
+summary: "AI-modellen worden nu getraind door acteurs om natuurlijker te communiceren, wat chatbots voor klantenservice direct menselijker maakt."
 cover:
-  image: "https://images.pexels.com/photos/8386487/pexels-photo-8386487.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "A robotic hand grasping black keyboard keys in a minimalist setting."
-  caption: "Foto: Tara Winstead via Pexels"
+  image: "https://images.pexels.com/photos/30530416/pexels-photo-30530416.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A MacBook displaying the DeepSeek AI interface, showcasing digital innovation."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1751908/ai-wil-menselijker-worden-met-behulp-van-acteurs.html"
 ---
 
-AI-modellen die je gebruikt voor klantenservice of sales krijgen steeds vaker les van toneelspelers. Bedrijven die trainingsdata leveren aan grote AI-bouwers, zoals Handshake, werven nu acteurs, improvisatiekomieken en andere performers in. Het doel is simpel: de kunstmatige intelligentie moet leren hoe echte mensen praten, reageren en emoties tonen in gesprekken. Voor jou als ondernemer betekent dit dat de chatbots en voice-assistenten waarmee je klanten bedient, natuurlijker en overtuigender gaan klinken.
+Bedrijven die de AI achter chatbots en spraakassistenten ontwikkelen, schakelen nu professionele acteurs in om hun modellen menselijker te laten communiceren. Het bedrijf Handshake, dat trainingsdata levert aan onder andere OpenAI, zoekt specifiek improv-acteurs, sketchcomedians en andere performers. Het doel is niet alleen om de AI correcte antwoorden te laten geven, maar ook om de toon, timing en emotionele resonantie van een gesprek te begrijpen en na te bootsen. Voor ondernemers betekent dit dat de AI-tools die zij inzetten voor klantcontact steeds natuurlijker en minder robotachtig zullen worden.
 
-## Waarom AI acteurs nodig heeft
+## Wat betekent dit voor jouw klantcontact?
+De kern van deze ontwikkeling is dat AI niet langer alleen wordt gevoed met tekst uit boeken of het internet, maar met de nuances van live, menselijke interactie. Een improv-acteur weet hoe hij een gesprek moet opbouwen, wanneer hij moet luisteren, hoe hij moet reageren op onverwachte wendingen en welke emotie hij in zijn stem legt. Door AI met dit soort data te trainen, leren modellen bijvoorbeeld een geïrriteerde klant op een kalmerende toon te woord te staan, of juist enthousiasme over te brengen bij een positieve vraag. De chatbots en voice-assistenten die jij mogelijk inzet, worden hierdoor minder stijf en kunnen gesprekken voeren die meer aanvoelen als contact met een menselijke medewerker.
 
-De eerste generatie AI-chatbots leerde vooral van geschreven tekst op het internet. Dat leverde vaak stijve, formele of zelfs onnatuurlijke antwoorden op. Een gesprek voeren, intonatie aanvoelen of empatisch reageren op frustratie is iets anders dan tekst genereren. Door AI te trainen met scenario's die door acteurs worden gespeeld, leert het model de nuance van menselijke interactie. Denk aan het verschil tussen een monoloog en een dialoog, het gebruik van pauzes, of het herkennen van subtiele emoties in een vraag. Deze training gebeurt niet met bestaande films of series, maar met speciaal voor dit doel geschreven en uitgevoerde scènes.
-
-## Het directe voordeel voor jouw bedrijf
-
-De meest voor de hand liggende toepassing is in klantenservice. Een chatbot die getraind is door acteurs kan beter inschatten of een klant gehaast, boos of juist onzeker is. In plaats van een standaardantwoord te geven, kan de AI de toon van het gesprek aanpassen. Dit leidt tot kortere gesprekken, hogere klanttevredenheid en mogelijk minder escalaties naar een menselijke medewerker. Ook voor salesgesprekken of onboarding-procedures is dit waardevol. Een AI die een product uitlegt, kan dat doen met de enthousiaste toon van een verkoper, in plaats van met de droge taal van een handleiding.
-
-## De grenzen van een menselijke AI
-
-Het is belangrijk om te beseffen dat de AI niet zelf emoties heeft. Het leert patronen herkennen en nabootsen. Een getrainde AI kan de juiste woorden kiezen bij een klacht, maar voelt geen oprechte empathie. Het succes hangt af van de kwaliteit en diversiteit van de trainingsdata. Als alle acteurs uit eenzelfde demografische groep komen, zal de AI ook vooral die gespreksstijl overnemen. De uitdaging voor de bedrijven die deze data leveren, is dan ook om een zo breed mogelijk scala aan menselijke interacties vast te leggen.
+## De verschuiving van data naar ervaring
+Traditioneel worden grote taalmodellen getraind op enorme hoeveelheden tekst van het web. Die data bevat echter weinig context over hoe mensen écht met elkaar praten in een servicegerichte of commerciële setting. Het inschakelen van performers markeert een verschuiving: de focus komt te liggen op kwalitatieve, intentionele data in plaats van alleen kwantitatieve data. Het gaat erom de AI de menselijke ervaring van communicatie bij te brengen. Volgens de aankondiging van Handshake gaat het om het vastleggen van "conversaties, emoties en intenties" in verschillende scenario's. Dit is een directe investering in de beleving die de eindgebruiker – of dat nu jouw klant of je eigen team is – straks heeft bij het gebruik van een AI-tool.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Deze ontwikkeling is vooral relevant als je een AI-chatbot voor klantcontact gebruikt of overweegt. Je zou kunnen navragen bij je leverancier of hun modellen getraind zijn met deze menselijke gespreksdata. Een andere mogelijkheid is om bij het testen van een chatbot niet alleen te letten op de juistheid van antwoorden, maar ook op de natuurlijkheid en toon van het gesprek. De praktische toepassing hangt verder af van jouw specifieke situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Deze ontwikkeling is vooral relevant als je AI overweegt of al inzet voor front-office taken zoals klantenservice, sales of onboarding. Een mogelijkheid is om bij de selectie van een chatbot- of voice-assistentplatform te vragen naar de trainingsmethoden van het onderliggende AI-model. Je zou kunnen navragen of de leverancier gebruikmaakt van door mensen gegenereerde conversatiedata om natuurlijkheid te trainen. Daarnaast, als je zelf een model traint met eigen data, is een suggestie om niet alleen historische chatlogs te gebruiken, maar ook te experimenteren met het opnemen van gesimuleerde, hoogwaardige gesprekken tussen medewerkers om de AI bij te scholen op de gewenste toon en aanpak.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

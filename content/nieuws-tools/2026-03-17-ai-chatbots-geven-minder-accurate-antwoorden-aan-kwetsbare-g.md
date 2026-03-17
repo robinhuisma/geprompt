@@ -1,9 +1,9 @@
 ---
-title: "AI-chatbots geven minder accurate antwoorden aan kwetsbare gebruikers, blijkt uit MIT-onderzoek"
-date: 2026-03-17T19:04:24.150Z
-tags: ["ai-chatbots", "toegankelijkheid", "gebruikersonderzoek", "bias"]
+title: "AI-chatbots geven minder accurate antwoorden aan kwetsbare gebruikers"
+date: 2026-03-17T23:03:31.027Z
+tags: ["ai-ethiek", "chatbots", "gebruikerservaring", "bias"]
 categorieen: ["nieuws-tools"]
-summary: "Onderzoek toont aan dat chatbots zoals GPT-4 en Claude 3 minder accuraat en soms neerbuigend reageren op gebruikers met lagere opleiding of beperkte Engelse taalvaardigheid."
+summary: "Onderzoek toont aan dat chatbots zoals GPT-4 en Claude 3 minder accuraat en soms neerbuigend antwoorden aan gebruikers met lagere taalvaardigheid of opleiding."
 cover:
   image: "/images/covers/2026-03-17-study-ai-chatbots-provide-less-accurate-information-to-vulne.webp"
   alt: "Study: AI chatbots provide less-accurate information to vulnerable users"
@@ -12,19 +12,19 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"
 ---
 
-AI-chatbots zoals GPT-4, Claude 3 en Llama 3 geven minder accurate en minder waarheidsgetrouwe antwoorden aan gebruikers die een lagere opleiding hebben, niet-Engelstalig zijn of van buiten de Verenigde Staten komen. Dat blijkt uit nieuw onderzoek van het MIT Center for Constructive Communication. Deze modellen weigeren bovendien vaker vragen van deze gebruikers te beantwoorden en reageren soms met neerbuigende taal. Het onderzoek, gepresenteerd op de AAAI Conference on Artificial Intelligence, ondermijnt het idee dat deze tools informatie wereldwijd kunnen democratiseren zonder eerst hun vooroordelen aan te pakken.
+Uit onderzoek van het MIT Center for Constructive Communication blijkt dat geavanceerde AI-chatbots zoals GPT-4, Claude 3 Opus en Llama 3 systematisch slechter presteren voor bepaalde groepen gebruikers. De modellen geven minder accurate en minder waarheidsgetrouwe antwoorden aan gebruikers die worden beschreven als niet-Engelstalig, met een lagere formele opleiding of afkomstig van buiten de Verenigde Staten. Bovendien weigeren ze vaker een antwoord te geven aan deze gebruikers en reageren ze in sommige gevallen met neerbuigende taal. Dit terwijl deze tools juist worden gepromoot als instrumenten die wereldwijd toegang tot kennis kunnen democratiseren.
 
-## Waarom dit een probleem is voor ondernemers
-De bevindingen zijn relevant voor elke ondernemer die een chatbot of AI-assistent inzet voor klantenservice, informatievoorziening of interne ondersteuning. Als je systeem getraind of getest is op een homogene groep – bijvoorbeeld medewerkers of klanten met een vergelijkbare achtergrond – loop je het risico dat het slechter presteert voor precies die groepen die mogelijk het meeste baat hebben bij heldere, correcte informatie. Volgens de onderzoekers was de daling in accuraatheid significant wanneer vragen werden gesteld door gebruikers die werden omschreven als laagopgeleid of niet-Engelstalig.
+## Wat betekent dit voor jouw bedrijf?
+Als je een chatbot of een AI-assistent inzet voor klantenservice, interne kennisbases of publieke informatie, loop je het risico dat je systeem onbewust een deel van je doelgroep benadeelt. Het MIT-onderzoek toont aan dat de bias niet beperkt blijft tot één model, maar een systematisch probleem is bij de huidige toonaangevende taalmodellen. De onderzoekers testten de modellen op waarheidsgetrouwheid en feitelijke nauwkeurigheid door vragen te voorzien van korte gebruikersbiografieën. De resultaten waren consistent: de prestaties daalden significant wanneer de vraag afkomstig leek van een gebruiker met een lagere opleiding of beperkte Engelse taalvaardigheid.
 
-## Hoe het onderzoek in zijn werk ging
-De onderzoekers testten de drie grote taalmodellen met vragen uit twee datasets: TruthfulQA, die de waarheidsgetrouwheid meet, en SciQ, met vragen over wetenschappelijke feiten. Aan elke vraag koppelden ze een korte gebruikersbiografie waarin ze drie kenmerken varieerden: opleidingsniveau, Engelse taalvaardigheid en land van herkomst. Door deze methode konden ze systematisch meten of de antwoorden verschilden op basis van het gebruikersprofiel, zonder dat de inhoud van de vraag veranderde.
+## Hoe ontstaat deze ongelijkheid?
+De oorzaak ligt waarschijnlijk in de trainingsdata van de modellen. Taalmodellen worden getraind op enorme hoeveelheden tekst van het internet, dat oververtegenwoordigd is door inhoud geschreven door Engelstalige, hoogopgeleide gebruikers uit bepaalde regio's. Het model leert daardoor subtiele patronen en aannames over wie een "expert" of "betrouwbare" gebruiker is. Wanneer een vraag wordt gesteld in eenvoudiger Engels of afkomstig lijkt van een gebruiker met een specifieke demografische achtergrond, kan het model onbewust minder moeite doen om een accuraat antwoord te genereren of sneller naar een standaardweigering grijpen.
 
-## De praktische implicatie: test op diversiteit
-De kernles voor ondernemers is dat het testen van een AI-systeem niet volstaat met een ‘gemiddelde’ gebruiker. De prestaties kunnen sterk uiteenlopen tussen verschillende demografische groepen. Een chatbot die uitstekend functioneert voor een hoogopgeleide, Engelstalige gebruiker, kan fouten maken of onnodig weigerachtig zijn tegenover een gebruiker met een andere achtergrond. Dit heeft directe gevolgen voor de gebruikerservaring, de betrouwbaarheid van de verstrekte informatie en mogelijk voor compliance en reputatie.
+## Waarom is dit een praktisch risico?
+Voor een ondernemer vertaalt dit zich naar concrete problemen. Een klant met minder taalvaardigheid die via je chatbot een vraag stelt over de garantievoorwaarden, kan een onjuist of onvolledig antwoord krijgen. Een potentiële werknemer die via een AI-sollicitatieassistent vragen stelt, kan worden afgeschrikt door een neerbuigende toon. Dit leidt niet alleen tot slechte ervaringen en gemiste kansen, maar kan op termijn ook reputatieschade of juridische risico's met zich meebrengen als essentiële informatie ongelijk wordt verstrekt.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke stap is om bij het ontwikkelen of evalueren van een AI-chatbot expliciet testscenario's op te nemen met gebruikerspersona's die variëren in opleidingsniveau, taalvaardigheid en culturele achtergrond. Je zou kunnen nagaan of de antwoorden consistent accuraat en respectvol blijven. Een andere optie is om bij leveranciers van chatbot-oplossingen te vragen naar hun testprocedures en of deze mogelijke bias voor specifieke gebruikersgroepen adresseren.
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

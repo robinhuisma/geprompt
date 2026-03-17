@@ -1,9 +1,9 @@
 ---
 title: "ChatGPT's nieuwe beeldgeneratie maakt tekst en infographics preciezer"
-date: 2026-03-17T15:09:29.578Z
+date: 2026-03-17T23:06:38.504Z
 tags: ["chatgpt", "beeldgeneratie", "creatief", "content"]
 categorieen: ["creatief"]
-summary: "OpenAI's GPT-4o model genereert nu beelden in ChatGPT met nauwkeurige tekst en is handig voor het maken van infographics of UI-ontwerpen."
+summary: "OpenAI's GPT-4o-model maakt nu ook beelden in ChatGPT, met betere tekstweergave en handige functies voor ondernemers."
 cover:
   image: "/images/covers/2026-03-17-gpt-4o-image-generation-is-finally-here.webp"
   alt: "GPT 4o image generation is finally here"
@@ -12,16 +12,19 @@ source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here"
 ---
 
-OpenAI heeft de beeldgeneratie in ChatGPT vernieuwd. Waar voorheen DALL-E de standaard was, doet het GPT-4o model dit nu. De belangrijkste verbetering is dat het model veel beter omgaat met tekst in beelden. Het kan nauwkeurige labels, titels en zelfs volledige gedichten genereren binnen een afbeelding. Dit maakt het model volgens OpenAI vooral nuttig voor functionele toepassingen, zoals het maken van infographics, recepten met illustraties of gebruikersinterfaces voor software of games.
+OpenAI heeft de beeldgeneratie in ChatGPT vernieuwd. Waar voorheen DALL-E de standaard was, doet het GPT-4o-model dit nu. De belangrijkste verbetering zit in de nauwkeurige weergave van tekst in beelden, wat het model volgens OpenAI functioneler en bruikbaarder maakt. Dit opent mogelijkheden voor het snel maken van infographics, recepten met illustraties of zelfs gebruikersinterfaces.
 
-## Wat betekent dit voor praktisch gebruik?
-De update richt zich op precisie en bruikbaarheid. Waar veel beeldgeneratoren moeite hebben met het correct weergeven van tekst of reflecties, is dat een sterke punt van dit model geworden. Je zou het kunnen inzetten om snel een visueel consistent ontwerp voor een infographic of een dashboard te schetsen. Een andere mogelijkheid is het maken van geïllustreerde instructies of recepten waar de tekst integraal en leesbaar deel uitmaakt van de afbeelding.
+## Wat is er nieuw aan deze beeldgeneratie?
+Het model is volgens de ontwikkelaar getraind om tekst in beelden correct weer te geven en de exacte opmaak van die tekst te volgen. Dit was een zwak punt bij veel andere beeldgeneratoren. Daarnaast ondersteunt het model 'gedifferentieerde beeldvorming', wat betekent dat je een gegenereerd beeld kunt aanpassen met een korte nieuwe prompt. Verder kan het volgens de aankondiging comics en consistente gebruikersinterfaces (UI) voor bijvoorbeeld games genereren.
+
+## Wat kun je er als ondernemer mee?
+De mogelijkheid om beelden met precieze tekst te maken is direct toepasbaar. Denk aan het snel visualiseren van een proces in een infographic voor interne communicatie of een klant. Het genereren van een basis-UI of visueel ontwerp voor een app of game-prototype kan het brainstormproces versnellen. Ook het maken van geïllustreerde instructies, recepten of marketingmateriaal met ingebedde teksten wordt eenvoudiger.
 
 ## Beschikbaarheid en beperkingen
-De nieuwe beeldgeneratie met GPT-4o is op dit moment niet beschikbaar in de gratis versie van ChatGPT. Volgens het bronartikel is de functie alleen toegankelijk voor gebruikers met een Plus, Pro of Team abonnement. Door de grote vraag heeft OpenAI de toegang tijdelijk beperkt, zelfs voor betalende gebruikers. De getoonde voorbeelden in dit artikel zijn daarom officiële demonstratiebeelden van OpenAI.
+De GPT-4o-beeldgenerator is op moment van schrijven beschikbaar voor abonnees op de Plus-, Pro- en Team-plannen van ChatGPT. Volgens het bronartikel is de functie in de gratis versie niet meer toegankelijk. De officiële voorbeelden van OpenAI laten beelden zien met correcte bijschriften, realistische reflecties en ontwerpen met transparante achtergronden.
 
 ## Hoe kun je dit vandaag toepassen?
-Als je een geschikt ChatGPT-abonnement hebt, kun je de functie proberen door in ChatGPT een prompt te geven die specifiek vraagt om een afbeelding met tekst, zoals een infographic of een UI-wireframe. Een mogelijkheid is om te beginnen met een eenvoudige vraag, zoals het visualiseren van een processtroom of het ontwerpen van een consistent icoonset voor een app-interface. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+Een mogelijkheid is om, als je een geschikt ChatGPT-abonnement hebt, te experimenteren met het maken van een eenvoudige infographic over een dienst of proces in je bedrijf. Je zou kunnen beginnen met een prompt die specifiek om tekst in een bepaalde opmaak vraagt. Een andere optie is om een bestaand gegenereerd beeld te proberen aan te passen met een korte vervolgprompt om te zien hoe flexibel het model is.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
