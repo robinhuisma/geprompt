@@ -1,6 +1,6 @@
 ---
 title: "Controleer nu of jouw pensioenregeling is aangepast, anders riskeer je een forse belastingaanslag"
-date: 2026-03-17T07:03:47.735Z
+date: 2026-03-17T19:12:57.367Z
 tags: ["pensioen", "mkb", "belasting", "verzekeraars"]
 categorieen: ["slimmer-werken"]
 summary: "Duizenden mkb-bedrijven moeten hun pensioenregeling nog aanpassen aan het nieuwe stelsel, anders riskeren hun werknemers vanaf 2028 een forse belastingaanslag."
@@ -12,19 +12,23 @@ source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/pensioenstrop-dreigt-voor-honderdduizenden-werknemers-oliemaatschappijen-verdienen-miljarden-aan-iran-oorlog"
 ---
 
-Duizenden mkb-bedrijven met een pensioenregeling bij een verzekeraar hebben hun regeling nog niet aangepast aan het nieuwe pensioenstelsel. Volgens het Verbond van Verzekeraars zijn ongeveer 36.000 bedrijven nog niet overgestapt. Als zij voor 2028 geen actie ondernemen, riskeren hun honderdduizenden werknemers een forse belastingaanslag. De fiscus kan het opgebouwde pensioenvermogen dan namelijk als loon zien, waarover in één keer belasting moet worden betaald.
+Duizenden mkb-bedrijven met een pensioenregeling bij een verzekeraar moeten nog actie ondernemen om hun regeling aan te passen aan het nieuwe pensioenstelsel. Volgens het Verbond van Verzekeraars, zoals gemeld in het AD, zijn ongeveer 36.000 bedrijven nog niet overgestapt. Als zij niets doen, riskeren honderdduizenden werknemers vanaf 2028 een forse belastingaanslag. De fiscus kan het opgebouwde pensioenvermogen dan namelijk als loon aanmerken, waarover in één keer belasting moet worden betaald.
 
 ## Wat betekent dit voor jou als ondernemer?
-Als je een pensioenregeling voor je werknemers hebt lopen via een verzekeraar, ben je waarschijnlijk zelf verantwoordelijk voor de aanpassing aan de nieuwe wetgeving. Het gaat niet vanzelf. De verzekeraar informeert je hierover, maar de uiteindelijke actie om over te stappen naar een nieuwe regeling ligt bij jou als werkgever. Het risico van niets doen is groot: je werknemers kunnen financieel hard worden geraakt door een onverwachte belastingaanslag over hun hele opgebouwde pensioenpot.
 
-## Hoe controleer je de status van jouw regeling?
-Een eerste stap is contact opnemen met je pensioenverzekeraar of tussenpersoon. Vraag expliciet of jouw bedrijfsregeling al is aangepast aan het nieuwe pensioenstelsel en of de overstap is voltooid. Het Verbond van Verzekeraars geeft aan dat al 19.000 bedrijven deze stap hebben gezet. Je zou ook kunnen navragen wat de concrete deadline is voor jouw specifieke contract. Het is verstandig om dit schriftelijk te laten bevestigen, zodat je zeker weet dat de administratie op orde is.
+Als je een pensioenregeling voor je werknemers hebt lopen bij een verzekeraar, is het cruciaal om te controleren of deze regeling al is aangepast aan de nieuwe wetgeving. Het gaat niet om een vrijblijvende optimalisatie, maar om een verplichte aanpassing om een grote financiële strop voor je personeel te voorkomen. De verantwoordelijkheid voor deze overstap ligt bij jou als werkgever. Het risico is concreet: bij geen actie wordt het pensioenkapitaal van je werknemers in 2028 ineens als belastbaar inkomen gezien.
+
+## Hoe controleer je de status van je regeling?
+
+Een eerste logische stap is contact opnemen met je pensioenadviseur of de verzekeraar bij wie de regeling is ondergebracht. Zij kunnen je direct vertellen of de overstap voor jouw bedrijf al is uitgevoerd of nog moet plaatsvinden. Het Verbond van Verzekeraars geeft aan dat al 19.000 bedrijven de overstap hebben gemaakt, wat een duidelijk proces impliceert dat door de verzekeraars wordt begeleid. Je zou kunnen vragen om een schriftelijke bevestiging van de status van je regeling.
 
 ## Wat zijn de gevolgen van uitstel?
-De deadline ligt in 2028. Dat klinkt nog ver weg, maar de praktijk leert dat dergelijke administratieve processen tijd kosten. Bovendien kan uitstel leiden tot onrust onder je werknemers als het nieuws over mogelijke belastingaanslagen breder bekend wordt. Het gaat niet om een kleine correctie, maar om een fundamentele wijziging van de regeling. Wachten tot het laatste moment brengt onnodig risico met zich mee.
+
+Wachten met aanpassen is geen optie. De deadline van 2028 lijkt nog ver weg, maar de praktijk leert dat dergelijke administratieve processen tijd kosten. Bovendien, als tienduizallen bedrijven tegelijkertijd op het laatste moment actie moeten ondernemen, kan dit voor vertragingen bij adviseurs en verzekeraars zorgen. Het risico van uitstel is dus niet alleen de belastingaanslag, maar ook operationele drukte die een soepele overgang in de weg kan staan.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke eerste actie is om de recente communicatie van je pensioenverzekeraar over het nieuwe stelsel nog eens na te lopen. Je zou vervolgens een afspraak kunnen inplannen met je adviseur of contactpersoon bij de verzekeraar om de status van jouw regeling te bespreken en een eventueel tijdpad voor aanpassing vast te stellen. Zorg dat je een bevestiging ontvangt dat de zaak in behandeling is of al is afgerond.
+
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 

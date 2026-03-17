@@ -1,9 +1,9 @@
 ---
-title: "Woordenboeken dagen OpenAI uit: wat betekent dit voor jouw AI-tools?"
-date: 2026-03-17T02:59:57.032Z
-tags: ["auteursrecht", "ai-tools", "juridisch", "openai"]
+title: "Woordenboeken dagen OpenAI uit: wat betekent dit voor jouw AI-gebruik?"
+date: 2026-03-17T19:04:57.175Z
+tags: ["auteursrecht", "ai-training", "juridisch", "content"]
 categorieen: ["nieuws-tools"]
-summary: "Grote uitgevers dagen OpenAI voor de rechter wegens auteursrecht, wat de kosten en beschikbaarheid van AI-tools kan beïnvloeden."
+summary: "Twee gerenommeerde uitgevers dagen OpenAI voor de rechter wegens auteursrecht, wat de basis van veel AI-tools raakt."
 cover:
   image: "/images/covers/2026-03-17-the-dictionary-sues-openai.webp"
   alt: "The dictionary sues OpenAI"
@@ -12,20 +12,20 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/"
 ---
 
-Encyclopedie Britannica en woordenboekuitgever Merriam-Webster hebben een rechtszaak aangespannen tegen OpenAI. Volgens de uitgevers heeft OpenAI bij het trainen van zijn grote taalmodellen het auteursrecht geschonden op bijna 100.000 artikelen. Deze zaak is geen op zichzelf staand incident, maar onderdeel van een grotere trend waarin contentmakers vergoeding eisen voor het gebruik van hun werk in AI-training. Voor jou als ondernemer die AI-tools gebruikt, kan dit op termijn gevolgen hebben voor de kosten, de beschikbaarheid van bepaalde informatie en de licentie-afspraken rondom de tools die je inzet.
+Encyclopedie Britannica en woordenboekuitgever Merriam-Webster hebben een rechtszaak aangespannen tegen OpenAI. Volgens de uitgevers heeft OpenAI bij het trainen van zijn grote taalmodel, de basis voor tools zoals ChatGPT, het auteursrecht geschonden op bijna 100.000 artikelen. Deze zaak is niet de eerste in zijn soort, maar valt op omdat het gaat om uitgevers van gezaghebbende referentiewerken, waarvan de nauwkeurigheid en betrouwbaarheid juist een kernwaarde zijn voor AI-modellen.
 
-## De kern van de zaak
-De uitgevers stellen dat OpenAI hun beschermde werken – waaronder de volledige tekst van de Encyclopedia Britannica en Merriam-Webster's woordenboeken – heeft gebruikt om modellen zoals GPT-4 te trainen, zonder daarvoor toestemming te vragen of te betalen. Het doel van de rechtszaak is niet per se om de AI te stoppen, maar om een licentieovereenkomst af te dwingen en schadevergoeding te krijgen. Dit patroon zie je vaker: eerder spanden bijvoorbeeld *The New York Times* en een coalitie van Amerikaanse kranten al soortgelijke zaken aan. Het is een fundamentele strijd over wie er betaalt voor de kennis die de basis vormt van generatieve AI.
+## Wat is de kern van de zaak?
+De uitgevers claimen dat OpenAI hun beschermde content heeft gebruikt om zijn modellen te trainen zonder daarvoor toestemming te vragen of te betalen. Het gaat hier niet om het kopiëren en publiceren van de artikelen, maar om het verwerken ervan in het trainingsproces van een AI-systeem. De modellen 'leren' van deze teksten, waardoor kennis en taalpatronen uit de encyclopedie en het woordenboek onderdeel worden van het AI-systeem. De vraag die de rechter moet beantwoorden, is of dit gebruik onder de 'fair use'-doctrine in de VS valt, of dat het een inbreuk op het auteursrecht is.
 
-## Praktische gevolgen voor gebruikers
-Op korte termijn verandert er waarschijnlijk niets aan de werking van ChatGPT of andere OpenAI-producten. De rechtszaak zal jaren duren. Het langetermijneffect is echter reëel. Als contentmakers succesvol zijn, zullen AI-bedrijven ofwel moeten gaan betalen voor trainingsdata, ofwel moeten overschakelen op duurdere, gelicentieerde data of data die ze zelf genereren. Die kosten zullen uiteindelijk ergens worden doorberekend. Dit kan leiden tot hogere abonnementskosten voor zakelijke gebruikers. Daarnaast zouden AI-modellen in de toekomst mogelijk minder accuraat kunnen zijn op zeer specifieke, gespecialiseerde kennisgebieden als bepaalde uitgevers hun content volledig blokkeren voor training.
+## Waarom is dit relevant voor ondernemers?
+De uitkomst van deze en vergelijkbare rechtszaken zal de toekomst van AI-fundamenten bepalen. Als de rechters oordelen dat dit soort training inderdaad een auteursrechtinbreuk is, kan dat verstrekkende gevolgen hebben. Het kan leiden tot hogere kosten voor AI-ontwikkelaars, die dan licenties moeten afsluiten voor trainingsmateriaal. Die kosten worden uiteindelijk doorberekend aan gebruikers. Het kan ook betekenen dat bepaalde kennis uit geverifieerde bronnen in de toekomst minder prominent aanwezig is in AI-tools, als uitgevers hun content niet meer beschikbaar willen stellen.
 
-## Risico's voor bedrijfsvoering en output
-Een indirect gevolg waar je nu al op kunt letten, is het risico op zogenaamde 'hallucinaties' of onnauwkeurigheden. Als een AI-model is getraind op data waarvan de herkomst juridisch onder druk staat, kan het bedrijf achter het model gedwongen worden bepaalde kennis uit het model te 'vergeten' of te filteren. Dit kan de consistentie en betrouwbaarheid van de output beïnvloeden. Voor jouw bedrijfsprocessen betekent dit dat blind vertrouwen op één AI-tool, vooral voor feitelijke of juridisch gevoelige content, een risico blijft. Het onderstreept het belang van menselijke controle en het checken van bronnen.
+## Hoe verhoudt dit zich tot andere rechtszaken?
+Dit is onderdeel van een grotere golf van juridische uitdagingen. Eerder spanden bijvoorbeeld auteurs, muziekuitgevers en nieuwsorganisaties al zaken aan tegen AI-bedrijven. De zaak van Britannica en Merriam-Webster voegt daar een specifieke laag aan toe: het gaat om feitelijke, referentiële content. De nauwkeurigheid van een encyclopedie is zijn handelsmerk, en de uitgevers stellen dat OpenAI daar onrechtmatig van profiteert. Het vestigt de aandacht op de vraag of AI-bedrijven kunnen voortbestaan op een dieet van andermans intellectueel eigendom.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke stap is om je bewust te worden van de afhankelijkheid van één AI-leverancier voor kritische kenniswerkzaamheden. Je zou kunnen overwegen om belangrijke feiten die gegenereerd worden altijd te verifiëren met een primaire bron. Daarnaast is het verstandig om bij het kiezen of vernieuwen van een zakelijk AI-abonnement te informeren naar het beleid van de leverancier rondom auteursrecht en datalicenties, om toekomstige prijsverrassingen voor te zijn.
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
-Bron: [Techcrunch](https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/)
+Bron: Techcrunch
