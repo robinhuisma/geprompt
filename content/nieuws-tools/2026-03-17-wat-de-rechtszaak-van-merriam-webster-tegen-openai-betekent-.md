@@ -1,9 +1,9 @@
 ---
-title: "Wat de rechtszaak van Merriam-Webster tegen OpenAI betekent voor jouw content"
-date: 2026-03-17T07:00:00.861Z
-tags: ["auteursrecht", "ai-training", "content", "juridisch"]
+title: "Wat de rechtszaak van Merriam-Webster tegen OpenAI betekent voor jouw bedrijf"
+date: 2026-03-17T11:03:20.021Z
+tags: ["auteursrecht", "ai", "juridisch", "risicomanagement"]
 categorieen: ["nieuws-tools"]
-summary: "Een grote rechtszaak over auteursrecht en AI-training zet de regels voor het gebruik van bestaande content op scherp."
+summary: "Een grote rechtszaak over auteursrecht en AI-training zet de regels voor commercieel AI-gebruik op scherp. Dit zijn de gevolgen voor Nederlandse ondernemers."
 cover:
   image: "/images/covers/2026-03-17-the-dictionary-sues-openai.webp"
   alt: "The dictionary sues OpenAI"
@@ -12,25 +12,19 @@ source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/"
 ---
 
-De rechtszaak die Merriam-Webster en Encyclopedia Britannica hebben aangespannen tegen OpenAI is meer dan een ver-van-mijn-bed-show voor grote uitgevers. Het raakt de kern van hoe generatieve AI wordt gevoed: met bestaande, vaak beschermde informatie. Voor Nederlandse ondernemers die zelf content creëren of AI-tools gebruiken, maakt deze zaak de spelregels concreter en de risico's zichtbaarder.
+De rechtszaken van Merriam-Webster en Encyclopedia Britannica tegen OpenAI zetten een fundamentele vraag op scherp: mag een AI-bedrijf beschermd materiaal gebruiken om zijn modellen te trainen? Voor jou als ondernemer die tools als ChatGPT inzet, gaat dit niet direct over jouw directe aansprakelijkheid. Het kernconflict speelt tussen de rechthebbenden en de makers van de grote taalmodellen. Toch heeft deze juridische strijd wel degelijk praktische gevolgen voor hoe je AI veilig en toekomstbestendig kunt gebruiken in je bedrijf.
 
-Volgens de klacht heeft OpenAI het auteursrecht geschonden op bijna 100.000 artikelen door deze te gebruiken om zijn grote taalmodel (LLM) te trainen. De uitgevers stellen dat hun zorgvuldig samengestelde en geredigeerde werken – van definities tot encyclopedische lemma's – zijn gebruikt als gratis brandstof voor een commercieel product. Deze zaak volgt op eerdere rechtszaken van auteurs, kunstenaars en nieuwsmedia, en markeert een duidelijke trend: de eigenaren van de oorspronkelijke content eisen een plek aan tafel.
+## De kern van de zaak en de impact op AI-ontwikkeling
+Volgens de aanklagers heeft OpenAI het auteursrecht geschonden op bijna 100.000 artikelen door deze te gebruiken voor de training van zijn large language models (LLM's). Dit is geen geïsoleerd geval; het past in een grotere trend van rechtszaken van uitgevers, kunstenaars en mediabedrijven tegen AI-ontwikkelaars. De uitkomst van deze zaken zal bepalen onder welke voorwaarden de kennisbasis van AI's zoals ChatGPT in de toekomst wordt opgebouwd. Een overwinning voor de uitgevers zou kunnen leiden tot duurdere licentiekosten voor AI-bedrijven, wat op termijn de prijs en beschikbaarheid van commerciële AI-tools zou kunnen beïnvloeden.
 
-## Waarom deze zaak anders is dan andere
+## Praktische risico's voor gebruikers van generatieve AI
+Hoewel jij als gebruiker nu niet direct wordt aangeklaagd, ontstaan er wel indirecte risico's. De grootste is het risico op output die (onbewust) beschermd materiaal reproduceert. Als een AI is getraind op auteursrechtelijk beschermde teksten zonder correcte licentie, neemt de kans toe dat de gegenereerde content daar te dicht bij in de buurt komt. Voor jouw bedrijf kan dit problematisch zijn als je die output publiceert, gebruikt in marketing of verwerkt in producten. Het is een risico dat lastig te controleren is, omdat je de trainingsdata van de tool niet kunt inzien.
 
-Waar eerdere zaken vaak gingen over creatieve werken zoals romans of kunst, gaat dit om feitelijke compilaties. Een woordenboekdefinitie of een encyclopedie-artikel is op zichzelf een feit, maar de selectie, ordening en presentatie ervan is beschermd door het auteursrecht. De uitgevers argumenteren dat OpenAI niet zomaar feiten heeft opgezogen, maar hun specifieke, gecureerde collecties heeft gebruikt. Voor een ondernemer die een database, een kennisbank of een unieke verzameling data bezit, is dit een relevant precedent. Het gaat niet alleen om wat erin staat, maar om de structuur en autoriteit van de gehele collectie.
-
-## De praktische gevolgen voor het gebruik van AI
-
-De uitkomst van deze zaak zal helpen bepalen onder welke voorwaarden AI-bedrijven bestaande content mogen gebruiken voor training. Dit heeft directe gevolgen voor de tools die je mogelijk gebruikt. Als de rechters oordelen dat een licentie nodig is, kan dit leiden tot twee dingen: AI-tools worden duurder omdat de trainingskosten stijgen, of bepaalde tools worden beperkter omdat ze alleen nog getraind zijn op gelicentieerde of zelf-gegenereerde data. De kwaliteit en reikwijdte van de antwoorden die een tool geeft, kunnen hierdoor veranderen.
-
-Tegelijkertijd biedt het ondernemers die zelf waardevolle content bezitten meer duidelijkheid. Het maakt de waarde van die content expliciet en creëert een juridisch handvat om ongeautoriseerd gebruik aan te vechten. Het zet de vraag "wie is eigenaar van de input?" centraal in het AI-tijdperk.
+## Hoe verandert dit de manier waarop je met AI omgaat?
+Deze ontwikkelingen maken het nog belangrijker om bewust en gedocumenteerd met AI-output om te gaan. Het benadrukt dat AI een hulpmiddel is, geen onfeilbare bron. De verantwoordelijkheid voor de uiteindelijke content blijft bij de menselijke gebruiker liggen. Dit betekent dat checks, balances en een kritische blik op gegenereerde teksten, code of ontwerpen essentieel worden. Het is verstandig om interne richtlijnen op te stellen over het gebruik van AI, specifiek rond het controleren en eventueel aanpassen van output voordat deze de deur uitgaat.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een mogelijkheid is om bij het selecteren van een AI-tool voor je bedrijf te vragen naar het beleid van de leverancier rondom training en auteursrecht. Vraag op welke data hun modellen zijn getraind en of zij licenties hebben voor beschermde bronnen. Dit geeft inzicht in de toekomstbestendigheid en mogelijke risico's van de tool.
-
-Voor ondernemers met een eigen waardevolle contentcollectie, zoals een uitgebreide kennisbank, blogarchief of unieke dataset, is een optie om je bewust te worden van de waarde ervan als potentiële trainingsdata. Je zou kunnen overwegen om je voorwaarden voor het gebruik van je content door derden (zoals webscrapers) te herzien en duidelijk vast te leggen.
+Een mogelijke stap is om binnen je bedrijf een eenvoudig protocol te overwegen voor het gebruik van generatieve AI. Dit protocol zou kunnen gaan over het altijd controleren en redigeren van AI-output voordat deze extern wordt gedeeld. Een andere optie is om, bij het uitbesteden van werk waar AI voor wordt gebruikt, expliciet naar de werkwijze van je partner te vragen en afspraken over originaliteit en auteursrecht vast te leggen. De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
