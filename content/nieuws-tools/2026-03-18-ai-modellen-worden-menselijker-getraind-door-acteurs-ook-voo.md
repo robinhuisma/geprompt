@@ -1,33 +1,34 @@
 ---
-title: "AI-modellen worden menselijker getraind door acteurs, ook voor jouw klantcontact"
-date: 2026-03-18T03:05:17.606Z
+title: "AI-modellen worden menselijker getraind door acteurs, ook voor jouw chatbot"
+date: 2026-03-18T07:07:15.148Z
 tags: ["ai-training", "klantenservice", "chatbots", "communicatie"]
 categorieen: ["nieuws-tools"]
-summary: "Bedrijven als OpenAI trainen hun AI nu met acteurs om natuurlijker te communiceren, wat chatbots voor ondernemers direct beter maakt."
+summary: "Bedrijven gebruiken nu acteurs om AI natuurlijker te laten communiceren, wat chatbots voor klantenservice direct beter maakt."
 cover:
-  image: "https://images.pexels.com/photos/11700195/pexels-photo-11700195.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "A high-tech desktop setup featuring a power programmer, computer keyboard, and monitor"
-  caption: "Foto: Michal Hajtas via Pexels"
+  image: "https://images.pexels.com/photos/27779286/pexels-photo-27779286.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A DSLR camera with a large lens resting on a wet yellow bench, showcasing photography gear essentials."
+  caption: "Foto: Baran Robin via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1751908/ai-wil-menselijker-worden-met-behulp-van-acteurs.html"
 ---
 
-De AI-modellen die je gebruikt voor klantenservice of content worden steeds menselijker getraind. Bedrijven die trainingsdata leveren aan grote spelers zoals OpenAI zijn nu actief op zoek naar improv-acteurs, sketchcomedians en andere performers. Het doel is om de kunstmatige intelligentie niet alleen feitelijk correct, maar ook natuurlijk, empatisch en contextueel slim te laten reageren. Voor jou als ondernemer betekent dit dat de chatbots en assistenten die je inzet, steeds minder robotachtig en meer als een begripvolle medewerker zullen gaan klinken.
+Om AI-modellen zoals die in klantenservice-chatbots natuurlijker te laten communiceren, worden ze nu getraind met behulp van professionele acteurs. Dat is de kern van een nieuwe aanpak die bedrijven als Handshake toepassen. In plaats van alleen te leren van bestaande teksten op internet, krijgen de modellen nu training met gesimuleerde, menselijke gesprekken. Het doel is om de kunstmatige intelligentie minder stijf en meer empathisch en contextbewust te maken, vooral in interacties met klanten.
 
-## Waarom een AI acteerlessen nodig heeft
-Een traditioneel AI-model leert van enorme hoeveelheden tekst van het internet. Die data is vaak formeel, feitelijk of anoniem. Wat daar grotendeels ontbreekt, is de menselijke nuance: de toon die verschilt bij een klacht of een compliment, de humor die spanning breekt, of de manier waarop een gesprek soepel van onderwerp verandert. Door AI te trainen met dialogen en scenario's die door professionele acteurs worden gespeeld, krijgt het model een veel rijker en menselijker palet aan communicatiestijlen aangeleerd. Het leert zo niet alleen wát te zeggen, maar ook hóe het te zeggen in verschillende situaties.
+## Waarom acteurs de AI anders trainen
 
-## Het directe voordeel voor jouw bedrijf
-Deze ontwikkeling is niet alleen iets voor de laboratoria van techreuzen. De vruchten ervan pluk je direct wanneer je een AI-gebaseerde klantenservice-chatbot, een virtuele assistent op je website of een contentgenerator gebruikt. Een chatbot die getraind is met deze menselijke data kan bijvoorbeeld:
-- Een gefrustreerde klant kalmeren met de juiste toon.
-- Een grapje maken om de sfeer te verlichten waar dat passend is.
-- Moeiteloos schakelen tussen een vraag over de bezorgtijd en een vraag over een productadvies.
-- Antwoorden formuleren die niet alleen correct zijn, maar ook aanvoelen alsof er een mens achter zit.
+De traditionele manier waarop grote taalmodellen leren, is door het analyseren van enorme hoeveelheden tekst van het internet. Die data bevat echter vaak formele taal, geschreven teksten of zelfs conflicten. Voor een natuurlijk gesprek, waarin toon, timing en sociale nuances cruciaal zijn, is dat niet optimaal. Door improv-acteurs en comedians gesprekken te laten spelen – van alledaagse small talk tot complexe klantvragen – ontstaat een nieuwe dataset. Die dataset leert de AI niet alleen wat te zeggen, maar ook hoe iets te zeggen, inclusief het herkennen van emotie en het geven van gepaste, menselijke reacties.
 
-Dit leidt tot een betere klantervaring, hogere tevredenheid en mogelijk meer conversie, omdat bezoekers zich serieus genomen en begrepen voelen.
+## Het directe voordeel voor ondernemers
+
+Voor een ondernemer die een AI-chatbot inzet, vertaalt deze training zich in een direct merkbare verbetering. Een chatbot die op deze manier is getraind, zal minder snel een klant frustreren met een starre, herhalende reactie. In plaats daarvan kan hij beter meebewegen in een gesprek, begrip tonen bij een klacht en op een natuurlijke manier doorvragen om het werkelijke probleem te achterhalen. Het maakt de interactie minder transactiegericht en meer dienstverlenend, wat de klanttevredenheid en mogelijk de loyaliteit kan verhogen.
+
+## De rol van data-leveranciers
+
+Deze ontwikkeling onderstreept de groeiende en gespecialiseerde markt voor AI-trainingsdata. Bedrijven als Handshake fungeren als schakel tussen de menselijke creativiteit van performers en de technische behoeften van AI-ontwikkelaars zoals OpenAI. Zij organiseren de sessies, zorgen voor de juiste scenario's en leveren de gestructureerde data aan de techbedrijven. Het laat zien dat de kwaliteit van AI niet alleen afhangt van rekenkracht, maar in toenemende mate van de kwaliteit en het soort data waarmee hij wordt gevoed.
 
 ## Hoe kun je dit vandaag toepassen?
+
 De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*

@@ -1,9 +1,9 @@
 ---
-title: "Encyclopaedia Britannica sleept OpenAI voor de rechter om auteursrecht ChatGPT"
-date: 2026-03-18T03:09:45.164Z
-tags: ["auteursrecht", "ai-risico", "chatgpt", "juridisch"]
+title: "Encyclopaedia Britannica sleept OpenAI voor de rechter om auteursrecht"
+date: 2026-03-18T07:11:34.920Z
+tags: ["auteursrecht", "ai-training", "content", "juridisch"]
 categorieen: ["creatief"]
-summary: "Een nieuwe rechtszaak benadrukt het risico dat AI-modellen auteursrechtelijk beschermde content 'onthouden' en reproduceren, een waarschuwing voor ondernemers die op AI vertrouwen."
+summary: "Een rechtszaak over AI-training zet de vraag centraal: mag een AI jouw beschermde content 'leren' en nabootsen?"
 cover:
   image: "/images/covers/2026-03-18-encyclopedia-britannica-is-suing-openai-for-allegedly-memori.webp"
   alt: "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT"
@@ -12,19 +12,22 @@ source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"
 ---
 
-Encyclopaedia Britannica en woordenboekuitgever Merriam-Webster hebben een rechtszaak aangespannen tegen OpenAI. Hun claim is dat OpenAI hun auteursrechtelijk beschermde content heeft gebruikt om AI-modellen zoals GPT-4 te trainen, zonder toestemming of vergoeding. Volgens de uitgevers kan ChatGPT bij bepaalde prompts "bijna woordelijke kopieën" van hun beschermde materiaal produceren, wat zij zien als ongeoorloofde reproductie. Deze zaak is niet de eerste in zijn soort, maar markeert wel een duidelijke escalatie van grote, gevestigde kennisinstellingen.
+Encyclopaedia Britannica en woordenboekuitgever Merriam-Webster hebben een rechtszaak aangespannen tegen OpenAI. Ze beschuldigen het bedrijf ervan hun auteursrechtelijk beschermde content te hebben gebruikt om AI-modellen zoals GPT-4 te trainen, zonder toestemming of vergoeding. Volgens de uitgevers kan de AI vervolgens bijna letterlijke kopieën van hun content produceren. Deze zaak is een belangrijke volgende stap in de wereldwijde juridische discussie over waar de grenzen liggen van het trainen van kunstmatige intelligentie met bestaand, beschermd materiaal.
 
-Voor ondernemers die AI-tools zoals ChatGPT gebruiken voor contentcreatie, onderzoek of klantenservice, is dit een belangrijk signaal. Het kernprobleem is het concept van "memoriseren" of "onthouden". AI-modellen worden getraind op enorme hoeveelheden data van het internet. Als die data auteursrechtelijk beschermd is en het model leert die content zo nauwkeurig te reproduceren dat het een kopie wordt, ontstaat er een juridisch risico. Jij, als gebruiker, kunt onbewust die gereproduceerde content publiceren of verspreiden.
+## Wat is de kern van de beschuldiging?
+De uitgevers stellen dat OpenAI hun content heeft "gememoriseerd". Dit betekent niet dat de AI een exacte kopie opslaat, maar dat het model tijdens de training zo vaak met specifieke teksten is gevoed, dat het die patronen heeft leren reproduceren. Het gevolg is dat ChatGPT, wanneer daarom gevraagd wordt, antwoorden kan genereren die "in wezen gelijk" zijn aan de beschermde artikelen uit de encyclopedie. De claim is dat dit neerkomt op het maken van ongeautoriseerde kopieën voor trainingsdoeleinden en het vervolgens aanbieden van concurrerende content.
 
-## Wat betekent dit voor jouw gebruik van AI?
+## Waarom is deze zaak relevant voor ondernemers?
+De uitkomst van dit soort zaken kan precedent scheppen voor hoe om te gaan met intellectueel eigendom in het AI-tijdperk. Als je zelf unieke content, handleidingen, artikelen of productbeschrijvingen online hebt staan, is de vraag of die vrijelijk gebruikt mogen worden om commerciële AI-modellen te trainen. Aan de andere kant, als je zelf AI-tools gebruikt of overweegt, raakt het ook aan de vraag waar de kennis van die tools vandaan komt en wat de juridische grondslag daarvan is. Het zet de relatie tussen contentcreatie en AI-ontwikkeling op scherp.
 
-De directe impact voor de meeste gebruikers is nu nog beperkt. De rechtszaak is tussen contenteigenaren en de bouwers van de AI. OpenAI zelf zal waarschijnlijk de verantwoordelijkheid dragen voor de training van zijn modellen. Echter, de uitkomst van dergelijke zaken kan de toekomst van AI-fundamenteel veranderen. Als rechters oordelen dat deze manier van trainen inderdaad inbreuk maakt, kan dat leiden tot duurdere licentiemodellen, beperktere modellen of zelfs het intrekken van bepaalde functionaliteiten. Jouw toegang tot krachtige, algemene AI zou daardoor kunnen veranderen.
+## Hoe verhoudt dit zich tot eerdere rechtszaken?
+Dit is niet de eerste keer dat OpenAI voor de rechter wordt gedaagd vanwege training op auteursrechtelijk beschermd werk. Eerder spanden bijvoorbeeld The New York Times en een coalitie van auteurs al rechtszaken aan. Elke zaak benadert het vanuit een iets andere hoek – van directe copyrightschending tot oneerlijke concurrentie. De zaak van Encyclopaedia Britannica legt specifiek de nadruk op het reproduceren van feitelijke, gestructureerde informatie, wat een ander type content is dan nieuwsartikelen of romans.
 
-Op de kortere termijn ligt het praktische risico in de output. De claim van Britannica is dat ChatGPT delen van hun encyclopedie woordelijk kan reproduceren. Als jij AI gebruikt om feitelijke artikelen, productbeschrijvingen of educatieve content te genereren, loop je het risico om per ongeluk beschermde tekst te publiceren. Dit kan leiden tot claims van de oorspronkelijke auteursrechthebbenden, niet tegen OpenAI, maar tegen jouw bedrijf.
+## Wat zijn de mogelijke gevolgen?
+Een overwinning voor de uitgevers zou de praktijk van het trainen van AI op grote schaal met online beschikbare content kunnen compliceren. Het zou bedrijven als OpenAI kunnen dwingen tot licentieovereenkomsten met contentmakers, wat de kosten van AI-ontwikkeling zou kunnen verhogen. Het zou ook een duidelijk signaal afgeven dat online publiceren niet gelijkstaat aan het geven van toestemming voor AI-training. Voor contentmakers zou het een instrument kunnen worden om hun werk te beschermen en mogelijk te valoriseren.
 
 ## Hoe kun je dit vandaag toepassen?
-
-Een mogelijke stap is om extra alert te zijn op de origineelheid van AI-gegenereerde content, vooral bij feitelijke, gestructureerde informatie waarvan bekend is dat deze in beschermde naslagwerken staat. Je zou de output altijd kunnen controleren met een plagiaatchecker of door steekproefsgewijs zinnen te googlen. Een andere optie is om in je prompts expliciet te vragen om een originele samenvatting in eigen woorden, in plaats van een letterlijke weergave. De praktische toepassing hangt verder sterk af van jouw specifieke situatie. Via [geprompt.nl/stel-je-vraag](https://geprompt.nl/stel-je-vraag) kun je een vraag stellen die we uitwerken tot een artikel op maat.
+De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
