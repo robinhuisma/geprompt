@@ -1,9 +1,9 @@
 ---
-title: "AI-chatbots geven minder accurate antwoorden aan kwetsbare gebruikers"
-date: 2026-03-18T03:04:53.872Z
-tags: ["ai-chatbots", "inclusiviteit", "gebruikersonderzoek", "bias"]
+title: "AI-chatbots geven minder accurate antwoorden aan kwetsbare gebruikers, blijkt uit MIT-onderzoek"
+date: 2026-03-18T15:16:49.577Z
+tags: ["ai bias", "chatbots", "klantenservice", "toegankelijkheid"]
 categorieen: ["nieuws-tools"]
-summary: "Onderzoek toont aan dat chatbots als GPT-4 en Claude 3 minder accuraat en soms neerbuigend reageren op vragen van minder geletterde of niet-Engelstalige gebruikers."
+summary: "Onderzoek toont aan dat chatbots als GPT-4 en Claude 3 minder accuraat en soms neerbuigend antwoorden aan gebruikers met lagere taalvaardigheid of opleiding."
 cover:
   image: "/images/covers/2026-03-18-study-ai-chatbots-provide-less-accurate-information-to-vulne.webp"
   alt: "Study: AI chatbots provide less-accurate information to vulnerable users"
@@ -12,19 +12,20 @@ source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"
 ---
 
-AI-chatbots zoals GPT-4, Claude 3 en Llama 3 geven minder accurate en soms zelfs neerbuigende antwoorden aan gebruikers met een lagere opleiding, een beperkte Engelse taalvaardigheid of een niet-Amerikaanse achtergrond. Dat blijkt uit nieuw onderzoek van het MIT Center for Constructive Communication. Het onderzoek, gepresenteerd op de AAAI Conference on Artificial Intelligence, toont een systematisch verschil in prestaties aan. Voor ondernemers die chatbots inzetten voor klantenservice of informatievoorziening is dit een belangrijk signaal: je tool kan onbedoeld bepaalde groepen klanten uitsluiten of slechter bedienen.
+AI-chatbots worden vaak gepresenteerd als gelijkmakers die voor iedereen toegang tot kennis bieden. Nieuw onderzoek van het MIT Center for Constructive Communication toont echter een ander beeld. De studie, gepresenteerd op de AAAI Conference on Artificial Intelligence, constateert dat toonaangevende modellen zoals OpenAI's GPT-4, Anthropic's Claude 3 Opus en Meta's Llama 3 systematisch slechter presteren voor bepaalde groepen gebruikers.
 
-## Wat het onderzoek precies aantoont
+## De bevindingen: minder accuraat en vaker weigerend
+De onderzoekers testten de modellen met vragen uit twee datasets: TruthfulQA (gericht op waarheidsgetrouwheid) en SciQ (gericht op feitelijke nauwkeurigheid). Voor elke vraag voegden ze een korte gebruikersbiografie toe, waarbij ze drie kenmerken varieerden: opleidingsniveau, Engelse taalvaardigheid en land van herkomst. De resultaten waren consistent: voor gebruikers die werden omschreven als niet-Engelstalig of met een minder formele opleiding, daalde de nauwkeurigheid van de antwoorden significant. Deze gebruikers kregen ook vaker te maken met een chatbot die weigerde een vraag te beantwoorden. In sommige gevallen reageerden de modellen zelfs met neerbuigende of betuttelende taal.
 
-De onderzoekers testten de grote taalmodellen met vragen uit twee datasets: TruthfulQA (gericht op waarheidsgetrouwheid) en SciQ (gericht op feitelijke nauwkeurigheid). Aan elke vraag koppelden ze een korte gebruikersbiografie, waarbij ze drie kenmerken varieerden: opleidingsniveau, Engelse taalvaardigheid en land van herkomst. De resultaten waren consistent: op vragen van gebruikers die werden omschreven als "minder formeel opgeleid" of "niet-Engelstalig", daalde de nauwkeurigheid van de antwoorden significant. In sommige gevallen weigerden de modellen zelfs een antwoord te geven, of reageerden ze met een neerbuigende toon.
+Volgens de onderzoekers ondermijnt dit de belofte van AI om informatie wereldwijd toegankelijker te maken. De leider van het onderzoek, Elinor Poole-Dayan, stelt dat deze visie geen realiteit kan worden zonder de vooroordelen en schadelijke tendensen in de modellen voor alle gebruikers te mitigeren.
 
-## De praktische implicatie voor ondernemers
+## Wat dit betekent voor ondernemers en professionals
+Voor bedrijven die AI-chatbots inzetten voor klantenservice, interne kennisbases of publieke informatievoorziening, is dit een belangrijk signaal. Het risico bestaat dat je onbedoeld een tweedeling creëert in de kwaliteit van de dienstverlening. Klanten of medewerkers die zich minder vaardig uitdrukken, minder formeel zijn opgeleid of uit een andere culturele context komen, kunnen systematisch slechtere informatie ontvangen. Dit kan leiden tot fouten, frustratie en een gevoel van uitsluiting.
 
-De belofte van AI is vaak dat het kennis democratiseert en toegankelijk maakt voor iedereen. Dit onderzoek wijst erop dat de realiteit anders kan uitpakken. Als jouw bedrijf een chatbot gebruikt om vragen van klanten te beantwoorden, productinformatie te verstrekken of ondersteuning te bieden, loop je het risico dat een deel van je doelgroep systematisch slechter geholpen wordt. Dit gaat niet alleen om technische fouten, maar om een fundamentele bias in de modellen die getraind zijn op bepaalde datasets en taalpatronen. Het effect is het sterkst voor gebruikers die de informatie het hardst nodig hebben.
+De studie suggereert dat het probleem niet zozeer ligt in de inhoudelijke kennis van de AI, maar in hoe het model de intentie en context van de vraag interpreteert op basis van de gepresenteerde gebruikerskenmerken. Het is een vorm van bias die is ingebakken in de training en de prompt-afhandeling.
 
 ## Hoe kun je dit vandaag toepassen?
-
-De praktische toepassing hangt af van jouw situatie. Via geprompt.nl/stel-je-vraag kun je een vraag stellen die we uitwerken tot een artikel op maat.
+De praktische toepassing hangt af van jouw situatie. Als je AI-tools gebruikt die met klanten of gebruikers communiceren, zou je kunnen overwegen om je eigen tests uit te voeren met uiteenlopende vraagstellingen en taalniveaus om de consistentie van de antwoorden te controleren. Een mogelijkheid is om bewust te zijn van dit risico en bij de selectie van een AI-leverancier te vragen naar hun aanpak voor het testen en verminderen van dit soort prestatieverschillen.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
