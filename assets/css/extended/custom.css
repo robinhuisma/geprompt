@@ -205,3 +205,41 @@
 :root {
   --main-width: 1024px;
 }
+
+/* V4.3.8: Homepage full width gelijk aan header */
+.main {
+  max-width: 100%;
+  width: 100%;
+  padding-left: var(--gap);
+  padding-right: var(--gap);
+}
+
+/* V4.3.8: Alles 125% groter */
+html {
+  font-size: 125%;
+}
+
+/* V4.3.8: Linkerkolom breder in Nieuws & Tools grid */
+.home-section .grid-container,
+.home-section .tripoli-grid {
+  grid-template-columns: 1fr 1.5fr 1fr;
+}
+
+/* V4.3.8: Linkerkolom breder in hero grid */
+.hero-drie-koloms {
+  grid-template-columns: 280px 1fr 280px;
+}
+
+/* V4.3.8: 2 featured artikelen onder elkaar in middenkolom */
+.hero-drie-koloms .hero-midden {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* V4.3.8: 2 featured heroes gestapeld in middenkolom */
+.midden-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}

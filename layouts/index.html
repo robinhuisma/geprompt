@@ -15,7 +15,6 @@
   {{- if gt (len $pages) 0 -}}
 
   {{- if eq $i 0 -}}
-  {{/* === EERSTE SECTIE: 3-koloms hero layout + laatste sidebar === */}}
   <div class="sectie-blok">
     <div class="sectie-kop-rij">
       <h2 class="sectie-kop">{{ index $labels $sectie }}</h2>
@@ -23,7 +22,6 @@
 
     <div class="hero-drie-koloms">
 
-      {{/* LINKS: 2 gestapelde artikelen */}}
       <div class="links-stack">
         {{- range $index, $page := $pages -}}
           {{- if and (ge $index 1) (le $index 4) -}}
@@ -41,23 +39,26 @@
         {{- end -}}
       </div>
 
-      {{/* MIDDEN: grote hero */}}
-      {{- $hero := index $pages 0 -}}
-      <a href="{{ $hero.Permalink }}" class="midden-hero">
-        {{- if $hero.Params.cover.image -}}
-          <img src="{{ $hero.Params.cover.image }}" alt="{{ $hero.Params.cover.alt | default $hero.Title }}" class="midden-img" loading="lazy">
-        {{- else -}}
-          <div class="midden-img img-placeholder"></div>
+      <div class="midden-stack">
+        {{- range $index, $page := $pages -}}
+          {{- if or (eq $index 0) (eq $index 5) -}}
+            <a href="{{ $page.Permalink }}" class="midden-hero">
+              {{- if $page.Params.cover.image -}}
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="midden-img" loading="lazy">
+              {{- else -}}
+                <div class="midden-img img-placeholder"></div>
+              {{- end -}}
+              <div class="midden-cat">{{ index $labels $sectie }}</div>
+              <h2 class="midden-title">{{ $page.Title }}</h2>
+              {{- if $page.Params.summary -}}
+                <p class="midden-summary">{{ $page.Params.summary }}</p>
+              {{- end -}}
+              <span class="midden-meta">{{ $page.Date.Format "02 Jan 2006" }} · {{ $page.ReadingTime }} min</span>
+            </a>
+          {{- end -}}
         {{- end -}}
-        <div class="midden-cat">{{ index $labels $sectie }}</div>
-        <h2 class="midden-title">{{ $hero.Title }}</h2>
-        {{- if $hero.Params.summary -}}
-          <p class="midden-summary">{{ $hero.Params.summary }}</p>
-        {{- end -}}
-        <span class="midden-meta">{{ $hero.Date.Format "02 Jan 2006" }} · {{ $hero.ReadingTime }} min</span>
-      </a>
+      </div>
 
-      {{/* RECHTS: laatste sidebar */}}
       <div class="rechts-sidebar">
         <div class="sidebar-heading">Laatste</div>
         {{- range $index, $page := $pages -}}
@@ -82,7 +83,6 @@
   </div>
 
   {{- else -}}
-  {{/* === OVERIGE SECTIES: 4-koloms grid === */}}
   <div class="sectie-blok">
     <div class="sectie-kop-rij">
       <h2 class="sectie-kop">{{ index $labels $sectie }}</h2>
