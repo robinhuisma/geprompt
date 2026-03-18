@@ -1,28 +1,28 @@
 ---
 title: "Hoe je voorkomt dat AI je team creatief lamlegt"
-date: 2026-03-18T15:27:23.142Z
-tags: ["ai", "samenwerking", "creativiteit", "vergaderen"]
+date: 2026-03-18T19:02:42.759Z
+tags: ["ai", "samenwerking", "creativiteit", "teams"]
 categorieen: ["slimmer-werken"]
 summary: "Als iedereen dezelfde AI gebruikt voor vergadervoorbereiding, verdwijnt de diversiteit aan ideeën. Dit is hoe je dat voorkomt."
 cover:
-  image: "https://images.pexels.com/photos/4008342/pexels-photo-4008342.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
-  alt: "Modern workplace with laptop placed on big book on wooden armchair near wall under lamp in light bedroom"
-  caption: "Foto: ready made via Pexels"
+  image: "https://images.pexels.com/photos/7947640/pexels-photo-7947640.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of eyeglasses on a desk with paper and blurred background, emphasizing minimalism."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/onderzoek-chatgpt-en-claude-zijn-individueel-handig-maar-doodsteek-voor-je-team"
 ---
 
-AI-tools zoals ChatGPT en Claude kunnen individuele medewerkers productiever maken, maar vormen een risico voor de creatieve kracht van een team. Wanneer iedereen dezelfde AI gebruikt om argumenten aan te scherpen of ideeën te structureren, gaan teamleden steeds meer op dezelfde manier denken. Onderzoek wijst uit dat teams die collectief dezelfde AI gebruiken, gezamenlijk tot minder creatieve en minder uiteenlopende oplossingen komen. De collectieve intelligentie verandert dan in collectieve gemakzucht.
+AI-tools zoals ChatGPT en Claude kunnen individuele medewerkers productiever maken, maar vormen een sluipend gevaar voor de creativiteit van je team. Wanneer iedereen dezelfde tool gebruikt om ideeën te genereren of argumenten aan te scherpen, gaan mensen op dezelfde manier denken. Het resultaat is dat je in een vergadering zit waar iedereen min of meer dezelfde input heeft, waardoor de cognitieve diversiteit – de motor achter innovatie – verdampt.
 
-## Waarom AI-teamdenken eenvormig maakt
-Het mechanisme is simpel: mensen zijn geneigd AI-suggesties te volgen zodra die goed genoeg klinken. In plaats van zelf door te zoeken naar een verrassende invalshoek, kiest een teamlid het voorstel dat de AI aandraagt. Dit gedrag, vermenigvuldigd over een heel team, zorgt ervoor dat iedereen bij een vergadering aanschuift met min of meer dezelfde input. De cognitieve diversiteit – de mix van verschillende denkstijlen, achtergronden en perspectieven – verdampt. En dat is precies wat teams in staat stelt om complexe problemen op te lossen en te innoveren.
+## Waarom AI-teamwerk ondermijnt
+Het probleem is niet dat AI slechte ideeën genereert. Onderzoek laat zien dat individuen met een chatbot soms meer ideeën kunnen produceren dan zonder. Het risico ontstaat op teamniveau. Wanneer een heel team dezelfde AI gebruikt, komen ze gezamenlijk tot mínder creatieve en mínder uiteenlopende oplossingen. De tools die mensen individueel productiever maken, maken het team als geheel dus eenvormiger. Dit komt doordat mensen geneigd zijn AI-suggesties te volgen zodra ze goed genoeg klinken, in plaats van door te zoeken naar een verrassende invalshoek. Vermenigvuldig dat gedrag over een heel team en de collectieve creativiteit verdampt.
 
-## De intuïtieve denker komt in de knel
-Een extra risico is dat grote taalmodellen zijn geoptimaliseerd voor lineaire, stapsgewijze redeneerprocessen. Dat is één manier van denken, maar niet de enige. Mensen die verbanden leggen via abstractie, gevoel of intuïtie, kunnen impliciet buitenspel komen te staan. Hun waardevolle, niet-lineaire input wordt mogelijk niet aangemoedigd of zelfs onderdrukt door een werkproces dat draait om het structureren en aanscherpen van tekst via AI. Het team verliest daarmee een cruciale bron van verrassende inzichten.
+## De intuïtieve denker wordt buitenspel gezet
+Een ander punt van zorg is het type denken dat AI-modellen aanmoedigen. Deze modellen zijn vaak geoptimaliseerd voor lineaire, stapsgewijze redeneerprocessen. Dat is één manier van denken, maar zeker niet de enige. Intuïtieve denkers, mensen die verbanden leggen via abstractie of gevoel, worden hierdoor impliciet buitenspel gezet. Hun waardevolle, niet-lineaire bijdragen kunnen verloren gaan als het team zich collectief richt op de gestructureerde output van een AI-tool.
 
 ## Hoe kun je dit vandaag toepassen?
-Een mogelijke stap is om in je team afspraken te maken over wanneer AI wel en niet wordt ingezet voor vergadervoorbereiding. Je zou kunnen overwegen om bepaalde brainstormsessies of creatieve fases expliciet 'AI-vrij' te houden, zodat intuïtieve en uiteenlopende ideeën de ruimte krijgen. Een andere optie is om niet één centrale AI-tool voor het hele team te standaardiseren, maar verschillende tools of methodes naast elkaar te gebruiken en de uitkomsten vervolgens te vergelijken.
+Een mogelijke stap is om in je team afspraken te maken over het gebruik van AI voor vergadervoorbereiding. Je zou kunnen overwegen om niet langer dezelfde tool of prompt te gebruiken, maar juist verschillende invalshoeken te stimuleren. Een andere optie is om bewust ruimte te creëren voor niet-gestructureerde, intuïtieve input naast de AI-ondersteunde voorbereiding, om zo de cognitieve diversiteit te beschermen.
 
 *De toepassingen in dit artikel zijn suggesties op basis van het bronartikel, geen gevalideerd advies.*
 
