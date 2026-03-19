@@ -243,3 +243,23 @@ html {
   flex-direction: column;
   gap: 24px;
 }
+
+/* V4.3.8: Fix mobiel - 125% alleen op desktop */
+html {
+  font-size: 100%;
+}
+@media (min-width: 1024px) {
+  html {
+    font-size: 125%;
+  }
+}
+
+/* Mobiel: hero grid naar 1 kolom */
+@media (max-width: 768px) {
+  .hero-drie-koloms {
+    grid-template-columns: 1fr;
+  }
+  .hero-drie-koloms .rechts-sidebar {
+    display: none;
+  }
+}
