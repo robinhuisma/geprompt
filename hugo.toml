@@ -46,7 +46,7 @@ buildFuture = false
     publisherType = "Organization"
 
 [params.assets]
-  favicon = "/favicon.ico"
+  favicon = "/favicon.png"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -170,5 +170,3 @@ summaryLength = 100
     name = "date"
     weight = 10
 
-[params]
-  favicon = "/favicon.png"
