@@ -1,9 +1,9 @@
 ---
 title: "GPT-5.4 kan nu je computer bedienen, maar blijft fouten maken"
-date: 2026-03-20T07:30:31.426Z
-tags: ["automatisering", "ai-modellen", "productiviteit", "taakanalyse"]
+date: 2026-03-20T11:23:27.588Z
+tags: ["gpt-5.4", "ai-modellen", "automatisering", "praktische gids"]
 categorieen: ["creatief"]
-summary: "De nieuwe GPT-5.4 kan zelf applicaties zoals spreadsheets besturen, maar hallucineert nog steeds. Dit biedt kansen én risico's voor automatisering."
+summary: "OpenAI's nieuwste model kan applicaties besturen, maar hallucineert nog steeds. Hier lees je wat het voor je bedrijf betekent en hoe je ermee begint."
 cover:
   image: "/images/covers/2026-03-20-gpt-5-4-hallucineert-nog-steeds-rick-lamers-over-agi-timelin.webp"
   alt: "GPT 5.4 hallucineert nog steeds + Rick Lamers over AGI-timelines"
@@ -12,28 +12,25 @@ source_name: "AI Report"
 source_url: "https://www.aireport.email/p/gpt-54-hallucineert-nog-steeds-rick"
 ---
 
-De nieuwste GPT-5.4 van OpenAI kan nu zelfstandig computerapplicaties bedienen. Het model kan bijvoorbeeld rondklikken in software en spreadsheets analyseren en besturen, een vaardigheid die 'computer use' wordt genoemd. Dit betekent dat het in theorie repetitieve digitale taken kan overnemen. Tegelijkertijd waarschuwt het bronmateriaal dat het model nog steeds 'vrolijk hallucineert' – het verzint dus nog steeds informatie. Bovendien is de standaardversie van het model 'een stuk dommer' dan de variant met 'thinking mode' ingeschakeld. De kern voor ondernemers is daarom dubbel: er ligt een potentieel krachtig automatiseringstool binnen handbereik, maar de noodzaak om outputs kritisch te controleren is groter dan ooit.
+GPT-5.4, het nieuwste model van OpenAI, kan nu direct met je computerapplicaties werken. Het kan bijvoorbeeld rondklikken in software, spreadsheets analyseren en andere taken uitvoeren die normaal door mensen worden gedaan. Dit maakt het een potentieel krachtig hulpmiddel voor automatisering. Het model scoort volgens OpenAI beter op belangrijke benchmarks dan zijn voorganger, met name op het gebied van 'computer use'. Toch is er een belangrijke kanttekening: het model hallucineert nog steeds, wat betekent dat het feitelijk onjuiste informatie kan produceren. Daarnaast is de standaardversie van het model aanzienlijk minder capabel dan de variant met 'thinking mode' ingeschakeld.
 
-## De praktische impact van 'computer use'
-De mogelijkheid om applicaties te bedienen is een concrete stap voorwaarts. Waar eerdere modellen vooral tekst konden genereren of analyseren, kan GPT-5.4 nu acties uitvoeren in een digitale omgeving. Denk aan het automatisch invullen van gegevens in een CRM-systeem, het doorlopen van een standaard inkoopprocedure in bedrijfssoftware, of het verzamelen en ordenen van data uit verschillende tabbladen in een spreadsheet. Dit opent deuren voor het automatiseren van workflows die voorheen menselijke interactie met de gebruikersinterface vereisten. Het is belangrijk om dit te zien als een experimentele capaciteit in ontwikkeling, niet als een volwassen, foutloze robotmedewerker.
+## Wat betekent dit voor jouw werk?
+De mogelijkheid om software te bedienen opent deuren voor het automatiseren van repetitieve computerwerkzaamheden. Denk aan het overzetten van data tussen systemen, het genereren van rapporten uit spreadsheetdata, of het uitvoeren van gestandaardiseerde online checks. Het onderzoek van Anthropic, gebaseerd op data van Claude-gebruikers, geeft een realistisch beeld van waar AI nu al wordt ingezet. Het laat een klein gebied zien waar AI daadwerkelijk wordt gebruikt, een groot gebied waar het al zou *kunnen*, en een aanzienlijk deel waar het simpelweg nog niet kan. Banen waarbij fysieke handelingen en sociale interactie centraal staan, zoals monteur of kok, lijken volgens deze data minder snel geautomatiseerd te worden.
 
-## Het blijvende risico van hallucinaties
-De opwinding over nieuwe functies mag het fundamentele probleem niet overschaduwen: het model is niet betrouwbaar. Het kan feiten, cijfers of instructies verzinnen. Het gebruik van de 'thinking mode' – waarbij het model intern zijn redenering uitwerkt – wordt aangeraden om de kwaliteit te verbeteren, maar is geen garantie voor perfectie. Voor een ondernemer betekent dit dat elke uitkomst van een geautomatiseerde taak gecontroleerd moet worden. Het blindelings laten uitvoeren van financiële transacties of het laten genereren van juridische documenten zonder menselijke review is met dit model een risicovolle onderneming.
-
-## Welke banen worden nu al geraakt?
-Naast het nieuws over GPT-5.4 verwijst het bronartikel naar onderzoek van Anthropic, gebaseerd op data van Claude-gebruikers. Dit onderzoek probeert in kaart te brengen welke banen daadwerkelijk door AI worden geraakt. Volgens de samenvatting laat de visualisatie een ontnuchterend beeld zien: een klein gebied waar AI al wordt ingezet, een groot gebied waar het al zou *kunnen* worden ingezet, en een aanzienlijk deel waar het simpelweg nog niet kan. Het bronmateriaal noemt specifiek banen als monteur, kok, barkeeper en badmeester als voorbeelden die de 'AI-dans' nog kunnen ontspringen, wat suggereert dat zeer fysieke of sociale, ongestructureerde taken minder snel geautomatiseerd worden.
+## De valkuilen en hoe je ze omzeilt
+De grootste praktische uitdaging blijft het risico op hallucinaties. GPT-5.4 kan, net als eerdere modellen, overtuigend klinkende maar incorrecte antwoorden geven. Dit is een fundamenteel kenmerk van het huidige type AI, niet een simpele bug. Daarom is het cruciaal om de output altijd te controleren, vooral bij belangrijke of gevoelige taken. Een tweede, direct toepasbaar advies uit de bron is om de 'thinking mode' van het model aan te zetten wanneer je complexere taken uitvoert. Deze modus, waarbij het model interne redeneerstappen maakt, levert volgens de analyse aanzienlijk betere en betrouwbaardere resultaten op dan de standaardversie.
 
 ## Hoe kun je dit vandaag toepassen?
-De combinatie van nieuwe mogelijkheden en bekende beperkingen vraagt om een praktische, voorzichtige benadering. Je zou kunnen experimenteren met het automatiseren van taken, maar altijd met een duidelijke veiligheidsmarge.
+De praktische toepassing hangt sterk af van jouw specifieke situatie en de software waarmee je werkt. De kern van het nieuws is dat AI-modellen nu direct kunnen interacteren met applicatie-interfaces. Je zou kunnen experimenteren met het automatiseren van taken die nu handmatig klik- en typewerk vereisen, altijd met de wetenschap dat controle noodzakelijk blijft.
 
-**Als je veel tijd kwijt bent aan het overzetten van data tussen systemen,** dan is de 'computer use'-functie een interessant experiment. Een mogelijkheid is om een eenvoudige, niet-kritieke taak te definiëren, zoals het exporteren van contacten uit een e-mailtool en importeren in een mailinglijst. Je zou dit kunnen testen onder strikt toezicht, waarbij je elke stap controleert voordat deze definitief wordt.
+**Als je veel tijd besteedt aan het overnemen van data tussen systemen,** dan zou je kunnen onderzoeken of een AI-agent deze flow kan leren en repliceren. Een mogelijkheid is om een proces eerst heel gedetailleerd te documenteren en dat als basis te gebruiken.
 
-**Als je financiële rapportages of data-analyses maakt in spreadsheets,** overweeg dan om GPT-5.4 met 'thinking mode' in te zetten als assistent voor voorbereidend werk. Het model zou bijvoorbeeld kunnen helpen bij het schoonmaken van een dataset of het maken van standaardgrafieken vanuit een duidelijk instructie. De eindcontrole en interpretatie van de cijfers blijft essentieel in menselijke handen.
+**Als je regelmatig standaardrapporten maakt op basis van spreadsheetcijfers,** dan is een model met 'computer use' mogelijk in staat om die spreadsheet te openen, de juiste data te selecteren, en deze in een vooraf gedefinieerd template te plaatsen. Overweeg om dit eerst te testen met niet-kritieke data.
 
-**Als je je afvraagt welke rollen in je bedrijf het meest kwetsbaar zijn voor automatisering,** dan biedt het genoemde onderzoek een denkkader. Kijk naar de dagelijkse taken van je team: bestaan ze vooral uit gestructureerd, digitaal werk dat volgens vaste patronen verloopt? Dan ligt automatisering op termijn voor de hand. Bestaan ze uit onvoorspelbare klantcontacten, fysiek vakmanschap of creatief probleemoplossen? Dan is de directe impact van AI zoals GPT-5.4 waarschijnlijk kleiner.
+**Als je online research doet voor bijvoorbeeld leveranciers of markttrends,** dan zou een AI-tool de taak kunnen hebben om bepaalde websites te bezoeken en specifieke informatie te extraheren. Let er hierbij extra op dat de gevonden informatie geverifieerd moet worden.
 
-**Als je een dienst verleent die draait om persoonlijk contact en fysieke aanwezigheid,** zoals in de horeca, zorg of ambacht, dan bevestigt dit bericht dat jouw kernwaarde op korte termijn niet door dit type AI wordt overgenomen. Een mogelijke stap is om te onderzoeken of de *ondersteunende* administratie (zoals planning of voorraadbeheer) elementen bevat die wél geautomatiseerd kunnen worden, zodat je meer tijd overhoudt voor het kernwerk.
+**Als je een proces hebt dat uit tientallen vaste kliks in een oud softwarepakket bestaat,** dan zou dit een kandidaat kunnen zijn voor automatisering. Begin met het in kaart brengen van de exacte stappen en de verwachte uitkomst.
 
-De praktische toepassing komt neer op het erkennen van de potentie zonder de beperkingen uit het oog te verliezen. Begin klein, controleer grondig, en focus op het vrijmaken van menselijke tijd voor taken waar AI nog tekortschiet.
+**Als je de 'thinking mode' nog niet gebruikt voor complexe vragen,** dan is een eenvoudige stap om die standaard in te schakelen bij taken zoals het analyseren van een lang document, het oplossen van een ingewikkeld probleem of het schrijven van gedetailleerde code. De kwaliteit van de output kan hierdoor aanzienlijk verbeteren.
 
 Bron: [AI Report](https://www.aireport.email/p/gpt-54-hallucineert-nog-steeds-rick)
