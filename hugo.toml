@@ -169,3 +169,6 @@ summaryLength = 100
   [[related.indices]]
     name = "date"
     weight = 10
+
+[params]
+  favicon = "/favicon.png"
