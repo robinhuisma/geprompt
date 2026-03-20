@@ -1,12 +1,21 @@
 {{ define "main" }}
 
+{{/* ── MASTHEAD ── */}}
 {{- if site.Params.homeInfoParams -}}
-  {{- partial "home_info.html" . -}}
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-accent"></div>
+    <div class="masthead-text">
+      <h1 class="masthead-title">{{ site.Params.homeInfoParams.Title | markdownify }}</h1>
+      <p class="masthead-sub">{{ site.Params.homeInfoParams.Content | markdownify }}</p>
+    </div>
+  </div>
+</div>
 {{- end -}}
 
 {{- $secties := slice "nieuws-tools" "marketing-groei" "slimmer-werken" "creatief" -}}
-{{- $labels := dict "nieuws-tools" "NIEUWS & TOOLS" "marketing-groei" "MARKETING & GROEI" "slimmer-werken" "SLIMMER WERKEN" "creatief" "CREATIEF" -}}
-{{- $slugs := dict "nieuws-tools" "nieuws-tools" "marketing-groei" "marketing-groei" "slimmer-werken" "slimmer-werken" "creatief" "creatief" -}}
+{{- $labels := dict "nieuws-tools" "Nieuws & Tools" "marketing-groei" "Marketing & Groei" "slimmer-werken" "Slimmer Werken" "creatief" "Creatief" -}}
+{{- $nummers := dict "nieuws-tools" "01" "marketing-groei" "02" "slimmer-werken" "03" "creatief" "04" -}}
 
 {{- range $i, $sectie := $secties -}}
   {{- $pages := where site.RegularPages "Section" $sectie -}}
@@ -14,42 +23,44 @@
 
   {{- if gt (len $pages) 0 -}}
 
+  {{/* ── EERSTE SECTIE: HERO LAYOUT ── */}}
   {{- if eq $i 0 -}}
-  <div class="sectie-blok">
+  <section class="sectie-blok sectie-hero">
     <div class="sectie-kop-rij">
-      <h2 class="sectie-kop">{{ index $labels $sectie }}</h2>
+      <h2 class="sectie-kop"><span class="sectie-nr">{{ index $nummers $sectie }}</span> {{ index $labels $sectie }}</h2>
     </div>
 
     <div class="hero-drie-koloms">
 
-      <div class="links-stack">
-        {{- range $index, $page := $pages -}}
-          {{- if and (ge $index 1) (le $index 4) -}}
-            <a href="{{ $page.Permalink }}" class="links-card">
-              {{- if $page.Params.cover.image -}}
-                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="links-img" loading="lazy">
-              {{- else -}}
-                <div class="links-img img-placeholder"></div>
-              {{- end -}}
-              <div class="links-cat">{{ index $labels $sectie }}</div>
-              <h3 class="links-title">{{ $page.Title }}</h3>
-              <span class="links-meta">{{ $page.Date.Format "02 Jan 2006" }} · {{ $page.ReadingTime }} min</span>
-            </a>
-          {{- end -}}
-        {{- end -}}
-      </div>
-
+      {{/* Middenkolom: featured hero met overlay */}}
       <div class="midden-stack">
         {{- range $index, $page := $pages -}}
-          {{- if or (eq $index 0) (eq $index 5) -}}
+          {{- if eq $index 0 -}}
+            <a href="{{ $page.Permalink }}" class="midden-hero midden-hero--overlay">
+              <div class="midden-hero-img-wrap">
+                {{- if $page.Params.cover.image -}}
+                  <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="midden-img" loading="eager">
+                {{- else -}}
+                  <div class="midden-img img-placeholder"></div>
+                {{- end -}}
+                <div class="midden-overlay">
+                  <h2 class="midden-title">{{ $page.Title }}</h2>
+                  {{- if $page.Params.summary -}}
+                    <p class="midden-summary">{{ $page.Params.summary }}</p>
+                  {{- end -}}
+                  <span class="midden-meta">{{ $page.Date.Format "02 Jan 2006" }} · {{ $page.ReadingTime }} min</span>
+                </div>
+              </div>
+            </a>
+          {{- end -}}
+          {{- if eq $index 5 -}}
             <a href="{{ $page.Permalink }}" class="midden-hero">
               {{- if $page.Params.cover.image -}}
-                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="midden-img" loading="lazy">
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="midden-img midden-img--small" loading="lazy">
               {{- else -}}
-                <div class="midden-img img-placeholder"></div>
+                <div class="midden-img midden-img--small img-placeholder"></div>
               {{- end -}}
-              <div class="midden-cat">{{ index $labels $sectie }}</div>
-              <h2 class="midden-title">{{ $page.Title }}</h2>
+              <h2 class="midden-title midden-title--small">{{ $page.Title }}</h2>
               {{- if $page.Params.summary -}}
                 <p class="midden-summary">{{ $page.Params.summary }}</p>
               {{- end -}}
@@ -59,10 +70,28 @@
         {{- end -}}
       </div>
 
-      <div class="rechts-sidebar">
-        <div class="sidebar-heading">Laatste</div>
+      {{/* Linkerkolom: compact cards */}}
+      <div class="links-stack">
         {{- range $index, $page := $pages -}}
-          {{- if ge $index 3 -}}
+          {{- if and (ge $index 1) (le $index 4) -}}
+            <a href="{{ $page.Permalink }}" class="links-card">
+              {{- if $page.Params.cover.image -}}
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="links-img" loading="lazy">
+              {{- else -}}
+                <div class="links-img img-placeholder"></div>
+              {{- end -}}
+              <h3 class="links-title">{{ $page.Title }}</h3>
+              <span class="links-meta">{{ $page.Date.Format "02 Jan 2006" }} · {{ $page.ReadingTime }} min</span>
+            </a>
+          {{- end -}}
+        {{- end -}}
+      </div>
+
+      {{/* Rechterkolom: sidebar lijst */}}
+      <div class="rechts-sidebar">
+        <div class="sidebar-heading">Laatste artikelen</div>
+        {{- range $index, $page := $pages -}}
+          {{- if and (ge $index 3) (le $index 7) -}}
             <a href="{{ $page.Permalink }}" class="sidebar-item">
               {{- if $page.Params.cover.image -}}
                 <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="sidebar-thumb" loading="lazy">
@@ -70,9 +99,8 @@
                 <div class="sidebar-thumb img-placeholder"></div>
               {{- end -}}
               <div class="sidebar-content">
-                <div class="sidebar-cat">{{ index $labels $sectie }}</div>
                 <div class="sidebar-title">{{ $page.Title }}</div>
-                <div class="sidebar-meta">{{ $page.Date.Format "02 Jan" }} · {{ $page.ReadingTime }} min</div>
+                <div class="sidebar-meta">{{ $page.Date.Format "02 Jan" }}</div>
               </div>
             </a>
           {{- end -}}
@@ -80,35 +108,39 @@
       </div>
 
     </div>
-  </div>
+  </section>
 
+  {{/* ── OVERIGE SECTIES: GRID LAYOUT ── */}}
   {{- else -}}
-  <div class="sectie-blok">
+  <section class="sectie-blok">
     <div class="sectie-kop-rij">
-      <h2 class="sectie-kop">{{ index $labels $sectie }}</h2>
-      <a href="/{{ index $slugs $sectie }}/" class="sectie-alles">Alles zien</a>
+      <h2 class="sectie-kop"><span class="sectie-nr">{{ index $nummers $sectie }}</span> {{ index $labels $sectie }}</h2>
+      <a href="/{{ $sectie }}/" class="sectie-alles">Alles zien</a>
     </div>
 
     <div class="vierkoloms-grid">
       {{- range $index, $page := $pages -}}
         {{- if lt $index 8 -}}
-          <a href="{{ $page.Permalink }}" class="grid-card">
-            {{- if $page.Params.cover.image -}}
-              <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="grid-img" loading="lazy">
-            {{- else -}}
-              <div class="grid-img img-placeholder"></div>
-            {{- end -}}
-            <div class="grid-cat">{{ index $labels $sectie }}</div>
-            <h3 class="grid-title">{{ $page.Title }}</h3>
-            {{- if $page.Params.summary -}}
-              <p class="grid-summary">{{ $page.Params.summary | truncate 80 }}</p>
-            {{- end -}}
-            <span class="grid-meta">{{ $page.Date.Format "02 Jan 2006" }} · {{ $page.ReadingTime }} min</span>
+          <a href="{{ $page.Permalink }}" class="grid-card{{ if lt $index 2 }} grid-card--featured{{ end }}">
+            <div class="grid-img-wrap">
+              {{- if $page.Params.cover.image -}}
+                <img src="{{ $page.Params.cover.image }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" class="grid-img" loading="lazy">
+              {{- else -}}
+                <div class="grid-img img-placeholder"></div>
+              {{- end -}}
+            </div>
+            <div class="grid-card-body">
+              <h3 class="grid-title">{{ $page.Title }}</h3>
+              {{- if $page.Params.summary -}}
+                <p class="grid-summary">{{ $page.Params.summary | truncate 90 }}</p>
+              {{- end -}}
+              <span class="grid-meta">{{ $page.Date.Format "02 Jan 2006" }} · {{ $page.ReadingTime }} min</span>
+            </div>
           </a>
         {{- end -}}
       {{- end -}}
     </div>
-  </div>
+  </section>
 
   {{- end -}}
 

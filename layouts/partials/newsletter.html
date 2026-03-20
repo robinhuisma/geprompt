@@ -1,4 +1,4 @@
-<div class="newsletter-box">
+<section class="newsletter-box">
   <h3>Op de hoogte blijven van AI-ontwikkelingen?</h3>
   <p>Ontvang op werkdagen het relevantste AI-lunchnieuws in je inbox.</p>
   <form id="newsletter-form" action="https://webhook.geprompt.nl/webhook/geprompt-subscribe" method="POST">
@@ -13,7 +13,8 @@
     </label>
   </form>
   <div id="newsletter-thanks" style="display:none;">
-    <p>Bedankt voor je aanmelding! Je ontvangt binnenkort de eerste nieuwsbrief.</p>
+    <p style="color:var(--accent);font-weight:600;margin-bottom:4px;">Welkom aan boord.</p>
+    <p style="color:var(--secondary);font-size:var(--text-sm);">Je ontvangt binnenkort de eerste nieuwsbrief.</p>
   </div>
   <script>
     document.getElementById('newsletter-form').addEventListener('submit', function(e) {
@@ -33,4 +34,4 @@
       });
     });
   </script>
-</div>
+</section>

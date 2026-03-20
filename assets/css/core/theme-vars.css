@@ -1,38 +1,95 @@
+/* ================================================
+   GEPROMPT — Design System Tokens
+   Premium Editorial Dark Theme
+   ================================================ */
+
 :root {
+    /* ── Layout ── */
     --gap: 24px;
     --content-gap: 20px;
-    --nav-width: 1024px;
-    --main-width: 720px;
-    --header-height: 60px;
+    --nav-width: 1120px;
+    --main-width: 780px;
+    --header-height: 64px;
     --footer-height: 60px;
+
+    /* ── Spacing Scale ── */
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+    --space-7: 32px;
+    --space-8: 48px;
+    --space-9: 64px;
+    --space-10: 96px;
+
+    /* ── Radius ── */
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --content: rgb(31, 31, 31);
-    --code-block-bg: rgb(28, 29, 33);
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 12px;
+    --radius-xl: 16px;
+
+    /* ── Typography Scale ── */
+    --text-xs: 0.7rem;
+    --text-sm: 0.8rem;
+    --text-base: 0.9rem;
+    --text-md: 1rem;
+    --text-lg: 1.125rem;
+    --text-xl: 1.3rem;
+    --text-2xl: 1.6rem;
+    --text-3xl: 2rem;
+    --text-4xl: 2.5rem;
+    --text-5xl: 3.2rem;
+
+    /* ── Transitions ── */
+    --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+    --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+    --duration-fast: 150ms;
+    --duration-normal: 250ms;
+    --duration-slow: 400ms;
+
+    /* ── Brand ── */
+    --accent: #00A19B;
+    --accent-hover: #00bfb8;
+    --accent-muted: rgba(0, 161, 155, 0.12);
+    --accent-subtle: rgba(0, 161, 155, 0.06);
+    --accent-text: #00A19B;
+
+    /* ── Light Theme (PaperMod compat) ── */
+    --theme: #fafafa;
+    --entry: #ffffff;
+    --primary: rgb(20, 20, 22);
+    --secondary: rgb(100, 100, 105);
+    --tertiary: rgb(230, 230, 232);
+    --content: rgb(35, 35, 38);
+    --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --border: rgba(0, 0, 0, 0.06);
+    --shadow-card: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
+    --shadow-card-hover: 0 2px 8px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.06);
     color-scheme: light;
 }
 
+/* ── Dark Theme ── */
 :root[data-theme="dark"] {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+    --theme: #0e0f11;
+    --entry: #151618;
+    --primary: #e4e4e6;
+    --secondary: #86878a;
+    --tertiary: #2a2b2e;
+    --content: #c8c8cb;
+    --hljs-bg: #151618;
+    --code-bg: #1a1b1e;
+    --border: rgba(255, 255, 255, 0.06);
+    --shadow-card: 0 1px 3px rgba(0,0,0,0.2), 0 4px 16px rgba(0,0,0,0.15);
+    --shadow-card-hover: 0 4px 12px rgba(0,0,0,0.3), 0 12px 32px rgba(0,0,0,0.2);
     color-scheme: dark;
 }
 
 .list {
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 [data-theme="dark"] .list {

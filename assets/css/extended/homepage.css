@@ -1,446 +1,255 @@
-/* ===========================================
-   GEPROMPT HOMEPAGE — NU.nl-stijl layout
-   =========================================== */
+/* ================================================
+   GEPROMPT — List Page & Shared Styles v2
+   Premium Editorial Layout
+   ================================================ */
 
-/* HERO CARD — Groot uitgelicht artikel */
+/* ── HERO CARD (List Pages) ── */
 .hero-card {
-  display: block;
-  position: relative;
-  width: 100%;
-  border-radius: 12px;
-  overflow: hidden;
-  margin-bottom: 16px;
-  text-decoration: none;
-  aspect-ratio: 16 / 9;
+    display: block;
+    position: relative;
+    width: 100%;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    margin-bottom: var(--space-8);
+    text-decoration: none;
+    aspect-ratio: 21 / 9;
 }
 
 .hero-card .hero-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.3s ease;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform var(--duration-slow) var(--ease-out);
 }
 
 .hero-card:hover .hero-img {
-  transform: scale(1.03);
+    transform: scale(1.015);
 }
 
 .hero-card .hero-overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 24px 20px 20px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.85));
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: var(--space-9) var(--space-8) var(--space-7);
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.88) 0%,
+        rgba(0, 0, 0, 0.5) 50%,
+        transparent 100%
+    );
 }
 
-.hero-card .hero-label {
-  display: inline-block;
-  background: var(--primary, #00A19B);
-  color: #fff;
-  font-size: 0.7em;
-  font-weight: 700;
-  padding: 3px 10px;
-  border-radius: 4px;
-  margin-bottom: 8px;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
+.hero-card .hero-label { display: none; }
 
 .hero-card .hero-title {
-  color: #fff;
-  font-size: 1.5em;
-  line-height: 1.3;
-  margin: 0;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    color: #fff;
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    line-height: 1.15;
+    margin: 0;
+    letter-spacing: -0.03em;
+    max-width: 640px;
 }
 
-/* NIEUWS LIJST — Thumbnail + titel */
+/* ── NEWS LIST (List Pages) ── */
 .news-list {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
 }
 
 .news-item {
-  border-bottom: 1px solid var(--border, rgba(255,255,255,0.08));
+    border-bottom: 1px solid var(--border);
 }
+
+.news-item:last-child { border-bottom: none; }
 
 .news-link {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  padding: 14px 0;
-  text-decoration: none;
-  color: inherit;
-  transition: opacity 0.15s;
+    display: flex;
+    align-items: center;
+    gap: var(--space-5);
+    padding: var(--space-5) 0;
+    text-decoration: none;
+    color: inherit;
+    transition: opacity var(--duration-fast) var(--ease-out);
 }
 
-.news-link:hover {
-  opacity: 0.85;
-}
+.news-link:hover { opacity: 0.85; }
+
+.news-link:hover .news-title { color: var(--accent); }
 
 .news-thumb {
-  flex-shrink: 0;
-  width: 120px;
-  height: 80px;
-  border-radius: 8px;
-  overflow: hidden;
+    flex-shrink: 0;
+    width: 140px;
+    height: 90px;
+    border-radius: var(--radius-md);
+    overflow: hidden;
 }
 
 .news-thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform var(--duration-slow) var(--ease-out);
 }
 
-.news-content {
-  flex: 1;
-  min-width: 0;
-}
+.news-link:hover .news-thumb img { transform: scale(1.03); }
 
-.news-label {
-  display: inline-block;
-  color: var(--primary, #00A19B);
-  font-size: 0.7em;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom: 4px;
-}
+.news-content { flex: 1; min-width: 0; }
+.news-label { display: none; }
 
 .news-title {
-  font-size: 1em;
-  line-height: 1.4;
-  margin: 0;
-  color: var(--content, #fff);
+    font-size: var(--text-md);
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0;
+    color: var(--primary);
+    transition: color var(--duration-fast) var(--ease-out);
 }
 
 .news-meta {
-  font-size: 0.75em;
-  color: var(--secondary, #888);
-  margin-top: 4px;
-  display: block;
+    font-size: var(--text-xs);
+    color: var(--secondary);
+    margin-top: var(--space-1);
+    display: block;
+    opacity: 0.6;
 }
 
-/* AD SLOT — Sponsorplek tussen artikelen */
-.ad-slot {
-  border: 1px solid rgba(255,255,255,0.1);
-  border-radius: 10px;
-  padding: 20px;
-  margin: 12px 0;
-  background: rgba(255,255,255,0.03);
-  text-align: center;
+/* ── SECTION HEADER (List Pages) ── */
+.section-header {
+    margin-bottom: var(--space-7);
+    padding-bottom: var(--space-4);
+    border-bottom: 1px solid var(--border);
 }
 
-.ad-label {
-  display: inline-block;
-  font-size: 0.65em;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--secondary, #888);
-  margin-bottom: 8px;
+.section-title {
+    font-size: var(--text-sm) !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.08em !important;
+    color: var(--primary) !important;
+    text-transform: uppercase;
+    margin: 0 0 var(--space-1) !important;
 }
 
-.ad-placeholder p {
-  margin: 0;
-  font-size: 0.85em;
-  color: var(--secondary, #888);
+.section-desc {
+    font-size: var(--text-base);
+    color: var(--secondary);
+    margin: 0;
+    line-height: 1.5;
+    opacity: 0.8;
 }
 
-.ad-placeholder a {
-  color: var(--primary, #00A19B);
+/* ── RELATED ARTICLES ── */
+.related-articles {
+    margin-top: var(--space-9);
+    padding-top: var(--space-7);
+    border-top: 1px solid var(--border);
 }
 
-/* RESPONSIVE — Mobiel */
-@media (max-width: 600px) {
-  .hero-card {
-    border-radius: 0;
-    margin-left: -16px;
-    margin-right: -16px;
-    width: calc(100% + 32px);
-  }
-
-  .hero-card .hero-title {
-    font-size: 1.2em;
-  }
-
-  .news-thumb {
-    width: 100px;
-    height: 68px;
-  }
-
-  .news-title {
-    font-size: 0.92em;
-  }
+.related-articles h3 {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--secondary);
+    margin-bottom: var(--space-6);
 }
 
-/* LIGHT MODE overrides */
-body:not(.dark) .news-title {
-  color: var(--content, #1d1d1d);
+.related-item {
+    margin-bottom: var(--space-5);
+    padding-bottom: var(--space-5);
+    border-bottom: 1px solid var(--border);
 }
 
-body:not(.dark) .hero-overlay {
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+.related-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
-body:not(.dark) .news-item {
-  border-bottom-color: rgba(0,0,0,0.08);
+.related-item a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: var(--text-base);
+    transition: color var(--duration-fast) var(--ease-out);
 }
 
-body:not(.dark) .ad-slot {
-  border-color: rgba(0,0,0,0.1);
-  background: rgba(0,0,0,0.02);
+.related-item a:hover { color: var(--accent); }
+
+.related-item p {
+    font-size: var(--text-sm);
+    color: var(--secondary);
+    margin: var(--space-1) 0 0;
+    line-height: 1.55;
+    opacity: 0.7;
 }
 
-/* Homepage gebruikt custom .hero-card en .news-item, geen post-entry nodig */
-
-/* SECTIE HEADER */
-.section-header { margin-bottom: 20px; }
-.section-title { font-size: 1.8em; font-weight: 700; letter-spacing: -0.3px; margin: 0 0 4px; color: #00A19B !important; }
-.section-desc { font-size: 0.9em; color: var(--secondary, #888); margin: 0; }
-
-/* DUNNERE TITELS — NU.nl-stijl */
-.hero-card .hero-title { font-weight: 500; }
-.news-title { font-weight: 500; }
-h1.post-title { font-weight: 300; }
-
-/* Labels verbergen */
-.hero-label, .news-label { display: none; }
-
-/* Hero label forceer verbergen */
-.hero-card .hero-label { display: none !important; visibility: hidden !important; }
-
-/* Artikel titels bold */
-h1.post-title { font-weight: 700 !important; }
-
-/* Foto bijschrift lichter */
-.post-single figcaption, figure.post-cover figcaption { color: rgba(255,255,255,0.5) !important; }
-body:not(.dark) .post-single figcaption, body:not(.dark) figure.post-cover figcaption { color: rgba(0,0,0,0.5) !important; }
-
-
-
-/* Sectie label in GEPROMPT teal */
-.sectie-label {
-  display: inline-block;
-  color: #00A19B;
-  font-size: 0.7em;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-bottom: 4px;
+/* ── AI TRANSPARENCY (Article) ── */
+.ai-transparency {
+    margin-top: var(--space-8);
+    padding: var(--space-4) 0;
+    border-top: 1px solid var(--border);
+    font-size: var(--text-xs);
+    color: var(--secondary);
+    opacity: 0.45;
 }
 
-.hero-overlay .sectie-label {
-  font-size: 0.75em;
-  margin-bottom: 8px;
+/* ── FIGCAPTION ── */
+.post-single figcaption,
+figure.post-cover figcaption {
+    color: var(--secondary) !important;
+    opacity: 0.5;
 }
 
-/* Footer styling */
-.footer { font-size: 0.85em; }
-.footer a { font-size: 0.9em; }
-
-/* Footer menu iets kleiner */
-.footer nav { font-size: 0.85em; }
-
-/* Sectie blok op homepage */
-.sectie-blok {
-  margin-bottom: 24px;
+/* ── PAGE FOOTER / PAGINATION ── */
+.page-footer {
+    margin-top: var(--space-8);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--border);
 }
 
-/* Sectie kop in teal */
-.sectie-kop {
-  color: #00A19B;
-  font-size: 1.65em;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: -2px;
-  margin-bottom: 12px;
-  padding-bottom: 8px;
-  border-bottom: 2px solid #00A19B;
+/* ── RESPONSIVE ── */
+@media (max-width: 768px) {
+    .hero-card {
+        border-radius: var(--radius-md);
+        aspect-ratio: 16 / 9;
+    }
+    .hero-card .hero-title { font-size: var(--text-xl); }
+    .hero-card .hero-overlay { padding: var(--space-5) var(--space-4) var(--space-4); }
+    .news-thumb { width: 100px; height: 68px; }
+    .news-title { font-size: var(--text-base); }
 }
 
-/* Footer nav */
-.footer-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px 16px;
-  margin-bottom: 8px;
-  font-size: 0.8em;
+@media (max-width: 480px) {
+    .hero-card {
+        border-radius: 0;
+        margin-left: calc(-1 * var(--gap));
+        margin-right: calc(-1 * var(--gap));
+        width: calc(100% + 2 * var(--gap));
+    }
 }
 
-.footer-nav a {
-  color: var(--secondary, #888);
-  text-decoration: none;
+/* ── LIGHT MODE OVERRIDES ── */
+:root:not([data-theme="dark"]) .hero-overlay,
+:root:not([data-theme="dark"]) .midden-overlay {
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.82) 0%,
+        rgba(0, 0, 0, 0.4) 50%,
+        transparent 100%
+    );
 }
 
-.footer-nav a:hover {
-  color: #00A19B;
+:root:not([data-theme="dark"]) .grid-card {
+    border-color: rgba(0, 0, 0, 0.05);
+    box-shadow: var(--shadow-card);
 }
 
-/* Footer links geen underline */
-.footer-nav a { text-decoration: none !important; border-bottom: none !important; }
-
-/* Copyright in teal */
-.footer span { color: #00A19B; }
-
-/* Light mode: lichte schaduw op alle afbeeldingen */
-body:not(.dark) .hero-img,
-body:not(.dark) .news-thumb img,
-body:not(.dark) .post-content img,
-body:not(.dark) figure img {
-  box-shadow: 0 2px 12px rgba(0,0,0,0.10);
-  border-radius: 8px;
-}
-
-
-body:not(.dark) .newsletter-box input[type="text"]::placeholder,
-body:not(.dark) .newsletter-box input[type="email"]::placeholder {
-  color: #999999 !important;
-}
-
-body:not(.dark) .newsletter-box h3 {
-  color: #1a1a1a !important;
-}
-
-body:not(.dark) .newsletter-box p {
-  color: #555555 !important;
-}
-
-body:not(.dark) .newsletter-avg span {
-  color: #555555 !important;
-}
-
-body:not(.dark) .newsletter-box input[type="checkbox"] {
-  accent-color: #00A19B;
-}
-
-/* === DARK MODE: expliciete regels zodat dark mode altijd werkt === */
-body.dark {
-  background-color: #1d1e20 !important;
-  color: #d1d1d1 !important;
-}
-
-body.dark main,
-body.dark .main {
-  background-color: #1d1e20 !important;
-}
-
-body.dark header,
-body.dark .header {
-  background-color: #1d1e20 !important;
-}
-
-body.dark .post-title,
-body.dark h1,
-body.dark h2:not(.sectie-kop):not(.hero-title),
-body.dark h3 {
-  color: #d1d1d1 !important;
-}
-
-body.dark p,
-body.dark li,
-body.dark .post-content {
-  color: #d1d1d1 !important;
-}
-
-body.dark .news-meta {
-  color: #888 !important;
-}
-
-body.dark nav a {
-  color: #d1d1d1 !important;
-}
-
-body.dark nav a:hover {
-  color: #00A19B !important;
-}
-
-body.dark .footer {
-  background-color: #1d1e20 !important;
-  color: #888 !important;
-}
-
-body.dark .footer a,
-body.dark .footer-nav a {
-  color: #888 !important;
-}
-
-body.dark .footer-nav a:hover {
-  color: #00A19B !important;
-}
-
-body.dark .news-item {
-  border-bottom-color: rgba(255,255,255,0.08) !important;
-}
-
-body.dark .news-title {
-  color: #d1d1d1 !important;
-}
-
-body.dark .newsletter-box,
-body.dark .newsletter {
-  background-color: #2a2b2d !important;
-  color: #d1d1d1 !important;
-  border: 1px solid rgba(255,255,255,0.1) !important;
-}
-
-body.dark .newsletter-box h3 {
-  color: #d1d1d1 !important;
-}
-
-body.dark .newsletter-box p {
-  color: #888 !important;
-}
-
-body.dark .newsletter-box input[type="text"],
-body.dark .newsletter-box input[type="email"] {
-  background-color: #1d1e20 !important;
-  color: #d1d1d1 !important;
-  border: 1px solid rgba(255,255,255,0.15) !important;
-}
-
-body.dark .newsletter-box input[type="text"]::placeholder,
-body.dark .newsletter-box input[type="email"]::placeholder {
-  color: #666 !important;
-}
-
-body.dark .newsletter-avg span {
-  color: #888 !important;
-}
-
-body.dark .logo a {
-  color: #00A19B !important;
-}
-
-body.dark #theme-toggle svg {
-  color: #d1d1d1 !important;
-  stroke: #d1d1d1 !important;
-}
-
-body.dark .home-info h1,
-body.dark .first-entry h1 {
-  color: #d1d1d1 !important;
-}
-
-body.dark .home-info p,
-body.dark .first-entry p {
-  color: #888 !important;
-}
-
-body.dark .section-desc {
-  color: #888 !important;
-}
-
-body.dark .ad-slot {
-  border-color: rgba(255,255,255,0.1) !important;
-  background: rgba(255,255,255,0.03) !important;
-}
-
-body.dark .post-single figcaption,
-body.dark figure.post-cover figcaption {
-  color: rgba(255,255,255,0.5) !important;
+:root:not([data-theme="dark"]) .grid-card:hover {
+    box-shadow: var(--shadow-card-hover);
+    border-color: rgba(0, 0, 0, 0.06);
 }
