@@ -1,0 +1,174 @@
+baseURL = "https://geprompt.nl/"
+languageCode = "nl"
+defaultContentLanguage = "nl"
+title = "GEPROMPT"
+theme = "PaperMod"
+paginate = 9999
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  DateFormat = "2 January 2006 · 15:04"
+  env = "production"
+  description = "Dagelijks AI-nieuws voor Nederlandse ondernemers. Kort, feitelijk, toepasbaar."
+  author = "Geprompt Redactie"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = true
+  ShareButtons = ["x", "linkedin", "reddit", "facebook", "whatsapp", "telegram"]
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = false
+
+  disableThemeToggle = false
+  ShowMenu = true
+
+
+
+
+
+
+  [params.homeInfoParams]
+    Title = "Dagelijks AI-nieuws voor professionals."
+    Content = "Praktische inzichten voor werk, groei en voorsprong."
+
+  locale = "nl_NL"
+
+  # Default OG image als artikel geen cover heeft
+  [params.images]
+    # Fallback voor social sharing — vervang later door eigen branded image
+    # Zet een bestand /static/og-default.png neer (1200x630px)
+
+  [params.schema]
+    publisherType = "Organization"
+
+[params.assets]
+  favicon = "/favicon.ico"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  identifier = "nieuws-tools"
+  name = "Nieuws & Tools"
+  url = "/nieuws-tools/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "marketing-groei"
+  name = "Marketing & Groei"
+  url = "/marketing-groei/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "slimmer-werken"
+  name = "Slimmer Werken"
+  url = "/slimmer-werken/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "creatief"
+  name = "Creatief"
+  url = "/creatief/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "zoeken"
+  name = "Zoeken"
+  url = "/search/"
+  weight = 5
+[taxonomies]
+  tag = "tags"
+  categorie = "categorieen"
+
+[markup.goldmark.renderer]
+  unsafe = true
+summaryLength = 100
+
+# Footer menu
+[[menu.footer]]
+  identifier = "over"
+  name = "Over Geprompt"
+  url = "/over/"
+  weight = 1
+
+[[menu.footer]]
+  identifier = "transparantie"
+  name = "Transparantie"
+  url = "/transparantie/"
+  weight = 2
+
+[[menu.footer]]
+  identifier = "disclaimer"
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = 3
+
+[[menu.footer]]
+  identifier = "voorwaarden"
+  name = "Algemene Voorwaarden"
+  url = "/voorwaarden/"
+  weight = 4
+
+[[menu.footer]]
+  identifier = "privacy"
+  name = "Privacyverklaring"
+  url = "/privacy/"
+  weight = 5
+
+[[menu.footer]]
+  identifier = "cookies"
+  name = "Cookiebeleid"
+  url = "/cookies/"
+  weight = 6
+
+[[menu.footer]]
+  identifier = "partnerships"
+  name = "Partnerships"
+  url = "/commercieel/"
+  weight = 7
+
+[[menu.footer]]
+  identifier = "tips"
+  name = "Tips voor de redactie"
+  url = "/tips/"
+  weight = 8
+
+[[menu.footer]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 9
+
+# Gerelateerde artikelen onderaan posts
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+  [[related.indices]]
+    name = "categorieen"
+    weight = 60
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+[params]
+  favicon = "/favicon.png"
