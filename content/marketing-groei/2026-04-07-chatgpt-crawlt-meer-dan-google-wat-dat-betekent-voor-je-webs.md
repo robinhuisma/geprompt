@@ -1,31 +1,34 @@
 ---
-title: "ChatGPT crawlt meer dan Google: wat dat betekent voor je website"
-date: 2026-04-07T07:09:17.845Z
-tags: ["ai", "seo", "webcrawlers", "contentstrategie"]
+title: "ChatGPT crawlt meer dan Google: wat dat betekent voor je websitebezoekers"
+date: 2026-04-07T11:25:35.248Z
+tags: ["seo", "ai", "vindbaarheid", "marketing"]
 categorieen: ["marketing-groei"]
-summary: "AI-crawlers van OpenAI halen nu meer webpagina's op dan Googlebot, wat vraagt om een nieuwe aanpak van content en techniek."
+summary: "De AI van OpenAI haalt nu veel meer informatie van websites dan Google's crawler, wat de manier verandert waarop potentiële klanten je bedrijf vinden."
+cover:
+  image: "/images/covers/2026-04-07-chatgpt-now-crawls-3-6x-more-than-googlebot-what-24m-request.webp"
+  alt: "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/"
 ---
 
-ChatGPT's crawler haalt nu 3,6 keer meer webpagina's op dan Google's crawler. Dit betekent dat je website niet langer alleen geoptimaliseerd hoeft te zijn voor zoekmachines, maar ook voor AI-modellen die je content als trainingsdata gebruiken. De verschuiving vraagt om een nieuwe kijk op techniek, toegankelijkheid en contentstrategie.
+ChatGPT's crawler haalt nu 3,6 keer meer informatie van websites op dan Google's crawler. Dit betekent dat steeds meer bezoekers via AI-tools als ChatGPT op je website terechtkomen, in plaats van via een traditionele Google-zoekopdracht. Voor ondernemers wordt het daarom cruciaal om hun website niet alleen voor zoekmachines, maar ook voor AI-crawlers optimaal in te richten.
 
 ## Wat er aan de hand is
-Uit analyse van 24 miljoen webverzoeken blijkt dat de crawler van OpenAI, genaamd 'ChatGPT-User', nu 3,6 keer meer pagina's ophaalt dan Google's 'Googlebot'. Deze data, gepubliceerd door Search Engine Journal, toont een fundamentele verschuiving in wie het web indexeert. Waar voorheen zoekmachines de dominante 'lezers' van het internet waren, nemen AI-bedrijven die grote taalmodellen trainen nu die rol over. Het doel van deze crawlers is niet langer alleen het rangschikken van pagina's voor zoekresultaten, maar het verzamelen van actuele informatie om AI's zoals ChatGPT accuraat en up-to-date te houden.
+Uit analyse van 24 miljoen crawl-verzoeken blijkt dat de crawler van OpenAI, genaamd 'ChatGPT-User', nu 3,6 keer meer webpagina's opvraagt dan Google's 'Googlebot'. Deze data, gepubliceerd door Search Engine Journal, toont een fundamentele verschuiving in hoe het web wordt verkend. Waar voorheen Googlebot de onbetwiste koning was die bepaalde welke informatie geïndexeerd en gevonden kon worden, is er nu een nieuwe, dominante speler. De crawler van OpenAI verzamelt data om de kennis van ChatGPT up-to-date te houden en te trainen. Deze verschuiving is significant omdat het aangeeft dat een groot en groeiend deel van het webverkeer zijn oorsprong vindt in AI-interfaces, niet in zoekmachines.
 
 ## Wat dit betekent
-De praktische impact is direct voelbaar voor iedereen met een website. Je content wordt niet meer alleen gelezen door Google's algoritme, maar ook door de AI's die antwoorden genereren voor miljoenen gebruikers. Als je informatie niet goed toegankelijk is voor deze crawlers, loop je het risico buiten de boot te vallen in AI-antwoorden. Dit geldt voor kennisbanken, nieuwswebsites, productpagina's en blogs. Het betekent ook dat de kwaliteit en betrouwbaarheid van je content belangrijker worden dan ooit, omdat deze direct wordt opgenomen in de kennis van een AI. Een fout op je pagina kan zo worden gereproduceerd in duizenden AI-reacties.
+Voor ondernemers en website-eigenaren verandert het speelveld. Vindbaarheid wordt niet langer uitsluitend bepaald door Google's algoritmes, maar ook door hoe goed je content wordt begrepen en opgenomen door AI-systemen zoals ChatGPT. Als je website niet goed wordt 'gelezen' door deze AI-crawlers, loop je een groeiende stroom potentiële klanten mis. Deze klanten stellen hun vraag steeds vaker in een chat-interface en krijgen daar een samengesteld antwoord op basis van de door AI gecrawlde informatie. Je website moet dus niet alleen scoren op zoekwoorden, maar ook waardevolle, gestructureerde informatie bieden die een AI kan samenvatten en doorgeven aan een gebruiker. Het traditionele SEO-model, gericht op het ranken in de top 10, wordt aangevuld met een nieuw model: het leveren van het definitieve antwoord in een AI-chat.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. De kern is om je website niet alleen zoekmachinevriendelijk, maar ook AI-vriendelijk te maken.
+De praktische aanpassing gaat over het optimaliseren van je content voor duidelijkheid en autoriteit, zodat AI-tools je kunnen vinden en citeren.
 
-**Als je een informatieve website of blog runt...** is de nauwkeurigheid van je content nu cruciaal. Controleer feiten en cijfers, want deze kunnen rechtstreeks worden overgenomen door AI-modellen. Zorg ervoor dat je belangrijkste informatie duidelijk gestructureerd is met koppen (H1, H2) en in gewone tekst staat, niet verborgen in afbeeldingen of complexe JavaScript-elementen die crawlers mogelijk missen.
+**Als je een dienstverlenend bedrijf runt...** zoals een adviesbureau, een boekhouder of een marketingbureau, is je expertise je product. Zorg dat deze expertise duidelijk en gestructureerd op je website staat. Schrijf uitgebreide, diepgaande artikelen of 'guides' over veelvoorkomende problemen in je vakgebied. Gebruik duidelijke koppen (H1, H2, H3) en beantwoord vragen volledig. Een AI-crawler die een vraag krijgt over 'startersaftrek 2024' zal een pagina citeren die het antwoord duidelijk, gestructureerd en met context uitlegt, niet een pagina die alleen het zoekwoord vaak noemt.
 
-**Als je een webshop of productsite beheert...** dan zijn gedetailleerde productbeschrijvingen, specificaties en veelgestelde vragen essentieel. Een AI die een vraag over jouw product beantwoordt, heeft deze tekst nodig. Zorg dat technische specificaties en unieke verkoopargumenten machine-leesbaar zijn op de pagina zelf, niet alleen in een PDF-brochure of een pop-up.
+**Als je een webshop hebt...** gaat het niet alleen om productbeschrijvingen met zoekwoorden. Voeg uitgebreide productgidsen, vergelijkingstabellen en 'koopgidsen' toe. Leg bijvoorbeeld uit hoe je de juiste maat kiest, welke accessoires essentieel zijn, of wat de verschillen zijn tussen materialen. Deze rijkere content geeft een AI meer context om een geïnformeerd antwoord te geven aan een shopper die vraagt: "Wat heb ik nodig om te beginnen met [jouw hobby]?".
 
-**Als je verantwoordelijk bent voor de techniek van een website...** controleer dan je `robots.txt`-bestand. Zorg dat je de crawler van OpenAI (`ChatGPT-User`) niet per ongeluk blokkeert, tenzij je daar bewust voor kiest. Test of je content toegankelijk is zonder JavaScript, of gebruik server-side rendering voor dynamische content, zodat crawlers de volledige tekst kunnen lezen.
+**Als je lokaal ondernemer bent...** zoals een horecazaak, een bakker of een klusbedrijf, moet je NAW-gegevens en diensten onmiskenbaar duidelijk zijn. Zorg dat je openingstijden, adres, telefoonnummer en een lijst met diensten of specialiteiten makkelijk te 'scrapen' zijn, bijvoorbeeld in een gestructureerde footer of op een duidelijke 'Contact'-pagina. Een potentiële klant kan ChatGPT vragen: "Is er vanavond een pizzeria open in [jouw stad]?" en jouw zaak wordt alleen genoemd als die informatie eenduidig en actueel op je site staat.
 
-**Als je content maakt voor een specifiek vakgebied...** overweeg dan om een duidelijke, gezaghebbende toon aan te houden en bronnen te vermelden. AI-modellen worden getraind om betrouwbare bronnen te herkennen en te prefereren. Door expert-content te produceren, vergroot je de kans dat jouw informatie wordt gebruikt als referentie in AI-gegenereerde antwoorden.
+**Als je content publiceert op je blog of kennisbank...** focus dan op het volledig beantwoorden van een vraag in één artikel. In plaats van tien korte posts over gerelateerde onderwerpen, schrijf je één uitgebreid, definitief artikel dat alle aspecten dekt. Gebruik een duidelijke vraag als titel (bijv. "Hoe vraag ik subsidie aan voor zonnepanelen als ZZP'er?") en behandel alle stappen. AI-systemen prefereren een enkele, uitgebreide bron boven het moeten samenvoegen van informatie uit meerdere, dunne pagina's.
 
-Bron: [Search Engine Journal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/)
+Bron: Search Engine Journal
