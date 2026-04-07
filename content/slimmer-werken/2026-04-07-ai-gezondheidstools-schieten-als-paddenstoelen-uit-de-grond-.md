@@ -1,29 +1,34 @@
 ---
-title: "AI-gezondheidstools schieten als paddenstoelen uit de grond: hoe je als zorgprofessional de juiste kiest"
-date: 2026-04-07T07:19:00.861Z
-tags: ["ai", "gezondheidszorg", "zorgtechnologie", "chatbots"]
+title: "AI-gezondheidstools schieten als paddenstoelen uit de grond: hoe je de zin van de onzin scheidt"
+date: 2026-04-07T08:10:24.710Z
+tags: ["ai", "gezondheidszorg", "zorginnovatie", "kwaliteit"]
 categorieen: ["slimmer-werken"]
-summary: "Grote techbedrijven lanceren massaal AI-gezondheidschatbots, maar onafhankelijke toetsing blijft achter. Voor zorgondernemers betekent dit: voorzichtigheid is geboden bij adoptie."
+summary: "Grote techbedrijven lanceren massaal AI-gezondheidschatbots, maar onafhankelijke toetsing blijft achter. Dit is waar je als zorgondernemer op moet letten."
+cover:
+  image: "/images/covers/2026-04-07-there-are-more-ai-health-tools-than-ever-but-how-well-do-the.webp"
+  alt: "There are more AI health tools than ever—but how well do they work?"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
 ---
 
-De groeiende stroom AI-gezondheidstools van grote techbedrijven vraagt om een kritische blik van zorgondernemers en -professionals, want onafhankelijke evaluatie van deze tools blijft vaak achter. Hoewel de vraag naar toegankelijk gezondheidsadvies groot is en de technologiebeloften indrukwekkend klinken, is het essentieel om niet blind te varen op de claims van de leveranciers zelf.
+De markt voor AI-gezondheidstools groeit explosief, maar de kwaliteit en onafhankelijke toetsing ervan lopen niet altijd gelijk op. Voor zorgondernemers betekent dit dat een kritische blik op de onderbouwing van een tool belangrijker is dan ooit. Je kunt niet blind varen op de claims van de aanbieder.
 
 ## Wat er aan de hand is
-Grote techbedrijven lanceren in hoog tempo AI-chatbots voor gezondheidsadvies. Microsoft lanceerde eerder deze maand Copilot Health, waar gebruikers hun medische gegevens kunnen koppelen. Amazon maakte zijn Health AI-tool, voorheen exclusief voor One Medical-leden, breed beschikbaar. Deze producten sluiten zich aan bij eerdere releases zoals ChatGPT Health van OpenAI en de gezondheidsfuncties van Claude van Anthropic. Volgens het artikel in Technology Review is gezondheids-AI voor het grote publiek nu officieel een trend. De ontwikkelaars, zoals Dominic King van Microsoft, wijzen op de enorme vooruitgang in de mogelijkheden van generatieve AI om gezondheidsvragen te beantwoorden en de grote vraag vanuit gebruikers. Tegelijkertijd waarschuwen onderzoekers dat deze tools rigoureuzer en door onafhankelijke experts geëvalueerd moeten worden, bij voorkeur voordat ze breed worden uitgerold.
+Grote techbedrijven lanceren in hoog tempo AI-chatbots voor gezondheidsadvies. Microsoft lanceerde onlangs Copilot Health, waar gebruikers medische gegevens kunnen koppelen en vragen kunnen stellen. Amazon maakte zijn Health AI-tool breder beschikbaar. Deze producten sluiten zich aan bij eerdere releases zoals ChatGPT Health van OpenAI en de gezondheidsfuncties van Claude van Anthropic. Volgens de ontwikkelaars is deze golf van releases mogelijk omdat de onderliggende taalmodellen nu voldoende geavanceerd zijn om medisch advies te kunnen geven. Dominic King, vicepresident gezondheid bij Microsoft AI, noemt zowel de technologische vooruitgang als de grote vraag vanuit gebruikers als drijvende krachten.
 
 ## Wat dit betekent
-Voor zorgondernemers, van praktijkhouders tot managers in zorginstellingen, betekent deze ontwikkeling twee dingen. Enerzijds ontstaan er nieuwe, potentieel krachtige instrumenten die de toegankelijkheid van informatie kunnen vergroten en administratieve lasten mogelijk verlichten. Anderzijds introduceert het een nieuw risicolandschap. In een hoog-risicodomein als de gezondheidszorg is het onverstandig om bedrijven volledig te vertrouwen bij de evaluatie van hun eigen producten, vooral als die evaluaties niet openstaan voor externe toetsing. Zelfs als bedrijven kwalitatief onderzoek doen, kunnen er blinde vlekken zijn die de bredere onderzoeksgemeenschap zou kunnen opvullen. De kernvraag wordt niet langer *of* je AI wilt gebruiken, maar *hoe* je op een verantwoorde manier tools selecteert waarvan de werking en veiligheid zijn aangetoond.
+De beschikbaarheid van deze tools verandert het landschap voor zorgondernemers, van fysiotherapiepraktijken tot tandartsen en GGZ-instellingen. Enerzijds bieden ze potentieel nieuwe manieren om patiënten te ondersteunen, informatie te geven of administratie te vereenvoudigen. Anderzijds roept de snelle opmars vragen op over de betrouwbaarheid en veiligheid. Onderzoekers waarschuwen, zoals gemeld door Technology Review, dat deze tools rigoureuzer en door onafhankelijke experts moeten worden geëvalueerd, bij voorkeur voordat ze breed worden uitgerold. In een hoog-risicodomein als gezondheid is het onverstandig om alleen op de eigen evaluaties van bedrijven te vertrouwen, vooral als die evaluaties niet openbaar zijn voor externe toetsing. Zelfs als bedrijven degelijk onderzoek doen, kunnen er blinde vlekken zijn die de bredere onderzoeksgemeenschap zou kunnen opvullen.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt sterk af van jouw specifieke situatie binnen de zorgsector. Het centrale advies is om een kritische, onderzoeksgerichte houding aan te nemen bij de overweging van nieuwe AI-tools.
+De praktische toepassing hangt sterk af van jouw specifieke zorgpraktijk en de rol die je voor ogen hebt voor een AI-tool. Het is cruciaal om elke tool eerst kritisch te beoordelen voordat je overweegt deze in te zetten, zelfs als deze van een groot techbedrijf komt.
 
-**Als je een eigen praktijk of kleine zorginstelling runt...** wees dan extra alert op tools die directe patiëntadviezen geven. Een mogelijkheid is om te beginnen met tools die ondersteunend zijn voor administratieve of voorlichtende taken, zoals het genereren van patiëntvriendelijke uitleg over veelvoorkomende aandoeningen (op basis van goedgekeurde medische bronnen), waarbij de eindcontrole altijd bij jou blijft. Overweeg om bij een leverancier te vragen naar gepubliceerde, peer-reviewed studies over de effectiviteit en veiligheid van hun tool.
+**Als je overweegt een AI-chatbot in te zetten voor patiëntenvoorlichting...** vraag je dan allereerst af wat het doel is. Wil je veelgestelde vragen beantwoorden of patiënten voorbereiden op een consult? Vervolgens is het essentieel om na te gaan of er onafhankelijk, peer-reviewed onderzoek is dat de veiligheid en nauwkeurigheid van de specifieke tool ondersteunt voor dat doel. Een mogelijkheid is om de tool eerst in een gecontroleerde, kleine setting te testen met duidelijke grenzen.
 
-**Als je verantwoordelijk bent voor technologie-aanschaf in een grotere zorgorganisatie...** zet dan onafhankelijke validatie hoog op de eisenlijst. Je zou kunnen eisen dat potentiële leveranciers hun evaluatiemethodologie en resultaten delen voor extern onderzoek. Een optie is om een pilot uit te voeren in een gecontroleerde setting, waarbij je de uitkomsten van de AI-tool systematisch vergelijkt met de standaardzorg of het oordeel van een medisch specialist, voordat je tot bredere implementatie overgaat.
+**Als je een tool wilt gebruiken voor administratieve ondersteuning, zoals het samenvatten van notities...** dan liggen de risico's anders dan bij direct patiëntenadvies. Je zou kunnen onderzoeken of de leverancier transparant is over hoe de tool is getraind en getest op medische terminologie en context. Overweeg om te starten met niet-kritieke documenten om de output te controleren voordat je overgaat tot klinische notities.
 
-**Als je een zorgprofessional bent die AI-tools tegenkomt of aanbevolen krijgt...** ontwikkel dan een gezond scepticisme. Vraag je af: wie heeft deze tool getest en wat waren de precieze resultaten? Zijn die resultaten gepubliceerd waar andere experts ze kunnen bekritiseren? Een praktische stap is om collega's te bevragen die ervaring hebben met de tool en niet alleen te luisteren naar de marketing van het bedrijf zelf. Het doel is niet innovatie tegen te houden, maar wel om ervoor te zorgen dat de evidence base er echt is, zoals onderzoeker Andrew Bean stelt.
+**Als je wordt benaderd door een leverancier of een nieuwe AI-gezondheidsapp tegenkomt...** stel dan concrete vragen over de onderbouwing. Vraag naar de beschikbaarheid van evaluatierapporten, de betrokkenheid van medische experts bij de ontwikkeling, en de protocollen voor het melden van fouten. Het advies uit het artikel is duidelijk: vertrouw niet automatisch op de eigen evaluatie van het bedrijf. De afwezigheid van transparantie hierover is een rode vlag.
 
-Bron: [Technologyreview](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/)
+De kern is dat de technologie zelf niet het volledige antwoord is. De waarde voor jouw praktijk wordt bepaald door de kwaliteit van de onderbouwing, de transparantie van de aanbieder, en hoe zorgvuldig je de tool integreert in je bestaande, verantwoorde werkprocessen.
+
+Bron: Technologyreview
