@@ -1,29 +1,29 @@
 ---
 title: "Google Maps schrijft nu AI-captions: wat dat betekent voor je bedrijfsvermelding"
-date: 2026-04-08T18:11:54.441Z
-tags: ["google maps", "lokale marketing", "ai", "bedrijfsvermelding"]
+date: 2026-04-08T22:11:10.854Z
+tags: ["google maps", "lokale vindbaarheid", "ai", "marketing"]
 categorieen: ["creatief"]
-summary: "Google Maps gebruikt AI om automatisch onderschriften voor foto's te genereren, wat ondernemers helpt hun profiel rijker en aantrekkelijker te maken."
+summary: "Google Maps gebruikt AI om automatisch onderschriften te genereren voor foto's, waardoor lokale ondernemers hun profiel eenvoudiger kunnen verrijken."
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
 ---
 
-Google Maps gebruikt nu kunstmatige intelligentie om automatisch onderschriften te genereren voor foto's die gebruikers willen delen over een locatie. Dit maakt het eenvoudiger om je bedrijfsprofiel op Maps te verrijken met visuele content en gedetailleerde informatie, wat direct kan bijdragen aan een betere online vindbaarheid en aantrekkingskracht voor potentiële klanten.
+Google Maps gebruikt nu AI (Gemini) om automatisch onderschriften te genereren wanneer gebruikers een foto of video van een locatie willen delen. Dit maakt het voor lokale ondernemers eenvoudiger om hun Google-profiel aantrekkelijker en completer te maken zonder zelf teksten te hoeven schrijven.
 
 ## Wat er aan de hand is
-Google introduceert nieuwe functies in Maps om gebruikers te stimuleren lokale kennis te delen. De meest in het oog springende toevoeging is dat Gemini, Google's AI-model, automatisch onderschriften kan aanmaken wanneer een gebruiker een foto of video over een plaats wil uploaden. Dit gebeurt op het moment van uploaden: de AI analyseert de beeldinhoud en stelt een beschrijvende tekst voor. De gebruiker kan dit voorstel accepteren, aanpassen of negeren. De functie is onderdeel van een bredere push van Google om meer user-generated content in Maps te integreren en de platformervaring visueler en informatiever te maken.
+Google rolt nieuwe functies uit om gebruikers makkelijker lokale kennis aan Maps te laten toevoegen. De meest opvallende toevoeging is dat het AI-model Gemini nu automatisch onderschriften (captions) kan maken wanneer een gebruiker een foto of video over een plaats wil delen. Dit is onderdeel van een bredere push van Google om de content op Maps te vergroten en te verbeteren met behulp van kunstmatige intelligentie. Het doel is de drempel voor gebruikers om bij te dragen te verlagen.
 
 ## Wat dit betekent
-Voor ondernemers betekent deze ontwikkeling dat het vullen van hun Google Maps Business Profile aanzienlijk eenvoudiger wordt. Een rijke, actuele profielpagina met foto's is cruciaal voor lokale vindbaarheid en het overtuigen van potentiële klanten. Veel ondernemers hebben echter weinig tijd of moeite met het bedenken van pakkende, beschrijvende onderschriften. Deze AI-ondersteuning verlaagt die drempel. Het kan leiden tot meer en beter beschreven foto's op bedrijfsprofielen, wat de kwaliteit van de informatie op Maps ten goede komt. Voor klanten wordt het zoeken naar een restaurant, winkel of dienstverlener een visuelere en intuïtievere ervaring, waarbij ze direct kunnen zien wat hen te wachten staat.
+Voor ondernemers met een fysieke locatie betekent dit een directe kans om hun Google Maps-vermelding (het 'Google Mijn Bedrijf'-profiel) te verbeteren. Veel bedrijfsprofielen hebben weinig of generieke foto's zonder context. AI-captions kunnen deze foto's voorzien van beschrijvende tekst, wat de aantrekkingskracht en informatiewaarde van het profiel vergroot. Het betekent ook dat klanten die een foto plaatsen van jouw zaak, deze nu automatisch van een contextrijk onderschrift kunnen voorzien, wat de sociale bewijskracht versterkt. Voor sectoren zoals horeca, retail, dienstverlening en vrije tijd is visuele presentatie cruciaal in de beslissingsfase van een potentiële klant.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. De AI-functie is primair gericht op eindgebruikers die foto's uploaden, maar als ondernemer kun je hier strategisch op inspelen.
+De praktische toepassing hangt af van jouw situatie. De nieuwe AI-functie is primair gericht op gebruikers (zoals klanten) die foto's uploaden, maar biedt ook kansen voor ondernemers om hun eigen aanwezigheid te beheren.
 
-**Als je je Google Business Profile zelf actief beheert...** kun je deze functie gebruiken wanneer je nieuwe professionele foto's van je zaak, producten of diensten uploadt. Laat de AI een eerste concept voor een onderschrift genereren op basis van de foto. Dit bespaart je de moeite om helemaal vanaf nul te beginnen. Je kunt het AI-voorstel vervolgens aanpassen met specifieke details die voor jouw klanten belangrijk zijn, zoals de naam van een specifiek gerecht, de materialen van een product of de sfeer tijdens een evenement.
+**Als je een restaurant, café of winkel runt...** Moedig je team of tevreden klanten aan om foto's te maken en te delen op je Google Maps-profiel. Dankzij de AI-captions hoeven zij niet na te denken over een tekst; de AI beschrijft automatisch wat er te zien is, zoals "gezellige terrasopstelling met parasols" of "overzichtelijke winkelindeling met seizoensproducten". Dit verrijkt je profiel met authentieke, beschrijvende content die nieuwe klanten aantrekt.
 
-**Als je klanten aanmoedigt om reviews en foto's achter te laten...** wordt het voor hen gemakkelijker om dat te doen. Een klant die een foto maakt van een geslaagd project, een leuke aankoop of een gezellige avond bij je bedrijf, hoeft nu niet meer na te denken over een tekst. De AI doet een voorstel, waardoor de kans groter wordt dat de klant de foto daadwerkelijk deelt. Je kunt dit faciliteren door ter plekke te vragen of klanten een foto willen uploaden, wetende dat de technische drempel lager is geworden.
+**Als je een dienstverlenend bedrijf hebt (zoals een kapper, garage of klusjesbedrijf)...** Overweeg om zelf foto's te uploaden van je werkplek, gereedschap of afgeronde projecten. Wanneer je dit doet via de Google Maps-app, kan de AI nu een helpend onderschrift genereren dat de professionele uitstraling ondersteunt, bijvoorbeeld "moderne werkplaats met gespecialiseerde apparatuur" of "net afgerond interieurproject met lichte houtsoorten".
 
-**Als je in een visuele branche werkt, zoals horeca, retail of dienstverlening...** is consistent visuele content delen essentieel. Je kunt een routine opzetten waarbij je regelmatig (bijvoorbeeld wekelijks) een nieuwe, actuele foto plaatst van je aanbod, je team aan het werk of de sfeer in je zaak. Gebruik de AI-caption als efficiënte start en zorg dat elke upload bijdraagt aan een compleet en aantrekkelijk beeld van wat je te bieden hebt.
+**Als je je lokale online vindbaarheid wilt verbeteren...** Richt je niet alleen op het toevoegen van foto's, maar ook op het stimuleren van deze nieuwe functie bij je klanten. Je zou in je zaak een klein bordje kunnen plaatsen of online kunnen vermelden: "Deel je ervaring met een foto op Google Maps!". De automatisch gegenereerde captions zorgen ervoor dat hun bijdrage informatief is, wat de kwaliteit van je totale profiel ten goede komt zonder extra inspanning van jou of je klant.
 
-Bron: TechCrunch
+Bron: [TechCrunch](https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/)

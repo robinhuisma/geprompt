@@ -1,34 +1,31 @@
 ---
-title: "Google's AI-antwoorden bevatten fouten: hoe je als ondernemer betrouwbare informatie vindt"
-date: 2026-04-08T15:59:57.113Z
-tags: ["google", "ai", "zoekmachines", "informatie"]
+title: "Google's AI-antwoorden bevatten fouten: hoe je als ondernemer toch betrouwbaar gevonden wordt"
+date: 2026-04-08T22:03:00.019Z
+tags: ["google ai", "zoekmachines", "online vindbaarheid", "contentstrategie"]
 categorieen: ["nieuws-tools"]
-summary: "Google's AI Overviews geeft in 1 op de 10 gevallen een onjuist antwoord, wat betekent dat je als ondernemer je zoekstrategie moet aanpassen."
-cover:
-  image: "/images/covers/2026-04-08-testing-suggests-google-039-s-ai-overviews-tell-millions-of-.webp"
-  alt: "Testing suggests Google&#039;s AI Overviews tell millions of lies per hour"
+summary: "Een op de tien AI-antwoorden in Google bevat een fout, wat betekent dat je als ondernemer actief moet werken aan je eigen online betrouwbaarheid."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
 ---
 
-Google's AI-gegenereerde zoekantwoorden bevatten in ongeveer 10% van de gevallen een fout, wat betekent dat je als ondernemer niet blind kunt vertrouwen op de eerste resultaten die je ziet. Je moet je zoekstrategie aanpassen en altijd kritisch blijven op de informatie die je vindt.
+Google's AI-antwoorden, die bovenin de zoekresultaten verschijnen, bevatten in ongeveer 10% van de gevallen een fout. Dit betekent dat je als ondernemer niet blind kunt vertrouwen op de informatie die Google's AI presenteert, en dat je zelf moet zorgen voor duidelijke, feitelijke informatie op je eigen kanalen om klanten correct te bereiken.
 
 ## Wat er aan de hand is
-Google heeft AI Overviews geïntegreerd in zijn zoekmachine. Dit is een door Gemini aangedreven functie die een samenvattend antwoord geeft boven de traditionele zoekresultaten. Sinds de lancering in 2024 is er kritiek geweest op de wisselende nauwkeurigheid. Een nieuwe analyse van *The New York Times*, uitgevoerd met hulp van AI-startup Oumi, probeert de feitelijke juistheid te meten. De analyse gebruikte de SimpleQA-evaluatie, een benchmark van meer dan 4.000 vragen met verifieerbare antwoorden. Toen de test werd uitgevoerd met het oudere Gemini 2.5-model, was de nauwkeurigheid 85%. Na de update naar Gemini 3 steeg dit naar 91%. Dit betekent dat ongeveer 9% van de antwoorden onjuist is. Volgens het artikel, dat deze cijfers extrapoleert naar het totale aantal Google-zoekopdrachten, genereert AI Overviews dagelijks tientallen miljoenen incorrecte antwoorden.
+Google heeft AI Overviews geïntroduceerd, een door Gemini aangedreven functie die een samenvattend antwoord geeft boven de organische zoekresultaten. Een nieuwe analyse van The New York Times, uitgevoerd met behulp van AI-startup Oumi, testte de nauwkeurigheid met behulp van de SimpleQA-evaluatie. Dit is een lijst met meer dan 4.000 vragen met verifieerbare antwoorden. Toen de test werd uitgevoerd met het oudere Gemini 2.5-model, was de nauwkeurigheid 85%. Na de update naar Gemini 3 steeg dit naar 91%. Het omgekeerde betekent dat ongeveer 1 op de 10 gegeven AI-antwoorden onjuist is. Als dit foutpercentage wordt geëxtrapoleerd naar alle Google-zoekopdrachten, genereert AI Overviews dagelijks tientallen miljoenen incorrecte antwoorden.
 
 ## Wat dit betekent
-Een foutmarge van 9% is aanzienlijk wanneer je bedenkt dat miljarden zoekopdrachten per dag worden uitgevoerd. Voor ondernemers en professionals die snel betrouwbare informatie nodig hebben voor beslissingen, kan dit grote gevolgen hebben. Het betekent dat informatie over markttrends, concurrentie, regelgeving of technische specificaties mogelijk onjuist is. Dit risico is het grootst bij complexe, specifieke of snel veranderende onderwerpen waar de AI minder context heeft. De AI presenteert zijn antwoorden vaak met grote stelligheid, wat het extra verraderlijk maakt. Je kunt niet meer uitgaan van de autoriteit van het eerste zoekresultaat. Dit vereist een fundamentele verschuiving in hoe je online informatie verzamelt en verifieert.
+Voor ondernemers betekent dit dat de eerste informatie die potentiële klanten over jouw sector of producten te zien krijgen, mogelijk niet klopt. Een foutief AI-antwoord over openingstijden, prijzen, specificaties of diensten kan direct leiden tot gemiste kansen of een beschadigde reputatie. Het is een signaal dat je online aanwezigheid robuuster moet zijn dan ooit. Je kunt niet meer vertrouwen op het feit dat Google de juiste informatie uit je website haalt en correct samenvat. Je moet er actief voor zorgen dat je eigen bron – je website, Google Mijn Bedrijf-profiel en sociale media – de ultieme, onweerlegbare waarheid is waar zowel klanten als AI-systemen naar teruggrijpen.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. Een mogelijkheid is om je informatievergaring kritischer in te richten.
+De praktische toepassing is dat je je online fundament moet versterken om fouten van AI-overzichten te overstemmen met je eigen correcte informatie.
 
-**Als je marktonderzoek doet voor een nieuwe dienst...** vertrouw dan niet alleen op het AI-overzicht. Scroll door naar de organische zoekresultaten en open meerdere bronnen, bij voorkeur van gerenommeerde nieuwswebsites, officiële instanties of vakpublicaties. Controleer of de kernfeiten overeenkomen.
+**Als je een lokale dienstverlener bent...** zoals een loodgieter of schilder, is je Google Mijn Bedrijf-profiel cruciaal. Zorg dat alle informatie daar – telefoonnummer, adres, openingstijden, diensten – perfect up-to-date en consistent is. Dit profiel wordt vaak direct in AI-overzichten en kaarten getoond. Voeg veel foto's van je werk toe en vraag klanten om recensies. Een compleet en actief profiel is een sterke, betrouwbare bron voor de AI.
 
-**Als je een technisch probleem moet oplossen of specificaties nodig hebt...** gebruik dan het AI-antwoord als startpunt, maar niet als eindpunt. Bezoek de websites van de fabrikant of leverancier voor de officiële documentatie. Voor complexe vragen kun je overwegen om gespecialiseerde fora of communities te raadplegen waar experts actief zijn.
+**Als je een webshop runt met technische producten...** zoals elektronica of gereedschap, is gedetailleerde en accurate productinformatie je wapen. Schrijf niet alleen korte beschrijvingen, maar voeg technische specificatietabellen, veelgestelde vragen (FAQ's) en duidelijke gebruiksaanwijzingen toe. Hoe meer gestructureerde, feitelijke data je aanbiedt, hoe groter de kans dat de AI deze correct overneemt en dat je klant het juiste product vindt.
 
-**Als je content creëert of informatie deelt met je team of klanten...** verifieer elk feit dat je uit een AI-overzicht haalt via een tweede, onafhankelijke bron. Dit is extra belangrijk voor juridische, financiële of medische informatie. Je zou een simpele regel kunnen instellen: "Geen feiten publiceren zonder een tweede check."
+**Als je een adviseur of expert bent in een niche...** zoals financiën, wetgeving of gezondheid, moet je autoriteit uitstralen. Publiceer regelmatig lange, goed onderbouwde artikelen of whitepapers op je website die vragen beantwoorden die jouw doelgroep stelt. Gebruik duidelijke koppen en gestructureerde alinea's. Door een uitgebreide, betrouwbare bron van informatie te zijn, word je de voorkeursbron voor zowel zoekers als de AI die zijn antwoorden samenstelt.
 
-**Als je snel een algemeen beeld van een onderwerp nodig hebt...** kan het AI-overzicht nuttig zijn, maar wees je bewust van de beperkingen. Gebruik het voor een eerste oriëntatie, maar baseer er geen cruciale zakelijke beslissingen op zonder verdere due diligence. Stel jezelf altijd de vraag: "Kan ik dit ergens anders terugvinden?"
+**Als je merkt dat er foutieve informatie over je bedrijf circuleert...** wees dan proactief. Monitor regelmatig wat er in Google's AI-overzichten over jouw sector of bedrijfsnaam wordt gezegd. Als je een fout tegenkomt, kun je deze niet direct bij Google melden voor AI Overviews, maar je kunt wel je eigen bronnen verbeteren. Versterk de pagina op je website die het correcte antwoord geeft met nog betere content, en overweeg om via andere kanalen zoals sociale media of een nieuwsbrief de juiste informatie te verspreiden.
 
 Bron: [Arstechnica](https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/)
