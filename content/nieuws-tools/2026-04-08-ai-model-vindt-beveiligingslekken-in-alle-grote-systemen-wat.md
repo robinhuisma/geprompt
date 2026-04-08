@@ -1,31 +1,31 @@
 ---
-title: "AI-model vindt beveiligingslekken in alle grote systemen: wat dat voor jou betekent"
-date: 2026-04-08T10:01:29.364Z
-tags: ["cybersecurity", "ai", "mkb", "cloud"]
+title: "AI-model vindt beveiligingslekken in alle grote systemen: wat dat betekent voor je bedrijf"
+date: 2026-04-08T14:02:13.478Z
+tags: ["cybersecurity", "ai", "beveiliging", "mkb"]
 categorieen: ["nieuws-tools"]
-summary: "Een nieuw AI-model van Anthropic kan automatisch kwetsbaarheden opsporen in besturingssystemen en browsers, wat via clouddiensten ook voor MKB-bedrijven toegankelijk wordt."
+summary: "Een nieuw AI-model van Anthropic kan automatisch kwetsbaarheden in software opsporen, wat beveiliging toegankelijker maakt voor bedrijven zonder groot security-team."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"
 ---
 
-Een nieuw AI-model van Anthropic kan automatisch beveiligingslekken vinden in alle grote besturingssystemen en webbrowsers. Dit betekent dat bedrijven kwetsbaarheden in hun digitale systemen veel sneller kunnen opsporen, met minder menselijke tussenkomst. Het model wordt via samenwerkingen met grote cloudproviders beschikbaar gesteld, wat de drempel voor gebruik verlaagt.
+Een nieuw AI-model van Anthropic kan automatisch beveiligingslekken vinden in alle grote besturingssystemen en webbrowsers. Dit maakt geavanceerde cybersecurity-tools potentieel beschikbaar voor bedrijven die niet over een groot, gespecialiseerd security-team beschikken.
 
 ## Wat er aan de hand is
-Anthropic, de maker van de AI Claude, heeft een nieuw AI-model gepresenteerd genaamd Project Glasswing. Het model, Claude Mythos Preview, is speciaal ontwikkeld om automatisch beveiligingsproblemen op te sporen in software. Volgens Newton Cheng, de cyber lead bij Anthropic, heeft het model tijdens tests kwetsbaarheden gevonden "in elk groot besturingssysteem en elke webbrowser". Het bedrijf werkt samen met technologiegiganten zoals Nvidia, Google, Amazon Web Services (AWS), Apple en Microsoft om het model beschikbaar te maken. Anthropic geeft aan dat het model voorlopig niet publiekelijk vrijgegeven wordt vanwege veiligheidsoverwegingen, maar wel via deze partners wordt aangeboden aan grote bedrijven en mogelijk overheden.
+AI-bedrijf Anthropic lanceert 'Project Glasswing', een nieuw AI-model dat is ontwikkeld in samenwerking met techgiganten als Nvidia, Google, Amazon, Apple en Microsoft. Het model, genaamd Claude Mythos Preview, is speciaal ontworpen om kwetsbaarheden in softwaresystemen automatisch op te sporen. Volgens Newton Cheng, de cybersecurity-leider van Anthropic, vond het model tijdens tests beveiligingsproblemen "in elk groot besturingssysteem en elke webbrowser". Het model is voorlopig alleen beschikbaar voor de genoemde lanceerpartners en wordt niet publiek vrijgegeven vanwege veiligheidsoverwegingen. Deze ontwikkeling markeert een verschuiving waarbij AI niet langer alleen een aanvalsvector is, maar ook een krachtig verdedigingsinstrument wordt.
 
 ## Wat dit betekent
-De directe impact is dat het vinden van beveiligingslekken, een taak die normaal gesproken veel gespecialiseerde kennis en tijd kost, geautomatiseerd kan worden. Voor het MKB is dit relevant omdat deze geavanceerde beveiligingstools straks niet meer alleen voorbehouden zijn aan grote bedrijven met eigen security-teams. Via clouddiensten van Google, Microsoft of AWS kunnen ook kleinere bedrijven toegang krijgen tot deze technologie, vaak via een abonnementsmodel. Dit kan de beveiligingskloof tussen groot en klein bedrijf verkleinen. Het betekent ook dat de standaard voor digitale beveiliging omhoog gaat; klanten en partners zullen mogelijk sneller verwachten dat systemen up-to-date zijn met de laatste veiligheidspatches.
+Dit betekent dat de drempel voor geavanceerde cybersecurity mogelijk lager wordt. Traditioneel vereist het vinden van complexe kwetsbaarheden gespecialiseerde, schaarse en dure menselijke expertise. Een AI-tool die dit proces kan automatiseren, maakt deze capaciteit in theorie toegankelijker. Vooral voor het MKB, dat vaak niet het budget heeft voor een volledig security-operationscenter (SOC), kan dit een gamechanger zijn. Het betekent echter niet dat beveiliging opeens gratis of moeiteloos wordt; het gaat om het automatiseren van een specifiek, technisch onderdeel. De samenwerking met alle grote cloud- en softwareleveranciers suggereert dat deze functionaliteit op termijn geïntegreerd kan raken in de diensten die bedrijven al afnemen, zoals Microsoft 365, Google Workspace of AWS.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie en van hoe de cloudpartners de technologie precies gaan aanbieden. Het is nog niet duidelijk of dit een aparte dienst wordt of geïntegreerd in bestaande security-pakketten. Op basis van de aankondiging zijn dit mogelijke scenario's om voor te bereiden:
+De praktische toepassing hangt af van jouw situatie. Het specifieke model van Anthropic is nog niet publiekelijk beschikbaar, maar de ontwikkeling wijst op een bredere trend: de opkomst van AI-gestuurde beveiligingstools. Je kunt je hier nu al op voorbereiden.
 
-**Als je een webshop of online platform runt...** dan is de beveiliging van je website en klantdata cruciaal. Een AI-tool die continu je systeem scant op bekende en nieuwe lekken kan een krachtige aanvulling zijn op je bestaande beveiliging. Je zou kunnen nagaan of je huidige hosting- of cloudprovider (zoals Google Cloud of Microsoft Azure) plannen heeft om dergelijke AI-scans toe te voegen aan hun dienstenpakket.
+**Als je afhankelijk bent van standaardsoftware...** zoals Windows, macOS, Chrome of Microsoft 365, dan is de belangrijkste actie om automatische updates altijd aan te laten staan. Deze nieuwe AI-tools zullen waarschijnlijk eerst worden ingezet door de leveranciers zelf (zoals Microsoft en Apple) om hun eigen producten sneller te patchen. Door updates direct toe te passen, profiteer je het snelst van deze verbeterde beveiliging.
 
-**Als je een klein team aanstuurt met beperkte IT-kennis...** dan kan automatisering van beveiligingscontroles een uitkomst zijn. In plaats van maandelijks handmatig updates te controleren, zou een geïntegreerde AI-dienst dit continu kunnen monitoren en meldingen doen. Overweeg om bij je volgende evaluatie van IT-diensten specifiek te vragen naar geautomatiseerde vulnerability scanning die gebruikmaakt van geavanceerde AI.
+**Als je een webshop of klantportaal runt...** met eigen code, is waakzaamheid geboden. Deze tools richten zich op het vinden van lekken in de onderliggende software. Zorg ervoor dat je website gebouwd is op een goed onderhouden framework (zoals WordPress met updates) en dat alle plugins up-to-date zijn. Overweeg daarnaast een externe security-scan dienst, waar steeds vaker AI in wordt gebruikt.
 
-**Als je software ontwikkelt of laat ontwikkelen voor intern gebruik...** dan is het testen op beveiligingslekken een essentieel onderdeel van het proces. Toegang tot een AI-model dat code kan analyseren op kwetsbaarheden voordat het live gaat, kan kostbare fouten en datalekken voorkomen. Een mogelijkheid is om toekomstige ontwikkelpartners te bevragen op hun gebruik van AI-gestuurde security testing tools.
+**Als je een klein team aanstuurt...** zonder IT-specialist, kun je je richten op bewustwording. Leg uit dat beveiliging steeds meer geautomatiseerd wordt, maar dat menselijke alertheid (bijvoorbeeld op phishingmails) nog steeds cruciaal blijft. Je zou kunnen onderzoeken of je huidige softwareleverancier al AI-gestuurde threat detection aanbiedt in zijn pakketten.
 
-De komst van dergelijke tools via grote cloudplatforms betekent dat je waarschijnlijk niet zelf rechtstreeks met het AI-model van Anthropic te maken krijgt, maar met een dienst van je cloudleverancier. Houd daarom de aankondigingen van je provider in de gaten en wees voorbereid om security-budget mogelijk anders in te zetten: van reactief oplossen van problemen naar proactief voorkomen met geautomatiseerde tools.
+**Als je in een sterk gereguleerde sector werkt...** zoals de zorg of financiën, is het verstandig om deze ontwikkelingen te volgen. Toezichthouders zullen op termijn mogelijk verwachten dat bedrijven gebruikmaken van geavanceerde, geautomatiseerde beveiligingsmethoden. Praat met je IT-leverancier of managed service provider over hun roadmap voor AI in cybersecurity.
 
-Bron: The Verge
+Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)
