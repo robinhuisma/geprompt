@@ -1,33 +1,29 @@
 ---
-title: "Google's AI-antwoorden bevatten fouten: hoe je als ondernemer de betrouwbaarheid controleert"
-date: 2026-04-09T06:06:30.387Z
-tags: ["google", "ai", "zoekmachines", "betrouwbaarheid"]
+title: "Google's AI-antwoorden bevatten fouten: hoe je als ondernemer betrouwbaar blijft"
+date: 2026-04-09T10:04:30.613Z
+tags: ["google", "ai-overviews", "zoekmachines", "online vindbaarheid"]
 categorieen: ["nieuws-tools"]
-summary: "Onderzoek toont aan dat 1 op de 10 AI-antwoorden in Google onjuist is; dit is hoe je als professional de informatie checkt voordat je erop vertrouwt."
+summary: "Een op de tien AI-antwoorden in Google bevat een fout, wat betekent dat je eigen online vindbaarheid en reputatie belangrijker worden dan ooit."
 draft: false
-source_name: "Bright"
-source_url: "https://www.bright.nl/nieuws/2075700/google-s-ai-overview-liegt-miljoenen-keren-per-uur-blijkt-uit-onderzoek.html"
+source_name: "Arstechnica"
+source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
 ---
 
-Google's AI-antwoorden bevatten een significant foutenpercentage, wat betekent dat je als ondernemer niet blindelings op deze informatie kunt vertrouwen voor zakelijke beslissingen. Je moet de feiten altijd controleren via andere bronnen.
+Google's AI-gegenereerde antwoorden bevatten in ongeveer 10% van de gevallen een fout, wat betekent dat ondernemers niet blind kunnen vertrouwen op deze automatisch gegenereerde informatie en hun eigen online aanwezigheid moeten versterken. De AI Overviews, die sinds 2024 boven aan de zoekresultaten verschijnen, geven dagelijks tientallen miljoenen onjuiste antwoorden, gebaseerd op een analyse van *The New York Times*.
 
 ## Wat er aan de hand is
-Google plaatst door zijn AI-model Gemini gegenereerde antwoorden, de zogenaamde 'AI Overview', bovenaan de zoekresultaten. Uit een nieuw onderzoek van The New York Times, zoals gerapporteerd door Bright, blijkt nu dat deze antwoorden niet altijd betrouwbaar zijn. Het onderzoek concludeert dat ongeveer 1 op de 10 van deze AI-antwoorden onjuiste informatie bevat. Dit is een opvallend hoog percentage, zeker gezien de prominente plaatsing van deze antwoorden die suggereert dat het de definitieve, correcte informatie is.
+Google's AI Overviews, aangedreven door het Gemini-model, verschijnt sinds 2024 prominent boven de organische zoekresultaten. Een nieuwe analyse door *The New York Times*, uitgevoerd met behulp van de startup Oumi, testte de feitelijke nauwkeurigheid van dit systeem. Ze gebruikten hiervoor de SimpleQA-evaluatie, een benchmark van meer dan 4.000 vragen met controleerbare antwoorden. Toen de test vorig jaar werd uitgevoerd met het toenmalige topmodel Gemini 2.5, was de nauwkeurigheid 85%. Na de update naar Gemini 3 steeg dit naar 91%. Dit betekent dat ongeveer 9% van de antwoorden onjuist is. Als je dit foutpercentage extrapoleert naar het totale aantal Google-zoekopdrachten, genereert AI Overviews tientallen miljoenen onjuiste antwoorden per dag.
 
 ## Wat dit betekent
-Dit betekent dat je als professional risico loopt als je zakelijke informatie, data of advies baseert op deze AI-samenvattingen zonder verificatie. Een fout in 10% van de gevallen is niet triviaal; het kan leiden tot verkeerde inschattingen van markten, onjuiste interpretaties van regelgeving, of het overnemen van feitelijk onjuiste claims over concurrenten of producten. Voor sectoren waar precisie cruciaal is, zoals financiën, juridische dienstverlening, gezondheidszorg of technische advisering, is dit een direct operationeel risico. Het vertrouwen dat de prominente weergave uitstraalt, staat niet in verhouding tot de feitelijke nauwkeurigheid.
+Voor ondernemers betekent dit een fundamentele verschuiving in hoe klanten hen online vinden en beoordelen. Waar je voorheen kon concurreren op basis van een goede positie in de zoekresultaten, wordt die plek nu ingenomen door een AI-samenvatting die mogelijk onjuiste informatie bevat over jouw bedrijf, sector of product. Dit vergroot het risico op reputatieschade door foutieve AI-antwoorden. Het betekent ook dat de traditionele SEO-strategie (zoekmachineoptimalisatie) minder direct effect heeft, omdat de gebruiker mogelijk niet verder kijkt dan het AI-antwoord. De autoriteit en betrouwbaarheid van je eigen website en profielen worden hierdoor juist belangrijker, omdat geïnteresseerde gebruikers dieper moeten graven voor geverifieerde informatie.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing is dat je een eenvoudige controle-routine inbouwt wanneer je Google gebruikt voor professioneel onderzoek.
+De praktische toepassing hangt af van jouw situatie. De kern is dat je niet kunt vertrouwen op de automatische samenvatting van Google en moet zorgen dat je eigen kanalen feitelijk correct en compleet zijn.
 
-**Als je snel marktinformatie nodig hebt voor een beslissing...** Lees het AI-antwoord dan als een eerste indicatie, maar klik altijd door naar de onderliggende bronnen die Google vermeldt. Controleer of de claim daar daadwerkelijk staat en bekijk de autoriteit van die website (is het een officiële instantie, een gerenommeerd nieuwsmedium of een blog?).
+**Als je een lokaal bedrijf runt, zoals een restaurant of klusjesbedrijf...** controleer dan regelmatig wat Google's AI Overviews over jouw branche of locatie zegt. Zoek op algemene vragen zoals "[jouw stad] beste loodgieter" en kijk of het AI-antwoord klopt. Zorg ervoor dat je Google Bedrijfsprofiel tot in detail is ingevuld met accurate openingstijden, diensten en foto's, omdat dit een directe bron voor de AI kan zijn. Overweeg om op je website een duidelijke FAQ-pagina aan te maken met exacte antwoorden op veelgestelde vragen uit je sector.
 
-**Als je een technische specificatie of prijsinformatie opzoekt voor een inkoop...** Gebruik het AI-antwoord nooit als enige bron. Bezoek altijd de website van de fabrikant of leverancier zelf om de specificaties en actuele prijzen te verifiëren. AI-modellen werken met data die niet real-time zijn en kunnen verouderde informatie tonen.
+**Als je een webshop of online dienstverlener bent...** realiseer je dan dat productbeschrijvingen of specificaties door de AI verkeerd kunnen worden samengevat. Zorg voor kristalheldere, feitelijke productinformatie op je eigen site. Een mogelijkheid is om autoriteitspagina's of uitgebreide gidsen te maken over je productcategorie, die dienen als betrouwbare bron. Dit verhoogt de kans dat de AI correcte informatie uit jouw content haalt. Monitor zoekopdrachten naar je productnamen om eventuele fouten vroegtijdig te signaleren.
 
-**Als je onderzoek doet naar een nieuwe wet of regelgeving...** Vertrouw absoluut niet op de samenvatting. Zoek op de website van de betreffende overheidsinstantie (bijv. Belastingdienst, KVK, Rijksoverheid.nl) naar de officiële publicaties. AI kan de nuance en uitzonderingen in wetgeving missen, met mogelijk grote gevolgen.
+**Als je een B2B-dienstverlener of consultant bent...** wordt je expertise en reputatie nog kritischer. De AI kan complexe diensten verkeerd uitleggen. Je zou kunnen investeren in uitgebreide casestudy's, whitepapers of blogartikelen die diepgaand op je vakgebied ingaan en die als referentiemateriaal kunnen dienen. Zorg dat je LinkedIn-profiel en andere professionele netwerken up-to-date en consistent zijn, omdat mensen bij twijfel over een AI-antwoord daar mogelijk gaan zoeken naar een betrouwbare expert.
 
-**Als je content of teksten laat genereren op basis van feiten uit Google...** Laat de gegenereerde feiten altijd nazoeken door een mens. Gebruik de AI Overview niet als bron voor een blog, persbericht of productbeschrijving zonder dat iemand de juistheid heeft geverifieerd via meerdere betrouwbare bronnen.
-
-De kern is: behandel de AI Overview als een suggestie, niet als een definitief antwoord. Het is een startpunt voor je onderzoek, niet de finish.
-
-Bron: [Bright](https://www.bright.nl/nieuws/2075700/google-s-ai-overview-liegt-miljoenen-keren-per-uur-blijkt-uit-onderzoek.html)
+Bron: [Arstechnica](https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/)
