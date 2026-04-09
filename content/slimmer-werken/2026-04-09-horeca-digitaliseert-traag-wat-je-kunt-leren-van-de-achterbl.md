@@ -1,31 +1,33 @@
 ---
 title: "Horeca digitaliseert traag: wat je kunt leren van de achterblijvers"
-date: 2026-04-09T10:19:18.279Z
+date: 2026-04-09T14:19:10.046Z
 tags: ["digitalisering", "horeca", "automatisering", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "De Nederlandse horeca werkt nog grotendeels met pen en papier, wat kansen op efficiëntie en inzicht laat liggen."
+summary: "Onderzoek toont dat de horeca nog sterk op pen en papier leunt, een patroon dat voor veel MKB'ers herkenbaar is en kansen biedt voor eenvoudige automatisering."
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/07/kort-digitalisering-gaat-aan-horeca-voorbij-softwareone-helpt-utrecht-met-ai-en-meer/"
 ---
 
-De Nederlandse horeca loopt achter in digitalisering, wat betekent dat ondernemers in de sector kansen laten liggen om efficiënter te werken en beter in te spelen op veranderende omstandigheden. Dit blijkt uit onderzoek onder ruim driehonderd ondernemers, waaruit naar voren komt dat automatisering en datagedreven werken nog nauwelijks van de grond komen.
+De Nederlandse horeca loopt opvallend achter in digitalisering, wat een spiegel voorhoudt aan veel andere MKB-sectoren. Onderzoek toont dat processen zoals voorraadbeheer en bestellingen nog grotendeels handmatig gaan, wat kansen laat liggen voor efficiëntie en datagedreven werken. Dit patroon van terughoudendheid biedt juist een duidelijk startpunt voor ondernemers die hun eerste digitale stappen willen zetten.
 
 ## Wat er aan de hand is
-Uit onderzoek van Scanfie en Klearly blijkt dat digitalisering in de Nederlandse horeca nog beperkt is. Zo neemt 78 procent van de ondernemers bestellingen nog handmatig op en houdt negentig procent de voorraad bij met pen en papier. Ook taken als roostering, boekhouding en het meten van wachttijden gebeuren vaak op gevoel of zonder digitale ondersteuning. Minder dan één procent van de ondernemers ziet zichzelf als koploper in datagedreven werken. De onderzoekers concluderen dat de sector daarmee kansen laat liggen. Deze bevindingen staan enigszins haaks op eerdere berichten over digitalisering in de horeca. In een apart nieuwsfeit werkt de gemeente Utrecht samen met SoftwareOne aan AI-toepassingen die routinetaken van ambtenaren ondersteunen, zoals het structureren en samenvatten van grote hoeveelheden tekst, waarbij menselijke controle centraal blijft staan.
+Uit onderzoek van Scanfie en Klearly onder ruim driehonderd horecaondernemers blijkt dat digitalisering in de sector nog beperkt is. Zo neemt 78 procent van de zaken bestellingen nog handmatig op en houdt negentig procent de voorraad bij met pen en papier. Ook taken als roostering, boekhouding en het meten van wachttijden gebeuren vaak zonder digitale ondersteuning of 'op gevoel'. Minder dan één procent van de ondernemers ziet zichzelf als koploper in datagedreven werken. De onderzoekers concluderen dat de sector kansen laat liggen door processen niet te automatiseren en geen realtime inzicht te hebben. Deze bevindingen staan enigszins haaks op eerdere berichten over digitalisering in de horeca.
 
 ## Wat dit betekent
-Voor horecaondernemers betekent dit dat er een aanzienlijke efficiëntieslag te maken is. Het handmatig bijhouden van voorraad en bestellingen kost niet alleen veel tijd, maar levert ook geen realtime inzicht op. Hierdoor kunnen ondernemers minder goed anticiperen op drukte, voorraadtekorten of veranderende klantbehoeften. De sector als geheel loopt het risico achter te blijven bij de verwachtingen van gasten die gewend zijn aan snelle, digitale service in andere branches. De ervaring van de gemeente Utrecht met AI laat zien dat het automatiseren van routinematige tekstverwerking medewerkers tijd kan opleveren voor kwalitatieve taken, een principe dat ook in de bediening of administratie van een horecazaak toegepast kan worden.
+Deze situatie in de horeca is een herkenbaar beeld voor veel kleine en middelgrote ondernemers buiten de techsector. Het betekent dat er een enorme, laagdrempelige ruimte is voor verbetering. Voor ondernemers die nu nog afhankelijk zijn van analoge methoden, biedt zelfs een basisniveau van automatisering directe winst in tijd en overzicht. Het betekent ook dat concurrentievoordeel relatief eenvoudig te behalen is; wie als eerste in zijn straat of branche overstapt op digitale basisprocessen, kan klanten sneller bedienen en kosten beter beheersen. De terughoudendheid wijst vaak niet op gebrek aan wil, maar op onduidelijkheid over waar te beginnen.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. Je hoeft niet direct een koploper te worden, maar kunt beginnen met het digitaliseren van één terugkerend, tijdrovend proces.
+De praktische toepassing begint met het identificeren van het meest tijdrovende, repetitieve papierwerk. De scenarios hieronder zijn logische toepassingen van het inzicht dat handmatige processen kansen bieden voor automatisering.
 
-**Als je een café of restaurant runt...** Overweeg om te starten met een eenvoudige voorraadbeheer-app op een tablet. In plaats van dagelijks met pen en papier langs de voorraadkast te lopen, scan je barcodes of voer je verbruik direct in. Dit geeft je direct inzicht in wat er op is, wat populair is en wat je moet bestellen, waardoor je verspilling tegengaat en altijd de juiste producten op voorraad hebt.
+**Als je een horecazaak of winkel runt...** Begin niet met een allesomvattend systeem, maar met één pijnpunt. De voorraad bijhouden op papier is een perfect startpunt. Onderzoek een eenvoudige voorraadbeheer-app die je op een tablet of telefoon kunt gebruiken. Scan bij ontvangst de barcode van nieuwe leveringen en geef verkopen direct aan. Deze ene stap geeft direct inzicht in bestselleritems en voorkomt dat je zonder voorraad komt te zitten.
 
-**Als je de bediening efficiënter wilt laten verlopen...** Een digitale bestellingsapparaat (zoals een handheld) of een simpele bestel-app op een tablet voor het personeel kan een grote stap zijn. Bestellingen gaan direct naar de keuken of de bar, wat fouten vermindert en de wachttijd voor gasten verkort. Je kunt later de data gebruiken om te zien welke gerechten of dranken het populairst zijn op welk tijdstip.
+**Als je een klein team aanstuurt...** Roostering en urenregistratie zijn vaak een bron van gedoe. In plaats van een papieren rooster of uitgeprinte Excel-bladen, kun je een eenvoudige online tool overwegen. Medewerkers kunnen hun beschikbaarheid zelf invoeren en het rooster is voor iedereen altijd up-to-date en inzichtelijk. Dit bespaart administratieve tijd en vermindert misverstanden.
 
-**Als je roosters maakt en uren registreert...** Er zijn betaalbare digitale tools beschikbaar die dit proces automatiseren. Medewerkers kunnen hun beschikbaarheid online doorgeven, je kunt eenvoudig roosters maken en uren worden automatisch doorberekend naar de salarisadministratie. Dit bespaart uren aan administratief werk en voorkomt misverstanden.
+**Als je diensten levert en afspraken plant...** Het 'op gevoel' meten van wachttijden of bezetting, zoals in het onderzoek genoemd, is onnodig. Een simpele agenda-app zoals Calendly of een boekingsmodule op je website laat klanten zelf een slot kiezen. Je ziet direct wanneer je druk bent of juist ruimte hebt, zonder dat je hoeft te schatten.
 
-**Als je wilt weten hoe druk het wordt...** In plaats van op gevoel te werken, kun je beginnen met het bijhouden van een eenvoudige digitale agenda of spreadsheet. Noteer niet alleen reserveringen, maar ook terugkerende evenementen in de buurt, feestdagen en het weer. Na verloop van tijd herken je patronen en kun je je personeelsinzet en voorraad hier beter op afstemmen.
+**Als je financiële administratie doet...** Handmatig bonnetjes invoeren in een boekhoudpakket is foutgevoelig en tijdrovend. Een tussenstap is het gebruik van een app die bonnetjes scant met je telefooncamera en de data automatisch extraheert. Je hoeft alleen de gegenereerde gegevens te controleren en goed te keuren voor import. Dit halveert de administratietijd en geeft een digitaler startpunt voor je cijfers.
 
-Bron: [Computable](https://www.computable.nl/2026/04/07/kort-digitalisering-gaat-aan-horeca-voorbij-softwareone-helpt-utrecht-met-ai-en-meer/)
+De kern is om klein te beginnen met het proces dat je het meeste tijd kost of het meeste gedoe oplevert. De winst in efficiëntie en overzicht is vaak direct merkbaar en bouwt vertrouwen op voor een volgende digitale stap.
+
+Bron: Computable

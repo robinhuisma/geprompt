@@ -1,33 +1,31 @@
 ---
 title: "Gemini krijgt notebooks: wat dat betekent voor je projecten en klantgesprekken"
-date: 2026-04-09T02:16:49.791Z
-tags: ["gemini", "projectmanagement", "klantinformatie", "ai-tools"]
+date: 2026-04-09T14:18:15.210Z
+tags: ["gemini", "projectmanagement", "klantcontact", "ai-productiviteit"]
 categorieen: ["slimmer-werken"]
-summary: "Google's nieuwe 'notebooks' in Gemini helpen je om alle informatie rond een project of klant op één plek te verzamelen en te hergebruiken."
+summary: "Google's nieuwe 'notebooks' in Gemini helpen je om informatie over projecten en klanten te bundelen, zodat je AI-chats beter gestructureerd en herhaalbaar worden."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
 ---
 
-Gemini krijgt een nieuwe functie waarmee je alle informatie rond een specifiek onderwerp, zoals een project of een klant, op één plek kunt verzamelen en die context vervolgens in elk gesprek met de AI kunt gebruiken. Dit maakt het gemakkelijker om consistent te werken en eerder verzamelde kennis direct in te zetten.
+Google's AI-chatbot Gemini krijgt een nieuwe functie genaamd 'notebooks', waarmee je alle informatie over een specifiek onderwerp, project of klant op één plek kunt verzamelen. Dit maakt je gesprekken met de AI gestructureerder en herhaalbaar, omdat de chatbot de context uit het notebook kan gebruiken.
 
 ## Wat er aan de hand is
-Google heeft aangekondigd dat zijn AI-chatbot Gemini een nieuwe functie krijgt genaamd "notebooks". Volgens het bedrijf kun je hierin bestanden, eerdere gesprekken en aangepaste instructies over een bepaald onderwerp samenbrengen. Wanneer je vervolgens met Gemini praat, kan de AI de informatie uit zo'n notebook gebruiken als context voor haar antwoorden. Google beschrijft de notebooks als "persoonlijke kennisbanken die worden gedeeld tussen Google-producten, te beginnen in Gemini". De functie lijkt sterk op de 'Projects' die ChatGPT in 2024 introduceerde. De notebooks in Gemini synchroniseren ook tussen verschillende apparaten.
+Google heeft aangekondigd dat het de functie 'notebooks' toevoegt aan zijn AI-chatbot Gemini. Volgens het bedrijf kun je in zo'n notebook bestanden, eerdere gesprekken en aangepaste instructies samenbrengen over een bepaald onderwerp. Wanneer je vervolgens met Gemini praat, kan de chatbot deze informatie gebruiken als context voor zijn antwoorden. Google beschrijft de notebooks als "persoonlijke kennisbanken die worden gedeeld tussen Google-producten, te beginnen in Gemini". De functie lijkt sterk op de 'Projects' die concurrent ChatGPT in 2024 introduceerde. De notebooks in Gemini synchroniseren ook tussen verschillende apparaten.
 
 ## Wat dit betekent
-Voor ondernemers en professionals betekent dit dat je eindelijk structuur kunt aanbrengen in de vaak versnipperde informatie rond je werk. In plaats van elke keer opnieuw bestanden te uploaden of eerdere chatgesprekken op te zoeken, bouw je met een notebook een centrale kennisbank op per onderwerp. Dit is vooral waardevol voor terugkerende processen, zoals het begeleiden van een langlopend project, het managen van een specifieke klantrelatie of het ontwikkelen van een product. De AI onthoudt niet alleen de historie, maar kan er ook actief en consistent uit putten. Het is een stap van ad-hoc AI-gebruik naar gestructureerd, herhaalbaar en efficiënt werken.
+Voor ondernemers en professionals betekent dit dat je de vaak versnipperde informatie rondom een project of een klantrelatie kunt centraliseren. In plaats van elke keer opnieuw context te moeten uitleggen aan een AI-tool, bouw je een herbruikbare kennisbank op. Dit is vooral waardevol voor terugkerende processen, zoals het voorbereiden van offertes, het managen van een ontwikkeltraject of het bijhouden van de historie van een klant. Het kan de efficiëntie van je interacties met AI-tools aanzienlijk verhogen, omdat de AI 'weet' waar je het over hebt. Het is een stap richting meer persoonlijke en project-specifieke AI-assistenten.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt sterk af van hoe jij je projecten en klantcontacten organiseert. De kern van de nieuwe notebooks is het centraliseren van context. Hier zijn een paar manieren waarop je dat zou kunnen benutten:
+De praktische toepassing hangt af van jouw situatie. De kern van de nieuwe notebooks is het bundelen van context voor herhaaldelijk gebruik. Hier zijn enkele manieren waarop je dit principe zou kunnen toepassen zodra de functie beschikbaar is:
 
-**Als je een langdurig klantproject begeleidt...** kun je een notebook aanmaken voor die specifieke klant. Hierin upload je het contract, notities van kick-off gesprekken, e-mails met specificaties en alle eerdere Gemini-chats over dit project. Wanneer je later vraagt: "Gemini, help me een voortgangsupdate op te stellen", heeft de AI direct toegang tot de volledige projectgeschiedenis en kan ze een consistent en accuraat document genereren.
+**Als je een terugkerend project beheert...** zoals de ontwikkeling van een nieuwe website of een marketingcampagne. Je zou een notebook kunnen aanmaken waarin je de projectbriefing, moodboards, e-mailcorrespondentie met freelancers en notities van brainstormsessies opslaat. Wanneer je vervolgens Gemini vraagt om een statusupdate te schrijven of volgende stappen voor te stellen, heeft de AI direct toegang tot de volledige projectgeschiedenis.
 
-**Als je content voor verschillende kanalen plant...** is een notebook per kanaal (zoals je nieuwsbrief, LinkedIn of blog) een idee. Je kunt er de tone-of-voice instructies, succesvolle voorbeelden uit het verleden en de redactiekalender in bewaren. Vraag je dan "schrijf een social media post over onze nieuwe dienst", dan weet Gemini precies welke stijl en formulering bij dat kanaal past.
+**Als je veel één-op-één klantgesprekken voert...** zoals een coach, consultant of financial planner. Overweeg om voor elke klant een apart notebook te starten. Hierin bewaar je notities van eerdere gesprekken, belangrijke levensgebeurtenissen die ze noemden, en hun specifieke doelen. Tijdens het voorbereiden van een volgend gesprek kan Gemini je dan helpen herinneren aan belangrijke details en suggesties doen die aansluiten op de eerder besproken traject.
 
-**Als je onderzoek doet voor een nieuwe dienst of product...** biedt een notebook een plek om alle onderzoeksdata, marktanalyses, concurrentie-inzichten en brainstormsessies te bundelen. Wanneer je vervolgens vraagt om een SWOT-analyse of een concepttekst, bouwt Gemini voort op die complete dataset, in plaats van op een losse, recente vraag.
+**Als je onderzoek doet voor een artikel, product of dienst...** kun je een notebook gebruiken als centrale onderzoeksmap. Sleep er relevante artikelen, datasets, eigen aantekeningen en zelfs gesprekken met experts in. Vraag daarna aan Gemini om samenvattingen te maken, tegenstrijdigheden te identificeren of een eerste opzet te schrijven op basis van al die gebundelde informatie.
 
-**Als je een team aanstuurt met terugkerende processen...** kun je notebooks gebruiken als dynamische handleidingen. Stop er de standaard operating procedures (SOP's), template-documenten en Q&A's van eerdere trainingen in. Nieuwe teamleden of de AI zelf kunnen dan bij elke vraag teruggrijpen op deze gecentraliseerde bron van bedrijfskennis.
-
-Overweeg om te starten met één concreet, terugkerend pijnpunt in je werkweek. Maak daarvoor een notebook aan en vul deze gestaag aan. De kracht zit hem niet in het hebben van tientallen notebooks, maar in het hebben van één of twee die echt alle relevante context voor een belangrijk onderwerp bevatten.
+**Als je een team aanstuurt en processen wilt standaardiseren...** is een notebook een mogelijkheid voor het vastleggen van bedrijfsprocedures. Bewaar er sjablonen, checklists, goedgekeurde teksten en voorbeelden van succesvolle output in. Nieuwe teamleden of de AI zelf kunnen dit notebook dan raadplegen om werk op een consistente manier uit te voeren, volgens de vastgelegde kennis van het bedrijf.
 
 Bron: [The Verge](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm)
