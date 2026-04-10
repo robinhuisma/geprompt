@@ -1,31 +1,37 @@
 ---
 title: "Gemini krijgt notebooks: wat dat betekent voor je projecten en klantgesprekken"
-date: 2026-04-10T02:17:41.786Z
-tags: ["gemini", "google", "projectmanagement", "ai-tools"]
+date: 2026-04-10T18:19:10.046Z
+tags: ["gemini", "projectmanagement", "klantinformatie", "ai-tools"]
 categorieen: ["slimmer-werken"]
-summary: "Google's nieuwe 'notebooks' in Gemini helpen je om informatie over een specifiek onderwerp te bundelen en te hergebruiken in gesprekken met de AI."
+summary: "Google's nieuwe 'notebooks' in Gemini helpen je om alle informatie rond een project of klant op één plek te verzamelen en te hergebruiken in gesprekken met de AI."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
 ---
 
-Google's AI-chatbot Gemini krijgt een nieuwe functie genaamd 'notebooks' waarmee je alle informatie over een specifiek onderwerp, project of klant op één plek kunt bundelen. Dit stelt je in staat om die opgeslagen context vervolgens te gebruiken in nieuwe gesprekken met de AI, waardoor je niet steeds opnieuw hoeft uit te leggen waar het over gaat.
+Gemini krijgt een functie waarmee je alle informatie over een specifiek project, klant of onderwerp op één plek kunt verzamelen en die context vervolgens kunt gebruiken in je gesprekken met de AI. Deze 'notebooks' werken als een persoonlijke kennisbank die je kunt vullen met documenten, eerdere gesprekken en instructies, waardoor je niet steeds opnieuw hoeft uit te leggen waar het over gaat.
 
 ## Wat er aan de hand is
-Google heeft aangekondigd dat er een 'notebooks'-functie komt voor zijn AI-chatbot Gemini. Volgens het bedrijf kun je in zo'n notebook bestanden, eerdere gesprekken en aangepaste instructies samenbrengen die allemaal over een bepaald onderwerp gaan. Gemini kan deze informatie vervolgens gebruiken als context tijdens nieuwe chats. De functie lijkt sterk op de 'Projects'-functie die ChatGPT in 2024 introduceerde. Google beschrijft de notebooks als "persoonlijke kennisbanken die worden gedeeld tussen Google-producten, te beginnen in Gemini". De notebooks zullen ook synchroniseren tussen verschillende apparaten.
+Google heeft aangekondigd dat het zijn AI-chatbot Gemini uitrust met een nieuwe functie genaamd 'notebooks'. Volgens het bedrijf kun je in deze digitale notitieboeken allerlei informatie over een bepaald onderwerp bij elkaar brengen: bestanden, eerdere chats met Gemini en zelfs je eigen aangepaste instructies. Wanneer je vervolgens met Gemini praat over dat onderwerp, kan de chatbot de context uit het bijbehorende notebook gebruiken. Google beschrijft de notebooks als "persoonlijke kennisbanken die worden gedeeld in Google-producten, te beginnen in Gemini." De functie lijkt sterk op de 'Projects' die ChatGPT in 2024 introduceerde, met een vergelijkbaar doel.
 
 ## Wat dit betekent
-Voor ondernemers en professionals betekent dit een stap richting meer gestructureerd en efficiënt gebruik van AI. In plaats van in elk nieuw chatvenster opnieuw achtergrondinformatie, voorkeuren of projectdetails te moeten plakken, kun je die nu centraal opslaan. Dit is vooral relevant voor terugkerende taken zoals klantondersteuning, projectplanning of onderzoek. Het maakt de AI minder een eenmalige zoekmachine en meer een consistente gesprekspartner die de historie en specifieke context van jouw werk kent. Het synchroniseren tussen Google-producten suggereert dat deze context later ook beschikbaar kan komen in tools zoals Google Docs, Sheets of Gmail.
+Voor ondernemers en professionals betekent dit dat je de kennis over terugkerende onderwerpen niet steeds opnieuw hoeft in te voeren of uit te leggen. Stel je voor: je hebt een notebook voor een grote klant. Daarin zet je het contract, notities van eerdere gesprekken en specifieke wensen. Elke keer als je met Gemini over die klant praat – om een offerte op te stellen, een probleem op te lossen of een presentatie voor te bereiden – heeft de AI direct de juiste achtergrondinformatie paraat. Dit bespaart niet alleen tijd, maar zorgt ook voor consistentie in je communicatie en documentatie. Het is een stap richting AI die niet alleen reageert op losse vragen, maar meedenkt binnen de context van jouw lopende projecten.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt sterk af van hoe je Gemini nu gebruikt en welke Google-producten een rol spelen in je workflow. Zodra de functie beschikbaar komt, zijn dit mogelijke manieren om ermee aan de slag te gaan.
+De praktische toepassing hangt sterk af van hoe je Gemini nu al gebruikt en welke Google-producten een rol spelen in je werk. Omdat de functie nog moet uitrollen, zijn dit logische scenario's gebaseerd op de aangekondigde mogelijkheden.
 
-**Als je met terugkerende klantvragen te maken hebt,** kun je een notebook aanmaken per belangrijke klant of type dienst. Hierin sla je eerdere gesprekken, offertes, specifieke wensen en afspraken op. Wanneer je vervolgens met Gemini over die klant praat, begrijpt de AI direct de volledige context en kan hij helpen met het opstellen van een vervolgmail of het samenvatten van de stand van zaken.
+**Als je met terugkerende projecten werkt...**
+Een notebook zou je kunnen inrichten voor elk groot project. Hierin verzamel je de projectbrief, belangrijke e-mails, budgetoverzichten en notulen van teamoverleggen. Wanneer je vervolgens aan Gemini vraagt om een statusupdate voor de opdrachtgever te schrijven, kan de AI putten uit alle actuele documenten en de juiste toon aanslaan.
 
-**Als je een langlopend project beheert,** zoals de ontwikkeling van een nieuwe website of een marketingcampagne, is een notebook ideaal om alle stukken bij elkaar te houden. Je kunt er inspiratie, aantekeningen van brainstormsessies, budgetoverzichten en feedback in bewaren. Vraag je Gemini later om een statusupdate of een plan voor de volgende fase, dan heeft hij alle benodigde informatie direct paraat.
+**Als je klantcontact beheert...**
+Je zou voor belangrijke klanten een apart notebook kunnen aanmaken. Daarin bewaar je hun bedrijfsprofiel, afspraken uit vorige gesprekken en hun specifieke voorkeuren. Bij het voorbereiden van een nieuw gesprek of het opstellen van een voorstel, kun je Gemini vragen om rekening te houden met de informatie in dat klantdossier, wat tot meer gepersonaliseerde en accurate output leidt.
 
-**Als je onderzoek doet voor een artikel, product of dienst,** fungeert een notebook als een digitale onderzoeksmap. Je kunt er links, samenvattingen van bronnen, eigen vragen en conclusies in verzamelen. Wanneer je vervolgens aan de slag gaat met het schrijven of presenteren, kan Gemini je helpen op basis van die complete onderzoekscontext, in plaats van alleen op basis van een losse vraag.
+**Als je onderzoek doet of content maakt...**
+Voor een langlopend onderzoek, een boek of een serie blogposts is een notebook ideaal. Je kunt er alle bronnen, concepten, eerdere outlines en feedback in bewaren. Wanneer je dan vraagt om een nieuwe alinea te schrijven of een argument te versterken, heeft Gemini de volledige onderzoekslijn paraat en blijft de content coherent.
 
-Overweeg om, zodra de functie live is, te starten met één concreet project of klantdossier. Test hoe het werkt om informatie toe te voegen en hoe de AI daar vervolgens gebruik van maakt in gesprekken. De kern is het creëren van een gestructureerde kennisbank die je tijd bespaart en de relevantie van AI-antwoorden vergroot.
+**Als je processen wilt standaardiseren...**
+Voor veelvoorkomende taken, zoals het onboarden van een nieuwe medewerker of het selecteren van een leverancier, kun je een notebook met vaste instructies en checklist-documenten maken. Iedereen in het team die Gemini gebruikt voor die taak, kan dan vanuit dezelfde, goedgekeurde context werken, wat de kwaliteit en uniformiteit ten goede komt.
 
-Bron: [The Verge](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm)
+De kern is dat je informatie die nu verspreid staat over chats, documenten en je hoofd, structureert in herbruikbare context-pakketten. Het succes hangt af van hoe goed je die notebooks indeelt en vult. Een mogelijkheid is om te beginnen met één proefproject of je meest complexe klant, om het nut in de praktijk te testen.
+
+Bron: The Verge
