@@ -1,31 +1,31 @@
 ---
-title: "AWS investeert in rivalen: wat je als ondernemer kunt leren over concurrentie en partnerschap"
-date: 2026-04-10T06:06:51.807Z
-tags: ["cloud computing", "strategie", "partnerschap", "mkb"]
+title: "AWS investeert in rivalen: wat je als ondernemer kunt leren over concurrentie en samenwerking"
+date: 2026-04-10T10:06:21.215Z
+tags: ["strategie", "samenwerking", "ai", "cloud"]
 categorieen: ["nieuws-tools"]
-summary: "AWS investeert in concurrenten als OpenAI en Anthropic, een strategie die 'coopetitie' heet en die ook voor MKB'ers waardevolle lessen bevat."
+summary: "AWS investeert in meerdere AI-concurrenten tegelijk, een strategie die 'coopetitie' heet en waar MKB'ers lessen uit kunnen trekken voor hun eigen partnerkeuzes."
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
 ---
 
-AWS investeert miljarden in zowel OpenAI als Anthropic, twee bedrijven die met elkaar concurreren op de AI-markt. Volgens de topman van AWS is dit geen probleem, maar een bewuste strategie die voortkomt uit een cultuur van 'coopetitie' – een samentrekking van concurrentie en samenwerking. Voor ondernemers die afhankelijk zijn van technologiepartners, biedt deze aanpak inzichten in het balanceren van risico's en kansen.
+Amazon Web Services (AWS) investeert miljarden in zowel Anthropic als OpenAI, twee concurrenten op het gebied van kunstmatige intelligentie. Dit lijkt een tegenstrijdige strategie, maar volgens de top van AWS is het een bewuste keuze die voortkomt uit een cultuur van 'coopetitie' – het gelijktijdig concurreren en samenwerken. Voor ondernemers biedt deze aanpak een belangrijke les: je kunt meerdere technologiepartners hebben, zelfs als die onderling rivalen zijn, zolang je de relaties maar actief beheert en je eigen strategische doelen voorop stelt.
 
 ## Wat er aan de hand is
-Amazon Web Services (AWS), de clouddivisie van Amazon, heeft miljarden geïnvesteerd in twee toonaangevende AI-bedrijven: OpenAI en Anthropic. Deze bedrijven ontwikkelen beide grote taalmodellen en zijn directe concurrenten van elkaar. In een interview met TechCrunch legde AWS-topman Adam Selipsky uit dat dit volgens hem geen conflict van belangen is. Hij verwees naar de ingebakken cultuur bij AWS om met concurrentie om te gaan, omdat de cloudgigant zelf ook concurreert met veel van zijn eigen partners. Deze praktijk, waarbij bedrijven zowel concurreren als samenwerken, staat bekend als 'coopetitie'.
+Adam Selipsky, de voormalig CEO van AWS, legde in een interview uit waarom de cloudgigant miljarden investeert in zowel Anthropic als OpenAI. Beide bedrijven ontwikkelen geavanceerde AI-modellen die concurreren om de aandacht van ontwikkelaars en bedrijven. AWS biedt echter de cloudinfrastructuur waarop deze modellen draaien. Selipsky benadrukte dat AWS een ingesleten cultuur heeft om met concurrentie om te gaan, omdat het bedrijf zelf ook concurreert met veel van zijn eigen partners. Deze praktijk, waarbij bedrijven tegelijkertijd concurreren en samenwerken, staat bekend als 'coopetitie'. Het nieuws onderstreept een bredere trend in de techindustrie, waar lijnen tussen partners, leveranciers en concurrenten steeds vager worden.
 
 ## Wat dit betekent
-Deze strategie van AWS is een duidelijke verschuiving in hoe grote techbedrijven de AI-markt benaderen: ze spreiden hun risico's en investeringen over meerdere, concurrerende partijen in plaats van één winnaar te kiezen. Voor Nederlandse ondernemers en MKB'ers die afhankelijk zijn van clouddiensten en AI-tools, betekent dit dat de technologiemarkt steeds meer een web van verweven belangen wordt. Je belangrijkste technologiepartner kan ook investeren in of samenwerken met jouw directe concurrent. Dit onderstreept het belang van een bewuste partnerstrategie en het vermijden van 'vendor lock-in', waarbij je te afhankelijk wordt van één leverancier.
+Deze strategie heeft directe implicaties voor het MKB. Ten eerste betekent het dat de technologieleveranciers waar je van afhankelijk bent, zelf complexe relaties onderhouden. Een cloudprovider kan bijvoorbeeld diensten aanbieden die concurreren met de software van een andere partner. Dit hoeft geen probleem te zijn, maar vereist wel bewustwording. Ten tweede toont het aan dat het mogelijk – en soms zelfs strategisch slim – is om met meerdere, onderling concurrerende partijen samen te werken. De sleutel ligt niet in het vermijden van deze dynamiek, maar in het actief managen ervan. Vooral in snel evoluerende markten zoals AI kan het locken in één enkele leverancier of technologie een groter risico zijn dan het navigeren door meerdere relaties.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. De strategie van AWS – investeren in meerdere partijen in een snel evoluerend veld – biedt een raamwerk dat ook voor kleinere bedrijven relevant kan zijn.
+De praktische toepassing hangt sterk af van jouw specifieke situatie en de markt waarin je opereert. De kernles van AWS's aanpak is dat het beheren van concurrerende belangen een normale bedrijfspraktijk is, geen uitzondering.
 
-**Als je software of diensten inkoopt van een grote leverancier...** is het verstandig te onderzoeken met welke andere partijen die leverancier samenwerkt. Vraag je af of die relaties jouw concurrentiepositie of gegevensbeveiliging kunnen beïnvloeden. Stel dit soort vragen tijdens contractonderhandelingen.
+**Als je softwareleveranciers kiest voor je bedrijf...** kun je bewust kiezen voor een portfolio-aanpak in plaats van alles bij één partij onder te brengen. Dit verkleint het risico van afhankelijkheid en geeft je onderhandelingsmacht. Het betekent wel dat je tijd moet investeren in het begrijpen van de relaties tussen je leveranciers.
 
-**Als je zelf samenwerkt met technologiepartners...** kun je leren van het 'coopetitie'-model. Het is niet altijd nodig of slim om een exclusieve relatie aan te gaan. Overweeg om met meerdere, mogelijk overlappende, partijen samen te werken om je afhankelijkheid te spreiden en flexibel te blijven.
+**Als je samenwerkt met andere bedrijven in je sector...** kun je overwegen waar samenwerking mogelijk is, zelfs met een concurrent. Dit kan gaan om gezamenlijke marketing, het delen van kennis over bepaalde uitdagingen (zoals wetgeving), of het gezamenlijk inkopen van diensten. Stel duidelijke grenzen vast over wat wel en niet gedeeld wordt.
 
-**Als je een strategie maakt voor AI-implementatie...** is het verstandig niet al je middelen in één AI-model of platform te stoppen, hoe veelbelovend het ook lijkt. De markt ontwikkelt zich snel, en de 'winnaar' van vandaag is die van morgen niet. Een portfolio-benadering, waarbij je meerdere tools of leveranciers evalueert voor verschillende taken, kan toekomstbestendiger zijn.
+**Als je een dienst verkoopt die afhankelijk is van een grotere platform (zoals een app-store of marketplace)...** is het cruciaal om te begrijpen hoe dat platform zijn eigen concurrentiepositie beheert. Zij kunnen op termijn zelf een vergelijkbare dienst lanceren. Bouw daarom een directe relatie met je eindklant op en zorg voor unieke waarde die niet eenvoudig is te kopiëren door het platform zelf.
 
-De kernles is dat in een dynamische markt het managen van relaties en afhankelijkheden een cruciale vaardigheid is. Het gaat niet om het kiezen van de enige juiste partner, maar om het opbouwen van een veerkrachtig ecosysteem van samenwerkingen dat je bedrijf kan ondersteunen, ongeacht hoe de concurrentie tussen je leveranciers zich ontwikkelt.
+De algemene richtlijn is om je eigen strategische doelstellingen leidend te laten zijn bij partnerkeuzes, in plaats van je te laten leiden door angst voor concurrentie of loyaliteit aan één partij. Een gediversifieerde en actief gemanagde set van relaties biedt vaak meer veerkracht en kansen.
 
 Bron: [TechCrunch](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
