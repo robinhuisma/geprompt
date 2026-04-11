@@ -1,35 +1,31 @@
 ---
-title: "OpenAI pleit voor botbelasting: wat dat betekent voor je bedrijfsvoering"
-date: 2026-04-11T02:05:50.745Z
-tags: ["openai", "automatisering", "belasting", "beleid"]
+title: "OpenAI pleit voor 'botbelasting': wat dat betekent voor je bedrijfsvoering"
+date: 2026-04-11T10:08:14.337Z
+tags: ["openai", "belasting", "ai-beleid", "automatisering"]
 categorieen: ["nieuws-tools"]
-summary: "OpenAI stelt een belasting op geautomatiseerde arbeid voor, wat toekomstige kosten voor automatisering kan beïnvloeden."
+summary: "OpenAI stelt voor om belasting te heffen op geautomatiseerde arbeid, wat kan leiden tot nieuwe fiscale regels voor bedrijven die AI inzetten."
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/openai-hef-belasting-geautomatiseerde-arbeid"
 ---
 
-OpenAI stelt voor om een belasting te heffen op geautomatiseerde arbeid, een zogenaamde "botbelasting" of "tokentaks". Dit voorstel is onderdeel van een bredere oproep om belastingstelsels aan te passen aan het AI-tijdperk, omdat traditionele inkomstenbronnen zoals loonbelasting onder druk kunnen komen te staan.
+OpenAI stelt voor om belasting te heffen op geautomatiseerde arbeid, een zogenaamde 'botbelasting' of 'tokentaks'. Dit voorstel is onderdeel van een bredere oproep om samenlevingen voor te bereiden op een economie waarin AI centraal staat, en kan op termijn leiden tot nieuwe fiscale regels voor bedrijven die automatisering gebruiken.
 
 ## Wat er aan de hand is
-In een discussiedocument getiteld 'Een industrieel beleid voor het tijdperk van Intelligentie' doet OpenAI, het bedrijf achter ChatGPT, een aantal verregaande beleidssuggesties. Het bedrijf van Sam Altman roept op tot ingrijpende veranderingen om samenlevingen voor te bereiden op een wereld waarin AI centraal staat. Een van de meest opvallende voorstellen is het heffen van belasting op geautomatiseerde arbeid. OpenAI stelt dat beleidsmakers de belastinggrondslag opnieuw in evenwicht moeten brengen, bijvoorbeeld door hogere belastingen op vermogenswinsten, vennootschapsbelasting of "gerichte maatregelen op duurzame AI-gedreven rendementen". Het bedrijf pleit ook voor het onderzoeken van "nieuwe benaderingen, zoals belastingen gerelateerd aan geautomatiseerde arbeid". Dit document is bedoeld om internationale discussies aan te zwengelen. Naast de botbelasting pleit OpenAI voor een universeel recht op AI, een algemeen AI-welvaartsfonds (vergelijkbaar met het Noorse oliefonds), en formele inspraak voor werknemers bij AI-implementaties.
+In een discussiedocument getiteld 'Een industrieel beleid voor het tijdperk van Intelligentie' doet OpenAI, het bedrijf achter ChatGPT, een aantal verregaande beleidssuggesties. Een van de meest opvallende is het voorstel om belasting te heffen op geautomatiseerde arbeid. Het bedrijf stelt dat beleidsmakers de belastinggrondslag opnieuw in evenwicht moeten brengen. Dit kan volgens OpenAI door meer te vertrouwen op inkomsten uit kapitaal, zoals hogere belastingen op vermogenswinsten of vennootschapsbelasting, en door nieuwe benaderingen te onderzoeken, zoals belastingen gerelateerd aan geautomatiseerde arbeid. Het bedrijf pleit daarnaast voor een universeel recht op AI, een algemeen AI-welvaartsfonds (vergelijkbaar met het Noorse oliefonds) en formele inspraak voor werknemers bij AI-implementaties.
 
 ## Wat dit betekent
-Het voorstel van OpenAI is een signaal dat de discussie over de economische impact van AI concreter wordt en zich verplaatst naar het domein van fiscaal beleid. De kernredenering is dat naarmate AI werk en productie hervormt, de samenstelling van de economische activiteit kan verschuiven. Volgens OpenAI kunnen bedrijfs- en vermogenswinsten toenemen terwijl de afhankelijkheid van loonbelasting afneemt, wat de financiering van sociale zekerheidsstelsels raakt. Het bedrijf waarschuwt dat "AI sociale vangnetten bedreigt die al decennialang de minstbedeelden en kwetsbaarsten beschermen". Voor ondernemers betekent dit dat de kostencalculatie van automatisering in de toekomst mogelijk moet worden aangepast. Een botbelasting zou de directe financiële voordelen van het vervangen van menselijke arbeid door AI-gestuurde processen kunnen temperen. Het benadrukt ook dat de verantwoordelijkheid voor veilig AI-gebruik ("downstream safety") steeds meer bij de organisaties die de systemen implementeren komt te liggen, en niet alleen bij de makers.
+Dit voorstel signaleert een fundamentele verschuiving in hoe de impact van AI wordt gezien: niet alleen als een technologische, maar ook als een fiscale en sociale uitdaging. OpenAI waarschuwt dat naarmate AI werk en productie hervormt, de economische activiteit kan verschuiven. Bedrijfs- en vermogenswinsten zouden kunnen toenemen, terwijl de afhankelijkheid van traditionele loonbelasting afneemt. Dit raakt volgens het bedrijf de financiering van sociale zekerheidsstelsels. Voor ondernemers betekent dit dat de fiscale voordelen van automatisering op termijn mogelijk kleiner worden. Een 'botbelasting' zou de operationele kosten van AI-gestuurde processen kunnen verhogen. Het pleidooi voor werknemersinspraak suggereert dat toekomstige wetgeving bedrijven kan verplichten om personeel te betrekken bij beslissingen over automatisering, wat implementatietrajecten kan vertragen of vormgeven.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing van dit voorstel hangt volledig af van of en hoe overheden het overnemen. Het is nu vooral een discussiestuk. Toch biedt het een moment om je strategie rondom automatisering te heroverwegen, niet alleen vanuit efficiëntie, maar ook vanuit toekomstbestendigheid en maatschappelijke verantwoordelijkheid.
+De praktische toepassing hangt af van jouw situatie, aangezien dit voorstellen zijn en nog geen wetgeving. Toch zijn er manieren om je voor te bereiden op een toekomst waarin dergelijke ideeën werkelijkheid kunnen worden.
 
-**Als je plannen hebt voor grootschalige automatisering...**
-Overweeg in je businesscase niet alleen de directe besparingen op personeelskosten, maar houd ook rekening met mogelijke toekomstige fiscale maatregelen. Dit maakt je investeringsbeslissing robuuster. Richt je automatisering bovendien op het elimineren van gevaarlijk, repetitief of uitputtend werk, een punt waar OpenAI zelf ook de nadruk op legt.
+**Als je investeert in automatisering voor kostenbesparing...** Houd bij je Return on Investment (ROI)-berekeningen niet alleen rekening met de aanschaf- en implementatiekosten, maar bouw ook een marge in voor mogelijke toekomstige fiscale veranderingen. Een belasting op geautomatiseerde arbeid zou de operationele kosten kunnen verhogen. Je zou kunnen overwegen om in je business case een scenario op te nemen waarin een percentage van de besparingen wordt afgeroomd door nieuwe heffingen.
 
-**Als je werknemers hebt die mogelijk worden geraakt door AI-tools...**
-Begin nu al met het betrekken van je team bij discussies over AI-implementatie. OpenAI pleit voor formele inspraak van werknemers om te voorkomen dat AI de werkdruk verhoogt of autonomie uitholt. Door je medewerkers vroegtijdig te consulteren, kun je weerstand verminderen en betere, veiligere implementaties realiseren.
+**Als je een team aanstuurt en AI-tools introduceert...** Het voorstel van OpenAI benadrukt formele inspraak voor werknemers. Je zou nu al kunnen beginnen met het structureel betrekken van je team bij de planning en implementatie van nieuwe AI-hulpmiddelen. Dit kan door werkgroepen in te stellen of regelmatige feedbackrondes te houden. Dit maakt de transitie soepeler en anticipeert op mogelijke toekomstige wettelijke verplichtingen op dit gebied.
 
-**Als je een langetermijnstrategie voor je bedrijf ontwikkelt...**
-Neem in je scenario-planning niet alleen technologische ontwikkelingen mee, maar ook mogelijke beleids- en fiscale veranderingen. Het voorstel voor een AI-welvaartsfonds suggereert dat overheden op zoek zijn naar manieren om de opbrengsten van AI breder te delen. Bedrijven die hier proactief over nadenken, kunnen zich beter positioneren.
+**Als je een strategie voor de komende jaren aan het uitstippelen bent...** Neem in je langetermijnplanning niet alleen technologische, maar ook regulatorische ontwikkelingen mee. Volg de discussie over AI-beleid, zowel nationaal als in de EU. Een mogelijkheid is om een deel van je geplande investeringen in automatisering flexibel te houden, zodat je kunt bijsturen als de fiscale regels veranderen. Overweeg ook hoe je bedrijf zou kunnen bijdragen aan een breder maatschappelijk gesprek over de gevolgen van AI.
 
-**Als je je zorgen maakt over de maatschappelijke impact van je bedrijfsvoering...**
-Gebruik dit document als aanleiding voor een interne dialoog over hoe jouw gebruik van AI bijdraagt aan of afbreuk doet aan bredere sociale structuren. Dit gaat verder dan compliance (zoals de EU AI Act) en raakt aan de verantwoordelijkheid van bedrijven in de samenleving.
+**Als je je zorgen maakt over de continuïteit van sociale voorzieningen...** De redenatie van OpenAI is dat AI sociale vangnetten kan ondermijnen. Je zou kunnen nadenken over hoe je eigen bedrijf, onafhankelijk van eventuele belastingen, kan bijdragen aan de veerkracht van je medewerkers en de samenleving. Dit kan door in te zetten op bijscholing (omscholing) of door samen te werken met opleidingsinstituten, zodat mensen klaar zijn voor de banen van de toekomst.
 
 Bron: [Emerce](https://www.emerce.nl/nieuws/openai-hef-belasting-geautomatiseerde-arbeid)
