@@ -1,29 +1,33 @@
 ---
-title: "Google's AI-antwoorden bevatten fouten: hoe je als ondernemer betrouwbaar blijft"
-date: 2026-04-11T14:12:29.915Z
-tags: ["google", "ai", "zoekmachines", "betrouwbaarheid"]
+title: "Google's AI-antwoorden bevatten fouten: hoe je als ondernemer betrouwbare informatie vindt"
+date: 2026-04-11T22:08:25.229Z
+tags: ["google", "ai", "zoekmachines", "informatie"]
 categorieen: ["nieuws-tools"]
-summary: "Een op de tien AI-antwoorden in Google Search bevat een fout, wat ondernemers dwingt hun eigen online informatie te controleren en te beschermen."
+summary: "Een op de tien AI-antwoorden in Google Search bevat een fout, wat betekent dat je kritisch moet blijven op online informatie voor zakelijke beslissingen."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
 ---
 
-Google's AI-gegenereerde antwoorden bovenin de zoekresultaten bevatten in ongeveer 10% van de gevallen een fout, wat neerkomt op miljoenen onjuiste antwoorden per dag. Voor ondernemers betekent dit dat ze niet blind kunnen varen op deze 'AI Overviews' en actief moeten werken aan de betrouwbaarheid van hun eigen online informatie.
+Google's AI-gegenereerde antwoorden bovenin zoekresultaten, genaamd AI Overviews, bevatten in ongeveer 10% van de gevallen een fout. Dit betekent dat je als ondernemer niet blind kunt varen op deze automatisch gegenereerde informatie voor belangrijke zakelijke vragen, en dat het controleren van bronnen essentieel blijft.
 
 ## Wat er aan de hand is
-Google heeft AI Overviews geïntegreerd in zijn zoekmachine, waarbij een door Gemini aangedreven chatbot een antwoord geeft boven de traditionele zoekresultaten. Een nieuwe analyse door The New York Times, uitgevoerd met behulp van AI-startup Oumi, testte de feitelijke juistheid met behulp van de SimpleQA-evaluatie. Dit is een benchmark van meer dan 4.000 vragen met verifieerbare antwoorden. De test toonde aan dat AI Overviews ongeveer 91% van de vragen correct beantwoordt. De keerzijde is dat dit een foutmarge van ongeveer 9% inhoudt. Wanneer dit foutpercentage wordt geëxtrapoleerd naar het totale aantal dagelijkse zoekopdrachten op Google, genereert het systeem dagelijks tientallen miljoenen onjuiste antwoorden. De nauwkeurigheid is verbeterd ten opzichte van eerdere tests met oudere modellen, maar een significant foutenpercentage blijft bestaan.
+Sinds de introductie in 2024 plaatst Google AI Overviews boven aan de zoekresultatenpagina's. Deze functie, aangedreven door het Gemini-model, geeft een samenvattend antwoord op zoekvragen. Een nieuwe analyse, uitgevoerd door The New York Times met hulp van het AI-bedrijf Oumi, testte de nauwkeurigheid. Met behulp van de SimpleQA-evaluatie – een lijst met meer dan 4.000 vragen met verifieerbare antwoorden – werd het systeem getest. Toen de test vorig jaar draaide met het toenmalige topmodel Gemini 2.5, was de nauwkeurigheid 85%. Na de update naar Gemini 3 steeg dit naar 91%. Dit betekent dat ongeveer 9% van de antwoorden onjuist is. Geëxtrapoleerd naar het totale aantal Google-zoekopdrachten per dag genereert AI Overviews volgens deze analyse dagelijks tientallen miljoenen incorrecte antwoorden.
 
 ## Wat dit betekent
-Dit heeft directe gevolgen voor de online vindbaarheid en reputatie van bedrijven. Als een klant een vraag stelt over jouw product, dienst of branche, kan het AI-antwoord van Google onjuiste informatie bevatten. Dit kan leiden tot verkeerde verwachtingen, onterechte kritiek of het wegleiden van potentiële klanten. Het betekent ook dat de traditionele SEO (zoekmachineoptimalisatie) verschuift: niet alleen de positie in de resultatenlijst is belangrijk, maar ook of de AI jouw website correct begrijpt en samenvat. Voor sectoren waar nauwkeurigheid cruciaal is, zoals de juridische, financiële, medische of technische branche, is het risico van verspreide misinformatie extra groot.
+Voor ondernemers en professionals betekent dit dat de informatie die direct gepresenteerd wordt bij het zoeken niet altijd betrouwbaar is. Een foutmarge van 9% is aanzienlijk wanneer je informatie zoekt over bijvoorbeeld regelgeving, marktcijfers, technische specificaties of concurrentie. Het vertrouwen in het eerste en meest prominente antwoord op je scherm kan misplaatst zijn. Dit plaatst de verantwoordelijkheid voor het verifiëren van feiten opnieuw bij de gebruiker, ook al belooft de technologie tijd te besparen. Het is een reminder dat AI-tools, hoe geavanceerd ook, nog steeds bronnen interpreteren en samenvatten en daarbij fouten kunnen maken.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. Je kunt je niet veroorloven dat AI onjuiste informatie over jouw bedrijf verspreidt. Richt je daarom op het controleren en beschermen van je eigen online waarheid.
+De praktische toepassing hangt af van jouw situatie. De kern is dat je een kritische houding aanneemt tegenover AI-gegenereerde samenvattingen en actief bronnen controleert.
 
-**Als je een webshop of dienstverlenend bedrijf runt,** zorg er dan voor dat je basisinformatie op je website kristalhelder en eenduidig is. Controleer zelf eens wat Google's AI Overview antwoordt op vragen als "Wat zijn de levertijden van [jouw bedrijfsnaam]?" of "Is [jouw product] geschikt voor [specifiek gebruik]?". Gebruik de kennis van je eigen vakgebied om eventuele fouten te spotten. Je zou kunnen overwegen om een veelgestelde-vragenpagina (FAQ) aan te maken met duidelijke, feitelijke antwoorden die gemakkelijk door AI gelezen kunnen worden.
+**Als je snel marktinformatie nodig hebt voor een beslissing...** Gebruik het AI-antwoord als startpunt, niet als eindconclusie. Scroll naar de traditionele zoekresultaten en open de websites waarop het AI-overzicht claimt te zijn gebaseerd. Check of de context klopt en of de informatie up-to-date is.
 
-**Als je verantwoordelijk bent voor de reputatie van een merk of organisatie,** monitor dan proactief wat er online over jouw domein wordt gezegd. Naast sociale media en reviews, is het nu ook verstandig om periodiek te checken welke antwoorden AI-overzichten geven over jouw sector of specifieke productcategorieën. Een mogelijkheid is om interne experts vragen te laten formuleren die klanten mogelijk stellen en de AI-antwoorden daarop te testen.
+**Als je technische specificaties of compliance-regels opzoekt...** Vertrouw niet op een samenvatting voor exacte details. Bezoek altijd de officiële bron, zoals de website van een leverancier voor specificaties of een overheidsportal voor wetgeving. Noteer de versienummers of publicatiedata die je vindt.
 
-**Als je content creëert voor je bedrijf,** focus dan op autoriteit en nauwkeurigheid. AI-modellen halen hun informatie uit betrouwbare bronnen. Zorg ervoor dat jouw website als een dergelijke bron wordt gezien door diepgaande, goed onderbouwde artikelen te publiceren, feiten te checken en bronnen te vermelden. Overweeg om complexe informatie ook visueel weer te geven met duidelijke infographics of tabellen, die vaak correcter worden overgenomen.
+**Als je je team vraagt om onderzoek te doen...** Stel een protocol in dat verder gaat dan het kopiëren van een AI-overzicht. Laat hen de belangrijkste bevindingen altijd onderbouwen met ten minste twee onafhankelijke, betrouwbare bronnen. Dit traint een zorgvuldige onderzoekshouding.
 
-Bron: Arstechnica
+**Als je content maakt gebaseerd op online onderzoek...** Factcheck je eigen werk. Als je een statistiek of claim gebruikt die je via een zoekmachine vond, traceer deze terug naar het oorspronkelijke rapport of de nieuwsbron. Dit voorkomt het per ongeluk verspreiden van onjuiste informatie.
+
+Een mogelijkheid is om AI-overzichten te zien als een geavanceerde 'suggestie' die je eigen oordeel en onderzoek niet vervangt, maar er een eerste aanzet toe geeft. De tijd die je bespaart door het samengevatte antwoord, investeer je dan in het verifiëren ervan.
+
+Bron: [Arstechnica](https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/)
