@@ -7,6 +7,11 @@ summary: "OpenAI richt zich met nieuwe producten op grotere bedrijven, wat ook k
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/next-phase-of-enterprise-ai"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI positioneert zijn geavanceerde AI-tools, zoals ChatGPT Enterprise en Codex, steeds meer als producten voor grotere organisaties. Dit betekent niet dat de technologie ontoegankelijk wordt, maar wel dat de ontwikkelingen in het enterprise-segment de weg vrijmaken voor meer gestandaardiseerde en veilige toepassingen die ook voor het MKB interessant kunnen zijn.

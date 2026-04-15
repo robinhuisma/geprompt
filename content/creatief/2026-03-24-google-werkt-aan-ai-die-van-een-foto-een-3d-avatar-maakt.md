@@ -5,8 +5,9 @@ tags: ["ai", "3d", "avatar", "klantinteractie"]
 categorieen: ["creatief"]
 summary: "Een nieuwe AI-functie van Google kan van een enkele foto een realistisch 3D-model van een gezicht maken, wat kansen biedt voor persoonlijke klantinteractie."
 cover:
-  image: "/images/covers/2026-03-24-gemini-ai-kan-straks-volledige-3d-avatars-maken-van-gezichte.webp"
-  alt: "Gemini AI kan straks volledige 3D-avatars maken van gezichten: zo werkt het"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2070432/gemini-ai-kan-straks-volledige-3d-avatars-maken-van-gezichten-zo-werkt-het.html"

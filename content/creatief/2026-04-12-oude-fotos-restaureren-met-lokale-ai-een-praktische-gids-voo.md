@@ -5,8 +5,9 @@ tags: ["foto-restauratie", "lokale ai", "creatieve tools", "archiefbeheer"]
 categorieen: ["creatief"]
 summary: "Met de lokale AI-tool Qwen Image Edit kunnen ondernemers oude foto's professioneel restaureren en inkleuren zonder abonnementen of uploads."
 cover:
-  image: "/images/covers/2026-04-12-ai-powered-photo-restoration-using-qwen-image-edit.webp"
-  alt: "Ai Powered Photo Restoration using QWEN Image Edit"
+  image: "https://images.pexels.com/photos/1230390/pexels-photo-1230390.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colorful indoor gallery capturing vibrant photographs on display, exuding modern artistic vibe."
+  caption: "Foto: Thiago Miranda via Pexels"
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"

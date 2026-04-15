@@ -7,6 +7,11 @@ summary: "Het opkomende AI-tijdperk maakt authentieke menselijke interactie en w
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/"
+cover:
+  image: "https://images.pexels.com/photos/15863066/pexels-photo-15863066.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "OpenAI Website with Introduction to ChatGPT on Computer Monitor"
+  caption: "Foto: Andrew Neel via Pexels"
+
 ---
 
 De opkomst van generatieve AI maakt authentieke menselijke interactie en echt, waardevol werk schaarser, en daarmee juist waardevoller voor je bedrijf. Het verhaal van een docent die zijn voldoening ziet verdampen door AI-geschreven werkstukken, is een waarschuwing voor elke professional: als je niet bewust investeert in echte verbinding en onderscheidende waarde, verwatert je relatie met je klant of team tot een transactie zonder betekenis.

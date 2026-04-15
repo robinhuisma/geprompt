@@ -7,6 +7,11 @@ summary: "ChatGPT's beeldgeneratie is een praktische tool voor ondernemers om sn
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/image-generation"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 ChatGPT kan je helpen om snel en eenvoudig professionele visuals te maken voor je marketing, presentaties of interne communicatie. Het is geen vervanging voor een grafisch ontwerper, maar een praktische tool om ideeën te visualiseren, concepten te testen of snel een illustratie te genereren wanneer je er zelf geen hebt.

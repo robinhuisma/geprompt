@@ -7,6 +7,11 @@ summary: "Grote merken passen hun marketing aan om gevonden te worden door AI-ch
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=04092026"
+cover:
+  image: "https://images.pexels.com/photos/15555796/pexels-photo-15555796.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish workspace with laptop and monitor for social media marketing."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 De opkomst van AI-chatbots als primaire zoekinterfaces dwingt merken om hun online vindbaarheid fundamenteel te herzien. Waar SEO draaide om ranking in Google, draait AI Engine Optimization (AIEO) om het geven van het 'juiste' antwoord aan een chatbot, een verschuiving van clicks naar context.

@@ -5,8 +5,9 @@ tags: ["prompting", "ai-techniek", "productiviteit", "automatisering"]
 categorieen: ["creatief"]
 summary: "Door AI te vragen zijn werk te laten zien, net als bij wiskunde, krijg je betrouwbaardere antwoorden voor zakelijke taken."
 cover:
-  image: "/images/covers/2026-03-24-chain-of-thought-cot-prompting-what-it-is-and-how-to-use-it.webp"
-  alt: "Chain-of-thought (CoT) prompting: What it is and how to use it"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/chain-of-thought-prompting"

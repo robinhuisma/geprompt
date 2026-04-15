@@ -7,6 +7,11 @@ summary: "OpenAI's Academy leert je hoe je met duidelijke prompts professionele 
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/image-generation"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 ChatGPT kan je helpen om snel professionele afbeeldingen te maken voor je marketing, social media of presentaties, ook als je geen designervaring hebt. Door duidelijke instructies te geven en op basis van feedback te itereren, kun je in minuten hoogwaardige visuals genereren.

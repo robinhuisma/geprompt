@@ -7,6 +7,11 @@ summary: "AI-gegenereerde zoekdata kan je helpen gaten in je lokale online aanwe
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/"
+cover:
+  image: "https://images.pexels.com/photos/15635239/pexels-photo-15635239.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Top view of a notebook, tablet, and keyboard used for social media marketing planning."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 AI-gegenereerde data over hoe mensen zoeken kan je helpen een concrete lokale strategie te ontwikkelen om de betrouwbaarheid van je bedrijf online te versterken. Het gaat erom de signalen uit AI-zoekmachines te vertalen naar acties die 'citation gaps' – ontbrekende of inconsistente vermeldingen van je bedrijfsgegevens – opvullen.

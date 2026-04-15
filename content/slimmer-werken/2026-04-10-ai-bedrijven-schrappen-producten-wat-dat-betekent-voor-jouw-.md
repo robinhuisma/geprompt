@@ -7,6 +7,11 @@ summary: "AI-bedrijven schrappen ineens producten om kosten te drukken, wat risi
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De AI-industrie bevindt zich op een keerpunt waar winstgevendheid prioriteit krijgt boven innovatie, wat betekent dat producten waar je mogelijk op vertrouwt ineens kunnen verdwijnen. Voor ondernemers die AI-tools in hun processen hebben ingebed, introduceert dit een nieuw soort operationeel risico: afhankelijkheid van een onstabiele leveranciersmarkt.

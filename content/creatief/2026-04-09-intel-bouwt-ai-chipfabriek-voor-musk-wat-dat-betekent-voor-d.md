@@ -7,6 +7,11 @@ summary: "De samenwerking tussen Intel en Musk's Terafab kan op termijn de krapt
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Intel gaat een cruciale rol spelen in de bouw van Elon Musk's enorme AI-chipfabriek, Terafab. Deze samenwerking tussen een gevestigde chipmaker en een tech-visionair is een teken van de extreme vraag naar AI-rekenkracht en kan op de langere termijn helpen de krapte op de markt te verlichten. Voor ondernemers betekent dit dat de toegang tot de hardware die AI mogelijk maakt mogelijk minder schaars wordt.

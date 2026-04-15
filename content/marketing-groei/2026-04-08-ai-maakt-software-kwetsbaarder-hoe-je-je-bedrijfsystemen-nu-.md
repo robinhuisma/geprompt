@@ -7,6 +7,11 @@ summary: "De CEO van Google waarschuwt dat AI meer softwarelekken kan blootlegge
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/"
+cover:
+  image: "https://images.pexels.com/photos/30383665/pexels-photo-30383665.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Chalkboard art promoting Facebook engagement with a like us message."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 De toenemende kracht van kunstmatige intelligentie brengt een nieuw veiligheidsrisico met zich mee: AI kan worden ingezet om kwetsbaarheden in vrijwel alle software sneller en op grotere schaal te vinden en uit te buiten. Dit vereist een proactieve houding van ondernemers om hun systemen te versterken.

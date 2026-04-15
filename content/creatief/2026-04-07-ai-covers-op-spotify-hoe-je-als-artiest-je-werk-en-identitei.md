@@ -7,6 +7,11 @@ summary: "Artiesten worden slachtoffer van AI-gedreven identiteitsdiefstal, waar
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Een folk-muzikant ontdekte AI-gemaakte covers van haar eigen werk op haar Spotify-profiel, geüpload door onbekenden. Dit incident markeert een nieuwe, persoonlijke vorm van copyrightschending waarbij niet alleen het werk, maar ook de identiteit van de artiest wordt gekopieerd. Voor creatieve ondernemers betekent dit dat naast het beschermen van hun intellectueel eigendom, ook de verdediging van hun persoonlijke 'merk' en online aanwezigheid essentieel wordt.

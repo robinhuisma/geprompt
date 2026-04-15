@@ -7,6 +7,11 @@ summary: "Disney's miljardenpartnerschap met OpenAI's Sora zet de standaard voor
 draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Disney zet als eerste grote Hollywood-studio vol in op AI-video door een miljardenpartnerschap met OpenAI's Sora. Dit betekent dat de creatieve industrie een nieuwe standaard krijgt voor wat mogelijk is, waardoor de concurrentiedruk voor kleinere spelers toeneemt. Het opent echter ook nieuwe, betaalbare mogelijkheden voor conceptontwikkeling en prototyping.

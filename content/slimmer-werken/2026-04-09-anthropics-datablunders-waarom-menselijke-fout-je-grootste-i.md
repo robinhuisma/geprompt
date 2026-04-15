@@ -7,6 +7,11 @@ summary: "Twee interne datalekken bij AI-bedrijf Anthropic in één week tonen a
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/02/kort-twee-datablunders-anthropic-in-een-week-vernieuwde-hp-laserjet%e2%80%91lijn-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De grootste bedreiging voor je bedrijfsgegevens komt vaak niet van buiten, maar van een simpele menselijke fout binnen je eigen organisatie. Dat blijkt uit twee ernstige datablunders bij AI-specialist Anthropic in één week, waarbij interne code en documenten per ongeluk publiek werden gemaakt.

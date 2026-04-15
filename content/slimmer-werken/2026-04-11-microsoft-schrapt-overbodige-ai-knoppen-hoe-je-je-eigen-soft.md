@@ -7,6 +7,11 @@ summary: "Microsoft verwijdert overbodige Copilot-knoppen uit Windows 11-apps, e
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Microsoft begint overbodige AI-knoppen te verwijderen uit Windows 11, wat een bredere trend signaleert: softwaremakers schuiven van opdringerige promotie naar geïntegreerde functionaliteit. Dit betekent dat je zelf ook kritisch kunt kijken naar de interface van je dagelijkse tools om rommel te verwijderen en je workflow te stroomlijnen.

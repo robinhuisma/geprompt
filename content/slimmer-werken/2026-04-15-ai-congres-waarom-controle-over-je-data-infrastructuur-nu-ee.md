@@ -5,8 +5,9 @@ tags: ["ai-beleid", "data", "infrastructuur", "cybersecurity"]
 categorieen: ["slimmer-werken"]
 summary: "Het Nederlandse AI-congres waarschuwt ondernemers voor afhankelijkheid van buitenlandse tech en adviseert om de controle over data en infrastructuur te heroverwegen."
 cover:
-  image: "/images/covers/2026-04-15-aic4nl-congres-8216-vergroot-de-ai-weerbaarheid-8217.webp"
-  alt: "AIC4NL Congres: &#8216;Vergroot de AI weerbaarheid&#8217;"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/ai-congres"

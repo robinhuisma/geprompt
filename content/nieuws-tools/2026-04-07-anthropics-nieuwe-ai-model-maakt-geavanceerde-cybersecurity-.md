@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model van Anthropic, via grote cloudplatforms, kan automa
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"
+cover:
+  image: "https://images.pexels.com/photos/6614749/pexels-photo-6614749.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Adult man in workspace using VR headset and controllers, engaging with virtual reality experience."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
+
 ---
 
 Anthropic's nieuwe AI-model voor cybersecurity wordt niet direct verkocht, maar komt beschikbaar via de clouddiensten van grote techpartners zoals Google, Amazon en Microsoft. Dit betekent dat geavanceerde kwetsbaarheidsdetectie, voorheen voorbehouden aan grote bedrijven en overheden, nu ook een optie wordt voor het MKB via hun bestaande cloud-abonnementen.

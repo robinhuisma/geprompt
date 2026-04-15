@@ -7,6 +7,11 @@ summary: "Een AI-agent runt nu een echte winkel in San Francisco, een praktijkex
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
+cover:
+  image: "https://images.pexels.com/photos/35751099/pexels-photo-35751099.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A scenic view of San Francisco's coastal skyline with beachfront and urban landscape."
+  caption: "Foto: Clément Proust via Pexels"
+
 ---
 
 Een AI-agent runt nu een echte winkel in San Francisco, met een budget van $100.000 en de bevoegdheid om personeel aan te nemen. Dit experiment van Andon Labs, genaamd 'Luna', is een van de eerste praktijkvoorbeelden van een AI als autonome werkgever en manager, en laat zien waar de technologie nu al werkt en waar de grenzen nog liggen.

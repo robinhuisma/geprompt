@@ -7,6 +7,11 @@ summary: "Geanimeerde GIFs in nieuwsbrieven kunnen de ROI met 105% verhogen, mit
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17317902/animation-in-emails"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord is dat geanimeerde GIFs in e-mails een krachtig middel zijn om de aandacht te trekken en conversies te verhogen, maar alleen als je ze doelgericht en met respect voor de lezer inzet. De sleutel ligt in het verschil tussen een nuttige micro-demo en een irritante flitsende banner.

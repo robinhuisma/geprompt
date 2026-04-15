@@ -7,6 +7,11 @@ summary: "Banken verwachten een netto banengroei door AI, maar de winst is voor 
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI levert banken de komende jaren meer banen op dan het kost, maar de winst is ongelijk verdeeld. Waar technische functies groeien, verdwijnen tienduizenden routinematige banen, wat een fundamentele verschuiving in benodigde vaardigheden voor professionals inluidt.

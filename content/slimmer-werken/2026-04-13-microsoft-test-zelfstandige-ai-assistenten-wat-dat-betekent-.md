@@ -7,6 +7,11 @@ summary: "Microsoft onderzoekt hoe AI-assistenten zelfstandig taken kunnen uitvo
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Microsoft verkent de mogelijkheid om AI-assistenten, zoals Copilot in Microsoft 365, zelfstandig en continu taken te laten uitvoeren, zonder dat je elke stap hoeft aan te sturen. Dit betekent een verschuiving van een assistent die reageert op opdrachten naar een agent die proactief werkt.

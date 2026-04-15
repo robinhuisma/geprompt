@@ -7,6 +7,11 @@ summary: "Het grootste deel van het fiscale innovatievoordeel gaat naar enkele m
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/ruim-90-procent-innovatiebox-voordeel-naar-asml-msd-en-booking-luchthavens-binnen-drie-weken-door-kerosinereserves"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het grootste deel van het belastingvoordeel uit de innovatiebox gaat naar een handvol grote multinationals, waardoor de politieke discussie over de doelmatigheid van deze regeling oplaait. Voor het MKB betekent dit vooral dat de toegang tot dit voordeel bestaat, maar dat de grootste financiële baten bij anderen terechtkomen.

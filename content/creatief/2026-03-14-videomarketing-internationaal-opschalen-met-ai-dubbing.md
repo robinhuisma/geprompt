@@ -5,8 +5,9 @@ tags: ["videomarketing", "ai-dubbing", "internationalisering", "creatief"]
 categorieen: ["creatief"]
 summary: "Met AI-tools zoals Descript kun je video's automatisch laten nasynchroniseren in andere talen, waardoor je internationale markten kunt bedienen zonder dure studio's."
 cover:
-  image: "/images/covers/2026-03-14-how-descript-enables-multilingual-video-dubbing-at-scale.webp"
-  alt: "How Descript enables multilingual video dubbing at scale"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/descript"

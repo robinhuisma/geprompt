@@ -7,6 +7,11 @@ summary: "Vermogende families en hun kantoren investeren steeds vaker rechtstree
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
+cover:
+  image: "https://images.pexels.com/photos/2451646/pexels-photo-2451646.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Bird's-eye view of a modern office with professionals collaborating on laptops and monitors."
+  caption: "Foto: Proxyclick Visitor Management System via Pexels"
+
 ---
 
 Familiekantoren – de vermogensbeheerders van zeer rijke families – veranderen van passieve investeerders in actieve deelnemers in de AI-sector. Ze slaan steeds vaker de traditionele durfkapitaalfondsen (VC's) over om rechtstreeks in AI-startups te investeren, wat een nieuwe financieringsstroom opent voor ondernemers.

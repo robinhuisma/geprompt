@@ -5,8 +5,9 @@ tags: ["youtube", "ai-content", "contentstrategie", "authenticiteit"]
 categorieen: ["creatief"]
 summary: "YouTube kondigt aan misleidende AI-content te willen verwijderen, wat kansen creëert voor makers van authentieke video's."
 cover:
-  image: "/images/covers/2026-03-20-youtube-maakt-eindelijk-korte-metten-met-ai-slop-correctie-w.webp"
-  alt: "YouTube maakt eindelijk korte metten met AI Slop - correctie: wij mogen het oplossen"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2068163/youtube-maakt-eindelijk-korte-metten-met-ai-slop-correctie-wij-doen-dat.html"

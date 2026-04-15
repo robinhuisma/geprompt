@@ -7,6 +7,11 @@ summary: "AI-tools kunnen kwetsbaarheden vinden, maar creëren die ook, wat onde
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord is dat de opkomst van AI een beveiligingsparadox introduceert: dezelfde technologie die kwetsbaarheden kan opsporen, kan ook worden gebruikt om nieuwe, complexere aanvallen te creëren. Dit betekent dat ondernemers niet kunnen vertrouwen op oude beveiligingsmethoden en hun aanpak fundamenteel moeten herzien, met focus op de menselijke factor en nieuwe soorten risico's.

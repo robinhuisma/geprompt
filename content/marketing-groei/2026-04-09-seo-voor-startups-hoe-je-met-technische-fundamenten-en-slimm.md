@@ -7,6 +7,11 @@ summary: "Een praktisch blueprint helpt startups met lage domeinautoriteit om to
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
+
 ---
 
 Voor een startup is het dichten van het domeinautoriteitsgat de belangrijkste eerste stap om te beginnen met SEO. Dit doe je niet door blindelings links te verzamelen, maar door eerst een technisch onberispelijke website te bouwen en vervolgens met gerichte PR je autoriteit te kweken. Dit blueprint combineert technische precisie, 'newsjacking' en betaalde versterking om een digitale aanwezigheid op te bouwen die kan concurreren met gevestigde bedrijven.

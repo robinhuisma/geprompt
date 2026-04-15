@@ -7,6 +7,11 @@ summary: "Generatie Z wordt steeds kritischer op AI, maar gebruikt het tegelijke
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2076593/gen-z-krijgt-steeds-grotere-hekel-aan-ai-maar-kan-er-niet-mee-stoppen.html"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Generatie Z staat in een paradoxale relatie tot kunstmatige intelligentie: ze gebruiken het intensief, maar hun enthousiasme neemt snel af en de frustratie groeit. Voor werkgevers en leidinggevenden betekent dit dat ze niet kunnen volstaan met het simpelweg aanbieden van AI-tools, maar ook moeten sturen op de ervaring en de ethische bezwaren van hun jongste medewerkers.

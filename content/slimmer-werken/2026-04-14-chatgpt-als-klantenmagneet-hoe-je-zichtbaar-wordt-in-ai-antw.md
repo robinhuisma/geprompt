@@ -7,6 +7,11 @@ summary: "Je content optimaliseren voor ChatGPT en andere 'answer engines' is de
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/how-to-show-up-in-chatgpt-results"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Je kunt je content laten opnemen in de antwoorden van ChatGPT en andere 'answer engines' door je contentstrategie aan te passen. Dit gaat verder dan traditionele SEO en richt zich op het direct beantwoorden van specifieke vragen, wat kan leiden tot een aanzienlijke stroom van nieuwe, geïnteresseerde bezoekers naar je website.

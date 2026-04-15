@@ -7,6 +7,11 @@ summary: "De onrust en kostenstijgingen bij OpenAI vragen om een strategische he
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076447/chatgpt-duurder-geen-lol-meer-stoelendans-in-de-top-het-rommelt-bij-openai.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De interne onrust en kostenstijgingen bij OpenAI dwingen ondernemers om hun afhankelijkheid van één AI-leverancier kritisch te heroverwegen en hun budgetten voor automatisering aan te passen. Dit is geen abstract tech-nieuws, maar een direct signaal om je AI-strategie toekomstbestendig te maken.

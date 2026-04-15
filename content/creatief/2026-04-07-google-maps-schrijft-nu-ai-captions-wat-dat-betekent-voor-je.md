@@ -7,6 +7,11 @@ summary: "Google Maps gebruikt AI om automatisch onderschriften voor foto's te g
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Google Maps maakt het voor lokale ondernemers eenvoudiger om hun profiel te verrijken met beeldmateriaal, dankzij een nieuwe AI-functie die automatisch onderschriften voor foto's en video's genereert. Dit vermindert de drempel om actief bij te dragen aan je eigen bedrijfsvermelding.

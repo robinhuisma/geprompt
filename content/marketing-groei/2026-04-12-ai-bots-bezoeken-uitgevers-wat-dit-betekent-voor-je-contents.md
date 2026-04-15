@@ -7,6 +7,11 @@ summary: "AI-bedrijven sturen bots die massaal uitgeverswebsites bezoeken om dat
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het grootste deel van het AI-botverkeer op uitgeverswebsites komt van bedrijven als OpenAI, Meta en ByteDance, die data verzamelen om hun modellen te trainen. Dit levert directe risico's op voor site-performance en content-eigenaarschap, maar biedt ook inzicht in wat AI-systemen leren over jouw bedrijf.

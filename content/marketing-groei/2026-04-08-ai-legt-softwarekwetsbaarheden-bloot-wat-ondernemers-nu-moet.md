@@ -7,6 +7,11 @@ summary: "AI kan zwakke plekken in software sneller vinden, waardoor beveiliging
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/"
+cover:
+  image: "https://images.pexels.com/photos/15555955/pexels-photo-15555955.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A top view of social media marketing text alongside graphic design books and a keyboard."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Google CEO Sundar Pichai waarschuwt dat kunstmatige intelligentie bijna alle bestaande software kan 'breken' door kwetsbaarheden bloot te leggen. Dit betekent dat de beveiliging van je bedrijfssoftware en klantgegevens een nieuwe, urgente dimensie krijgt, omdat AI-tools deze zwakke plekken sneller kunnen vinden en mogelijk misbruiken.

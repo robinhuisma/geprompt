@@ -7,6 +7,11 @@ summary: "De komst van AI-modellen die zelfstandig beveiligingslekken vinden én
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/09/anthropic-houdt-hackmodel-mythos-bewust-achter-slot-en-grendel/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het dreigingslandschap voor ondernemers verandert fundamenteel door de komst van AI-modellen die zelfstandig kunnen hacken. Dit vereist een verschuiving van incidentele controles naar een continue, geautomatiseerde verdediging.

@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals Google's SGE beoordelen je online autoriteit and
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands using smartphone beside laptop with stock charts, showcasing digital trading."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
+
 ---
 
 AI-zoekmachines zoals Google's Search Generative Experience (SGE) beoordelen de online autoriteit van een bedrijf op een fundamenteel andere manier dan traditionele zoekmachines. Waar SEO voorheen vaak draaide om het optimaliseren van individuele pagina's voor specifieke zoekwoorden, kijken AI-systemen naar het geheel: ze proberen de 'entiteit' of het onderliggende concept achter een website te begrijpen. Om hier zichtbaar in te blijven, moeten de teams die verantwoordelijk zijn voor inhoud (content) en vindbaarheid (SEO) hun silo's doorbreken en intensiever gaan samenwerken.

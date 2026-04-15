@@ -7,6 +7,11 @@ summary: "78% van de horecazaken neemt bestellingen nog handmatig op, wat kansen
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/07/kort-digitalisering-gaat-aan-horeca-voorbij-softwareone-helpt-utrecht-met-ai-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Bijna 80% van de Nederlandse horecazaken neemt bestellingen nog op met pen en papier, en 90% houdt de voorraad op dezelfde manier bij. Dit betekent dat er voor ondernemers in de sector een directe kans ligt om met relatief eenvoudige en betaalbare digitale tools efficiënter te werken en beter in te spelen op drukte.

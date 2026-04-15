@@ -5,8 +5,9 @@ tags: ["generatieve ai", "3d-printen", "productontwerp", "simulatie"]
 categorieen: ["creatief"]
 summary: "MIT-onderzoekers combineren generatieve AI met fysicasimulaties om 3D-ontwerpen te maken die niet alleen mooi zijn, maar ook functioneel en stevig."
 cover:
-  image: "/images/covers/2026-03-24-mixing-generative-ai-with-physics-to-create-personal-items-t.webp"
-  alt: "Mixing generative AI with physics to create personal items that work in the real world"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225"

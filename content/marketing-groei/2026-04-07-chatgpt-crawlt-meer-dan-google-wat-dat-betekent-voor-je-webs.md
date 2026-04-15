@@ -5,8 +5,9 @@ tags: ["ai", "seo", "marketing", "website"]
 categorieen: ["marketing-groei"]
 summary: "AI-crawlers van ChatGPT halen nu meer data van websites dan Googlebot, wat vraagt om een nieuwe optimalisatiestrategie."
 cover:
-  image: "/images/covers/2026-04-07-chatgpt-now-crawls-3-6x-more-than-googlebot-what-24m-request.webp"
-  alt: "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal"
+  image: "https://images.pexels.com/photos/5717758/pexels-photo-5717758.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person analyzing stock market data on a laptop and smartphone indoors."
+  caption: "Foto: www.kaboompics.com via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/"

@@ -7,6 +7,11 @@ summary: "Een onafhankelijke Britse test toont aan dat de nieuwe AI 'Mythos' mee
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De nieuwe AI 'Mythos' van Anthropic is volgens onafhankelijke Britse tests niet per se beter in losse hacktaken, maar wel gevaarlijker omdat hij verschillende stappen van een cyberaanval zelfstandig kan combineren en uitvoeren. Dit betekent dat geautomatiseerde, complexe aanvallen op bedrijfssystemen nu een reëler risico worden.

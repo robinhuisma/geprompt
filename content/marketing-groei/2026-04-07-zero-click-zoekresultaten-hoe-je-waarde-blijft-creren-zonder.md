@@ -7,6 +7,11 @@ summary: "Bij 80% van de consumenten eindigt 40% van hun zoekopdrachten zonder e
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/zero-click-searches"
+cover:
+  image: "https://images.pexels.com/photos/29828496/pexels-photo-29828496.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Tablet displaying cryptocurrency growth chart in a digital workspace."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Bij steeds meer zoekopdrachten vindt de gebruiker het antwoord direct op de resultatenpagina, via een AI-overzicht of een 'featured snippet', en klikt niet meer door naar een website. Dit fenomeen, 'zero-click searches', betekent dat je als ondernemer je SEO-strategie moet aanpassen om zichtbaar te blijven en waarde te creëren, zelfs als je geen bezoeker meer ontvangt.

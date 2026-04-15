@@ -7,6 +7,11 @@ summary: "Het Amsterdamse Sero lanceert Operate, een tool waarmee AI-agents zelf
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/sero-lanceert-operate-aimarketingagents-die-zelfstandig-werken"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI-agents kunnen nu zelfstandig taken op je computer uitvoeren, van diepgaand onderzoek tot het aanpassen van presentaties. Het Amsterdamse AI-bedrijf Sero lanceert Operate, een tool die gepersonaliseerde AI-assistenten ('Wolleys') als een team laat functioneren en toegang geeft tot je lokale computer en externe systemen. Dit verschuift de rol van marketeer van uitvoerder naar regisseur van geautomatiseerde processen.

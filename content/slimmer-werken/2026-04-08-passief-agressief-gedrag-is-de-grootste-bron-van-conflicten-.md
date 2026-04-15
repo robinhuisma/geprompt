@@ -7,6 +7,11 @@ summary: "Subtiel, ontwrichtend gedrag zoals beloftes niet nakomen of verhulde k
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/werk-leven/passieve-agressiviteit-zorgt-op-kantoor-voor-meer-conflicten-dan-roddelen-en-pesten"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Passief-agressief gedrag is volgens nieuw onderzoek de grootste bron van conflicten op de werkvloer, nog vóór roddelen en pesten. Dit subtiele, vaak ontkende gedrag ondermijnt vertrouwen en productiviteit, en wordt in de hand gewerkt door thuiswerken en digitale communicatie.

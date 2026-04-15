@@ -7,6 +7,11 @@ summary: "HubSpot's case study laat zien hoe je meetbaar zichtbaar blijft nu kla
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 HubSpot's case study toont een meetbare aanpak om zichtbaar te blijven voor klanten die hun zoektocht beginnen bij AI-answer engines zoals ChatGPT, Gemini en Perplexity, in plaats van bij Google. Dit vraagt om een nieuwe strategie, AEO (Answer Engine Optimization), waarbij je je content afstemt op de vragen die klanten stellen aan AI-tools.

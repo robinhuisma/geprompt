@@ -7,6 +7,11 @@ summary: "OpenAI publiceert een praktische gids waarmee marketingteams ChatGPT k
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/marketing"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 ChatGPT kan marketingteams helpen om sneller van idee naar uitvoering te komen, bijvoorbeeld door campagneplanning te structureren en contentideeën te genereren. Dit blijkt uit een praktische gids die OpenAI specifiek voor marketingteams heeft gepubliceerd.

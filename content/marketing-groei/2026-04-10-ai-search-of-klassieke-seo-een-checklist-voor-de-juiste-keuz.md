@@ -7,6 +7,11 @@ summary: "Een eenvoudig raamwerk helpt je beslissen of je nu moet investeren in 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/"
+cover:
+  image: "https://images.pexels.com/photos/5717758/pexels-photo-5717758.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person analyzing stock market data on a laptop and smartphone indoors."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 Het antwoord op de vraag of je nu moet investeren in AI-search optimalisatie hangt af van je specifieke situatie. Er is geen one-size-fits-all antwoord. Een praktisch raamwerk, gebaseerd op essentiële vragen, helpt je de juiste prioriteiten te stellen tussen traditionele SEO en de opkomst van AI-gedreven zoekmachines zoals Google's SGE.

@@ -5,8 +5,9 @@ tags: ["aansprakelijkheid", "ai-misbruik", "onderwijs", "juridisch"]
 categorieen: ["creatief"]
 summary: "Een Amerikaanse zaak toont aan dat scholen juridisch kwetsbaar worden als ze niet snel optreden tegen het maken van deepfake-naaktbeelden van leerlingen."
 cover:
-  image: "/images/covers/2026-03-23-as-teens-await-sentencing-for-nudifying-girls-parents-aim-to.webp"
-  alt: "As teens await sentencing for nudifying girls, parents aim to sue school"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/tech-policy/2026/03/as-teens-await-sentencing-for-nudifying-girls-parents-aim-to-sue-school/"

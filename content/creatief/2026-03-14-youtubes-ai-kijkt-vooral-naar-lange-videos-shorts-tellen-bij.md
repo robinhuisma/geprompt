@@ -5,8 +5,9 @@ tags: ["youtube", "ai", "video", "contentstrategie"]
 categorieen: ["creatief"]
 summary: "Als je gevonden wilt worden via YouTube's AI-tools, investeer dan in lange video's; korte Shorts leveren nauwelijks zichtbaarheid op."
 cover:
-  image: "/images/covers/2026-03-14-youtube-geo-studie-94-van-de-ai-citaties-gaat-naar-long-form.webp"
-  alt: "YouTube GEO-studie: 94% van de AI-citaties gaat naar long-form video, Shorts tellen nauwelijks mee"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/youtube-geo-studie-94-van-de-ai-citaties-gaat-naar-long-form-video-shorts-tellen-nauwelijks-mee/"

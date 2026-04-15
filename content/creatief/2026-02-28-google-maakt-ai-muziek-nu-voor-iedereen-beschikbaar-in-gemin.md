@@ -5,9 +5,9 @@ tags: ["ai-muziek", "gemini", "creatief", "contentcreatie"]
 categorieen: ["creatief"]
 summary: "Je kunt nu via Google Gemini met een simpele tekstprompt of foto een eigen jingle of achtergrondtrack maken van 30 seconden."
 cover:
-  image: "/images/covers/2026-02-28-google-maakt-ai-muziek-nu-voor-iedereen-beschikbaar-in-gemin.webp"
-  alt: "Google brings AI music to the masses"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/8978435/pexels-photo-8978435.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop displaying graphic design patterns with a hand interacting, ideal for creative workspace themes."
+  caption: "Foto: Meruyert Gonullu via Pexels"
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/google-brings-ai-music-to-the-masses"

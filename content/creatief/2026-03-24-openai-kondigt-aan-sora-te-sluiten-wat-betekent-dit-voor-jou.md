@@ -5,8 +5,9 @@ tags: ["video-ai", "openai", "creatieve tools", "platformrisico"]
 categorieen: ["creatief"]
 summary: "OpenAI stopt met de videogenerator Sora, waardoor gebruikers moeten overstappen op alternatieven en hun bestanden veilig moeten stellen."
 cover:
-  image: "/images/covers/2026-03-24-openai-announces-plans-to-shut-down-its-sora-video-generator.webp"
-  alt: "OpenAI announces plans to shut down its Sora video generator"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/"

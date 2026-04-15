@@ -5,8 +5,9 @@ tags: ["ai", "leadgeneratie", "seo", "ppc"]
 categorieen: ["marketing-groei"]
 summary: "AI analyseert klantgesprekken en zoekgedrag om de kwaliteit van leads te verbeteren, wat directe actie vereist van marketingteams."
 cover:
-  image: "/images/covers/2026-04-07-how-ai-is-changing-lead-generation-3-key-things-seo-amp-ppc-.webp"
-  alt: "How AI Is Changing Lead Generation: 3 Key Things SEO &amp; PPC Teams Need To Do Now via @sejournal, @CallRail"
+  image: "https://images.pexels.com/photos/8154349/pexels-photo-8154349.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two professionals work on laptops focusing on digital advertising in an office setting."
+  caption: "Foto: Cedric Fauntleroy via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/"

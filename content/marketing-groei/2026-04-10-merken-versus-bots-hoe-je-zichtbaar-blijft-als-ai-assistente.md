@@ -7,6 +7,11 @@ summary: "Grote merken bereiden zich voor op zoekopdrachten door AI-assistenten 
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=7&amp;partner=newsletter&amp;campaign_date=04102026"
+cover:
+  image: "https://images.pexels.com/photos/15635241/pexels-photo-15635241.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a social media marketing document on a desk with a pen and notebook."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 De verschuiving van traditioneel zoeken naar zoeken via AI-assistenten vraagt om een nieuwe aanpak van merkstrategie en content, waarbij technische optimalisatie en menselijke authenticiteit samenkomen. Grote merken experimenteren nu al met functies als een AIEO en GEO om hun zichtbaarheid in deze nieuwe omgeving te borgen.

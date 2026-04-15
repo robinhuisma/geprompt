@@ -7,6 +7,11 @@ summary: "Een Benelux-consortium lanceert een AI-platform voor bedrijven die dat
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/13/benelux-consortium-brengt-soeverein-ai-platform/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een soeverein AI-platform is een dienst waarmee je AI-toepassingen kunt draaien op je eigen infrastructuur of binnen een afgeschermde Europese cloud, zodat gevoelige data niet naar publieke, vaak Amerikaanse, clouddiensten hoeft te versturen. Voor ondernemers in sectoren met strenge regels betekent dit een praktische manier om AI te gebruiken zonder in conflict te komen met wetgeving zoals de AVG.

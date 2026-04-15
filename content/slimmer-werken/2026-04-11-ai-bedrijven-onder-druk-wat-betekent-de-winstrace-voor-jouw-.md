@@ -7,6 +7,11 @@ summary: "De grote AI-bedrijven moeten nu winst gaan maken, wat kan leiden tot h
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De grote AI-bedrijven staan voor een existentiële uitdaging: ze moeten snel winstgevend worden na enorme investeringen, en dat gaat directe gevolgen hebben voor de beschikbaarheid en prijs van de AI-tools die jij gebruikt.

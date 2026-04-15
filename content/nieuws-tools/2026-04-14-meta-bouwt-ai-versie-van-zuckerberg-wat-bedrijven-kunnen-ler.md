@@ -7,6 +7,11 @@ summary: "Meta ontwikkelt een AI-avatar van Mark Zuckerberg voor interne communi
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Meta ontwikkelt een fotorealistische AI-versie van CEO Mark Zuckerberg om namens hem met medewerkers te kunnen communiceren. Dit project maakt deel uit van een bredere strategie om het bedrijf rond kunstmatige intelligentie te hervormen en toont aan hoe leiders hun tijd en aanwezigheid willen schalen via digitale avatars. Voor ondernemers roept dit de vraag op in hoeverre een AI-vertegenwoordiger hun eigen werk kan ondersteunen.

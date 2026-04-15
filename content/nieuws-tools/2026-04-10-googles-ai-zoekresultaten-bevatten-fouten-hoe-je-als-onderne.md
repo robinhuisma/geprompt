@@ -7,6 +7,11 @@ summary: "Een op de tien antwoorden in Google's AI Overviews is onjuist, wat mil
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google's AI-gegenereerde zoekresultaten bevatten een significant foutenpercentage, wat betekent dat zakelijke beslissingen die op deze informatie zijn gebaseerd, risico's lopen. De AI Overviews, die boven aan de zoekresultaten verschijnen, geven in ongeveer 10 procent van de gevallen een onjuist antwoord. Dit vertaalt zich naar miljoenen foutieve antwoorden die dagelijks worden weergegeven, een risico voor ondernemers die snel feiten willen checken.

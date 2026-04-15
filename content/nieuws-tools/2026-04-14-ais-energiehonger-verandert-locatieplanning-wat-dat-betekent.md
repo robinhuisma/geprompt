@@ -7,6 +7,11 @@ summary: "De groeiende energiebehoefte van AI-infrastructuur dwingt bedrijven om
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal"
+cover:
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
+
 ---
 
 De groeiende energiebehoefte van kunstmatige intelligentie begint de locatiekeuze en duurzaamheidsstrategie van bedrijven te beïnvloeden. AI-aanbieders zoeken naar oplossingen voor hun stroomvraag, wat betekent dat bedrijven die van deze diensten afhankelijk zijn, moeten anticiperen op veranderingen in beschikbaarheid, kosten en duurzaamheid.

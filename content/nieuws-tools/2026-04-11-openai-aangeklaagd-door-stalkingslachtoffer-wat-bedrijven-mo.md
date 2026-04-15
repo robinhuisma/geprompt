@@ -7,6 +7,11 @@ summary: "Een rechtszaak tegen OpenAI legt de potentiële aansprakelijkheid bloo
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een rechtszaak tegen OpenAI zet de potentiële aansprakelijkheid van AI-bedrijven op scherp en heeft directe implicaties voor ondernemers die deze tools gebruiken of aanbieden. De kernvraag is niet alleen of een systeem schadelijke content genereert, maar of de aanbieder voldoende heeft gedaan om misbruik te voorkomen nadat daar expliciet voor is gewaarschuwd.

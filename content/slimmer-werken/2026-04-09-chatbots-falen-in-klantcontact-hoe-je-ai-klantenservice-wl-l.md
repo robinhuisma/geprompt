@@ -7,6 +7,11 @@ summary: "Chatbots beantwoorden slechts één op de acht vragen correct, wat ond
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/chatbots-lossen-slechts-n-acht-vragen-correct"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Chatbots zijn in hun huidige vorm onbetrouwbaar voor klantenservice en kunnen de relatie met je klanten beschadigen als je ze verkeerd inzet. Slechts één op de acht vragen wordt correct opgelost, en de ergernis over geautomatiseerd contact neemt toe. Voor ondernemers betekent dit dat je AI niet als een goedkope vervanging voor menselijk contact moet zien, maar als een gereedschap dat je zorgvuldig moet inrichten om écht te helpen.

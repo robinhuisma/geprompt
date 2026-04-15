@@ -7,6 +7,11 @@ summary: "OpenAI biedt een gids voor zorgprofessionals om ChatGPT HIPAA-complian
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/healthcare"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI publiceert een gids voor zorgprofessionals over het veilig en compliant inzetten van ChatGPT in de klinische praktijk. Het bedrijf richt zich specifiek op toepassingen voor diagnostische ondersteuning, documentatie en patiëntenzorg binnen de strikte kaders van HIPAA, de Amerikaanse privacywetgeving voor de gezondheidszorg.

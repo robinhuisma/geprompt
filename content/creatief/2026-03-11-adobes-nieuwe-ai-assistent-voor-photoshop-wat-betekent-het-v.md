@@ -5,8 +5,9 @@ tags: ["adobe", "photoshop", "ai-assistent", "creatief"]
 categorieen: ["creatief"]
 summary: "Adobe introduceert een AI-assistent in Photoshop die complexe bewerkingen begrijpt en uitvoert, wat tijd kan besparen en nieuwe creatieve mogelijkheden opent."
 cover:
-  image: "/images/covers/2026-03-11-adobe-is-debuting-an-ai-assistant-for-photoshop.webp"
-  alt: "Adobe is debuting an AI assistant for Photoshop"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"

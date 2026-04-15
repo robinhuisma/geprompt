@@ -5,8 +5,9 @@ tags: ["bing", "zoekmachines", "ai-content", "webmasterrichtlijnen"]
 categorieen: ["creatief"]
 summary: "Bing heeft zijn webmasterrichtlijnen herschreven met nieuwe regels voor AI-ondersteunde zoekresultaten, waaronder geografische targeting en controle over hoe je content wordt gebruikt."
 cover:
-  image: "/images/covers/2026-03-03-bing-adds-geo-to-official-guidelines-expands-ai-abuse-defini.webp"
-  alt: "Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/"

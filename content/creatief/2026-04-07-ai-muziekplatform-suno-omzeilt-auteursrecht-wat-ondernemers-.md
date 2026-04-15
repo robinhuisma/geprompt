@@ -5,8 +5,9 @@ tags: ["ai", "muziek", "auteursrecht", "creatief"]
 categorieen: ["creatief"]
 summary: "Het AI-muziekplatform Suno blijkt met eenvoudige trucs te misleiden, waardoor je onbewust auteursrecht kunt schenden."
 cover:
-  image: "/images/covers/2026-04-07-suno-is-a-music-copyright-nightmare.webp"
-  alt: "Suno is a music copyright nightmare"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers"

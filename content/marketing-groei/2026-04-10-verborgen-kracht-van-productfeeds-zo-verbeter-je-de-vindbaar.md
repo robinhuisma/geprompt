@@ -7,6 +7,11 @@ summary: "Het optimaliseren van je productfeed is een van de meest effectieve, m
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/7970815/pexels-photo-7970815.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a laptop showing a social media marketing strategy in an office setting."
+  caption: "Foto: Darlene Alderson via Pexels"
+
 ---
 
 Een productfeed optimaliseren is een van de meest directe manieren om de vindbaarheid en verkoop van je webshop te verbeteren. Het is een technisch onderdeel dat vaak wordt verwaarloosd, maar juist cruciaal is voor hoe zoekmachines en opkomende AI-zoekassistenten je producten vinden en presenteren.

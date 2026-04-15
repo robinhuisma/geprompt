@@ -7,6 +7,11 @@ summary: "Passieve agressiviteit veroorzaakt meer conflicten dan roddelen of pes
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/werk-leven/passieve-agressiviteit-zorgt-op-kantoor-voor-meer-conflicten-dan-roddelen-en-pesten"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Passieve agressiviteit is de grootste veroorzaker van conflicten op de werkvloer, nog vaker genoemd dan roddelen of pesten. Dit subtiele gedrag ondermijnt vertrouwen en productiviteit, en wordt in de hand gewerkt door thuiswerken en digitale communicatie. Voor ondernemers en leidinggevenden is het cruciaal om dit gedrag te herkennen en bespreekbaar te maken voordat het de bedrijfscultuur aantast.

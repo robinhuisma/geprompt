@@ -7,6 +7,11 @@ summary: "Grote merken delen hun ervaringen met het optimaliseren van content vo
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=04092026"
+cover:
+  image: "https://images.pexels.com/photos/7970815/pexels-photo-7970815.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a laptop showing a social media marketing strategy in an office setting."
+  caption: "Foto: Darlene Alderson via Pexels"
+
 ---
 
 Het antwoord is dat grote merken en marketingbureaus nu actief strategieën ontwikkelen om zichtbaar te zijn in de resultaten van AI-zoekmachines zoals ChatGPT, Claude en Gemini. Dit gaat niet langer alleen over SEO voor Google, maar om het optimaliseren voor een nieuwe laag van zoekmachines die antwoorden genereren in plaats van links tonen. De kernles is dat autoriteit, context en het direct beantwoorden van vragen cruciaal zijn geworden.

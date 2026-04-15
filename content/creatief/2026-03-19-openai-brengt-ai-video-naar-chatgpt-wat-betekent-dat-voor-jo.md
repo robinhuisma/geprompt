@@ -5,8 +5,9 @@ tags: ["ai video", "chatgpt", "content creatie", "openai"]
 categorieen: ["creatief"]
 summary: "OpenAI wil zijn videomodel Sora direct in ChatGPT bouwen, waardoor tekst-naar-video straks net zo toegankelijk wordt als tekst genereren."
 cover:
-  image: "/images/covers/2026-03-19-openai-wil-videomodel-sora-direct-in-chatgpt-integreren.webp"
-  alt: "OpenAI wil videomodel Sora direct in ChatGPT integreren"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1751573/je-kan-binnenkort-video-s-genereren-met-chatgpt.html"

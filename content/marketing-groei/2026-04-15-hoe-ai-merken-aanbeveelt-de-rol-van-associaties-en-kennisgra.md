@@ -7,6 +7,11 @@ summary: "AI-tools zoals ChatGPT kiezen merken op basis van de sterkte van hun a
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Hoe AI merken aanbeveelt, hangt niet af van advertentiebudgetten of traditionele SEO, maar van de sterkte van associaties in de kennisgrafieken van grote taalmodellen. Voor ondernemers betekent dit dat het opbouwen van een sterke, consistente en relevante aanwezigheid in de collectieve kennis cruciaal is om door tools als ChatGPT te worden aanbevolen.

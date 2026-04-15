@@ -7,6 +7,11 @@ summary: "Onafhankelijk onderzoek toont aan dat de nieuwste AI-modellen complexe
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het Britse AI Security Institute heeft onafhankelijk getest hoe gevaarlijk geavanceerde AI-modellen zijn voor cybersecurity. De resultaten laten zien dat modellen zoals Anthropic's Mythos Preview steeds beter worden in het uitvoeren van complexe, meerstaps cyberaanvallen, wat een reëel risico vormt. Tegelijkertijd biedt dezelfde technologie kansen voor verdediging.

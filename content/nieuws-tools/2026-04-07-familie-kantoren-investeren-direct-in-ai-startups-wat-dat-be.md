@@ -7,6 +7,11 @@ summary: "Vermogende families en hun beheerders investeren steeds vaker rechtstr
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
+cover:
+  image: "https://images.pexels.com/photos/2451646/pexels-photo-2451646.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Bird's-eye view of a modern office with professionals collaborating on laptops and monitors."
+  caption: "Foto: Proxyclick Visitor Management System via Pexels"
+
 ---
 
 De trend waarbij vermogende families en hun beheerders (family offices) rechtstreeks in AI-startups investeren, opent nieuwe financieringsmogelijkheden voor Nederlandse scale-ups buiten het traditionele venture capital-circuit. Deze investeerders verschuiven van passieve beleggers naar actieve deelnemers, op zoek naar directe blootstelling aan de groei van kunstmatige intelligentie.

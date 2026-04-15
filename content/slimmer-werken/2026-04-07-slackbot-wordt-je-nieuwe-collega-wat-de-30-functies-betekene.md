@@ -7,6 +7,11 @@ summary: "Slackbot krijgt meer dan 30 nieuwe functies, van automatische notulen 
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/03/slackbot-krijgt-ruim-dertig-nieuwe-functies/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Salesforce maakt van Slackbot, de ingebouwde assistent in Slack, een veelzijdigere digitale collega met meer dan dertig nieuwe functies. Het doel is om Slack de centrale plek te maken waar medewerkers informatie vinden, taken uitvoeren en apps benaderen, wat kan leiden tot soepelere samenwerking en snellere afhandeling van terugkerend werk.

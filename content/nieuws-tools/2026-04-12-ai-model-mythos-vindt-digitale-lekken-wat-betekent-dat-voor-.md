@@ -7,6 +7,11 @@ summary: "Het nieuwe AI-model Mythos kan verborgen kwetsbaarheden in software op
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91525413/is-mythos-a-blessing-or-a-curse-for-cybersecurity-it-depends-who-you-ask?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04122026"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het nieuwe AI-model Claude Mythos van Anthropic kan lang verborgen kwetsbaarheden in softwarecode opsporen en deze kennis gebruiken om exploits te genereren. Dit betekent dat zowel cybersecurity-professionals als kwaadwillenden toegang krijgen tot een krachtig hulpmiddel dat de digitale dreigingslandschap versnelt, waardoor proactieve beveiliging voor bedrijven nog urgenter wordt.

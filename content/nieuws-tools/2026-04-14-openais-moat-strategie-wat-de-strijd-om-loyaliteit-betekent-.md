@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo over het 'verdedigen' van gebruikers laat zien d
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's interne strategie om gebruikers te 'verdedigen' tegen concurrenten is een duidelijk teken dat de AI-markt volwassen wordt. Voor ondernemers betekent dit dat de focus van aanbieders verschuift van pure innovatie naar het binden van klanten, wat zowel kansen als risico's met zich meebrengt voor de keuzevrijheid en kosten.

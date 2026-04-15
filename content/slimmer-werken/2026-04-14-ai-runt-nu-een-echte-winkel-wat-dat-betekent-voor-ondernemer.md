@@ -7,6 +7,11 @@ summary: "Een AI-agent heeft een fysieke winkel geopend en beheert deze volledig
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een AI-agent heeft een fysieke winkel geopend en beheert deze volledig autonoom, een praktijkvoorbeeld dat laat zien waar de technologie nu staat en wat de volgende stap is. Het experiment toont de huidige mogelijkheden en typische fouten van AI in een echte bedrijfscontext, wat waardevolle lessen oplevert voor ondernemers die automatisering overwegen.

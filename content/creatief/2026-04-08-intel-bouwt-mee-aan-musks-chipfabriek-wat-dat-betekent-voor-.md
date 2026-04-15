@@ -7,6 +7,11 @@ summary: "De samenwerking tussen Intel en Elon Musk kan de wereldwijde productie
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Intel gaat een cruciale rol spelen in de bouw van Elon Musks 'Terafab', een geplande fabriek voor AI-chips in Texas. Deze samenwerking tussen een gevestigde chipmaker en een van 's werelds grootste afnemers van AI-hardware is een teken dat de race om productiecapaciteit intenser wordt, wat op de langere termijn gevolgen kan hebben voor iedereen die AI wil inzetten.

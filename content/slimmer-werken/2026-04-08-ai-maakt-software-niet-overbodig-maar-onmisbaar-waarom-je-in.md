@@ -7,6 +7,11 @@ summary: "AI vervangt software niet, maar maakt een robuuste software-infrastruc
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partners/ai-maakt-software-niet-overbodig-het-maakt-haar-onmisbaar"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI is geen vervanging voor je bestaande software, maar een krachtige versterker die een solide softwarebasis juist onmisbaar maakt. Zonder geïntegreerde systemen en schone data blijft AI een losstaand experiment dat de realiteit van je bedrijf niet begrijpt.

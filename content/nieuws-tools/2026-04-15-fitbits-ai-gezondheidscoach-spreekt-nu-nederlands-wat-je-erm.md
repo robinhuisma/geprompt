@@ -5,8 +5,9 @@ tags: ["fitbit", "gezondheid", "ai", "wearables"]
 categorieen: ["nieuws-tools"]
 summary: "De AI-coach in de Fitbit-app geeft nu Nederlandstalige adviezen op basis van je persoonlijke gezondheidsdata, van slaap tot activiteit."
 cover:
-  image: "/images/covers/2026-04-15-fitbit-ai-nu-ook-in-nederland-gemini-wordt-je-gezondheidscoa.webp"
-  alt: "Fitbit AI nu ook in Nederland: Gemini wordt je gezondheidscoach"
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2076423/fitbit-ai-nu-ook-in-nederland-gemini-wordt-je-gezondheidscoach.html"

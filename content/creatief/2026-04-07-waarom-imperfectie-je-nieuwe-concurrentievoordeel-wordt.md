@@ -7,6 +7,11 @@ summary: "De waarde in creatieve sectoren verschuift van AI-gegenereerde perfect
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91521779/the-future-of-music-is-human-generated?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=3&amp;partner=newsletter&amp;campaign_date=04072026"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De toekomst van creatief werk ligt niet in het imiteren van AI-gegenereerde perfectie, maar in het omarmen en verkopen van je unieke, menselijke verhaal en imperfecte authenticiteit. Dit wordt je belangrijkste concurrentievoordeel.

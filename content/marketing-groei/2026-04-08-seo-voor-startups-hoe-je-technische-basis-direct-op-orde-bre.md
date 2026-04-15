@@ -7,6 +7,11 @@ summary: "Een technisch perfecte website is de eerste stap voor startups om te c
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/15595051/pexels-photo-15595051.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A desktop setup with social media marketing essentials including a keyboard, lightbox, and guide."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Voor een startup is de technische staat van je website de eerste en belangrijkste stap om überhaupt in aanmerking te komen voor goede posities in Google. Zonder een solide technische basis heeft het opbouwen van autoriteit of het maken van content weinig zin, omdat Google je domein als onbetrouwbaar zal categoriseren. Dit betekent dat je je moet richten op Core Web Vitals en Structured Data (schema's) voordat je aan andere SEO-strategieën begint.

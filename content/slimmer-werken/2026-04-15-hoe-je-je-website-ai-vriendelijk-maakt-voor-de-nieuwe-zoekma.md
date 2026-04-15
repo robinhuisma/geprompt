@@ -7,6 +7,11 @@ summary: "Generative Engine Optimization (GEO) maakt je content vindbaar voor AI
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/generative-engine-optimization-best-practices"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Generative Engine Optimization (GEO) is het optimaliseren van je website en content voor AI-zoekmachines zoals ChatGPT, zodat ze je informatie kunnen vinden en citeren in hun antwoorden. Dit is essentieel omdat steeds meer mensen direct aan AI-tools vragen stellen in plaats van traditioneel te googelen. Als je website niet 'AI-vriendelijk' is, loop je het risico onzichtbaar te worden voor een groeiend deel van je potentiële klanten.

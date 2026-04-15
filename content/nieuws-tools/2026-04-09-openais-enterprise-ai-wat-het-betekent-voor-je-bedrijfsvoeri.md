@@ -7,6 +7,11 @@ summary: "OpenAI schetst de volgende fase van zakelijke AI, waarbij bedrijfsbred
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/next-phase-of-enterprise-ai"
+cover:
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
+
 ---
 
 OpenAI positioneert zijn aanbod voor grote organisaties als de 'volgende fase', waarbij de focus verschuift van losse tools naar geïntegreerde, bedrijfsbrede AI-agents die processen kunnen automatiseren. Dit betekent dat bedrijven niet meer alleen met ChatGPT praten, maar systemen kunnen bouwen die zelfstandig taken uitvoeren binnen hun hele organisatie.

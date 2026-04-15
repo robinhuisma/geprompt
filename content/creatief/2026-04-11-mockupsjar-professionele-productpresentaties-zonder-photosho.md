@@ -7,6 +7,11 @@ summary: "Met MockupsJar maak je in seconden realistische mockups van je app of 
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315993/mockupsjar-build-professional-screen-and-product-mockups-instantly"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Een nieuwe web-app maakt het voor ondernemers mogelijk om binnen seconden professionele, realistische mockups te maken van hun producten, apps of websites, zonder kennis van Photoshop of een dure fotoshoot. MockupsJar is een online platform met een uitgebreide bibliotheek aan templates en AI-tools waarmee je platte ontwerpen in een levensechte context plaatst, ideaal voor pitches, marketingmateriaal of een webshop.

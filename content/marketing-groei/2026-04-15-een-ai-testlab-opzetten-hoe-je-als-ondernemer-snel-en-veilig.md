@@ -5,8 +5,9 @@ tags: ["ai-strategie", "experimenteren", "innovatie", "leiderschap"]
 categorieen: ["marketing-groei"]
 summary: "Door een gestructureerd AI-testlab op te zetten, kun je als ondernemer snel en met duidelijke verantwoordelijkheden experimenteren met nieuwe AI-toepassingen."
 cover:
-  image: "/images/covers/2026-04-15-opinion-fast-flexible-ai-testing-is-the-foundation-of-strate.webp"
-  alt: "OPINION: Fast, Flexible AI Testing Is the Foundation of Strategic Leadership"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/opinion-fast-flexible-ai-testing-foundation-strategic-leadership"

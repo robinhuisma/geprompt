@@ -7,6 +7,11 @@ summary: "Ondanks massale ontslagen voorspellen bankbestuurders een netto baneng
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI leidt op termijn tot meer banen in de bankensector, ondanks de huidige golf van ontslagen. Dit is de paradox die naar voren komt uit een enquête onder bankbestuurders. De sleutel ligt in een verschuiving: routinematige functies verdwijnen, terwijl er vraag ontstaat naar technisch geschoold personeel. Voor ondernemers betekent dit dat het ontwikkelen van de juiste vaardigheden in hun team cruciaal wordt om mee te bewegen met deze verandering.

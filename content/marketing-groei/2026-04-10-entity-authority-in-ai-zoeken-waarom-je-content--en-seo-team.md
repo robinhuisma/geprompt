@@ -7,6 +7,11 @@ summary: "AI-zoekmachines belonen merken die als autoriteit worden gezien, wat v
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 AI-zoekmachines zoals Google's Search Generative Experience (SGE) belonen merken die worden gezien als autoriteiten op een onderwerp. Om die 'entity authority' op te bouwen, is het cruciaal dat content- en SEO-teams niet langer in silo's werken, maar hun strategieën en data integreren. Dit is geen optionele optimalisatie meer, maar een vereiste om zichtbaar te blijven in de opkomende wereld van AI-gestuurd zoeken.

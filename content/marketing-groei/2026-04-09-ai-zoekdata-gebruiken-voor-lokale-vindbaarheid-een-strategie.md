@@ -7,6 +7,11 @@ summary: "Lokale ondernemers kunnen AI-zoekdata analyseren om te zien waar ze on
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/"
+cover:
+  image: "https://images.pexels.com/photos/5717809/pexels-photo-5717809.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person analyzes stock data with a smartphone and laptop, indoors."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 AI-zoekdata biedt lokale ondernemers een concrete strategie om hun online zichtbaarheid in specifieke regio's te verbeteren en concurrentievoordeel te behalen. Door te analyseren waar je merk online niet wordt genoemd (zogenaamde 'citation gaps'), kun je gericht actie ondernemen om je vindbaarheid in die gebieden te vergroten.

@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model kan zelfstandig beveiligingslekken vinden én misbr
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/09/anthropic-houdt-hackmodel-mythos-bewust-achter-slot-en-grendel/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het tijdperk waarin AI zowel de ultieme digitale verdediger als een geautomatiseerde aanvaller kan zijn, is aangebroken. Voor ondernemers betekent dit dat de digitale dreiging fundamenteel verandert: aanvallen worden systematisch, schaalbaar en reproduceerbaar, net als softwareproductie. Dit vereist een nieuwe, proactieve aanpak van cybersecurity.

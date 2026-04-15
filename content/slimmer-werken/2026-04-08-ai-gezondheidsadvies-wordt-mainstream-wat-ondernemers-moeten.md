@@ -5,8 +5,9 @@ tags: ["ai", "gezondheidszorg", "chatbots", "ondernemerschap"]
 categorieen: ["slimmer-werken"]
 summary: "Grote techbedrijven lanceren AI-gezondheidschatbots, maar onafhankelijke toetsing blijft achter bij de snelle uitrol."
 cover:
-  image: "/images/covers/2026-04-08-there-are-more-ai-health-tools-than-ever-but-how-well-do-the.webp"
-  alt: "There are more AI health tools than ever—but how well do they work?"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"

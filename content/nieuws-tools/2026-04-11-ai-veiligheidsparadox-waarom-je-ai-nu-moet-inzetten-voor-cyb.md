@@ -7,6 +7,11 @@ summary: "Dezelfde AI die kwetsbaarheden kan vinden, kan ook je digitale verdedi
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het veiligheidsparadox van AI betekent dat dezelfde technologie die bedreigingen kan creëren, ook je beste verdediging wordt. Voor ondernemers is de les niet om AI te mijden, maar om het proactief in te zetten om kwetsbaarheden te vinden voordat anderen dat doen. Dit vereist een verschuiving van reactieve beveiliging naar een door AI aangedreven, voorspellende aanpak.

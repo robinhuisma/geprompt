@@ -7,6 +7,11 @@ summary: "Google past zijn AI-chatbot aan na een rechtszaak, een belangrijke les
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google versterkt de veiligheidsprotocollen in zijn AI-chatbot Gemini na een rechtszaak, een direct signaal dat het verantwoord inzetten van AI-technologie een operationele prioriteit moet zijn. Dit is geen abstract ethisch gesprek meer, maar een concrete bedrijfsrisicofactor waar je vandaag al rekening mee moet houden.

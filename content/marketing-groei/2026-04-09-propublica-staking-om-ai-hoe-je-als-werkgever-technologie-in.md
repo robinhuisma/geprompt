@@ -7,6 +7,11 @@ summary: "Een staking bij een Amerikaanse nieuwsredactie toont aan dat het invoe
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
+cover:
+  image: "https://images.pexels.com/photos/5361247/pexels-photo-5361247.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Alphabet tiles forming 'Social Media' on a vibrant pink background, perfect for digital marketing themes."
+  caption: "Foto: Visual Tag Mx via Pexels"
+
 ---
 
 Het invoeren van AI-tools op de werkvloer kan leiden tot ernstige conflicten met personeel als er geen duidelijke afspraken over worden gemaakt. De staking bij ProPublica laat zien dat werknemers bescherming eisen tegen de mogelijke gevolgen van automatisering, en dat werkgevers dit onderwerp proactief moeten adresseren in overleg.

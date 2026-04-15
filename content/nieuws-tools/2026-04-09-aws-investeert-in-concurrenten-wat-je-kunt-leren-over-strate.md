@@ -7,6 +7,11 @@ summary: "AWS investeert in zowel Anthropic als OpenAI, een strategie die laat z
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
+cover:
+  image: "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Team of developers working together on computers in a modern tech office."
+  caption: "Foto: cottonbro studio via Pexels"
+
 ---
 
 AWS investeert miljarden in twee toonaangevende AI-bedrijven die ook elkaars concurrenten zijn, omdat het bedrijf een cultuur heeft waarin het normaal is om zowel samen te werken als te concurreren met partners. Deze aanpak, uitgelegd door een topman van AWS, is een les in het navigeren van complexe zakelijke relaties.

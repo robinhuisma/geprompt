@@ -7,6 +7,11 @@ summary: "Google Gemini introduceert notebooks, een persoonlijke kennisbank waar
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google Gemini krijgt een nieuwe functie genaamd 'notebooks', die je helpt om alle informatie rond een specifiek onderwerp of project op één plek te verzamelen en te gebruiken tijdens gesprekken met de AI. Het is een persoonlijke kennisbank die je kunt vullen met context die Gemini vervolgens begrijpt en toepast.

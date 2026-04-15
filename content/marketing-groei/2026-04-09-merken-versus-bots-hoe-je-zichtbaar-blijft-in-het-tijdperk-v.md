@@ -7,6 +7,11 @@ summary: "Grote merken delen hun strategie om gevonden te worden door AI-chatbot
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04092026"
+cover:
+  image: "https://images.pexels.com/photos/15635239/pexels-photo-15635239.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Top view of a notebook, tablet, and keyboard used for social media marketing planning."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Om zichtbaar te blijven voor AI-zoekmachines zoals ChatGPT, richten merken zich niet langer op zoekwoorden, maar op het opbouwen van autoriteit en het leveren van contextrijke, betrouwbare informatie. De strijd gaat niet om ranking, maar om het worden van een vertrouwde bron voor de AI zelf.

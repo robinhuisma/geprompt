@@ -7,6 +7,11 @@ summary: "OpenAI's custom GPTs zijn aangepaste AI-assistenten waarmee je specifi
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/custom-gpts"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's custom GPTs zijn aangepaste versies van hun AI-model die je kunt bouwen en trainen voor specifieke taken binnen je bedrijf. Hiermee kun je workflows automatiseren, consistente resultaten behalen en op maat gemaakte AI-assistenten creëren voor een specifiek doel, zonder dat je zelf hoeft te programmeren.

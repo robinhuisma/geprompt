@@ -7,6 +7,11 @@ summary: "Een praktische case study van HubSpot laat zien hoe je je zichtbaarhei
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Klanten beginnen hun zoektocht steeds vaker bij een AI-chatbot in plaats van Google, en als je bedrijf niet in het antwoord staat, word je simpelweg niet gevonden. HubSpot ontwikkelde een meetmethode om zichtbaar te blijven in deze nieuwe zoekwereld, en hun aanpak biedt een blauwdruk voor andere bedrijven.

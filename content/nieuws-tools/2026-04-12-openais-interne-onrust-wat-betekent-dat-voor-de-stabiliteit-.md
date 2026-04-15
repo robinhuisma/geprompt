@@ -7,6 +7,11 @@ summary: "Interne spanningen en kostenstijgingen bij OpenAI kunnen de betrouwbaa
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076447/chatgpt-duurder-geen-lol-meer-stoelendans-in-de-top-het-rommelt-bij-openai.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De interne onrust en strategische verschuivingen bij OpenAI kunnen directe gevolgen hebben voor de betrouwbaarheid, kosten en toekomstige ontwikkeling van de AI-tools waar veel Nederlandse ondernemers op vertrouwen. Het bedrijf dat de hype creëerde, bevindt zich nu in een fase van consolidatie en commercialisering, wat voor gebruikers minder speelsheid en mogelijk hogere kosten betekent.

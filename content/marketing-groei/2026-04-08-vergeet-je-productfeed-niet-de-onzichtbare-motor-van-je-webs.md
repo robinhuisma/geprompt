@@ -5,8 +5,9 @@ tags: ["ecommerce", "productfeed", "seo", "google shopping"]
 categorieen: ["marketing-groei"]
 summary: "Een geoptimaliseerde productfeed is cruciaal om gevonden te worden in Google Shopping en andere kanalen, maar wordt vaak verwaarloosd."
 cover:
-  image: "/images/covers/2026-04-08-why-product-feeds-shouldn-t-be-the-most-ignored-seo-system-i.webp"
-  alt: "Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce"
+  image: "https://images.pexels.com/photos/5717758/pexels-photo-5717758.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person analyzing stock market data on a laptop and smartphone indoors."
+  caption: "Foto: www.kaboompics.com via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"

@@ -7,6 +7,11 @@ summary: "Meta's nieuwe AI-model Muse Spark wordt geïntegreerd in WhatsApp, Ins
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Meta lanceert een nieuw AI-model genaamd Muse Spark dat binnenkort wordt ingebouwd in WhatsApp, Instagram en Facebook. Voor ondernemers betekent dit dat zij geautomatiseerde, slimme interacties met klanten via deze kanalen kunnen opzetten, zonder dat ze zelf complexe AI-systemen hoeven te bouwen of te beheren.

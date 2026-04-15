@@ -7,6 +7,11 @@ summary: "Het fiscale voordeel uit de innovatiebox komt voor ruim 90% terecht bi
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/ruim-90-procent-innovatiebox-voordeel-naar-asml-msd-en-booking-luchthavens-binnen-drie-weken-door-kerosinereserves"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het fiscale voordeel uit de innovatiebox komt voor ruim 90 procent terecht bij drie grote bedrijven: ASML, MSD en Booking. Dit roept vragen op over de effectiviteit van de regeling voor het stimuleren van innovatie in het bredere bedrijfsleven, en vooral voor het MKB. Hoewel duizenden mkb-bedrijven ook gebruikmaken van de regeling, is hun aandeel in het totale voordeel marginaal vergeleken met deze drie giganten.

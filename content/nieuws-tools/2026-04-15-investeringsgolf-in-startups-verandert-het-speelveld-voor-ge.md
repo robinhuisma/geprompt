@@ -7,6 +7,11 @@ summary: "Een recordinvestering van bijna 1 miljard euro in Nederlandse startups
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/bijna-1-miljard-genvesteerd-nederlandse-startups-eerste-kwartaal"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De investeringsgolf in Nederlandse startups verandert het concurrentielandschap voor gevestigde MKB-bedrijven. Bijna 1 miljard euro die in één kwartaal naar opkomende techbedrijven stroomt, creëert nieuwe spelers die sneller kunnen groeien en innoveren, wat directe implicaties heeft voor jouw marktpositie, talentpool en groeimogelijkheden.

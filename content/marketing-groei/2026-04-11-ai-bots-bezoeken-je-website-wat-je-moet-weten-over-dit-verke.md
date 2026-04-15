@@ -7,6 +7,11 @@ summary: "Een groot deel van het bezoek aan websites komt van AI-bots; dit artik
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Een aanzienlijk deel van het verkeer op websites komt niet van menselijke bezoekers, maar van AI-bots die data verzamelen om modellen te trainen of content te indexeren. Dit verkeer kan je server belasten en soms veiligheidsrisico's met zich meebrengen, vooral van zogenaamde 'fetcher bots'.

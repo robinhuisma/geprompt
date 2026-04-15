@@ -7,6 +7,11 @@ summary: "Een eenvoudig raamwerk helpt je te beslissen of je je marketingbudget 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/"
+cover:
+  image: "https://images.pexels.com/photos/15635239/pexels-photo-15635239.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Top view of a notebook, tablet, and keyboard used for social media marketing planning."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Het antwoord op de vraag of je moet investeren in traditionele SEO of in zichtbaarheid binnen AI-zoekmachines hangt af van je specifieke situatie. Een praktisch raamwerk, gebaseerd op een webinar van Search Engine Journal, helpt je de juiste keuze te maken door een aantal essentiële vragen te beantwoorden. Dit voorkomt dat je achter hypes aanholt en zorgt dat je je middelen effectief inzet.

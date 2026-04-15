@@ -5,8 +5,9 @@ tags: ["ai-beeldgeneratie", "marketing", "contentcreatie", "openai"]
 categorieen: ["creatief"]
 summary: "OpenAI's GPT-4o-model neemt beeldgeneratie over in ChatGPT, met nauwkeurige tekst en snelle aanpassingen voor ondernemers."
 cover:
-  image: "/images/covers/2026-04-15-gpt-4o-image-generation-is-finally-here.webp"
-  alt: "GPT 4o image generation is finally here"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/ai-image/gpt-4o-image-generation-is-finally-here/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpt-4o-image-generation-is-finally-here"

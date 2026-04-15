@@ -7,6 +7,11 @@ summary: "Een Benelux-consortium lanceert een AI-platform dat bedrijven helpt da
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/13/benelux-consortium-brengt-soeverein-ai-platform/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een nieuw Benelux AI-platform biedt ondernemers een alternatief voor grote Amerikaanse clouddiensten, speciaal voor wie gevoelige data binnen Europa moet houden en moet voldoen aan strenge wetgeving zoals de AI Act en GDPR. Het platform, Deltaworks AI, draait op je eigen infrastructuur of in een afgeschermde cloud, zodat data niet naar externe servers hoeven.

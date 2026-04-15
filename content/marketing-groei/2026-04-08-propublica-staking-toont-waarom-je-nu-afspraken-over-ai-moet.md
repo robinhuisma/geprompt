@@ -7,6 +7,11 @@ summary: "Een staking bij een Amerikaanse nieuwsredactie over AI-gebruik en bane
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
+cover:
+  image: "https://images.pexels.com/photos/5361243/pexels-photo-5361243.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Social Media' on a blue background, ideal for digital marketing themes."
+  caption: "Foto: Visual Tag Mx via Pexels"
+
 ---
 
 Een staking bij een Amerikaanse nieuwsredactie over het gebruik van kunstmatige intelligentie is een duidelijk signaal: als je als werkgever of ondernemer met AI aan de slag gaat, moet je op tijd afspraken maken met je team. Het negeren van zorgen over banen, werkprocessen en transparantie kan leiden tot onrust en conflict, zelfs bij hoogopgeleide professionals.

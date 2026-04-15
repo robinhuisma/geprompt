@@ -7,6 +7,11 @@ summary: "Een nieuwe SEO-blauwdruk laat zien hoe startups met beperkt budget aut
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/6956301/pexels-photo-6956301.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A vintage camera on brown paper with 'SOCIAL MEDIA MARKETING' text, perfect for marketing visuals."
+  caption: "Foto: Eva Bronzini via Pexels"
+
 ---
 
 Startups kunnen het autoriteitsgat met gevestigde bedrijven dichten door een combinatie van technische perfectie en het slim inhaken op actueel nieuws, volgens een nieuwe SEO-blauwdruk. De kern is dat je als nieuwkomer niet kunt concurreren op volume, maar wel op snelheid en relevantie door 'newsjacking PR' in te zetten.

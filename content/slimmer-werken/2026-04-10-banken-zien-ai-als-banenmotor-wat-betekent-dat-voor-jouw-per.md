@@ -7,6 +7,11 @@ summary: "Banken verwachten dat AI op termijn meer banen creëert dan het kost, 
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"
+cover:
+  image: "https://images.pexels.com/photos/5506057/pexels-photo-5506057.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A spacious coworking office featuring modern design and natural decor elements for a collaborative environment."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
+
 ---
 
 AI leidt op termijn tot een netto banengroei in de bankensector, vooral door de vraag naar technisch personeel. Dit blijkt uit een enquête onder bankbestuurders, ondanks de huidige ontslagrondes voor routinematig werk. Voor ondernemers betekent dit een verschuiving in het soort personeel dat nodig is, waarbij technische vaardigheden belangrijker worden.

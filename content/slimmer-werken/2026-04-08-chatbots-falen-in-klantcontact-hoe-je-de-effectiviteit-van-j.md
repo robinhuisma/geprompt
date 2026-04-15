@@ -7,6 +7,11 @@ summary: "Slechts 12% van de chatbotvragen wordt correct beantwoord; dit is hoe 
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/chatbots-lossen-slechts-n-acht-vragen-correct"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Chatbots beantwoorden slechts één op de acht vragen van klanten correct, wat leidt tot groeiende ergernis. Als je een chatbot gebruikt, is het essentieel om zijn prestaties actief te meten en de overstap naar een menselijke medewerker te optimaliseren.

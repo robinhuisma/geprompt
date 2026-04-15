@@ -7,6 +7,11 @@ summary: "De groei van AI wordt beperkt door stroom en koeling, wat bedrijven dw
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De groei van kunstmatige intelligentie wordt steeds meer een kwestie van fysieke infrastructuur: stroomvoorziening en koelcapaciteit. Bedrijven die nu plannen maken voor grootschalig AI-gebruik, moeten daarom niet alleen naar software kijken, maar ook naar de energierekening en de beschikbaarheid van stroom.

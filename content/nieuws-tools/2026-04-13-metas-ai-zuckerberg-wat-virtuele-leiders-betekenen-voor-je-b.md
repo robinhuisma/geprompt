@@ -7,6 +7,11 @@ summary: "Meta ontwikkelt een AI-versie van Mark Zuckerberg voor interne gesprek
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Meta ontwikkelt een kunstmatige intelligentie die kan functioneren als een virtuele versie van CEO Mark Zuckerberg om met medewerkers te communiceren. Dit is onderdeel van een bredere strategie om het bedrijf rondom AI te hervormen en toont aan dat de grens tussen menselijke leiders en digitale representaties vervaagt, wat gevolgen heeft voor hoe bedrijven intern communiceren.

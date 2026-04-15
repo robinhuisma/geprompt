@@ -5,8 +5,9 @@ tags: ["muziek", "ai", "creatief", "ethiek"]
 categorieen: ["creatief"]
 summary: "Apple Music vraagt artiesten en labels om vrijwillig aan te geven als een nummer, artwork of video met AI is gemaakt, via nieuwe 'Transparency Tags'."
 cover:
-  image: "/images/covers/2026-03-06-apple-music-adds-optional-labels-for-ai-songs-and-visuals.webp"
-  alt: "Apple Music adds optional labels for AI songs and visuals"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"

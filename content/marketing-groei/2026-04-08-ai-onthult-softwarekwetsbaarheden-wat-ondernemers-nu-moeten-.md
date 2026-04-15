@@ -7,6 +7,11 @@ summary: "Google's CEO waarschuwt dat AI steeds meer softwarelekken kan vinden, 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/"
+cover:
+  image: "https://images.pexels.com/photos/15555796/pexels-photo-15555796.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish workspace with laptop and monitor for social media marketing."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 AI-modellen worden steeds beter in het automatisch vinden van zwakke plekken in software, wat de digitale risico's voor elk bedrijf vergroot. Dit betekent niet dat je moet wachten tot je wordt gehackt, maar dat je nu praktische stappen kunt zetten om je weerbaarheid te verhogen.

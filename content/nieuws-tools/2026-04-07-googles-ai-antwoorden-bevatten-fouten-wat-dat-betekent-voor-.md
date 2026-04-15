@@ -7,6 +7,11 @@ summary: "Een op de tien AI-antwoorden in Google bevat een fout, wat de betrouwb
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
+cover:
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
+
 ---
 
 Google's AI Overviews geeft in ongeveer 10% van de gevallen een onjuist antwoord, blijkt uit een nieuwe analyse. Dit betekent dat je als ondernemer niet blind kunt varen op de nieuwe AI-samenvattingen die boven in de zoekresultaten staan. Je moet je contentstrategie hierop aanpassen om te voorkomen dat je klanten misleidende informatie krijgen of dat je eigen autoriteit ondermijnd wordt.

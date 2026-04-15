@@ -7,6 +7,11 @@ summary: "Een praktische gids voor Nederlandse startups om met slimme SEO en PR-
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse group working on marketing strategies with charts and laptops in an office setting."
+  caption: "Foto: Kindel Media via Pexels"
+
 ---
 
 Het antwoord voor Nederlandse startups die willen groeien via zoekmachines is een gecombineerde aanpak van technische perfectie, strategische PR en slimme content. Je kunt de achterstand in domeinautoriteit compenseren door je website technisch onzichtbaar te maken voor problemen, door jezelf via gestructureerde data expliciet aan Google voor te stellen, en door autoriteit te 'lenen' via gerichte public relations en vermeldingen op relevante platforms.

@@ -7,6 +7,11 @@ summary: "Een geoptimaliseerde productfeed is de sleutel tot vindbaarheid in zoe
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/6476258/pexels-photo-6476258.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Overhead view of a team discussing digital marketing strategies with laptops and charts."
+  caption: "Foto: Mikael Blomkvist via Pexels"
+
 ---
 
 Een verwaarloosde productfeed is een van de grootste gemiste kansen voor webshops, omdat het de toegangspoort is tot zoekmachines en nieuwe, AI-gedreven verkoopkanalen. Door je feed te optimaliseren voor zoekintentie en gestructureerde data, versterk je je zichtbaarheid op plekken waar klanten actief zoeken.

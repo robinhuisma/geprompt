@@ -7,6 +7,11 @@ summary: "Een hybride aanpak, waarbij AI frequente feedback geeft op gesprekken 
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/ai-sales-coaching-vs-human-sales-coaching-the-hybrid-approach-that-drives-results/"
+cover:
+  image: "https://images.pexels.com/photos/6956301/pexels-photo-6956301.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A vintage camera on brown paper with 'SOCIAL MEDIA MARKETING' text, perfect for marketing visuals."
+  caption: "Foto: Eva Bronzini via Pexels"
+
 ---
 
 Het antwoord is een hybride aanpak: gebruik AI voor frequente, data-gedreven feedback op individuele verkoopgesprekken, zodat salesmanagers hun schaarse tijd kunnen besteden aan strategische coaching op teamniveau. Dit combineert de schaalbaarheid van technologie met het menselijke inzicht dat nodig is voor gedragsverandering.

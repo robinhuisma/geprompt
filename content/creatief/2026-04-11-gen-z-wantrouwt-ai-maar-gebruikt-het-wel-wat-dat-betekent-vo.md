@@ -7,6 +7,11 @@ summary: "Generatie Z gebruikt AI-tools massaal, maar ontwikkelt tegelijkertijd 
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2076593/gen-z-krijgt-steeds-grotere-hekel-aan-ai-maar-kan-er-niet-mee-stoppen.html"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Generatie Z gebruikt AI-tools massaal in het dagelijks leven en werk, maar ontwikkelt tegelijkertijd een groeiende frustratie en wantrouwen tegenover de technologie. Deze tegenstrijdigheid creëert een nieuwe uitdaging voor werkgevers en marketeers die met deze groep willen communiceren of hen willen faciliteren.

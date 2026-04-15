@@ -7,6 +7,11 @@ summary: "Google's update van Gemini toont hoe bedrijven hun eigen AI-interfaces
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google's aanpassing van zijn AI-chatbot Gemini is een directe reactie op juridische risico's en toont een blauwdruk voor elk bedrijf dat AI inzet: je moet proactief beveiligingen inbouwen om gebruikers te beschermen en jezelf te vrijwaren. De update, die sneller hulpbronnen aanreikt bij gesprekken over zelfbeschadiging, volgt op een rechtszaak waarin Google wordt beschuldigd van medeplichtigheid aan een zelfmoord.

@@ -7,6 +7,11 @@ summary: "De echte waarde verschuift van perfecte, AI-gemaakte content naar de a
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91521779/the-future-of-music-is-human-generated?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=3&amp;partner=newsletter&amp;campaign_date=04082026"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Het antwoord op de vraag hoe je je kunt onderscheiden in een tijdperk van perfecte AI-content is simpel: door juist je imperfectie en menselijkheid te omarmen. Waar AI perfectie kan genereren, schuift de echte waarde voor merken op naar authentieke, rommelige realiteit die een emotionele band creëert.

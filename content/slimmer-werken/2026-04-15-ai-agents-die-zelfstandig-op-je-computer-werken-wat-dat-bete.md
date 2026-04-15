@@ -7,6 +7,11 @@ summary: "Sero lanceert Operate, waarmee AI-agents zelfstandig taken op je eigen
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/sero-lanceert-operate-aimarketingagents-die-zelfstandig-werken"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI-agents kunnen binnenkort zelfstandig op je eigen laptop werken, waardoor je marketing- en onderzoektaken kunt automatiseren alsof je een heel team hebt. Het Amsterdamse Sero lanceert Operate, een tool die AI-agents toegang geeft tot je lokale computer om taken uit te voeren die je normaal handmatig doet, zoals een PowerPoint aanpassen of een diepgaand onderzoeksrapport schrijven.

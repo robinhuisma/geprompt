@@ -5,8 +5,9 @@ tags: ["canva", "ai design", "creatief", "huisstijl"]
 categorieen: ["creatief"]
 summary: "Canva's Magic Layers zet vlakke AI-afbeeldingen om in gelaagde ontwerpen, zodat je elk element kunt aanpassen voor je huisstijl."
 cover:
-  image: "/images/covers/2026-03-12-canva-s-new-editing-tool-adds-layers-to-ai-generated-designs.webp"
-  alt: "Canva’s new editing tool adds layers to AI-generated designs"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta"

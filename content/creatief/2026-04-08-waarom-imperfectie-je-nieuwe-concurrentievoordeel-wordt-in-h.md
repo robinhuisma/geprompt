@@ -7,6 +7,11 @@ summary: "De waarde verschuift van AI-gegenereerde perfectie naar authentieke, m
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91521779/the-future-of-music-is-human-generated?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=4&amp;partner=newsletter&amp;campaign_date=04082026"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De toekomst van waardecreatie ligt niet in perfecte, AI-gegenereerde content, maar in authentieke, menselijke imperfectie. Waar de industrie zich druk maakt om auteursrecht en technische perfectie, verschuift de echte waarde naar het unieke verhaal en de 'rommelige' realiteit die alleen een mens kan bieden.

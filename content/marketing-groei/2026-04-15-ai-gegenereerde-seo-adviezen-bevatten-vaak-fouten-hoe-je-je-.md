@@ -5,8 +5,9 @@ tags: ["ai", "seo", "contentmarketing", "risicomanagement"]
 categorieen: ["marketing-groei"]
 summary: "AI-zoektools en chatbots geven steeds vaker volledig verzonnen SEO-updates en adviezen, wat een direct risico vormt voor de vindbaarheid van je website."
 cover:
-  image: "/images/covers/2026-04-15-the-ai-slop-loop-via-sejournal-lilyraynyc.webp"
-  alt: "The AI Slop Loop via @sejournal, @lilyraynyc"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/the-ai-slop-loop/572090/"

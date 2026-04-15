@@ -7,6 +7,11 @@ summary: "OpenAI schetst de overgang van losse AI-tools naar een geïntegreerde,
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/next-phase-of-enterprise-ai"
+cover:
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
+
 ---
 
 OpenAI ziet dat bedrijven hun AI-gebruik volwassen laten worden: van geïsoleerde experimenten naar een gestructureerde, bedrijfsbrede strategie. Dit biedt vooral voor het MKB een kans om efficiëntie en innovatie te verankeren in de organisatie, in plaats van te blijven hangen in losse tools.

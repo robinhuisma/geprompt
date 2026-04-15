@@ -7,6 +7,11 @@ summary: "Top-down AI opleggen creëert weerstand, terwijl vertrouwen en experim
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/columnisten-experts/ai-verplichten-binnen-organisatie-verstandig-of-niet"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI afdwingen binnen je organisatie is een recept voor weerstand en gemiste kansen. De effectiefste manier om AI-waarde te ontgrendelen is door medewerkers vertrouwen en ruimte te geven om zelf te experimenteren, niet door het van bovenaf op te leggen.

@@ -5,8 +5,9 @@ tags: ["wordpress", "ai-agents", "contentcreatie", "automatisering"]
 categorieen: ["creatief"]
 summary: "WordPress.com lanceert AI-agents die volledig zelfstandig blogposts kunnen schrijven en publiceren, wat een nieuwe fase in contentcreatie inluidt."
 cover:
-  image: "/images/covers/2026-03-20-wordpress-com-now-lets-ai-agents-write-and-publish-posts-and.webp"
-  alt: "WordPress.com now lets AI agents write and publish posts, and more"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"

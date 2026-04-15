@@ -5,8 +5,9 @@ tags: ["e-commerce", "seo", "productfeed", "zoekmachines"]
 categorieen: ["marketing-groei"]
 summary: "Een geoptimaliseerde productfeed is de sleutel tot vindbaarheid in moderne zoekmachines en AI-shoppingtools, en is eenvoudig te verbeteren."
 cover:
-  image: "/images/covers/2026-04-12-why-product-feeds-shouldn-t-be-the-most-ignored-seo-system-i.webp"
-  alt: "Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce"
+  image: "https://images.pexels.com/photos/7857526/pexels-photo-7857526.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Small business owner managing online orders from a laptop in Portugal."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"

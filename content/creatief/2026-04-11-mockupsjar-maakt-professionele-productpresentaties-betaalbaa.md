@@ -7,6 +7,11 @@ summary: "Met het webplatform MockupsJar zet je platte ontwerpen in seconden om 
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315993/mockupsjar-build-professional-screen-and-product-mockups-instantly"
+cover:
+  image: "https://images.pexels.com/photos/6444/pencil-typography-black-design.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Black pencils arranged creatively next to large typography 'DESIGN'."
+  caption: "Foto: Karolina Grabowska www.kaboompics.com via Pexels"
+
 ---
 
 Een webplatform genaamd MockupsJar stelt freelancers en kleine bedrijven in staat om met een paar klikken professionele product- en schermmockups te maken. Het vervangt dure fotografie en complexe software door een eenvoudige online tool met een grote bibliotheek aan templates, waardoor je werk er direct professioneel uitziet voor presentaties, webshops of social media.

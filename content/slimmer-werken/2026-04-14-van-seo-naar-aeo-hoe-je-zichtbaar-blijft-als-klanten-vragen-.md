@@ -7,6 +7,11 @@ summary: "Klanten beginnen hun zoektocht steeds vaker bij een AI-chatbot. Dit vr
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Klanten stellen hun vragen steeds vaker direct aan een AI-chatbot in plaats van een zoekmachine in te typen. Om daar zichtbaar te zijn, moet je je contentstrategie verschuiven van Search Engine Optimization (SEO) naar Answer Engine Optimization (AEO). Dit betekent dat je content moet beantwoorden aan de specifieke, vaak langere vragen die mensen aan tools zoals ChatGPT, Gemini of Perplexity stellen.

@@ -7,6 +7,11 @@ summary: "Slechts 12% van de chatbotvragen wordt correct opgelost, maar met een 
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/chatbots-lossen-slechts-n-acht-vragen-correct"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Chatbots en spraakassistenten lossen momenteel slechts één op de acht vragen van klanten correct op. Dit betekent dat 88% van de interacties niet tot een goede oplossing leidt, wat leidt tot groeiende ergernis. De technologie schiet structureel tekort, terwijl de helft van de Nederlandse consumenten wel openstaat voor AI in klantcontact, mits het hun problemen daadwerkelijk oplost.

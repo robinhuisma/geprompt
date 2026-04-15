@@ -5,8 +5,9 @@ tags: ["openai", "ai-video", "zakelijke ai", "strategie"]
 categorieen: ["creatief"]
 summary: "OpenAI stopt met de consumenten-app Sora om zich te richten op lucratievere zakelijke AI, een teken van de economische realiteit in de sector."
 cover:
-  image: "/images/covers/2026-04-08-openai-stopt-met-video-generatorapp-sora.webp"
-  alt: "OpenAI stopt met video-generatorapp Sora"
+  image: "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up shot of a smartphone screen showing the OpenAI website with greenery in the background."
+  caption: "Foto: Solen Feyissa via Pexels"
 draft: false
 source_name: "Nos"
 source_url: "https://nos.nl/l/2607716"

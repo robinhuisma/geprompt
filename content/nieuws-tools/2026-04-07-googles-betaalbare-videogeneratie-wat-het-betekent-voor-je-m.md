@@ -5,8 +5,9 @@ tags: ["videomarketing", "ai-video", "google", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "Google lanceert een nieuw AI-model voor videogeneratie dat betaalbaar genoeg is voor MKB'ers om te experimenteren met videomarketing."
 cover:
-  image: "/images/covers/2026-04-07-met-dit-ai-model-steekt-google-een-middelvinger-op-naar-open.webp"
-  alt: "Met dit AI-model steekt Google een middelvinger op naar OpenAI"
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2073490/met-dit-ai-model-steekt-google-een-middelvinger-op-naar-openai.html"

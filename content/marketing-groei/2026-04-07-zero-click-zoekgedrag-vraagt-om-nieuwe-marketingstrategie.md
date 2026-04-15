@@ -7,6 +7,11 @@ summary: "Nu zoekmachines direct antwoorden geven, verliest je website bezoekers
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/zero-click-searches"
+cover:
+  image: "https://images.pexels.com/photos/5833309/pexels-photo-5833309.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands using digital devices for financial analysis at a modern desk setup."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Zero-click zoekgedrag betekent dat je je marketingfunnel moet aanpassen van een klikmodel naar een zichtbaarheidsmodel, waarbij je waarde toont in de zoekresultaten zelf om vertrouwen op te bouwen voordat een bezoeker überhaupt op je site komt.

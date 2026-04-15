@@ -7,6 +7,11 @@ summary: "De samenwerking tussen Intel en Elon Musk's Terafab vergroot de produc
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De samenwerking tussen Intel en Elon Musk's Terafab-project vergroot de wereldwijde productiecapaciteit voor gespecialiseerde AI-chips. Dit is een belangrijke stap in het dichten van het tekort tussen vraag en aanbod, wat op de langere termijn kan zorgen voor een betere beschikbaarheid en mogelijk gunstigere prijsontwikkeling voor AI-diensten die het MKB gebruikt.

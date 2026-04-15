@@ -7,6 +7,11 @@ summary: "AI versnelt biologische experimenten, maar de wetgeving loopt achter; 
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91524571/ai-biology-lab-experiments-risks?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04142026"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI-gedreven systemen herschrijven de regels van biologisch onderzoek, maar de huidige veiligheidsvoorschriften zijn hier niet op toegerust. Dit creëert een risicovolle grijze zone, vooral voor kleinere bedrijven en labs die met deze technologieën willen innoveren maar moeten navigeren tussen snel voortschrijdende mogelijkheden en statische wetgeving.

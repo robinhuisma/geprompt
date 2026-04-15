@@ -7,6 +7,11 @@ summary: "Een start-up haalt 170 miljoen dollar op om datacenters in de ruimte t
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/170-miljoen-dollar-datacentre-ruimte"
+cover:
+  image: "https://images.pexels.com/photos/4597280/pexels-photo-4597280.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Contemporary computer on support between telecommunication racks and cabinets in modern data center"
+  caption: "Foto: Brett Sayles via Pexels"
+
 ---
 
 Een commerciële datacenter-infrastructuur in de ruimte komt dichterbij, wat op termijn goedkoper kan zijn dan aardse alternatieven en nieuwe mogelijkheden opent voor sectoren die afhankelijk zijn van enorme rekenkracht en unieke ruimtedata. Dit is niet langer sciencefiction, maar een gefinancierd bedrijfsplan.

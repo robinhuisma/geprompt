@@ -7,6 +7,11 @@ summary: "Een op de tien AI-antwoorden in Google Search bevat een fout, wat gevo
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
+cover:
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
+
 ---
 
 Google's AI Overviews geeft in ongeveer 90% van de gevallen het juiste antwoord, maar dat betekent ook dat 1 op de 10 AI-antwoorden een fout bevat. Voor een platform met miljarden dagelijkse zoekopdrachten resulteert die foutmarge in tientallen miljoenen onjuiste antwoorden per dag. Voor ondernemers die afhankelijk zijn van snelle, accurate informatie voor beslissingen, is dit een belangrijk aandachtspunt.

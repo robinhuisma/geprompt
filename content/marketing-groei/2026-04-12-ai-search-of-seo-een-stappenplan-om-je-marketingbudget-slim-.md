@@ -7,6 +7,11 @@ summary: "Een praktisch raamwerk helpt je beslissen of je tijd en geld in AI-sea
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het antwoord op de vraag of je moet investeren in AI-search of traditionele SEO hangt af van je bedrijfstype, doelgroep en beschikbare middelen. Er is geen universeel antwoord; een praktisch raamwerk met essentiële vragen helpt je de juiste prioriteiten te stellen voor jouw specifieke situatie.

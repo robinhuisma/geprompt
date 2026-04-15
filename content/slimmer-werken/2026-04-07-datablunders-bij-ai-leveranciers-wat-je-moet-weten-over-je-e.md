@@ -7,6 +7,11 @@ summary: "Twee datalekken bij Anthropic in één week tonen aan dat zelfs top-AI
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/02/kort-twee-datablunders-anthropic-in-een-week-vernieuwde-hp-laserjet%e2%80%91lijn-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een datalek bij een grote AI-leverancier is een scherpe waarschuwing voor elke ondernemer: je beveiliging is zo sterk als de zwakste schakel in je digitale keten, en dat kan een externe leverancier zijn. De twee incidenten bij Anthropic in één week tonen aan dat zelfs gespecialiseerde techbedrijven kwetsbaar zijn voor menselijke fouten, wat de noodzaak onderstreept om je eigen processen en die van je partners kritisch onder de loep te nemen.

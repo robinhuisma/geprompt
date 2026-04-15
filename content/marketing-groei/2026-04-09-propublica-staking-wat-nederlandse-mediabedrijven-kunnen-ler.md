@@ -7,6 +7,11 @@ summary: "Een staking bij onderzoeksjournalistiek platform ProPublica toont de s
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
+cover:
+  image: "https://images.pexels.com/photos/5361243/pexels-photo-5361243.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Social Media' on a blue background, ideal for digital marketing themes."
+  caption: "Foto: Visual Tag Mx via Pexels"
+
 ---
 
 De staking bij ProPublica onderstreept dat de invoering van AI in media niet alleen een technische kwestie is, maar vooral een menselijke. Voor Nederlandse mediabedrijven en uitgeverijen is de kernles dat transparantie en duidelijke afspraken over AI-gebruik essentieel zijn om vertrouwen en kwaliteit te waarborgen.

@@ -5,8 +5,9 @@ tags: ["seo", "ai", "contentstrategie", "vindbaarheid"]
 categorieen: ["slimmer-werken"]
 summary: "De klantreis begint steeds vaker in AI-chats, wat een nieuwe strategie voor vindbaarheid (AEO) vereist, zoals HubSpot's case laat zien."
 cover:
-  image: "/images/covers/2026-04-15-how-hubspot-became-the-1-crm-in-ai-search-a-case-study.webp"
-  alt: "How HubSpot became the #1 CRM in AI search [A case study]"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"

@@ -7,6 +7,11 @@ summary: "Een Custom GPT is een op maat gemaakte AI-assistent die je zelf traint
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/custom-gpts"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een Custom GPT is een op maat gemaakte versie van ChatGPT die je zelf configureert om specifieke, herhalende taken in je bedrijf over te nemen. Je geeft het instructies, kennisbestanden en een doel, waarna het een consistente AI-assistent wordt voor alles van e-mailverwerking tot rapportage.

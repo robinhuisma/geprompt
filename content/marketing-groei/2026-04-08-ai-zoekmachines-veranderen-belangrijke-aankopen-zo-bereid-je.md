@@ -7,6 +7,11 @@ summary: "AI-zoekmachines beïnvloeden steeds vaker de beslissing bij grote aank
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/"
+cover:
+  image: "https://images.pexels.com/photos/15595051/pexels-photo-15595051.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A desktop setup with social media marketing essentials including a keyboard, lightbox, and guide."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 AI-zoekmachines zoals Google's AI Overviews en ChatGPT beïnvloeden steeds vaker de beslissing bij grote, belangrijke aankopen. Voor ondernemers betekent dit dat de traditionele zoekresultatenlijst minder belangrijk wordt en dat vertrouwen en autoriteit in één antwoord cruciaal zijn om gevonden te worden.

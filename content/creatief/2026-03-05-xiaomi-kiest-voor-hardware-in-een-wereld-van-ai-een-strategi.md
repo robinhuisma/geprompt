@@ -5,8 +5,9 @@ tags: ["hardware", "strategie", "onderscheidend vermogen", "productontwikkeling"
 categorieen: ["creatief"]
 summary: "Terwijl concurrenten AI als marketingtool gebruiken, zet Xiaomi in op superieure fysieke hardware om een blijvende, onderscheidende kwaliteit te bieden."
 cover:
-  image: "/images/covers/2026-03-05-xiaomi-unlike-google-and-samsung-thinks-camera-hardware-come.webp"
-  alt: "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first"

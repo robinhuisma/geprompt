@@ -5,8 +5,9 @@ tags: ["ai-integratie", "mkb", "concurrentievoordeel", "modelcustomization"]
 categorieen: ["nieuws-tools"]
 summary: "De grootste AI-winst zit niet in nieuwe algemene modellen, maar in het integreren van je eigen bedrijfskennis in een op maat gemaakt AI-systeem."
 cover:
-  image: "/images/covers/2026-04-12-shifting-to-ai-model-customization-is-an-architectural-imper.webp"
-  alt: "Shifting to AI model customization is an architectural imperative"
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"

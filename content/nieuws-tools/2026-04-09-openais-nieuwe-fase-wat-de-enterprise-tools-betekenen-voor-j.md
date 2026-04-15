@@ -7,6 +7,11 @@ summary: "OpenAI richt zich op grotere zakelijke toepassingen, wat ook kansen bi
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/next-phase-of-enterprise-ai"
+cover:
+  image: "https://images.pexels.com/photos/16053029/pexels-photo-16053029.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A contemporary screen displaying the ChatGPT plugins interface by OpenAI, highlighting AI technology advancements."
+  caption: "Foto: Andrew Neel via Pexels"
+
 ---
 
 OpenAI positioneert zijn krachtigste AI-tools steeds meer voor zakelijk gebruik, wat betekent dat geavanceerde automatisering en data-analyse nu ook binnen bereik komen van bedrijven buiten de grote techreuzen. Dit opent mogelijkheden om interne workflows te stroomlijnen, klantinteracties te verbeteren en creatieve processen te versnellen.

@@ -7,6 +7,11 @@ summary: "Een eenvoudig raamwerk helpt ondernemers te beslissen of ze hun tijd e
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/"
+cover:
+  image: "https://images.pexels.com/photos/15555796/pexels-photo-15555796.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish workspace with laptop and monitor for social media marketing."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Het antwoord op de vraag of je je moet richten op traditionele SEO of op AI-zoekoptimalisatie, hangt af van je specifieke situatie. Een praktisch raamwerk, gebaseerd op een webinar van Search Engine Journal, biedt een vragenlijst om die keuze te maken. Het gaat niet om het ene vervangen door het andere, maar om het prioriteren van je middelen op basis van je bedrijfsdoelen en publiek.

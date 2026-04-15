@@ -5,8 +5,9 @@ tags: ["ai", "seo", "marketing", "vindbaarheid"]
 categorieen: ["marketing-groei"]
 summary: "AI-crawlers van OpenAI en andere partijen crawlen nu veel meer dan Googlebot, waardoor je SEO-strategie moet meebewegen."
 cover:
-  image: "/images/covers/2026-04-08-chatgpt-now-crawls-3-6x-more-than-googlebot-what-24m-request.webp"
-  alt: "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal"
+  image: "https://images.pexels.com/photos/6476260/pexels-photo-6476260.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team collaborating on digital marketing strategies at a desk, using laptops and tablets."
+  caption: "Foto: Mikael Blomkvist via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/"

@@ -7,6 +7,11 @@ summary: "Anthropic lanceert een AI-model dat extreem goed is in het vinden van 
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91523575/did-anthropic-just-soft-launch-the-scariest-ai-model-yet?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=2&amp;partner=newsletter&amp;campaign_date=04092026"
+cover:
+  image: "https://images.pexels.com/photos/8636635/pexels-photo-8636635.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "African American woman deeply focused while working on a laptop in a modern office environment."
+  caption: "Foto: Kampus Production via Pexels"
+
 ---
 
 Anthropic heeft een nieuw AI-model gelanceerd dat specifiek is getraind om andere computersystemen te hacken of te beschadigen, maar zet het in eerste instantie in als verdedigingsmiddel voor cybersecurity. Dit zet een nieuwe standaard voor AI-veiligheidstesten en verandert het dreigingslandschap voor alle bedrijven die afhankelijk zijn van digitale systemen.

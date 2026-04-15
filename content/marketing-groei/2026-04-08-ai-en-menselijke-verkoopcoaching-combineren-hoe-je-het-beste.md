@@ -7,6 +7,11 @@ summary: "Een hybride coachingmodel, waarbij AI de analyse doet en de mens het g
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/ai-sales-coaching-vs-human-sales-coaching-the-hybrid-approach-that-drives-results/"
+cover:
+  image: "https://images.pexels.com/photos/15635241/pexels-photo-15635241.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a social media marketing document on a desk with a pen and notebook."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Een hybride model voor verkoopcoaching, waarbij AI de data-analyse en feedback-automatisering doet en de menselijke manager het gesprek en de strategie leidt, biedt de oplossing voor schaalbare en effectieve begeleiding. Het combineert de consistentie en schaalbaarheid van technologie met het empathisch vermogen en de contextuele intelligentie van een mens.

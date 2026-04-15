@@ -7,6 +7,11 @@ summary: "Naarmate advertentieplatformen meer op AI draaien, moeten ondernemers 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het antwoord is dat je je PPC-prestaties anders moet gaan meten. De opkomst van AI-gestuurde advertentieveilingen bij platforms zoals Google Ads betekent dat traditionele metrics zoals kosten-per-klik (CPC) en klik-through-rate (CTR) steeds minder zeggingskracht hebben. Je focus moet verschuiven naar het meten van de uiteindelijke klantwaarde en winstgevendheid, omdat de AI-systemen zelf de biedstrategie en targeting optimaliseren.

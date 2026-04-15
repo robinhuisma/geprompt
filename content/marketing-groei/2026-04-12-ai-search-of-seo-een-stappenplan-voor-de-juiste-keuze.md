@@ -7,6 +7,11 @@ summary: "Een praktisch raamwerk helpt je te beslissen of je nu moet investeren 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 De keuze tussen investeren in AI-search-optimalisatie of klassieke SEO hangt af van je specifieke bedrijf, publiek en doelen. Er is geen universeel antwoord; het gaat om een gefundeerde prioritering op basis van een aantal kernvragen. Een webinar van Search Engine Journal biedt een raamwerk met essentiële vragen om die afweging te maken.

@@ -5,8 +5,9 @@ tags: ["wikipedia", "ai-beleid", "content", "betrouwbaarheid"]
 categorieen: ["creatief"]
 summary: "Wikipedia verbiedt het gebruik van AI om artikelen te schrijven, wat de betrouwbaarheid van de encyclopedie moet waarborgen voor jouw onderzoek."
 cover:
-  image: "/images/covers/2026-03-27-wikipedia-bans-use-of-ai-generated-content-via-sejournal-mar.webp"
-  alt: "Wikipedia Bans Use Of AI-Generated Content via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/"

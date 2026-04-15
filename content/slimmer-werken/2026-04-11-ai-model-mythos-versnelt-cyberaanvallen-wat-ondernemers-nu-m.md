@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model kan automatisch kwetsbaarheden vinden en misbruiken
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/10/wereldwijd-alarm-over-anthropic-mythos/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een nieuw AI-model genaamd Anthropic Mythos kan automatisch kwetsbaarheden in software vinden en misbruiken, waardoor de tijd om te reageren op een aanval krimpt van dagen naar uren. Dit leidt tot een fundamentele verschuiving in cybersecurity, waar verdediging niet langer alleen een IT-probleem is maar een bestuurlijke verantwoordelijkheid.

@@ -7,6 +7,11 @@ summary: "Een praktisch raamwerk helpt je beslissen of je budget en tijd naar tr
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/"
+cover:
+  image: "https://images.pexels.com/photos/30383665/pexels-photo-30383665.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Chalkboard art promoting Facebook engagement with a like us message."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het antwoord op de vraag waar je als ondernemer je marketingbudget in moet steken – in traditionele SEO of in zichtbaarheid in AI-zoekmachines – hangt af van je specifieke situatie. Een praktisch raamwerk met essentiële vragen helpt je die keuze te onderbouwen, zodat je niet achter hypes aanholt maar een gefundeerde strategische beslissing neemt.

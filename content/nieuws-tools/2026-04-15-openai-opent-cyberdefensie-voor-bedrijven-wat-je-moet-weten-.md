@@ -7,6 +7,11 @@ summary: "OpenAI breidt een vertrouwd toegangsprogramma uit, waardoor meer cyber
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI maakt geavanceerde AI-tools voor cyberdefensie beschikbaar voor een bredere groep getoetste verdedigers, waaronder mogelijkheden voor het MKB. Het bedrijf breidt zijn 'Trusted Access for Cyber'-programma uit en introduceert een gespecialiseerd model, GPT-5.4-Cyber, speciaal ontworpen voor cybersecurity-taken. Dit betekent dat bedrijven die aan de criteria voldoen, toegang kunnen krijgen tot krachtigere AI-hulp bij het detecteren en bestrijden van digitale dreigingen.

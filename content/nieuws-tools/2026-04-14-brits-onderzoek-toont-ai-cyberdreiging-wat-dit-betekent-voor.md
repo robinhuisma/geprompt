@@ -7,6 +7,11 @@ summary: "Een Britse overheidsstudie bevestigt dat nieuwe AI-modellen zoals Anth
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het Britse AI Security Institute (AISI) heeft onafhankelijk bevestigd dat geavanceerde AI-modellen zoals Anthropic's Mythos steeds beter worden in het uitvoeren van complexe, meerstaps cyberaanvallen. Dit betekent dat de dreiging van AI-gestuurde cybercrime voor bedrijven concreet en groeiend is, en dat het verhogen van de basisbeveiliging nu prioriteit moet zijn.

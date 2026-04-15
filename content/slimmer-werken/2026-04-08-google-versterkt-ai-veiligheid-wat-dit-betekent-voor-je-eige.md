@@ -7,6 +7,11 @@ summary: "Google's update van Gemini toont het groeiende belang van veiligheidsp
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+cover:
+  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A neat workspace featuring a laptop displaying Google search, a smartphone, and a notebook on a wooden desk."
+  caption: "Foto: Caio via Pexels"
+
 ---
 
 Google versterkt de veiligheidsprotocollen in zijn AI-model Gemini, een directe reactie op juridische risico's en een belangrijke waarschuwing voor elke ondernemer die AI gebruikt. Het toont aan dat het bouwen van veiligheidsbarrières niet langer een optie is, maar een noodzaak om juridische aansprakelijkheid en reputatieschade te voorkomen.

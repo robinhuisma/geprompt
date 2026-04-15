@@ -7,6 +7,11 @@ summary: "Het optimaliseren van je productfeed is een eenvoudige manier om je vi
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/5833272/pexels-photo-5833272.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Business professionals reviewing financial charts on digital devices in a modern office setting."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Een verwaarloosde productfeed kost je webshop zichtbaarheid en verkopen. Door je feed te optimaliseren voor zoekintentie en gestructureerde data, verbeter je direct je positie op Google Shopping en prijsvergelijkingssites, wat leidt tot meer gratis en betaalde traffic.

@@ -7,6 +7,11 @@ summary: "AI-tools die content maken brengen merken in de problemen door inconsi
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/merkconsistentie-geen-design-organisatieprobleem"
+cover:
+  image: "https://images.pexels.com/photos/2041398/pexels-photo-2041398.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Group of women working in a modern coworking space with laptops and coffee."
+  caption: "Foto: CoWomen via Pexels"
+
 ---
 
 Het probleem is niet dat AI-tools verkeerde kleuren kiezen, maar dat merken intern niet zijn ingericht om met AI samen te werken. Wanneer marketing, design en AI-contentgeneratie niet vanuit één gedeelde bron werken, ontstaan er onvermijdelijk inconsistenties die de merkwaarde aantasten. Dit is een organisatorisch probleem dat vraagt om een nieuwe manier van samenwerken en procesinrichting.

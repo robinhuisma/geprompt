@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model kan losse cyberaanvaltaken combineren tot complexe,
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
+cover:
+  image: "https://images.pexels.com/photos/8636635/pexels-photo-8636635.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "African American woman deeply focused while working on a laptop in a modern office environment."
+  caption: "Foto: Kampus Production via Pexels"
+
 ---
 
 Het nieuwe AI-model Mythos Preview is niet per se beter in losse hacktaken, maar wel veel gevaarlijker in het combineren van die taken tot complete, meertraps cyberaanvallen. Dit betekent dat de dreiging van geautomatiseerde, AI-gedreven aanvallen voor ondernemers steeds reëler wordt, omdat een enkele aanval nu meerdere verdedigingslagen kan doorbreken.

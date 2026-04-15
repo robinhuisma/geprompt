@@ -7,6 +7,11 @@ summary: "OpenAI introduceert een goedkoper ChatGPT Pro-abonnement, waardoor toe
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2076368/openai-komt-met-goedkoper-chatgpt-pro-abonnement-dit-krijg-je-ervoor.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI maakt zijn krachtigste ChatGPT-model toegankelijker voor kleinere bedrijven en zelfstandigen met een nieuw, goedkoper Pro-abonnement. Voor 103 euro per maand krijg je toegang tot de geavanceerde GPT-4 modellen, meer capaciteit en prioritaire toegang tijdens piekmomenten, wat een directe kostenbesparing oplevert ten opzichte van het duurdere aanbod.

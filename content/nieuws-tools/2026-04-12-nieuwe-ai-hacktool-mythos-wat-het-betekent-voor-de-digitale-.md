@@ -7,6 +7,11 @@ summary: "De nieuwe AI-tool Mythos kan zowel kwetsbaarheden opsporen als misbrui
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91525413/is-mythos-a-blessing-or-a-curse-for-cybersecurity-it-depends-who-you-ask?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04122026"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De nieuwe AI-tool Claude Mythos van Anthropic verandert het cyberveiligheidsspel door zowel verdedigers als aanvallers krachtiger te maken. Het is een dubbelzijdig zwaard dat lang verborgen softwarefouten kan ontdekken en deze kennis vervolgens kan omzetten in concrete aanvalsmethodes. Voor ondernemers betekent dit dat de dreiging sneller en geavanceerder kan worden, maar dat hun eigen verdediging ook slimmer kan.

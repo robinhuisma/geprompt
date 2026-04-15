@@ -7,6 +7,11 @@ summary: "Een op de tien AI-antwoorden in Google bevat een fout, wat betekent da
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
+cover:
+  image: "https://images.pexels.com/photos/6961857/pexels-photo-6961857.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "An adult using a laptop indoors, browsing Google at a wooden table with coffee."
+  caption: "Foto: Firmbee.com via Pexels"
+
 ---
 
 Google's AI Overviews geeft in ongeveer 10% van de gevallen een onjuist antwoord, wat betekent dat je als ondernemer niet blind kunt vertrouwen op de bovenste zoekresultaten. De AI-gegenereerde antwoorden, aangedreven door Gemini, staan prominent bovenaan de pagina, maar een nieuwe analyse toont aan dat miljoenen foutieve antwoorden per dag worden gegenereerd. Je moet dus kritischer zijn en je zoekstrategie aanpassen.

@@ -7,6 +7,11 @@ summary: "De EU plaatst ChatGPT onder het strengste toezicht, wat gevolgen heeft
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2077086/eu-plaatst-zoekmachine-chatgpt-onder-zwaarste-techtoezicht.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De Europese Commissie staat op het punt om ChatGPT formeel onder het strengste toezicht van de Digital Services Act (DSA) te plaatsen. Dit betekent dat OpenAI's dienst wordt aangemerkt als een 'Very Large Online Platform' (VLOP) en daarmee aan de zwaarste transparantie- en risicobeheerregels moet voldoen. Voor jou als gebruiker verandert er direct niets aan de interface, maar de onderliggende verantwoordelijkheden en mogelijke beperkingen voor OpenAI worden groter.

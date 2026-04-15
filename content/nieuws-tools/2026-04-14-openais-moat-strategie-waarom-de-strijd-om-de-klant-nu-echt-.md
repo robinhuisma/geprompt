@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo laat zien dat de AI-strijd verschuift van de bes
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord op de vraag wat dit betekent voor jou als ondernemer is simpel: de AI-markt verandert van een technologische race in een concurrentieslag om de klant. OpenAI, de maker van ChatGPT, stuurt intern aan op het bouwen van een 'moat' (slotgracht) om gebruikers te binden, omdat het nu te gemakkelijk is om tussen verschillende AI-modellen te switchen. Dit is een belangrijk signaal dat de focus verschuift van wie de beste technologie heeft, naar wie de beste en meest betrouwbare ervaring biedt voor bedrijven.

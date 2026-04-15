@@ -7,6 +7,11 @@ summary: "Een groeiende kloof tussen AI-experts en het publiek vraagt om transpa
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De groeiende kloof in perceptie over AI tussen experts en het publiek vereist dat ondernemers proactief en transparant communiceren over hun gebruik van automatisering. Het gaat niet alleen om het uitleggen van de technologie, maar vooral om het adresseren van de onderliggende angsten over banen, zorg en de economie om vertrouwen te behouden.

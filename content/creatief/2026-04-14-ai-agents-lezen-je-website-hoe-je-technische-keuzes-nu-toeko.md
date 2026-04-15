@@ -7,6 +7,11 @@ summary: "AI-agents zoals persoonlijke assistenten 'zien' je website fundamentee
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 AI-agents zoals persoonlijke assistenten interpreteren je website fundamenteel anders dan mensen of zoekmachines. Om ervoor te zorgen dat deze software jouw content correct begrijpt en kan gebruiken, moet je website gebouwd zijn op een technische basis die voor hen leesbaar is. Dit betekent investeren in semantische HTML, toegankelijke patronen en server-rendered content die direct zichtbaar is.

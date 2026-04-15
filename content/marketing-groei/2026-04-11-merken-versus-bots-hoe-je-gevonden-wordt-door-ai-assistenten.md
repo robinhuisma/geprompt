@@ -7,6 +7,11 @@ summary: "Grote merken passen hun marketing aan om zichtbaar te worden in de zoe
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=7&amp;partner=newsletter&amp;campaign_date=04112026"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het antwoord op hoe je als merk gevonden wordt door AI-assistenten zoals ChatGPT en Claude, is AIEO: AI Engine Optimization. Dit is geen vervanging van traditionele SEO, maar een aanvulling die specifiek gericht is op hoe grote taalmodellen informatie verwerken en presenteren. Grote merken en bureaus experimenteren nu met deze nieuwe vorm van vindbaarheid.

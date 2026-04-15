@@ -7,6 +7,11 @@ summary: "Vermogende particulieren en familiebedrijven slaan durfkapitaalfondsen
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
+cover:
+  image: "https://images.pexels.com/photos/2451646/pexels-photo-2451646.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Bird's-eye view of a modern office with professionals collaborating on laptops and monitors."
+  caption: "Foto: Proxyclick Visitor Management System via Pexels"
+
 ---
 
 Vermogende particulieren en familiebedrijven slaan steeds vaker de traditionele durfkapitaalfondsen over om rechtstreeks in veelbelovende AI-startups te investeren. Deze verschuiving verandert de spelregels voor wie toegang wil tot de groeikansen in kunstmatige intelligentie, maar brengt ook nieuwe risico's met zich mee voor investeerders die gewend zijn aan een meer afstandelijke rol.

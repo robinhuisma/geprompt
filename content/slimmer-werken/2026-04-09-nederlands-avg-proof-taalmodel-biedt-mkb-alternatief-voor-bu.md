@@ -7,6 +7,11 @@ summary: "GPT-NL, een Nederlands taalmodel gefinancierd met 13,5 miljoen euro, b
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saskia-lensink-tno-gpt-nl"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Nederland krijgt een eigen, AVG-proof taalmodel genaamd GPT-NL, gefinancierd met 13,5 miljoen euro. Dit biedt ondernemers en professionals een alternatief voor buitenlandse AI-diensten, speciaal voor toepassingen waar gevoelige data of perfect Nederlands taalbegrip cruciaal zijn.

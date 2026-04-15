@@ -7,6 +7,11 @@ summary: "Chatbots beantwoorden slechts 12% van de vragen goed. Dit is hoe je co
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/chatbots-lossen-slechts-n-acht-vragen-correct"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Chatbots beantwoorden slechts één op de acht vragen van klanten correct, blijkt uit onderzoek. Dit lage slagingspercentage van 12% leidt tot groeiende ergernis, terwijl de bereidheid om AI te accepteren juist groot is. Voor ondernemers betekent dit dat een slecht functionerende chatbot klanten kost in plaats van wint.

@@ -7,6 +7,11 @@ summary: "Generatieve zoekmachines zoals Google SGE veranderen hoe je gevonden w
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/generative-engine-optimization-best-practices"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Generatieve Engine Optimalisatie (GEO) is het aanpassen van je website en content zodat AI-gestuurde zoekmachines, zoals Google's Search Generative Experience (SGE), je makkelijk kunnen vinden, begrijpen en als bron citeren. Het gaat niet om het manipuleren van zoekresultaten, maar om het helder en betrouwbaar presenteren van je informatie voor zowel mens als machine.

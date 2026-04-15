@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals Google's SGE en ChatGPT overslaan vaak merken om
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/waarom-ai-jouw-merk-over-het-hoofd-ziet/"
+cover:
+  image: "https://images.pexels.com/photos/9129526/pexels-photo-9129526.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A letter board with the hashtag 'Twitter' displayed, ideal for social media marketing concepts."
+  caption: "Foto: Jorge Urosa via Pexels"
+
 ---
 
 AI-zoekmachines zoals Google's Search Generative Experience en antwoorden van ChatGPT kunnen jouw merk volledig overslaan, omdat ze niet naar websites linken maar samenvattingen geven. Dit betekent dat de traditionele SEO-strategie, gericht op de top-10 organische resultaten, niet meer volstaat om zichtbaar te blijven. Om gevonden te worden, moet je content en merkpresentatie fundamenteel anders inrichten voor deze nieuwe generatie zoekmachines.

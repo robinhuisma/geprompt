@@ -7,6 +7,11 @@ summary: "AI neemt de controle over advertentieveilingen over, waardoor traditio
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het antwoord is dat je je PPC-meetmethoden fundamenteel moet herzien. Artificiële intelligentie neemt steeds meer controle over advertentieveilingen, waardoor traditionele prestatie-indicatoren zoals kosten-per-klik (CPC) en klikfrequentie (CTR) aan waarde inboeten. Je moet verschuiven naar winstgedreven metrics en slimmere attributiemodellen om te blijven sturen op wat er echt toe doet: rendement.

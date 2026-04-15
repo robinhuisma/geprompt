@@ -5,8 +5,9 @@ tags: ["google photos", "ai", "zoekfuncties", "digitale organisatie"]
 categorieen: ["creatief"]
 summary: "Google voegt een schakelaar toe om de nieuwe AI-zoekfunctie in Google Photos uit te zetten, zodat je weer de oude, betrouwbare zoekmethode kunt gebruiken."
 cover:
-  image: "/images/covers/2026-03-24-after-complaints-google-will-make-it-easier-to-disable-gen-a.webp"
-  alt: "After complaints, Google will make it easier to disable gen AI search in Photos"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/"

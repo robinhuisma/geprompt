@@ -7,6 +7,11 @@ summary: "AI-tools bepalen welke merken ze aanbevelen op basis van 'association 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 AI-tools zoals ChatGPT en Google's Search Generative Experience (SGE) bepalen welke merken ze aanbevelen op basis van de sterkte van de associatie tussen een merk en een relevant onderwerp. Dit concept, 'association strength', is nu een cruciale factor voor online vindbaarheid. Als ondernemer betekent dit dat je niet langer alleen op zoekwoorden moet focussen, maar op het systematisch opbouwen van je autoriteit rond specifieke thema's in de ogen van AI.

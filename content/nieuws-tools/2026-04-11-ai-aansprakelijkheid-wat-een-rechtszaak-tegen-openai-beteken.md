@@ -7,6 +7,11 @@ summary: "Een rechtszaak tegen OpenAI zet de verantwoordelijkheid van bedrijven 
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een rechtszaak tegen OpenAI over vermeende nalatigheid zet de verantwoordelijkheid van bedrijven die AI-tools gebruiken of aanbieden scherp op de kaart. Het gaat niet alleen om de techniek, maar om de processen eromheen.

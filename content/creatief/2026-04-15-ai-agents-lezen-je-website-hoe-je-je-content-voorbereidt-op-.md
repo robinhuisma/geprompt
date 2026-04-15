@@ -7,6 +7,11 @@ summary: "AI-agents 'zien' je website fundamenteel anders dan mensen of zoekmach
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 AI-agents interpreteren en gebruiken je website op een fundamenteel andere manier dan menselijke bezoekers of traditionele zoekmachines. Om je content effectief te laten zijn in het opkomende 'agentic web', moet je website gebouwd zijn met semantische HTML, toegankelijke patronen en zichtbare, server-rendered content. Dit is geen verre toekomstmuziek; de principes die je nu toepast voor betere AI-interpretatie, verbeteren ook direct de gebruikerservaring en SEO.

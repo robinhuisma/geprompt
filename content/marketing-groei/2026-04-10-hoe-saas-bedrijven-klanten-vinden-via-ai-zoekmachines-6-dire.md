@@ -7,6 +7,11 @@ summary: "Meer dan de helft van SaaS-kopers start hun zoektocht via AI-chatbots,
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-for-saas-companies"
+cover:
+  image: "https://images.pexels.com/photos/6476260/pexels-photo-6476260.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team collaborating on digital marketing strategies at a desk, using laptops and tablets."
+  caption: "Foto: Mikael Blomkvist via Pexels"
+
 ---
 
 Een AEO-strategie (Answer Engine Optimization) is voor SaaS-bedrijven essentieel omdat meer dan de helft van de potentiële klanten hun zoektocht naar software nu start in een AI-chatbot, in plaats van via traditionele zoekmachines. Dit betekent dat je niet alleen moet ranken, maar dat je product, expertise en unieke waarde ook accuraat moeten worden begrepen en gepresenteerd door AI-systemen.

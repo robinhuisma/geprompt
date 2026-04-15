@@ -7,6 +7,11 @@ summary: "OpenAI biedt een HIPAA-compliant platform waarmee zorgprofessionals AI
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/healthcare"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI biedt zorginstellingen een speciaal, HIPAA-compliant platform om ChatGPT veilig in te zetten. Dit betekent dat artsen en praktijken in Nederland, met de juiste overeenkomsten, AI-tools kunnen gebruiken voor taken zoals het ondersteunen van diagnoses en het stroomlijnen van documentatie, terwijl ze voldoen aan strenge privacywetgeving zoals de AVG.

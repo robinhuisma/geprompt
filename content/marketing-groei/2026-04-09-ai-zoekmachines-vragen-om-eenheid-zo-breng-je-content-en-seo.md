@@ -7,6 +7,11 @@ summary: "Om zichtbaar te blijven in AI-gestuurde zoekresultaten moeten contentm
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/30383665/pexels-photo-30383665.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Chalkboard art promoting Facebook engagement with a like us message."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Om relevant te blijven in AI-gestuurde zoekmachines zoals Google's Search Generative Experience (SGE), moeten content- en SEO-teams hun traditionele silo's doorbreken en samenwerken aan het opbouwen van 'entity authority'. Dit betekent dat je bedrijf of merk door zoekmachines wordt herkend als een gezaghebbende entiteit op een specifiek onderwerp, wat cruciaal wordt voor zichtbaarheid in antwoorden gegenereerd door AI.

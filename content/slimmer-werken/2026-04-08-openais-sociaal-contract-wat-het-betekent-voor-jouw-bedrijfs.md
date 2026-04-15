@@ -7,6 +7,11 @@ summary: "Sam Altman roept op tot een nieuw sociaal contract voor AI, wat voor o
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's CEO Sam Altman publiceert een blauwdruk voor een nieuw 'sociaal contract' om de impact van superintelligentie op te vangen, wat betekent dat ondernemers nu al moeten nadenken over de bredere maatschappelijke gevolgen van hun AI-gebruik. De oproep omvat radicale ideeën zoals een belasting op robotarbeid en een vierdaagse werkweek, wat aangeeft dat de leiders van de technologie zelf verwachten dat AI de economische fundamenten zal verstoren.

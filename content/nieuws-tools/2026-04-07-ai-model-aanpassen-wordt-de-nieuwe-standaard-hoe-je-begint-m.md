@@ -5,8 +5,9 @@ tags: ["ai-strategie", "modelcustomization", "fine-tuning", "bedrijfsdata"]
 categorieen: ["nieuws-tools"]
 summary: "De grootste AI-winst zit niet in nieuwe algemene modellen, maar in het aanpassen ervan met je eigen bedrijfsdata, wat een blijvend concurrentievoordeel oplevert."
 cover:
-  image: "/images/covers/2026-04-07-shifting-to-ai-model-customization-is-an-architectural-imper.webp"
-  alt: "Shifting to AI model customization is an architectural imperative"
+  image: "https://images.pexels.com/photos/19895781/pexels-photo-19895781.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Diverse team of professionals collaborating on a project in a modern office setting, using laptops and 3D modeling technology."
+  caption: "Foto: ThisIsEngineering via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"

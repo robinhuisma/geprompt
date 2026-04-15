@@ -7,6 +7,11 @@ summary: "OpenAI's nieuwe $100 Pro-plan biedt een middenweg voor bedrijven die m
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
+cover:
+  image: "https://images.pexels.com/photos/36513381/pexels-photo-36513381.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person typing on a laptop displaying ChatGPT logo with a green vibrant setting."
+  caption: "Foto: UMA media via Pexels"
+
 ---
 
 OpenAI heeft een nieuw abonnementsniveau gelanceerd voor $100 per maand, wat een direct antwoord is op de vraag van zakelijke gebruikers naar een betaalbaarder middenweg. Dit ChatGPT Pro-plan vult het gat tussen het persoonlijke $20-plan en het dure $200 enterprise-abonnement, waardoor geavanceerde AI-tools nu financieel haalbaarder worden voor groeiende bedrijven.

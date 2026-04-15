@@ -7,6 +7,11 @@ summary: "Een op de tien AI-samenvattingen in Google bevat een fout, wat onderne
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
+cover:
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
+
 ---
 
 Een op de tien AI-samenvattingen in Google bevat een fout, wat betekent dat miljoenen onjuiste antwoorden per dag worden verspreid. Voor ondernemers is het cruciaal om te weten hoe ze hun eigen online informatie kunnen controleren en optimaliseren om te voorkomen dat hun klanten of hun eigen beslissingen gebaseerd zijn op onbetrouwbare AI-samenvattingen.

@@ -7,6 +7,11 @@ summary: "Een nieuwe studie toont aan dat AI-systemen zelf kwetsbaarheden kunnen
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox"
+cover:
+  image: "https://images.pexels.com/photos/9572506/pexels-photo-9572506.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person typing on a laptop at a cluttered desk with books and documents around."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
+
 ---
 
 Het groeiende vermogen van kunstmatige intelligentie om kwetsbaarheden in software en systemen op te sporen, vormt een nieuw en direct risico voor bedrijfsprocessen. Dit blijkt uit de 'Glasswing'-studie van AI-bedrijf Anthropic, die aantoont dat geavanceerde AI-modellen niet alleen kunnen helpen bij beveiliging, maar ook zelf kwetsbaarheden kunnen identificeren en mogelijk misbruiken. Voor ondernemers betekent dit dat de invoering van AI-tools een dubbele security-check vereist: beveilig de tool zelf, maar wees ook alert op de nieuwe zwakke plekken die de tool kan blootleggen.

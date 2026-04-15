@@ -5,8 +5,9 @@ tags: ["ai", "solliciteren", "recruitment", "communicatie"]
 categorieen: ["creatief"]
 summary: "AI-avatars voeren steeds vaker de eerste sollicitatiegesprekken. Dit is wat je moet weten over de techniek en de communicatiestijl die daarbij werkt."
 cover:
-  image: "/images/covers/2026-03-12-i-was-interviewed-by-an-ai-bot-for-a-job.webp"
-  alt: "I was interviewed by an AI bot for a job"
+  image: "https://images.pexels.com/photos/6444/pencil-typography-black-design.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Black pencils arranged creatively next to large typography 'DESIGN'."
+  caption: "Foto: Karolina Grabowska www.kaboompics.com via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"

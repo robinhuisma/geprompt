@@ -7,6 +7,11 @@ summary: "Een staking bij een Amerikaanse nieuwsredactie toont aan dat heldere a
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
+cover:
+  image: "https://images.pexels.com/photos/5310562/pexels-photo-5310562.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Crop anonymous male teacher writing on whiteboard with marker during social media training courses"
+  caption: "Foto: Malte Luk via Pexels"
+
 ---
 
 De staking bij ProPublica onderstreept dat het gebrek aan heldere afspraken over AI een bron van conflict kan worden tussen werkgevers en werknemers. Voor Nederlandse ondernemers is dit een signaal om tijdig het gesprek aan te gaan over hoe AI wordt ingezet, om onrust en productieverlies te voorkomen.

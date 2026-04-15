@@ -7,6 +7,11 @@ summary: "OpenAI schetst de volgende fase van zakelijke AI, gericht op bedrijfsb
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/next-phase-of-enterprise-ai"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI positioneert zijn AI-tools steeds meer als een integraal onderdeel van de bedrijfsvoering, waarbij de focus verschuift van individueel gebruik naar bedrijfsbrede implementatie. Dit betekent dat AI niet langer alleen een productiviteitstool voor medewerkers is, maar een systeem dat processen in de hele organisatie kan aansturen.

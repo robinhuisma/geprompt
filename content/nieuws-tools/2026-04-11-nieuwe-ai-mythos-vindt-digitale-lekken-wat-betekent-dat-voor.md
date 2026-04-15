@@ -7,6 +7,11 @@ summary: "De AI Mythos kan verborgen kwetsbaarheden in software vinden én misbr
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91525413/is-mythos-a-blessing-or-a-curse-for-cybersecurity-it-depends-who-you-ask?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04112026"
+cover:
+  image: "https://images.pexels.com/photos/36237031/pexels-photo-36237031.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two people recording a podcast in a stylish Luxembourg studio with floral decor."
+  caption: "Foto: Téméraire Marketing Luxembourg via Pexels"
+
 ---
 
 De nieuwe AI Mythos van Anthropic kan verborgen kwetsbaarheden in software opsporen en deze kennis ook gebruiken om er misbruik van te maken. Dit betekent dat zowel cybersecurity-professionals als kwaadwillenden een krachtiger instrument in handen krijgen, waardoor de digitale dreiging evolueert maar ook de verdediging kan worden verbeterd.

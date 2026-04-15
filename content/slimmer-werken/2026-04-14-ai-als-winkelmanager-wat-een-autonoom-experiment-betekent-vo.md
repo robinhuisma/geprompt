@@ -7,6 +7,11 @@ summary: "Een AI-agent runt nu een echte winkel in San Francisco, een praktijkvo
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een AI-agent heeft een driejarig huurcontract getekend, een budget van $100.000 gekregen en runt nu volledig autonoom een echte winkel in San Francisco. Dit experiment van Andon Labs, genaamd 'Luna', toont niet hoe AI werknemers vervangt, maar hoe het de rol van manager kan overnemen, met alle uitdagingen van dien.

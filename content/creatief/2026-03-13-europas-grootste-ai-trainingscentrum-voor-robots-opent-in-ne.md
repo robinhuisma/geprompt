@@ -5,8 +5,9 @@ tags: ["robotica", "ai-training", "innovatie", "productie"]
 categorieen: ["creatief"]
 summary: "Het nieuwe Neura Robotics Lab in Nederland traint humanoïde robots, wat kansen biedt voor bedrijven om robottoepassingen te testen en ontwikkelen."
 cover:
-  image: "/images/covers/2026-03-13-neura-launches-europe-s-largest-physical-ai-training-center.webp"
-  alt: "Neura Launches Europe's Largest Physical AI Training Center"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/robotics/neura-launches-physical-ai-training-center"

@@ -7,6 +7,11 @@ summary: "OpenAI stelt een 'botbelasting' voor om de verschuiving van arbeid naa
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/openai-hef-belasting-geautomatiseerde-arbeid"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI stelt voor om belasting te heffen op geautomatiseerde arbeid, een zogenaamde 'botbelasting' of 'tokentaks'. Dit voorstel kan op termijn de kostenstructuur van bedrijfsautomatisering veranderen, omdat het de belastinggrondslag verschuift van menselijke arbeid naar kapitaal en AI-gedreven productie.

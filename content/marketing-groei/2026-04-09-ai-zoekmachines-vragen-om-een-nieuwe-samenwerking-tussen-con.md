@@ -7,6 +7,11 @@ summary: "Om zichtbaar te blijven in AI-zoekmachines zoals ChatGPT en Gemini, mo
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Om relevant te blijven in AI-gedreven zoekmachines, moeten contentmakers en SEO-specialisten hun traditionele scheidslijnen overstijgen en samenwerken aan het opbouwen van 'entity authority'. Dit betekent dat je niet langer alleen concurreert op losse zoekwoorden, maar dat je merk of expertise als een gezaghebbende entiteit wordt herkend en gepresenteerd door AI.

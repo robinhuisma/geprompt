@@ -5,8 +5,9 @@ tags: ["presenteren", "onderzoek", "videomarketing", "ai-tools"]
 categorieen: ["creatief"]
 summary: "Google's NotebookLM kan nu je notities en bronnen omtoveren tot een geanimeerde video, ideaal voor het presenteren van marktonderzoek of projectplannen."
 cover:
-  image: "/images/covers/2026-03-06-notebooklm-can-now-summarize-research-in-cinematic-video-ove.webp"
-  alt: "NotebookLM can now summarize research in ‘cinematic’ video overviews"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"

@@ -7,6 +7,11 @@ summary: "Grote techbedrijven werken samen aan veilige AI, wat voor ondernemers 
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076116/dit-is-hoe-anthropic-wil-voorkomen-dat-ai-alles-kapotmaakt.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een samenwerking tussen techreuzen als Amazon, Apple en Google rond AI-veiligheid betekent voor Nederlandse ondernemers vooral meer stabiliteit en voorspelbaarheid bij het adopteren van AI-tools. Het doel is om extreme risico's te voorkomen, wat op de lange termijn zorgt voor een betrouwbaardere omgeving om in te investeren.

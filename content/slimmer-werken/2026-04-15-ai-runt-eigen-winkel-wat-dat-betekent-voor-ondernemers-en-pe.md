@@ -7,6 +7,11 @@ summary: "Een AI-agent runt nu een echte winkel in San Francisco, met een eigen 
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een AI-agent runt nu een echte winkel in San Francisco, met een eigen budget en personeel. Het experiment laat zien wat werkt en waar de grenzen liggen. Voor ondernemers is dit een praktische kijk op de toekomst van winkelmanagement, waar AI de operationele beslissingen neemt en mensen uitvoeren.

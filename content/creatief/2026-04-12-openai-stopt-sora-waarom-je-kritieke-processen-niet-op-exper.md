@@ -5,8 +5,9 @@ tags: ["ai", "video", "openai", "strategie"]
 categorieen: ["creatief"]
 summary: "OpenAI stopt plots met de video-generator Sora, een praktische les voor ondernemers over de risico's van afhankelijkheid van experimentele AI-diensten."
 cover:
-  image: "/images/covers/2026-04-12-openai-stopt-met-video-generatorapp-sora.webp"
-  alt: "OpenAI stopt met video-generatorapp Sora"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Nos"
 source_url: "https://nos.nl/l/2607716"

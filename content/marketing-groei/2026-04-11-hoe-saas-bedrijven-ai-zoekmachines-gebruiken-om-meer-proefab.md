@@ -7,6 +7,11 @@ summary: "Een AEO-strategie zorgt ervoor dat AI-zoekmachines je SaaS-product cor
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-for-saas-companies"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Een AEO-strategie (Answer Engine Optimization) zorgt ervoor dat AI-zoekmachines zoals ChatGPT of Gemini je SaaS-product correct begrijpen en aanbevelen aan potentiële klanten. Dit is cruciaal omdat meer dan de helft van de SaaS-inkopers hun zoektocht naar software nu bij een AI-chatbot begint, waardoor traditionele SEO alleen niet meer voldoende is om zichtbaar te zijn.

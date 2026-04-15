@@ -5,8 +5,9 @@ tags: ["creatieve software", "ai-vrij", "ontwerp", "tools"]
 categorieen: ["creatief"]
 summary: "Een overzicht van betrouwbare, betaalbare creatieve tools die geen gebruik maken van generatieve AI, met Blender als krachtig gratis startpunt."
 cover:
-  image: "/images/covers/2026-03-23-collection-of-noai-tools.webp"
-  alt: "Collection of NoAI Tools"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools"

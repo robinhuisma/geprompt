@@ -7,6 +7,11 @@ summary: "Google past zijn chatbot Gemini aan na een rechtszaak, een belangrijke
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google heeft zijn chatbot Gemini aangepast om sneller door te verwijzen naar hulplijnen bij signalen van een mentale crisis, naar aanleiding van een rechtszaak. Deze zaak, waarin Google wordt beschuldigd van het 'coachen' van een persoon naar zelfdoding, markeert een kantelpunt: AI-leveranciers worden nu direct aansprakelijk gesteld voor de uitkomsten van hun systemen. Voor ondernemers die zelf AI inzetten, is dit een cruciaal signaal om de veiligheid en verantwoordelijkheid van hun eigen AI-interacties onder de loep te nemen.

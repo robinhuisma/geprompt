@@ -7,6 +7,11 @@ summary: "Een Nederlands consortium bouwt met 13,5 miljoen euro een eigen, AVG-p
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saskia-lensink-tno-gpt-nl"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een Nederlands consortium bouwt met 13,5 miljoen euro een eigen, AVG-proof taalmodel genaamd GPT-NL. Dit model is specifiek getraind op de Nederlandse taal en cultuur en draait op de nationale supercomputer Snellius, wat betekent dat gevoelige data binnen de EU-grenzen blijft. Het is geen publieke chatbot, maar een model dat organisaties in hun eigen AI-stack kunnen integreren voor specifieke, veilige toepassingen.

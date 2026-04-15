@@ -7,6 +7,11 @@ summary: "Nieuwe AI-modellen zoals Claude Mythos kunnen zowel kwetsbaarheden vin
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91525413/is-mythos-a-blessing-or-a-curse-for-cybersecurity-it-depends-who-you-ask?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04112026"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De opkomst van geavanceerde AI-modellen zoals Claude Mythos verandert het cybersecurity-spel fundamenteel, waardoor zowel aanvallers als verdedigers krachtigere middelen krijgen. Voor ondernemers betekent dit dat de dreiging sneller kan evolueren, maar dat ook hun eigen verdediging slimmer kan worden.

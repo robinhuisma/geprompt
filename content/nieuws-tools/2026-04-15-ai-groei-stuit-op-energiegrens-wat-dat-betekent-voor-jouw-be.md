@@ -7,6 +7,11 @@ summary: "De explosieve vraag naar AI-rekenkracht botst op de fysieke grenzen va
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De groei van kunstmatige intelligentie wordt niet meer beperkt door software of chips, maar door de beschikbaarheid van elektriciteit. Bedrijven die afhankelijk zijn van grootschalige AI-toepassingen, zoals cloudproviders en techreuzen, zoeken daarom steeds vaker naar eigen, lokale energiebronnen om hun stroomhonger te stillen en hun groei veilig te stellen. Dit verschuift de concurrentie van de cloud naar de stroomvoorziening.

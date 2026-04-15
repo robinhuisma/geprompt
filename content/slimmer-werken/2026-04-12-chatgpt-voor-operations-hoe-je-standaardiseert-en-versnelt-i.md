@@ -7,6 +7,11 @@ summary: "ChatGPT helpt operations teams workflows te stroomlijnen, coördinatie
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/operations"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 ChatGPT kan operations teams helpen workflows te stroomlijnen, coördinatie te verbeteren, processen te standaardiseren en voor snellere uitvoering te zorgen. Dit maakt het een praktisch hulpmiddel voor Nederlandse MKB'ers die hun operationele processen willen verbeteren zonder grote investeringen in complexe software.

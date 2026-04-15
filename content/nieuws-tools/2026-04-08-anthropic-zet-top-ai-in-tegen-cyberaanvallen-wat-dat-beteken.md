@@ -7,6 +7,11 @@ summary: "AI-bedrijf Anthropic leent zijn krachtigste model uit voor cyberdefens
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91523254/anthropic-will-use-its-biggest-baddest-ai-model-to-protect-against-cyberattacks?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=04082026"
+cover:
+  image: "https://images.pexels.com/photos/29457540/pexels-photo-29457540.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Aerial view of a laptop on a wooden table surrounded by stylish chairs in a modern office."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Anthropic, het bedrijf achter de AI Claude, leent zijn aankomende krachtigste AI-model uit aan een industriebreed onderzoeksproject voor cyberdefensie. Dit betekent dat de geavanceerde mogelijkheden van dit model, genaamd 'Mythos', worden ingezet om nieuwe manieren te vinden om cyberaanvallen te detecteren en te voorkomen. Voor ondernemers kan dit op termijn leiden tot slimmere, betaalbaardere en effectievere beveiligingssoftware, zonder dat ze zelf in dure AI-infrastructuur hoeven te investeren.

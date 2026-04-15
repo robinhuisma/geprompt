@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model kan automatisch kwetsbaarheden vinden en misbruiken
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/10/wereldwijd-alarm-over-anthropic-mythos/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De opkomst van AI-modellen die zelfstandig kwetsbaarheden kunnen vinden en misbruiken, dwingt bedrijven om hun cybersecurity-fundament op orde te brengen. De reactietijd op nieuwe bedreigingen krimpt van dagen naar uren, wat betekent dat preventie en snelle detectie cruciaal worden.

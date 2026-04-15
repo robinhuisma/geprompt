@@ -7,6 +7,11 @@ summary: "Onderzoek toont aan dat 1 op de 10 antwoorden in Google's AI Overview 
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2075700/google-s-ai-overview-liegt-miljoenen-keren-per-uur-blijkt-uit-onderzoek.html"
+cover:
+  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A neat workspace featuring a laptop displaying Google search, a smartphone, and a notebook on a wooden desk."
+  caption: "Foto: Caio via Pexels"
+
 ---
 
 Google's AI Overview, het automatisch gegenereerde antwoord bovenin de zoekresultaten, bevat in ongeveer 10% van de gevallen onjuiste informatie. Dit betekent dat je als ondernemer niet blind kunt vertrouwen op deze geautomatiseerde antwoorden voor zakelijke beslissingen of klantinformatie, en dat een actieve controle noodzakelijk is.

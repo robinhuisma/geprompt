@@ -7,6 +7,11 @@ summary: "Wikipedia verbiedt AI-gegenereerde inhoud maar verkoopt wel data aan t
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/10/wikipedia-doet-ai-in-de-ban/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Wikipedia verbiedt AI-gegenereerde inhoud op haar platform, maar verkoopt tegelijkertijd dezelfde data aan grote techbedrijven voor AI-training. Deze dubbele standaard zet de discussie over de inzet van AI in je eigen bedrijf op scherp: wanneer is het verantwoord en wanneer ondermijnt het de betrouwbaarheid waar je organisatie op draait?

@@ -5,8 +5,9 @@ tags: ["ai-toepassing", "productiviteit", "automatisering", "data-analyse"]
 categorieen: ["creatief"]
 summary: "De nieuwe AI van OpenAI kan zelf applicaties zoals spreadsheets bedienen, maar hallucineert nog steeds. Dit biedt kansen en risico's voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-23-gpt-5-4-hallucineert-nog-steeds-rick-lamers-over-agi-timelin.webp"
-  alt: "GPT 5.4 hallucineert nog steeds + Rick Lamers over AGI-timelines"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "AI Report"
 source_url: "https://www.aireport.email/p/gpt-54-hallucineert-nog-steeds-rick"

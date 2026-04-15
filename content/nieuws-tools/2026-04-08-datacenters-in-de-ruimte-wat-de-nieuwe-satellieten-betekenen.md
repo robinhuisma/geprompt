@@ -7,6 +7,11 @@ summary: "Een datacenter in de ruimte wordt binnen enkele jaren even duur als op
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/170-miljoen-dollar-datacentre-ruimte"
+cover:
+  image: "https://images.pexels.com/photos/4597280/pexels-photo-4597280.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Contemporary computer on support between telecommunication racks and cabinets in modern data center"
+  caption: "Foto: Brett Sayles via Pexels"
+
 ---
 
 Een datacenter in de ruimte wordt binnen enkele jaren even duur als op aarde, en daarna zelfs goedkoper. Dit opent de deur voor nieuwe vormen van dataverwerking en specifieke commerciële toepassingen, vooral voor bedrijven die veel rekenkracht nodig hebben of op zoek zijn naar alternatieve energiebronnen voor hun operaties.

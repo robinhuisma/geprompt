@@ -7,6 +7,11 @@ summary: "Operate laat AI-agents taken op je eigen computer uitvoeren, van Power
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/sero-lanceert-operate-aimarketingagents-die-zelfstandig-werken"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Operate is een nieuwe tool van het Amsterdamse Sero die AI-agents de mogelijkheid geeft om zelfstandig taken uit te voeren op je eigen computer, zoals het aanpassen van PowerPoint-presentaties of het uitvoeren van diepgaand online onderzoek. Dit kan het werk van marketeers en e-commerce professionals aanzienlijk versnellen en uitbreiden, door handmatige taken te automatiseren en complexe projecten te managen.

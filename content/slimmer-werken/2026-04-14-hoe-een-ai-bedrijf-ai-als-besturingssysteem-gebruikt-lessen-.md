@@ -7,6 +7,11 @@ summary: "Bij AI-maker Anthropic gebruiken medewerkers Claude niet als losse too
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91524493/anthropic-claude-ai-workplace?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=9&amp;partner=newsletter&amp;campaign_date=04142026"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Bij AI-maker Anthropic is de chatbot Claude niet langer een losse tool, maar het centrale besturingssysteem waar alle dagelijkse werkzaamheden omheen draaien. Dit verschuift de rol van AI van een assistent die je af en toe raadpleegt naar een fundamentele laag in je bedrijfsvoering, vergelijkbaar met hoe een besturingssysteem de basis vormt voor alle applicaties op een computer.

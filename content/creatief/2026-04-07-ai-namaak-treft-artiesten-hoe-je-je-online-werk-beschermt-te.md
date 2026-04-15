@@ -5,8 +5,9 @@ tags: ["ai", "copyright", "intellectueel eigendom", "online bescherming"]
 categorieen: ["creatief"]
 summary: "AI maakt het makkelijk om creatief werk te kopiëren en te misbruiken, wat een risico vormt voor iedereen die online publiceert."
 cover:
-  image: "/images/covers/2026-04-07-a-folk-musician-became-a-target-for-ai-fakes-and-a-copyright.webp"
-  alt: "A folk musician became a target for AI fakes and a copyright troll"
+  image: "https://images.pexels.com/photos/7859260/pexels-photo-7859260.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Adult browsing flower images on a laptop, suggesting remote work, digital engagement."
+  caption: "Foto: Greta Hoffman via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"

@@ -7,6 +7,11 @@ summary: "Twee datalekken bij AI-leverancier Anthropic tonen aan dat de beveilig
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/02/kort-twee-datablunders-anthropic-in-een-week-vernieuwde-hp-laserjet%e2%80%91lijn-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De beveiliging van je leveranciers is een direct bedrijfsrisico voor je eigen bedrijf. Twee datalekken bij AI-leverancier Anthropic in één week laten zien hoe kwetsbaar je wordt door afhankelijkheid van externe code en diensten. Dit vraagt om een proactieve aanpak van leveranciersbeveiliging.

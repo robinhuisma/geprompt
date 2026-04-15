@@ -7,6 +7,11 @@ summary: "AI maakt bestaande bedrijfssoftware niet overbodig, maar verandert het
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partners/ai-maakt-software-niet-overbodig-het-maakt-haar-onmisbaar"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI-integratie maakt bestaande bedrijfssoftware niet overbodig, maar verandert het in de essentiële basislaag die kunstmatige intelligentie veilig en effectief laat werken. De echte waarde van AI ontstaat pas wanneer het verbonden is met de geharmoniseerde data en processen binnen geïntegreerde software, waardoor het concrete bedrijfsresultaten kan leveren in plaats van losse experimenten.

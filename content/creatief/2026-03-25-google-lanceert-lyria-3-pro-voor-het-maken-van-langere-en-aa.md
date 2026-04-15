@@ -5,8 +5,9 @@ tags: ["ai", "muziek", "creatief", "marketing"]
 categorieen: ["creatief"]
 summary: "Google's nieuwe Lyria 3 Pro maakt langere en beter aanpasbare AI-muziek, beschikbaar via Gemini en zakelijke tools."
 cover:
-  image: "/images/covers/2026-03-25-google-launches-lyria-3-pro-music-generation-model.webp"
-  alt: "Google launches Lyria 3 Pro music generation model"
+  image: "https://images.pexels.com/photos/4200831/pexels-photo-4200831.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek laptop on a wooden table with a mug, exemplifying a modern home workspace."
+  caption: "Foto: Jessica Lewis 🦋 thepaintedsquare via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"

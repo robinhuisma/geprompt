@@ -7,6 +7,11 @@ summary: "Microsoft test technologie om Copilot zelfstandig taken te laten uitvo
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+cover:
+  image: "https://images.pexels.com/photos/1181207/pexels-photo-1181207.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a blue keyboard with a branded cup on a table."
+  caption: "Foto: Christina Morillo via Pexels"
+
 ---
 
 Microsoft verkent de mogelijkheid om zijn Copilot AI-assistent zelfstandig taken te laten uitvoeren, zonder dat je er constant opdrachten aan hoeft te geven. Dit betekent een verschuiving van een reactieve tool naar een proactieve, autonome medewerker die 24/7 voor je kan werken.

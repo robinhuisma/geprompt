@@ -7,6 +7,11 @@ summary: "Uit onderzoek blijkt dat de Nederlandse horeca nog sterk leunt op pen 
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/07/kort-digitalisering-gaat-aan-horeca-voorbij-softwareone-helpt-utrecht-met-ai-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Uit onderzoek blijkt dat de Nederlandse horeca nog sterk leunt op pen en papier, terwijl eenvoudige digitale tools directe efficiëntiewinst kunnen opleveren. De digitale achterstand is een gemiste kans, maar ook een kans om met relatief kleine stappen vooruit te komen.

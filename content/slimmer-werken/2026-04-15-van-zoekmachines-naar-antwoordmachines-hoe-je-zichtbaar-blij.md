@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals ChatGPT tonen antwoorden zonder door te klikken,
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De opkomst van AI-zoekmachines zoals ChatGPT en Gemini betekent dat je contentstrategie moet verschuiven van het optimaliseren voor kliks naar het optimaliseren voor directe antwoorden. Als ondernemer moet je je afvragen of jouw bedrijf wordt genoemd wanneer een potentiële klant een vraag stelt over jouw vakgebied, zonder dat er nog wordt doorgeklikt naar een website.

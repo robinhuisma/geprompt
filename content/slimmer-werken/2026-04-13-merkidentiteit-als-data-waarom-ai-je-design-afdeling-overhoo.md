@@ -7,6 +7,11 @@ summary: "AI maakt merkconsistentie tot een organisatiebreed probleem, dat vraag
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/merkconsistentie-geen-design-organisatieprobleem"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het traditionele model van een centrale design-afdeling die de visuele identiteit bewaakt, houdt geen stand in een tijdperk van AI. Wanneer zowel designers als AI-tools content produceren zonder één gedeelde bron van waarheid, ontstaan onvermijdelijk inconsistentie en vertraging. De oplossing ligt niet in meer controle, maar in het omzetten van je merkidentiteit in gestructureerde data die voor elk systeem en elk team toegankelijk is.

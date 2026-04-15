@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals Google SGE beoordelen websites op 'entiteit-auto
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse group working on marketing strategies with charts and laptops in an office setting."
+  caption: "Foto: Kindel Media via Pexels"
+
 ---
 
 Om herkend te worden als autoriteit door AI-zoekmachines zoals Google's Search Generative Experience (SGE), moet je website niet alleen zoekwoorden bevatten, maar een coherent, onderling verbonden kennisnetwerk vormen rond de entiteiten (mensen, plaatsen, concepten, producten) waarover je schrijft. Dit vereist het doorbreken van de traditionele scheiding tussen SEO en contentcreatie.

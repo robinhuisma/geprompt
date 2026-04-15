@@ -5,8 +5,9 @@ tags: ["bots", "hosting", "analytics", "beveiliging"]
 categorieen: ["creatief"]
 summary: "De CEO van Cloudflare voorspelt dat in 2027 meer dan de helft van het internetverkeer door bots wordt gegenereerd, met gevolgen voor je hostingkosten en analytics."
 cover:
-  image: "/images/covers/2026-03-20-online-bot-traffic-will-exceed-human-traffic-by-2027-cloudfl.webp"
-  alt: "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"

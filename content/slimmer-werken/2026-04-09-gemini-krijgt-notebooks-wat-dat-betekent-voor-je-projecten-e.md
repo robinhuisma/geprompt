@@ -7,6 +7,11 @@ summary: "Google's nieuwe 'notebooks' in Gemini helpen je om alle informatie ron
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Gemini krijgt een functie waarmee je alle informatie rond een specifiek project, klant of onderwerp in één persoonlijke kennisbank kunt verzamelen en hergebruiken in gesprekken met de AI. Deze 'notebooks' synchroniseren straks ook met andere Google-producten, waardoor je context altijd bij de hand hebt.

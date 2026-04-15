@@ -5,8 +5,9 @@ tags: ["openai", "economie", "toekomst", "beleid"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI stelt radicale ideeën voor, zoals een robotbelasting, om de economische schok van AI op te vangen. Dit raakt ondernemers direct."
 cover:
-  image: "/images/covers/2026-04-07-openai-s-vision-for-the-ai-economy-public-wealth-funds-robot.webp"
-  alt: "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek"
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"

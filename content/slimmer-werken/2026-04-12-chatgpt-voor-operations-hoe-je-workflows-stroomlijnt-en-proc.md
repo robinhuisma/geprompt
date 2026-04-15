@@ -7,6 +7,11 @@ summary: "Operations teams gebruiken ChatGPT om workflows te stroomlijnen, coör
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/operations"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 ChatGPT helpt operations teams om workflows te stroomlijnen, coördinatie te verbeteren, processen te standaardiseren en snellere uitvoering te realiseren. Dit betekent dat je routinematige taken kunt automatiseren en interne communicatie kunt verbeteren, waardoor je team zich kan focussen op complexere problemen.

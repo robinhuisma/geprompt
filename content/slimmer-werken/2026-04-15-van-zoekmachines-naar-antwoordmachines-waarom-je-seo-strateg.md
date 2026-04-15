@@ -7,6 +7,11 @@ summary: "De klantreis begint steeds vaker in AI-zoekmachines zoals ChatGPT, wat
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De klantreis begint steeds vaker niet op Google, maar in een AI-zoekmachine zoals ChatGPT of Perplexity. Dit betekent dat traditionele SEO, gericht op het scoren in organische zoekresultaten, niet langer voldoende is. Je moet je content en online zichtbaarheid ook optimaliseren voor deze 'antwoordmachines'.

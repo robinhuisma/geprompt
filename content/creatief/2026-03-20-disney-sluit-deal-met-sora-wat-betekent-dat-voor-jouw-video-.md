@@ -5,8 +5,9 @@ tags: ["ai video", "contentcreatie", "marketing", "animatie"]
 categorieen: ["creatief"]
 summary: "Disney's miljardenpartnerschap met AI-videotool Sora markeert een kantelpunt voor de hele creatieve industrie, ook voor Nederlandse ondernemers."
 cover:
-  image: "/images/covers/2026-03-20-disney-sora-billion-dollar-partnership-signals-new-era.webp"
-  alt: "Disney + Sora: Billion Dollar Partnership Signals New Era"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/disney-sora-partnership"

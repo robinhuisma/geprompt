@@ -7,6 +7,11 @@ summary: "Microsoft onderzoekt 24/7 werkende AI-agents in Copilot, die taken vol
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Microsoft onderzoekt de integratie van autonome AI-agents, vergelijkbaar met het open-source platform OpenClaw, in zijn Copilot-assistent voor Microsoft 365. Het doel is om Copilot taken volledig zelfstandig en 24 uur per dag te laten uitvoeren, wat een fundamentele verschuiving betekent van een tool die reageert op opdrachten naar een agent die proactief handelt.

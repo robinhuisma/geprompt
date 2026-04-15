@@ -7,6 +7,11 @@ summary: "Sales enablement is een strategie die je verkoopteam ondersteunt met d
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17317717/what-is-sales-enablement"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Sales enablement is de strategische aanpak om je verkoopteam te voorzien van de juiste kennis, content, tools en processen, zodat ze in elke fase van het verkoopproces effectiever kunnen zijn. Het gaat niet om het vervangen van de verkoper, maar om het optimaliseren van hun werk door de juiste ondersteuning op het juiste moment te bieden.

@@ -7,6 +7,11 @@ summary: "OpenAI's Academy voor de zorg laat zien hoe beveiligde AI-tools zoals 
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/healthcare"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI kan binnen beveiligde, AVG-conforme platforms worden ingezet om zorgprofessionals te ondersteunen bij administratieve taken en bij het overwegen van diagnostische mogelijkheden. Dit blijkt uit de voorbeelden in OpenAI's 'Academy' voor de gezondheidszorg, die laat zien hoe tools als ChatGPT worden gebruikt voor documentatie en klinische ondersteuning.

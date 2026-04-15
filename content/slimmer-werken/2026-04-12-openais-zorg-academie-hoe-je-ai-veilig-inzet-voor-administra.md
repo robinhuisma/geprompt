@@ -7,6 +7,11 @@ summary: "OpenAI's nieuwe academie voor de zorg biedt concrete voorbeelden om AI
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/healthcare"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI heeft een specifieke academie gelanceerd voor de zorgsector, gericht op het veilig en compliant inzetten van AI-tools zoals ChatGPT. Dit biedt Nederlandse zorginstellingen een blauwdruk om AI te gebruiken voor administratieve ondersteuning en diagnostische hulp, binnen de kaders van de AVG.

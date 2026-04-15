@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals Google's AI Overviews kunnen verzonnen informati
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/the-ai-slop-loop/572090/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 AI-zoekmachines kunnen verzonnen informatie als feit presenteren, waardoor een 'slop loop' van misinformatie ontstaat waar ook ondernemers in terecht kunnen komen. Dit betekent dat je niet blindelings kunt vertrouwen op antwoorden van tools als Google's AI Overviews of andere AI-gebaseerde zoekassistenten, vooral niet voor zakelijke beslissingen. Je moet je eigen content en de informatie waarop je vertrouwt actief controleren.

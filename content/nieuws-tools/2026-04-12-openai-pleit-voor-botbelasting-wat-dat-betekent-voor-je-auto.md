@@ -7,6 +7,11 @@ summary: "OpenAI stelt voor om belasting te heffen op geautomatiseerde arbeid, w
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/openai-hef-belasting-geautomatiseerde-arbeid"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI stelt voor om belasting te heffen op geautomatiseerde arbeid, een idee dat de kostenstructuur van AI-implementatie voor bedrijven fundamenteel kan veranderen. Dit voorstel, dat in een discussiedocument naar voren wordt gebracht, is bedoeld om de verschuivende economische basis te adresseren als AI menselijke arbeid vervangt.

@@ -7,6 +7,11 @@ summary: "Microsoft onderzoekt 24/7 werkende AI-bots in Copilot, wat kan leiden 
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Autonome AI-assistenten die 24 uur per dag taken voor je kunnen uitvoeren in Microsoft 365 komen een stap dichterbij. Microsoft test volgens een rapport van The Information de integratie van OpenClaw-achtige technologie in Copilot, wat de weg vrijmaakt voor AI-bots die zelfstandig kunnen werken in een zakelijke omgeving.

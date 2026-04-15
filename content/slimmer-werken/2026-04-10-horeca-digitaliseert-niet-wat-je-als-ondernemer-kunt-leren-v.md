@@ -7,6 +7,11 @@ summary: "Nederlandse horeca werkt nog massaal met pen en papier, wat kansen voo
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/07/kort-digitalisering-gaat-aan-horeca-voorbij-softwareone-helpt-utrecht-met-ai-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De Nederlandse horeca loopt ver achter in digitalisering, wat een waarschuwing is voor elke ondernemer die denkt dat automatisering kan wachten. Onderzoek toont aan dat de sector nog steeds draait op handmatige processen, terwijl digitale tools directe efficiëntie en groeikansen bieden.

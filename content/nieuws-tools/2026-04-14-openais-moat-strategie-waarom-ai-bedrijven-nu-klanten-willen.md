@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo laat zien dat de AI-markt volwassen wordt, waard
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord is dat de AI-markt verschuift van een race om de beste technologie naar een strijd om de meest loyale gebruikers. OpenAI's interne memo, waarin de term 'moat' (slotgracht) centraal staat, maakt duidelijk dat bedrijven nu klanten willen binden en overstappen moeilijker willen maken. Voor ondernemers betekent dit dat de keuze voor een AI-platform steeds meer een strategische, langetermijnbeslissing wordt, gebaseerd op integratie en betrouwbaarheid, niet alleen op prestaties.

@@ -5,8 +5,9 @@ tags: ["ai", "klantenservice", "communicatie", "vertrouwen"]
 categorieen: ["creatief"]
 summary: "Google's nieuwe AI-model voor real-time gesprekken maakt het lastiger te horen of je met een mens of machine praat, wat gevolgen heeft voor klantcontact."
 cover:
-  image: "/images/covers/2026-03-26-the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-k.webp"
-  alt: "The debut of Gemini 3.1 Flash Live could make it harder to know if you&#039;re talking to a robot"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/"

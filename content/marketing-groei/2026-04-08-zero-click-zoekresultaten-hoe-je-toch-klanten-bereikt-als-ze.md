@@ -7,6 +7,11 @@ summary: "Bij 80% van de consumenten eindigt 40% van hun zoekopdrachten zonder e
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/zero-click-searches"
+cover:
+  image: "https://images.pexels.com/photos/5833273/pexels-photo-5833273.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Professionals analyzing financial data on a tablet and laptop in an office setting."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Bij 80% van de consumenten eindigt 40% van hun zoekopdrachten zonder een klik op een website, omdat ze hun antwoord direct in de zoekresultaten krijgen. Dit fenomeen, 'zero-click searches', kan je organische websiteverkeer met 15% tot 25% verminderen. De oplossing ligt niet in het vechten tegen deze trend, maar in het aanpassen van je content- en meetstrategie om zichtbaarheid om te zetten in autoriteit en uiteindelijk klanten.

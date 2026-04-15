@@ -5,8 +5,9 @@ tags: ["ai-beleid", "ethiek", "privacy", "leveranciers"]
 categorieen: ["creatief"]
 summary: "De keuze voor een AI-tool draait niet meer alleen om snelheid, maar ook om ethisch handelen, privacy en veelzijdigheid. Dit is hoe je dat meeneemt."
 cover:
-  image: "/images/covers/2026-03-08-mac-mini-s-voor-ai-niet-aan-te-slepen-en-plots-succes-claude.webp"
-  alt: "Mac mini's voor AI niet aan te slepen en plots succes Claude: we stellen meer eisen aan AI"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/1747865/mac-mini-s-voor-ai-niet-aan-te-slepen-en-plots-succes-claude-meer-eisen-aan-ai.html"

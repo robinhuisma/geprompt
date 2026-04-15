@@ -7,6 +7,11 @@ summary: "Wikipedia verbiedt AI-inhoud maar verkoopt data aan techreuzen, een cr
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/10/wikipedia-doet-ai-in-de-ban/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De praktische les van Wikipedia's AI-beleid is dat een halfslachtige aanpak risico's creëert: je kunt niet intern streng zijn en extern alles verkopen zonder je principes te ondermijnen. Voor ondernemers betekent dit dat een AI-beleid alle facetten van de organisatie moet dekken, van contentcreatie tot commerciële partnerschappen, om geloofwaardig en effectief te zijn.

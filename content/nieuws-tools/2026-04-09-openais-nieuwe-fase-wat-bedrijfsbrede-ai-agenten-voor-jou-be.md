@@ -7,6 +7,11 @@ summary: "OpenAI schetst de volgende fase van zakelijke AI, met 'bedrijfsbrede a
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/next-phase-of-enterprise-ai"
+cover:
+  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
+
 ---
 
 OpenAI positioneert zichzelf steeds meer als een leverancier voor het hele bedrijf, niet alleen voor individuele gebruikers. De volgende fase draait om het inzetten van AI op bedrijfsbrede schaal, met zogenaamde 'bedrijfsbrede AI-agenten' en krachtige 'Frontier'-modellen die complexe, multi-stap taken kunnen uitvoeren. Dit betekent dat automatisering verder gaat dan eenmalige taken en complete workflows kan overnemen.

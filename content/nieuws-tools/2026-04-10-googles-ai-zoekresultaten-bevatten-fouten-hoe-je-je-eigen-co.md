@@ -7,6 +7,11 @@ summary: "Een op de tien AI-antwoorden in Google Search is onjuist, wat ondernem
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google's AI-gegenereerde zoekoverzichten geven in ongeveer 10% van de gevallen een onjuist antwoord. Dit betekent dat er dagelijks tientallen miljoenen foutieve antwoorden worden getoond aan gebruikers. Voor ondernemers die afhankelijk zijn van online vindbaarheid en accurate informatie-uitwisseling, is het cruciaal om te begrijpen hoe ze hun eigen digitale aanwezigheid kunnen inrichten om de impact van dergelijke AI-fouten te beperken.

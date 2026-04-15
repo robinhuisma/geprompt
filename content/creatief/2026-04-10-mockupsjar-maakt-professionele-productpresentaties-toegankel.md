@@ -7,6 +7,11 @@ summary: "Met het webplatform MockupsJar zet je platte ontwerpen in seconden om 
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315993/mockupsjar-build-professional-screen-and-product-mockups-instantly"
+cover:
+  image: "https://images.pexels.com/photos/5393557/pexels-photo-5393557.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Women in an art studio analyzing sketches and sculptures for design evaluation."
+  caption: "Foto: KATRIN  BOLOVTSOVA via Pexels"
+
 ---
 
 Met MockupsJar zet je platte ontwerpen in seconden om in realistische, professionele mockups voor je website, pitchdeck of social media. Het webplatform vervangt dure fotografie en complexe software, waardoor je zelf snel overtuigende visuele presentaties kunt maken.

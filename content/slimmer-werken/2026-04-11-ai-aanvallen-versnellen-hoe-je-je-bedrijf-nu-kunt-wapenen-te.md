@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model kan kwetsbaarheden in software razendsnel vinden en
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/10/wereldwijd-alarm-over-anthropic-mythos/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een nieuw type AI-aanval versnelt de digitale dreiging zo sterk dat traditionele beveiliging niet meer volstaat. De tijd om te reageren op een ontdekte kwetsbaarheid krimpt van dagen naar uren, waardoor je bedrijf kwetsbaarder is dan ooit. Dit vraagt om een fundamenteel andere aanpak van cybersecurity, waarbij de verantwoordelijkheid verschuift van de IT-afdeling naar de directie.

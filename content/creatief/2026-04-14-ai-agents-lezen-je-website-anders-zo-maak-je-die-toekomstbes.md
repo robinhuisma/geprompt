@@ -7,6 +7,11 @@ summary: "AI-agents 'zien' je website via code en structuur; met semantische HTM
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 AI-agents interpreteren je website fundamenteel anders dan menselijke bezoekers of zoekmachines. Ze 'lezen' de onderliggende code en structuur om taken uit te voeren, zoals het boeken van een vlucht of het vergelijken van producten. Om hierop voorbereid te zijn, moet je website gebouwd zijn met semantische HTML, toegankelijkheidspatronen en zichtbare, server-rendered content.

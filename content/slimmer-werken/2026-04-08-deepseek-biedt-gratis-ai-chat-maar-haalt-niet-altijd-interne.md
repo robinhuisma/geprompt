@@ -5,8 +5,9 @@ tags: ["deepseek", "chatgpt", "ai-chatbot", "kosten"]
 categorieen: ["slimmer-werken"]
 summary: "DeepSeek is een gratis alternatief voor ChatGPT, maar mist internettoegang en kampt met toegankelijkheidsproblemen."
 cover:
-  image: "/images/covers/2026-04-08-i-tested-deepseek-vs-chatgpt-with-5-prompts.webp"
-  alt: "I tested DeepSeek vs ChatGPT with 5 prompts"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"

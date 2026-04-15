@@ -7,6 +7,11 @@ summary: "Een nieuwe AI-tool genaamd VisiPrint genereert realistische visuele pr
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Een nieuwe AI-tool genaamd VisiPrint genereert realistische visuele previews van 3D-prints, zodat makers in één keer het juiste materiaal en ontwerp kiezen. Dit voorkomt mislukte prints en bespaart tijd, geld en materiaal, wat de duurzaamheid van het prototyping-proces aanzienlijk verbetert.

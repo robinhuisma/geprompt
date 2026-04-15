@@ -7,6 +7,11 @@ summary: "De echte waarde in creatieve sectoren verschuift van perfecte AI-conte
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91521779/the-future-of-music-is-human-generated?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=04092026"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De echte waarde in creatieve sectoren verschuift van perfect gegenereerde content naar authentieke, menselijke imperfectie. Waar de industrie zich druk maakt over auteursrecht van AI, groeit de vraag naar het ongemaakte en het echte. Dit biedt ondernemers een kans om hun menselijke kant als unieke verkoopkracht te positioneren.

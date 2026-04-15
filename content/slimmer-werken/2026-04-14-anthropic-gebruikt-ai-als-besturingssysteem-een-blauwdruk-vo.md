@@ -7,6 +7,11 @@ summary: "AI-bedrijf Anthropic gebruikt zijn eigen chatbot Claude als centraal '
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91524493/anthropic-claude-ai-workplace?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=8&amp;partner=newsletter&amp;campaign_date=04142026"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord is dat je een AI-chatbot, zoals Claude, kunt inzetten als een centraal 'besturingssysteem' voor je bedrijfsprocessen. Dit betekent dat medewerkers niet af en toe een vraag stellen, maar dat de AI de kern wordt van hoe werk wordt georganiseerd, gecoördineerd en uitgevoerd. Het voorbeeld komt van AI-bedrijf Anthropic zelf, dat deze aanpak intern heeft doorgevoerd.

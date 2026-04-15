@@ -7,6 +7,11 @@ summary: "Merken ontwikkelen strategieën om gevonden te worden door AI-assisten
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=04102026"
+cover:
+  image: "https://images.pexels.com/photos/15555955/pexels-photo-15555955.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A top view of social media marketing text alongside graphic design books and a keyboard."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Het antwoord is dat grote merken en marketingbureaus nu strategieën ontwikkelen om gevonden te worden door AI-assistenten zoals ChatGPT, Claude en Gemini. Dit wordt gezien als een nieuwe, essentiële vorm van 'zoekmachineoptimalisatie' voor het AI-tijdperk, waarbij de regels anders zijn dan bij traditionele SEO.

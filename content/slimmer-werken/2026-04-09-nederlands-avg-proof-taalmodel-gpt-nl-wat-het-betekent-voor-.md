@@ -7,6 +7,11 @@ summary: "Nederland bouwt met 13,5 miljoen euro een eigen, AVG-proof taalmodel g
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saskia-lensink-tno-gpt-nl"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Nederland bouwt een eigen, AVG-proof taalmodel genaamd GPT-NL, dat een veilig en Nederlands alternatief moet worden voor Amerikaanse AI-tools in gevoelige sectoren. Het model is nu in een proeffase bij enkele overheidsorganisaties en kan op termijn een belangrijke rol spelen voor bedrijven die met privacygevoelige gegevens werken.

@@ -7,6 +7,11 @@ summary: "AI-tools maken merkbeheer een organisatievraagstuk; de oplossing ligt 
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/merkconsistentie-geen-design-organisatieprobleem"
+cover:
+  image: "https://images.pexels.com/photos/7794050/pexels-photo-7794050.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Focused group working on business strategy with laptop and charts at modern workplace."
+  caption: "Foto: Yan Krukau via Pexels"
+
 ---
 
 Het antwoord op de vraag hoe je als MKB'er merkconsistentie behoudt bij het gebruik van AI, ligt niet in het vinden van de perfecte tool, maar in het anders inrichten van je organisatie. De kern is dat je merkidentiteit niet langer een creatieve interpretatie mag zijn, maar gestructureerde data moet worden die voor iedereen – mens en AI – dezelfde 'single source of truth' is.

@@ -7,6 +7,11 @@ summary: "Oracle sluit een deal voor lokale energieopwekking bij datacenters, ee
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Oracle zet in op lokale energieopwekking om de enorme stroomvraag van AI-rekenkracht te kunnen blijven voeden. Deze aanpak biedt een concrete blauwdruk voor Nederlandse bedrijven die zelf AI-servers draaien en tegen netbeperkingen aanlopen.

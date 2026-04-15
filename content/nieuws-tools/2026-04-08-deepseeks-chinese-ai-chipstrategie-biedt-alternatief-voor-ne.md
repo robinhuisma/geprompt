@@ -5,8 +5,9 @@ tags: ["ai-infrastructuur", "leveranciersstrategie", "diversificatie", "chips"]
 categorieen: ["nieuws-tools"]
 summary: "Het Chinese AI-bedrijf DeepSeek bouwt zijn eigen infrastructuur om minder afhankelijk te zijn van Amerikaanse chips, wat nieuwe opties creëert voor diversificatie."
 cover:
-  image: "/images/covers/2026-04-08-zo-wordt-het-chinese-deepseek-minder-afhankelijk-van-amerika.webp"
-  alt: "Zo wordt het Chinese DeepSeek minder afhankelijk van Amerika"
+  image: "https://images.pexels.com/photos/30855412/pexels-photo-30855412.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of wooden Scrabble tiles spelling 'China' and 'Deepseek' on a wooden surface."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2074593/zo-wordt-het-chinese-deepseek-minder-afhankelijk-van-amerika.html"

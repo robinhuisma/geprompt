@@ -5,8 +5,9 @@ tags: ["seo", "ai", "contentmarketing", "vindbaarheid"]
 categorieen: ["slimmer-werken"]
 summary: "Generative Engine Optimization (GEO) past je content aan zodat AI-tools je als bron kunnen gebruiken, wat essentieel wordt voor toekomstige vindbaarheid."
 cover:
-  image: "/images/covers/2026-04-15-8-generative-engine-optimization-best-practices-your-strateg.webp"
-  alt: "8 generative engine optimization best practices your strategy needs"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/generative-engine-optimization-best-practices"

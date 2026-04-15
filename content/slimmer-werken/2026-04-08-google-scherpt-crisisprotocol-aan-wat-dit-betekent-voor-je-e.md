@@ -7,6 +7,11 @@ summary: "Google heeft de crisisrespons van Gemini aangepast, een zaak die ieder
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google heeft de manier waarop zijn AI-chatbot Gemini reageert op signalen van een mentale gezondheidscrisis aangepast, naar aanleiding van een rechtszaak. Deze ontwikkeling is een praktische les voor elke ondernemer of professional die met AI-tools werkt: het benadrukt het belang van het vooraf doordenken van risico's en het inbouwen van veiligheidsprotocollen, zelfs in schijnbaar eenvoudige automatiseringen.

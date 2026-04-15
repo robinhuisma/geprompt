@@ -7,6 +7,11 @@ summary: "Google's Gemini 3.1 Flash Live maakt AI-gesprekken zo snel en natuurli
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Het wordt steeds moeilijker om een AI-robot aan de telefoon te herkennen. Google's nieuwe AI-model, Gemini 3.1 Flash Live, is speciaal ontworpen voor real-time gesprekken en produceert spraak met een natuurlijker cadans en minder vertraging, waardoor de grens tussen mens en machine vervaagt.

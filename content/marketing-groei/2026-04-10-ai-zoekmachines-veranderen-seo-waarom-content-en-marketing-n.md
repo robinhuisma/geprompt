@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals Google's SGE belonen 'entity authority', wat vra
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/5833273/pexels-photo-5833273.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Professionals analyzing financial data on a tablet and laptop in an office setting."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Het succes in AI-gedreven zoekmachines zoals Google's Search Generative Experience (SGE) wordt steeds minder bepaald door losse zoekwoorden en backlinks, en steeds meer door 'entity authority'. Dit is het vermogen van een merk of onderwerp om door zoekmachines als een betrouwbare, allesomvattende autoriteit op een specifiek gebied te worden herkend. Om dit te bereiken, moeten de traditionele silo's tussen contentcreatie en SEO-techniek worden geslecht.

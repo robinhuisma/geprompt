@@ -7,6 +7,11 @@ summary: "AI-bedrijf Anthropic laat zien hoe je een chatbot als Claude kunt inze
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91524493/anthropic-claude-ai-workplace?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=4&amp;partner=newsletter&amp;campaign_date=04132026"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Medewerkers bij AI-bedrijf Anthropic gebruiken de chatbot Claude niet als losse tool, maar als het centrale 'besturingssysteem' voor vrijwel al hun werk. Dit betekent dat ze niet af en toe een vraag stellen, maar dat Claude geïntegreerd is in hun dagelijkse workflow voor taken zoals notuleren, coderen, brainstormen en analyseren.

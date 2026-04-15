@@ -5,8 +5,9 @@ tags: ["openai", "ai-kosten", "bedrijfsstrategie", "tech-nieuws"]
 categorieen: ["nieuws-tools"]
 summary: "De interne verschuivingen bij OpenAI kunnen leiden tot hogere kosten en minder stabiele producten voor bedrijven die afhankelijk zijn van tools als ChatGPT."
 cover:
-  image: "/images/covers/2026-04-15-chatgpt-duurder-geen-lol-meer-stoelendans-in-de-top-het-romm.webp"
-  alt: "ChatGPT duurder, geen lol meer, stoelendans in de top: het rommelt bij OpenAI"
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076447/chatgpt-duurder-geen-lol-meer-stoelendans-in-de-top-het-rommelt-bij-openai.html"

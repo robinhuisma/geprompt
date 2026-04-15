@@ -7,6 +7,11 @@ summary: "OpenAI breidt een vertrouwd toegangsprogramma uit met een gespecialise
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI breidt een speciaal toegangsprogramma uit voor cybersecurity-professionals en introduceert daarin een nieuw, gespecialiseerd AI-model genaamd GPT-5.4-Cyber. Dit betekent dat geverifieerde verdedigers, zoals CERT-teams en beveiligingsonderzoekers, toegang krijgen tot geavanceerdere AI-hulpmiddelen om bedreigingen te analyseren en te bestrijden, terwijl OpenAI tegelijkertijd de veiligheidsmaatregelen rond deze krachtige technologie aanscherpt.

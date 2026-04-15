@@ -7,6 +7,11 @@ summary: "Grote merken experimenteren met AIEO om zichtbaar te blijven in AI-zoe
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=04102026"
+cover:
+  image: "https://images.pexels.com/photos/5717809/pexels-photo-5717809.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person analyzes stock data with a smartphone and laptop, indoors."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 Het antwoord is dat grote merken en marketingbureaus nu experimenteren met 'AI Engine Optimization' (AIEO) om ervoor te zorgen dat hun content goed wordt weergegeven en aanbevolen door AI-assistenten zoals ChatGPT, Claude en Gemini. Dit is een nieuwe praktijk die verder gaat dan traditionele SEO, omdat AI's informatie anders interpreteren en samenvatten voor gebruikers.

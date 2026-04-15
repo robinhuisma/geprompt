@@ -7,6 +7,11 @@ summary: "Meer dan de helft van SaaS-kopers begint hun zoektocht bij een AI-chat
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-for-saas-companies"
+cover:
+  image: "https://images.pexels.com/photos/29828496/pexels-photo-29828496.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Tablet displaying cryptocurrency growth chart in a digital workspace."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een AEO-strategie voor SaaS-bedrijven draait om het zichtbaar en begrijpelijk maken van je product voor AI-gestuurde zoeksystemen, zodat je meer relevante prospects naar een proefabonnement leidt. Het klassieke SEO-model volstaat niet meer, omdat de manier waarop zakelijke kopers software ontdekken fundamenteel is veranderd.

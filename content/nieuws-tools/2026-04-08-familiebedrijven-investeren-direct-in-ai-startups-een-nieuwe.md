@@ -7,6 +7,11 @@ summary: "Vermogende families en ondernemers omzeilen steeds vaker durfkapitaalf
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
+cover:
+  image: "https://images.pexels.com/photos/2451646/pexels-photo-2451646.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Bird's-eye view of a modern office with professionals collaborating on laptops and monitors."
+  caption: "Foto: Proxyclick Visitor Management System via Pexels"
+
 ---
 
 De trend waarbij vermogende families en ondernemers direct in AI-startups investeren, buiten durfkapitaalfondsen (VC's) om, biedt meer invloed en mogelijk rendement, maar brengt ook aanzienlijk meer risico en werk met zich mee. Dit is een fundamentele verschuiving in de financieringswereld, waarbij private wealth actief deelneemt in plaats van passief via een fonds belegt.

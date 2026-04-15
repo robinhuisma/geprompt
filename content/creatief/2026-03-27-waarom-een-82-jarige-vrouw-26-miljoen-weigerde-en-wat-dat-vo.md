@@ -5,8 +5,9 @@ tags: ["ai-infrastructuur", "data centers", "lokale overheid", "groei"]
 categorieen: ["creatief"]
 summary: "De groei van AI stuit op praktische grenzen: lokale bezwaren, grondpolitiek en infrastructuur beperken waar en hoe snel techreuzen kunnen bouwen."
 cover:
-  image: "/images/covers/2026-03-27-vcs-are-betting-billions-on-ai-8217-s-next-wave-so-why-is-op.webp"
-  alt: "VCs are betting billions on AI&#8217;s next wave, so why is OpenAI killing Sora?"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/"

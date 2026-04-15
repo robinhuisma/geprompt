@@ -5,8 +5,9 @@ tags: ["creatief", "foto", "ai-modellen", "archief"]
 categorieen: ["creatief"]
 summary: "Je kunt oude, beschadigde foto's uit je bedrijfsarchief professioneel herstellen en zelfs inkleuren met gratis AI-modellen die je zelf installeert."
 cover:
-  image: "/images/covers/2026-03-10-ai-powered-photo-restoration-using-qwen-image-edit.webp"
-  alt: "Ai Powered Photo Restoration using QWEN Image Edit"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"

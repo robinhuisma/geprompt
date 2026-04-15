@@ -7,6 +7,11 @@ summary: "AI versnelt contentcreatie zo hard dat merkconsistentie een organisato
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/merkconsistentie-geen-design-organisatieprobleem"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De opkomst van AI bij het maken van content en campagnes maakt merkconsistentie niet langer een creatieve, maar een organisatorische uitdaging. Het probleem is niet het ontwerp zelf, maar het proces om ervoor te zorgen dat zowel menselijke designers als AI-tools werken vanuit één, eenduidige bron van waarheid voor het merk.

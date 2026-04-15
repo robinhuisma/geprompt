@@ -5,8 +5,9 @@ tags: ["deepfakes", "reputatiemanagement", "cybersecurity", "social media"]
 categorieen: ["creatief"]
 summary: "Meta krijgt kritiek op het onvoldoende labelen van AI-beelden, wat ondernemers kwetsbaar maakt voor deepfake-fraude en reputatieschade."
 cover:
-  image: "/images/covers/2026-03-14-meta-moet-beter-waarschuwen-voor-deepfakes-en-ai-nepnieuws.webp"
-  alt: "Meta moet beter waarschuwen voor deepfakes en AI-nepnieuws"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1750233/meta-moet-beter-waarschuwen-voor-deepfakes-en-ai-nepnieuws.html"

@@ -5,8 +5,9 @@ tags: ["ai-strategie", "verdienmodel", "timing", "productontwikkeling"]
 categorieen: ["creatief"]
 summary: "Ondanks de schijnbare achterstand in de hype, heeft Apple een winstgevend AI-model gebouwd op bestaande producten en privacy."
 cover:
-  image: "/images/covers/2026-03-19-ondanks-alles-weet-apple-toch-goed-te-verdienen-aan-ai.webp"
-  alt: "Ondanks alles weet Apple toch goed te verdienen aan AI"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068314/ondanks-alles-weet-apple-toch-goed-te-verdienen-aan-ai.html"

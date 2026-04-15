@@ -7,6 +7,11 @@ summary: "AI-automatisering in advertentieplatforms vraagt om een fundamenteel a
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/"
+cover:
+  image: "https://images.pexels.com/photos/5717761/pexels-photo-5717761.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Over the shoulder view of a man analyzing financial data on a laptop screen."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 Het antwoord is dat je je PPC-prestaties anders moet gaan meten. De opkomst van AI-geautomatiseerde advertentieveilingen in platforms zoals Google Ads maakt traditionele metrics zoals kosten-per-klik (CPC) en klik-through-rate (CTR) minder betrouwbaar als enige graadmeter. Je focus moet verschuiven naar metriek die directe bedrijfswinst en klantwaarde meten, zoals winst per conversie en Customer Lifetime Value (CLV).

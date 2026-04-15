@@ -7,6 +7,11 @@ summary: "Het optimaliseren van je productfeed is een ondergewaardeerde SEO-stra
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Een productfeed is geen technisch archief, maar een dynamisch verkoopkanaal. Door de informatie in je feed te optimaliseren voor zoekintentie en gestructureerde data, verbeter je direct je vindbaarheid in zoekmachines, op prijsvergelijkingssites en in opkomende AI-zoekomgevingen, wat leidt tot meer relevant verkeer en hogere conversie.

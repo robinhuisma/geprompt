@@ -7,6 +7,11 @@ summary: "Zero-click zoekresultaten geven antwoorden direct in Google, waardoor 
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/zero-click-searches"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Zero-click zoekresultaten geven antwoorden direct in Google, waardoor je minder organisch verkeer krijgt. Dit vraagt om een nieuwe SEO-aanpak, gericht op zichtbaarheid in de zoekresultaten zelf in plaats van alleen op klikken.

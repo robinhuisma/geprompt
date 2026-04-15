@@ -7,6 +7,11 @@ summary: "OpenAI's Academy biedt richtlijnen voor zorgprofessionals om ChatGPT H
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/healthcare"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI biedt via zijn 'Academy'-platform specifieke richtlijnen voor zorgprofessionals over het veilig en compliant inzetten van AI, zoals ChatGPT. Dit richt zich op het ondersteunen van klinische taken zoals documentatie en diagnostiek, binnen strikte privacykaders zoals HIPAA, de Amerikaanse tegenhanger van de AVG.

@@ -7,6 +7,11 @@ summary: "Een hybride aanpak van AI en menselijke coaching lost het schaalbaarhe
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/ai-sales-coaching-vs-human-sales-coaching-the-hybrid-approach-that-drives-results/"
+cover:
+  image: "https://images.pexels.com/photos/5833272/pexels-photo-5833272.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Business professionals reviewing financial charts on digital devices in a modern office setting."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Een hybride aanpak die AI en menselijke coaching combineert, biedt de oplossing voor het schaalbaarheidsprobleem in sales. Door de repetitieve analyse aan AI over te laten en de strategische gesprekken aan mensen, kun je vaker en effectiever coachen met dezelfde middelen.

@@ -7,6 +7,11 @@ summary: "Interne spanningen en een nieuwe focus op winst bij OpenAI kunnen leid
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076447/chatgpt-duurder-geen-lol-meer-stoelendans-in-de-top-het-rommelt-bij-openai.html"
+cover:
+  image: "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Modern workspace showcasing Apple laptop, tablet, and smartphone on a wooden desk."
+  caption: "Foto: Pixabay via Pexels"
+
 ---
 
 De interne veranderingen en spanningen bij OpenAI kunnen directe gevolgen hebben voor de kosten en betrouwbaarheid van AI-tools waar Nederlandse bedrijven op vertrouwen. Het bedrijf schakelt van een onderzoeksgerichte 'non-profit' mentaliteit naar een commerciële focus, wat kan leiden tot prijsverhogingen en een minder voorspelbare ontwikkelingsroadmap voor producten zoals de ChatGPT API.

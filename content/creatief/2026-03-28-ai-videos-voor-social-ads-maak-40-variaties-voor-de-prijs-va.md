@@ -5,8 +5,9 @@ tags: ["video", "marketing", "ai tools", "social media"]
 categorieen: ["creatief"]
 summary: "Met tools als ClipMake.ai maak je voor een paar euro per stuk AI-video's voor A/B-testing, zodat je sneller kunt experimenteren met social ads."
 cover:
-  image: "/images/covers/2026-03-28-clipmake-replace-300-ugc-creators-with-ai-video-ads-at-2-50-.webp"
-  alt: "ClipMake: Replace $300 UGC Creators with AI Video Ads at $2.50 Each"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17307907/clipmake-ai-ugc-video-ads-replace-creators"

@@ -7,6 +7,11 @@ summary: "Een ontwikkelaar claimt Google's AI-watermerk te kunnen verwijderen of
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een ontwikkelaar claimt het watermerksysteem van Google te hebben gekraakt, waardoor AI-watermerken verwijderd of vervalst kunnen worden. Dit zet vraagtekens bij de betrouwbaarheid van deze techniek als enige bewijs van authenticiteit voor digitale content. Voor ondernemers betekent dit dat ze niet blind kunnen varen op watermerken om AI-gegenereerd werk te identificeren of te beschermen.

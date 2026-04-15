@@ -7,6 +7,11 @@ summary: "Een praktische gids voor Nederlandse startups om de domeinautoriteitsk
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands using smartphone beside laptop with stock charts, showcasing digital trading."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
+
 ---
 
 Voor een startup is de grootste uitdaging in SEO niet het vinden van de juiste zoekwoorden, maar het overbruggen van de enorme domeinautoriteitskloof met gevestigde bedrijven. Dit kan door je technische fundament op orde te brengen, jezelf via structured data expliciet aan Google voor te stellen, en slim gebruik te maken van PR-momenten om snel autoriteit op te bouwen.

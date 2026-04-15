@@ -7,6 +7,11 @@ summary: "Met custom GPT's van OpenAI kun je eenvoudig eigen AI-assistenten make
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/custom-gpts"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Met custom GPT's van OpenAI kun je zelf eenvoudig een AI-assistent bouwen die is afgestemd op een specifieke taak binnen je bedrijf, zoals het opstellen van offertes of het schrijven van content. Dit stelt je in staat om workflows te automatiseren, consistente resultaten te garanderen en een op maat gemaakte assistent te creëren zonder diepgaande technische kennis.

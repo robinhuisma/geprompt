@@ -7,6 +7,11 @@ summary: "Twee menselijke fouten bij Anthropic tonen aan dat zelfs AI-giganten k
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/02/kort-twee-datablunders-anthropic-in-een-week-vernieuwde-hp-laserjet%e2%80%91lijn-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De recente datablunders bij AI-bedrijf Anthropic zijn een scherpe herinnering dat de grootste beveiligingsrisico's vaak van binnenuit komen, niet van externe hackers. Voor ondernemers betekent dit dat het versterken van interne processen en toegangscontroles net zo cruciaal is als het installeren van firewalls, ongeacht de bedrijfsgrootte.

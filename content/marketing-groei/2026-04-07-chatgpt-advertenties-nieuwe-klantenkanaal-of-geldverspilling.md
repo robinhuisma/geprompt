@@ -5,8 +5,9 @@ tags: ["chatgpt", "adverteren", "marketing", "acquisitie"]
 categorieen: ["marketing-groei"]
 summary: "OpenAI maakt adverteren in ChatGPT breder beschikbaar, maar of het voor jouw bedrijf werkt hangt af van je doelgroep en type product."
 cover:
-  image: "/images/covers/2026-04-07-chatgpt-ads-new-acquisition-channel-or-just-another-brand-ta.webp"
-  alt: "ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax? via @sejournal, @brookeosmundson"
+  image: "https://images.pexels.com/photos/15595051/pexels-photo-15595051.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A desktop setup with social media marketing essentials including a keyboard, lightbox, and guide."
+  caption: "Foto: Walls.io via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/"

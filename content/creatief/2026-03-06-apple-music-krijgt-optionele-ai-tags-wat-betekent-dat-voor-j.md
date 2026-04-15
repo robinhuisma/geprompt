@@ -5,8 +5,9 @@ tags: ["muziek", "ai", "creatief", "auteursrecht"]
 categorieen: ["creatief"]
 summary: "Apple Music introduceert optionele tags om AI-gemaakte muziek te markeren, een vrijwillig systeem dat vragen oproept over transparantie en auteursrecht."
 cover:
-  image: "/images/covers/2026-03-06-apple-music-to-add-transparency-tags-to-distinguish-ai-music.webp"
-  alt: "Apple Music to add Transparency Tags to distinguish AI music, says report"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/"

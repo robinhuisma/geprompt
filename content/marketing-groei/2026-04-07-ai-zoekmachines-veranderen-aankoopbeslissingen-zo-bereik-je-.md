@@ -7,6 +7,11 @@ summary: "Onderzoek toont hoe AI-zoekmachines consumenten begeleiden bij belangr
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/"
+cover:
+  image: "https://images.pexels.com/photos/6476258/pexels-photo-6476258.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Overhead view of a team discussing digital marketing strategies with laptops and charts."
+  caption: "Foto: Mikael Blomkvist via Pexels"
+
 ---
 
 AI-zoekmachines zoals Google's Gemini en OpenAI's ChatGPT worden steeds vaker gebruikt als startpunt voor belangrijke aankopen, wat een fundamentele verschuiving in consumentengedrag betekent. Voor ondernemers betekent dit dat zichtbaarheid in deze AI-gesprekken cruciaal wordt om klanten te bereiken in hun beslissingsproces.

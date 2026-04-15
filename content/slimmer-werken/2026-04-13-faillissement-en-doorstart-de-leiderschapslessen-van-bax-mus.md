@@ -7,6 +7,11 @@ summary: "Mede-oprichter Jochanan Bax deelt hoe hij zijn team door een faillisse
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/verhaal-bax-music-emerce-ecommerce-live"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord op de vraag hoe je een organisatie veerkrachtig maakt, komt niet uit een theorieboek maar uit de praktijk van een faillissement. Jochanan Bax, mede-oprichter van Bax Music, leidde zijn bedrijf door een brand, een hoge schuldenlast en uiteindelijk een faillissement in april 2025, om daarna een doorstart te maken. Zijn belangrijkste les: veerkracht bouw je door transparantie naar je team en een radicale herpositionering van je bedrijf.

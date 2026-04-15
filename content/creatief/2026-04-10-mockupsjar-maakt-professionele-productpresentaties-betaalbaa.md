@@ -7,6 +7,11 @@ summary: "Met het webplatform MockupsJar kunnen ondernemers zonder designbudget 
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315993/mockupsjar-build-professional-screen-and-product-mockups-instantly"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Met MockupsJar kunnen ondernemers zonder designbudget hun producten en apps in realistische omgevingen presenteren. Het webplatform zet platte ontwerpen om in professionele mockups, waardoor je geen dure fotoshoots of complexe software zoals Photoshop meer nodig hebt.

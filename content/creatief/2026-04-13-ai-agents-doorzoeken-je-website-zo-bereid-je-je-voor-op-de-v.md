@@ -7,6 +7,11 @@ summary: "AI-agents zoals ChatGPT lezen websites fundamenteel anders dan mensen;
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 AI-agents zoals ChatGPT lezen en interpreteren je website fundamenteel anders dan menselijke bezoekers of traditionele zoekmachines. Om ervoor te zorgen dat deze opkomende klasse van digitale assistenten je content correct begrijpt en kan gebruiken, moet je website technisch worden gebouwd met semantische HTML, toegankelijke patronen en zichtbare, server-rendered content. Dit is geen toekomstmuziek, maar een praktische voorbereiding op hoe AI steeds vaker het web zal doorzoeken namens gebruikers.

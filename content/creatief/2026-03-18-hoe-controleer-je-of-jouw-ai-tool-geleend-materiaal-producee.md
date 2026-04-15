@@ -5,8 +5,9 @@ tags: ["copyright", "ai-risico", "contentcreatie", "juridisch"]
 categorieen: ["creatief"]
 summary: "Een nieuwe rechtszaak laat zien dat AI soms bronnen letterlijk kopieert; hier lees je hoe je dat risico voor je eigen bedrijf kunt inschatten."
 cover:
-  image: "/images/covers/2026-03-18-encyclopedia-britannica-is-suing-openai-for-allegedly-memori.webp"
-  alt: "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"

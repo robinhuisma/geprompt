@@ -7,6 +7,11 @@ summary: "De EU plaatst ChatGPT onder het zwaarste toezicht, wat directe gevolge
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2077086/eu-plaatst-zoekmachine-chatgpt-onder-zwaarste-techtoezicht.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De Europese Unie gaat ChatGPT onder het zwaarste toezicht van de Digital Services Act (DSA) plaatsen. Dit betekent dat bedrijven die de tool in hun processen gebruiken, rekening moeten houden met strengere regels voor transparantie, risicobeheer en verantwoording. Het is een direct signaal dat generatieve AI niet langer als experimentele technologie wordt gezien, maar als een systeem met maatschappelijke impact dat gecontroleerd moet worden.

@@ -7,6 +7,11 @@ summary: "Voor vindbaarheid in AI-zoekmachines zoals Google SGE moet je content 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Voor vindbaarheid in AI-gedreven zoekmachines zoals Google's Search Generative Experience (SGE) is het cruciaal om de traditionele scheiding tussen content- en SEO-teams op te heffen. Succes hangt niet langer af van losse zoekwoorden of geïsoleerde content, maar van het opbouwen van 'entity authority' – een coherent, onderling verbonden web van expertise dat door AI wordt herkend en gewaardeerd.

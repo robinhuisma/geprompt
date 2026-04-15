@@ -7,6 +7,11 @@ summary: "Banken verwachten dat AI de komende jaren meer banen creëert dan het 
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI levert banken de komende jaren meer banen op dan het kost, ondanks de huidige ontslagrondes. Dit komt omdat de integratie van AI op korte termijn nieuwe technische rollen vereist, terwijl vooral routinematige functies verdwijnen. Deze verschuiving biedt inzicht in hoe AI de arbeidsmarkt in andere sectoren kan veranderen.

@@ -7,6 +7,11 @@ summary: "AI-zoekassistenten genereren antwoorden op basis van geselecteerde bro
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/waarom-ai-jouw-merk-over-het-hoofd-ziet/"
+cover:
+  image: "https://images.pexels.com/photos/15406294/pexels-photo-15406294.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A smartphone screen displaying popular social media applications like Instagram and Twitter."
+  caption: "Foto: Bastian Riccardi via Pexels"
+
 ---
 
 AI-zoekassistenten zoals ChatGPT en Google's Gemini zien jouw merk mogelijk over het hoofd omdat ze antwoorden genereren uit een beperkte set bronnen, in plaats van een volledige lijst met links te tonen. Dit betekent dat traditionele SEO alleen niet meer genoeg is om gevonden te worden; je moet actief zorgen dat je content wordt opgenomen in de datasets waar deze AI's uit putten.

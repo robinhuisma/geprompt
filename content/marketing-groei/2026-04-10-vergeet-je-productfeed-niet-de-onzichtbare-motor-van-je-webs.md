@@ -7,6 +7,11 @@ summary: "Een geoptimaliseerde productfeed is cruciaal voor de vindbaarheid van 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/15595051/pexels-photo-15595051.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A desktop setup with social media marketing essentials including a keyboard, lightbox, and guide."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Een productfeed is geen administratieve last, maar een strategisch systeem dat je webshop vindbaar maakt op Google, prijsvergelijkers en via AI-gedreven ontdekkingstools. Door je feed te optimaliseren voor zoekintentie en gestructureerde data, verbeter je direct je online zichtbaarheid en conversiekansen.

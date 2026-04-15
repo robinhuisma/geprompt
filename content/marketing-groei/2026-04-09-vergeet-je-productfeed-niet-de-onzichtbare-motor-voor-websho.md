@@ -7,6 +7,11 @@ summary: "Een geoptimaliseerde productfeed is geen technische klus, maar een dir
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/7651801/pexels-photo-7651801.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A modern workspace showing hands analyzing marketing data on a laptop and paper documents."
+  caption: "Foto: Kindel Media via Pexels"
+
 ---
 
 Een verwaarloosde productfeed kost je webshop zichtbaarheid en verkeer. Dit technische bestand, dat je productinformatie gestructureerd aanbiedt aan zoekmachines en prijsvergelijkers, is een van de meest krachtige maar ook meest genegeerde systemen in e-commerce. Door eenvoudige optimalisaties kun je direct de vindbaarheid van je assortiment verbeteren.

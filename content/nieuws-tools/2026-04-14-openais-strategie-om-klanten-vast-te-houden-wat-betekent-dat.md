@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo legt de nadruk op het creëren van een 'gracht' 
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's strategie om klanten te binden betekent dat je als ondernemer bewuster moet kiezen voor een AI-platform. Het bedrijf wil een 'gracht' om zijn producten bouwen, zodat gebruikers niet makkelijk kunnen overstappen naar een concurrent. Dit is een belangrijke verschuiving in de AI-markt, waar keuzevrijheid nu nog groot is, maar waar leveranciers je steeds meer aan zich willen binden.

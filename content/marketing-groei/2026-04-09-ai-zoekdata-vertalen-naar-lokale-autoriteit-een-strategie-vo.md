@@ -7,6 +7,11 @@ summary: "AI-zoekdata onthult waar je lokale online zichtbaarheid tekortschiet e
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/"
+cover:
+  image: "https://images.pexels.com/photos/15635241/pexels-photo-15635241.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a social media marketing document on a desk with a pen and notebook."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 AI-zoekdata biedt ondernemers een concrete leidraad om gaten in hun lokale online autoriteit te identificeren en te dichten. Door te analyseren welke signalen in AI-gedreven zoekmachines daadwerkelijk leiden tot vermeldingen van je bedrijf, kun je een GEO-strategie opstellen die je zichtbaarheid in specifieke gebieden versterkt.

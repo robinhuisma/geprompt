@@ -7,6 +7,11 @@ summary: "AI-zoekdata onthult waar je bedrijf online ontbreekt, zodat je gericht
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/"
+cover:
+  image: "https://images.pexels.com/photos/5717809/pexels-photo-5717809.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person analyzes stock data with a smartphone and laptop, indoors."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 AI-zoekdata helpt je te zien waar je bedrijf online ontbreekt, zodat je gericht je lokale vindbaarheid kunt verbeteren en nieuwe klanten kunt bereiken. Het gaat om het analyseren van signalen uit AI-zoekmachines om gaten in je digitale aanwezigheid per regio op te sporen en te dichten.

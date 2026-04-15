@@ -7,6 +7,11 @@ summary: "Een AI-agent heeft een fysieke winkel geopend en personeel aangenomen,
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een AI-agent heeft een fysieke winkel geopend, personeel aangenomen en een budget van $100.000 beheerd. Dit experiment toont dat AI-systemen nu al operationele leiding kunnen nemen, lang voordat ze individuele taken van medewerkers overnemen. Voor ondernemers betekent dit een verschuiving in waar automatisering toeslaat: niet op de winkelvloer, maar in de bestuurskamer.

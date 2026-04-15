@@ -7,6 +7,11 @@ summary: "De opkomst van generatieve AI maakt traditionele kennisoverdracht en t
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De opkomst van generatieve AI zoals ChatGPT ondermijnt de effectiviteit van traditionele kennisoverdracht en toetsing. Dit betekent dat bedrijven hun aanpak voor interne training en opleidingen fundamenteel moeten herzien om nog betekenisvolle leerresultaten te boeken.

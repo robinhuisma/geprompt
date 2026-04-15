@@ -5,8 +5,9 @@ tags: ["ai-beveiliging", "cybersecurity", "mkb", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "Dezelfde AI die nieuwe kwetsbaarheden kan vinden, wordt nu ingezet om systemen proactief te verdedigen, een strategie die ook voor het MKB relevant wordt."
 cover:
-  image: "/images/covers/2026-04-15-anthropic-s-glasswing-highlights-ai-s-security-paradox.webp"
-  alt: "Anthropic's Glasswing Highlights AI's Security Paradox"
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox"

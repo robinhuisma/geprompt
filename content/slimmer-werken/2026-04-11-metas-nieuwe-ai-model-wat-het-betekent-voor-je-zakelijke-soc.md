@@ -7,6 +7,11 @@ summary: "Meta's nieuwe AI-model Muse Spark wordt ingebouwd in Facebook, Instagr
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/meta-brengt-eerste-grote-llmupdate-uit-sinds-llama-4"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Meta's nieuwe AI-model Muse Spark is direct beschikbaar voor zoekopdrachten via Meta AI en wordt ingebouwd in Facebook, Instagram en WhatsApp, wat kan leiden tot slimmere zoekfuncties en chatbots voor zakelijke gebruikers van deze platforms. Het is de eerste grote update van het bedrijf in een jaar en moet helpen om de achterstand op concurrenten als OpenAI en Google te verkleinen.

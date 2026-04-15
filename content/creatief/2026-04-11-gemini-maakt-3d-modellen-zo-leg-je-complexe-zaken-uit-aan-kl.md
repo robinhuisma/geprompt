@@ -7,6 +7,11 @@ summary: "Google's Gemini kan nu interactieve 3D-modellen en simulaties generere
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Google's AI-chatbot Gemini kan nu interactieve 3D-modellen en simulaties genereren. Dit betekent dat je complexe concepten, producten of processen niet langer hoeft uit te leggen met tekst of statische plaatjes, maar met een dynamisch model dat de gebruiker zelf kan manipuleren. Het is een stap van beschrijving naar ervaring.

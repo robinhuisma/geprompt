@@ -5,8 +5,9 @@ tags: ["ai uitlegbaarheid", "compliance", "machine learning", "voorspellingen"]
 categorieen: ["creatief"]
 summary: "Een nieuwe methode maakt bestaande AI-modellen beter in het geven van begrijpelijke uitleg voor hun voorspellingen, wat vertrouwen en compliance kan vergroten."
 cover:
-  image: "/images/covers/2026-03-20-improving-ai-models-ability-to-explain-their-predictions.webp"
-  alt: "Improving AI models’ ability to explain their predictions"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309"

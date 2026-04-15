@@ -7,6 +7,11 @@ summary: "Meta's nieuwe AI-model Muse Spark wordt geïntegreerd in WhatsApp en I
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/meta-brengt-eerste-grote-llmupdate-uit-sinds-llama-4"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Meta's nieuwe AI-model Muse Spark wordt direct ingebouwd in WhatsApp en Instagram, wat ondernemers nieuwe tools geeft voor geautomatiseerde klantenservice en marketing. Het is de eerste grote update van Meta in een jaar en moet de kloof met concurrenten als OpenAI verkleinen.

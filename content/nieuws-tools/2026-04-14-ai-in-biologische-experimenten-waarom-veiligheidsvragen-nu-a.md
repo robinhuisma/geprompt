@@ -7,6 +7,11 @@ summary: "AI verandert biologische experimenten sneller dan de regelgeving, waar
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91524571/ai-biology-lab-experiments-risks?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=3&amp;partner=newsletter&amp;campaign_date=04142026"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI verandert de manier waarop biologisch onderzoek en experimenten worden gedaan, maar de veiligheidsregels en wetgeving lopen hierop achter. Dit betekent dat ondernemers en labs in de life sciences zelf verantwoordelijkheid moeten nemen voor het beveiligen van hun AI-gestuurde processen, door nu al kritische vragen te stellen aan hun softwareleveranciers en interne protocollen te herzien.

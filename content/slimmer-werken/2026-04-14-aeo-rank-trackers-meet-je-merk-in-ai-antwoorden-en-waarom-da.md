@@ -7,6 +7,11 @@ summary: "AEO rank trackers meten of en hoe je merk genoemd wordt in AI-gegenere
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-rank-trackers"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een AEO rank tracker meet of je merk voorkomt in een AI-gegenereerd antwoord (zoals van ChatGPT of Google's AI Overview), en zo ja, hoe prominent. Dit is een fundamenteel andere meting dan traditionele SEO, die kijkt naar je positie in een lijst blauwe links. Voor ondernemers betekent dit dat je een nieuw soort zichtbaarheid moet gaan meten en managen.

@@ -7,6 +7,11 @@ summary: "AI neemt de controle over advertentieveilingen over, waardoor traditio
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het tijdperk waarin je PPC-campagnes afrekende op kosten-per-klik (CPC) of klikratio's (CTR) loopt ten einde. AI-systemen zoals Google's Performance Max nemen steeds meer controle over de advertentieveilingen, waardoor de traditionele meetlat niet meer past. Succesvolle adverteerders schakelen nu over naar winstgerichte metrics en slimmere attributiemodellen die de echte waarde van geautomatiseerde campagnes kunnen blootleggen.

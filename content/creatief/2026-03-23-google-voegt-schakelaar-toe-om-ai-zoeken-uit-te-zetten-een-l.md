@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "gebruikerservaring", "productontwikkeling", "feedbac
 categorieen: ["creatief"]
 summary: "Google maakt het na klachten makkelijker om AI-zoeken in Photos uit te schakelen, een teken dat gebruikerscontrole cruciaal is bij het invoeren van nieuwe technologie."
 cover:
-  image: "/images/covers/2026-03-23-after-complaints-google-will-make-it-easier-to-disable-gen-a.webp"
-  alt: "After complaints, Google will make it easier to disable gen AI search in Photos"
+  image: "https://images.pexels.com/photos/25626433/pexels-photo-25626433.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Creative concept depicting a hand reaching towards abstract swirling particles."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/"

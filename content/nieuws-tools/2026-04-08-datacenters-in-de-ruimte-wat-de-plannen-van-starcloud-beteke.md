@@ -7,6 +7,11 @@ summary: "Een start-up haalt 170 miljoen dollar op om datacenters in de ruimte t
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/170-miljoen-dollar-datacentre-ruimte"
+cover:
+  image: "https://images.pexels.com/photos/4597280/pexels-photo-4597280.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Contemporary computer on support between telecommunication racks and cabinets in modern data center"
+  caption: "Foto: Brett Sayles via Pexels"
+
 ---
 
 Een datacenter in de ruimte kan op termijn goedkoper worden dan een vergelijkbare faciliteit op aarde. Dat is de visie van de Amerikaanse start-up Starcloud, die 170 miljoen dollar heeft opgehaald om deze ambitie te realiseren. De eerste klanten zijn bitcoinminers, maar de capaciteit wordt ook verhuurd voor AI-berekeningen.

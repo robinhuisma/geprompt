@@ -7,6 +7,11 @@ summary: "Met gratis, lokaal draaiende AI-modellen zoals Qwen Image Edit kun je 
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Je kunt oude, beschadigde foto's van je bedrijf, producten of personeel professioneel laten herleven met gratis AI-software die je op je eigen computer installeert. Dit opent deuren voor authentieke marketing en storytelling, zonder dure fotoredactie of het risico van het uploaden van gevoelige historische beelden naar onbekende clouddiensten.

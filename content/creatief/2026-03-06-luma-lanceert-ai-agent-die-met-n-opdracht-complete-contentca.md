@@ -5,8 +5,9 @@ tags: ["ai-agent", "contentcreatie", "multimodale ai", "automatisering"]
 categorieen: ["creatief"]
 summary: "Met Luma Agents kun je één opdracht geven, waarna een AI-agent zelfstandig tekst, beeld, video en audio coördineert voor een complete contentuiting."
 cover:
-  image: "/images/covers/2026-03-06-exclusive-luma-launches-creative-ai-agents-powered-by-its-ne.webp"
-  alt: "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/"

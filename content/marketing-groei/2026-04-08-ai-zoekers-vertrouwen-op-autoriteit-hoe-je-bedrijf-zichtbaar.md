@@ -7,6 +7,11 @@ summary: "AI-zoekmachines zoals ChatGPT en Gemini geven voorrang aan bronnen met
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/"
+cover:
+  image: "https://images.pexels.com/photos/7970815/pexels-photo-7970815.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a laptop showing a social media marketing strategy in an office setting."
+  caption: "Foto: Darlene Alderson via Pexels"
+
 ---
 
 AI-zoekmachines zoals ChatGPT en Google's Gemini benadrukken bronnen met bewezen autoriteit en duidelijke betrouwbaarheidssignalen bij het beantwoorden van vragen over belangrijke aankopen. Voor ondernemers betekent dit dat traditionele SEO-tactieken niet meer volstaan; je moet actief je expertise en betrouwbaarheid tonen om zichtbaar te blijven wanneer klanten via AI advies vragen.

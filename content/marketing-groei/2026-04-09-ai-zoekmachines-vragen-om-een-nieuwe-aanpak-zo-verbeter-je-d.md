@@ -7,6 +7,11 @@ summary: "Om zichtbaar te blijven in AI-zoekmachines zoals Google's SGE, moeten 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/"
+cover:
+  image: "https://images.pexels.com/photos/15555955/pexels-photo-15555955.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A top view of social media marketing text alongside graphic design books and a keyboard."
+  caption: "Foto: Walls.io via Pexels"
+
 ---
 
 Om zichtbaar te blijven in de opkomende wereld van AI-gedreven zoekmachines, is het doorbreken van de traditionele scheiding tussen content- en SEO-teams niet langer een optie, maar een noodzaak. Succes hangt af van een gezamenlijke strategie die is gericht op het opbouwen van 'entity authority'.

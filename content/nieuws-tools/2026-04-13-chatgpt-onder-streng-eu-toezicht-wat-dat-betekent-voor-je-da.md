@@ -7,6 +7,11 @@ summary: "De EU plaatst ChatGPT onder het zwaarste toezicht, wat kan leiden tot 
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2077086/eu-plaatst-zoekmachine-chatgpt-onder-zwaarste-techtoezicht.html"
+cover:
+  image: "https://images.pexels.com/photos/36513381/pexels-photo-36513381.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person typing on a laptop displaying ChatGPT logo with a green vibrant setting."
+  caption: "Foto: UMA media via Pexels"
+
 ---
 
 De Europese Unie gaat ChatGPT onder haar strengste digitale toezicht plaatsen. Dit betekent dat bedrijven die de tool gebruiken, zich moeten voorbereiden op mogelijke nieuwe beperkingen, transparantie-eisen en compliance-verplichtingen die hun gebruik kunnen beïnvloeden.

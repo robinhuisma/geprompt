@@ -7,6 +7,11 @@ summary: "Dezelfde AI die bedrijven helpt, wordt nu ingezet om hun zwakke plekke
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het groeiende vermogen van AI om kwetsbaarheden in software en systemen automatisch op te sporen, creëert een paradox: dezelfde technologie die bedrijven efficiënter maakt, wordt ook een wapen tegen hen. Dit betekent dat investeren in basale digitale hygiëne geen IT-project meer is, maar een directe bedrijfszekerheidsmaatregel waar elke ondernemer vandaag mee moet beginnen.

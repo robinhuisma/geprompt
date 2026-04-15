@@ -7,6 +7,11 @@ summary: "Met eenvoudige, zelfgemaakte GPT's kun je specifieke taken zoals offer
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/custom-gpts"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een zelfgemaakte GPT is een op maat gemaakte versie van ChatGPT die je traint voor één specifieke taak, zoals het opstellen van offertes of het schrijven van sociale media posts. Het stelt je in staat om bedrijfsprocessen te standaardiseren, consistentie te waarborgen en repetitief werk te automatiseren zonder technische kennis.

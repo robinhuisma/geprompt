@@ -7,6 +7,11 @@ summary: "Oracle sluit een deal voor schone energie om zijn AI-datacenters van s
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/oracle-expands-ai-infrastructure-drive-bloom-deal"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Oracle sluit een deal voor schone energie om zijn AI-datacenters van stroom te voorzien. Dit is een direct gevolg van de enorme energiehonger van kunstmatige intelligentie en markeert een verschuiving waarbij techreuzen zelf hun stroomvoorziening moeten regelen. Voor ondernemers opent dit nieuwe mogelijkheden in de energiemarkt en bij het kiezen van AI-leveranciers.

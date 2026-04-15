@@ -7,6 +7,11 @@ summary: "AI-agents bereiken hun volle potentieel pas als je bedrijfsprocessen n
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI-agents bereiken hun volle potentieel pas als je bedrijfsprocessen niet aanpast, maar volledig herontwerpt met de agent als uitgangspunt. Dit betekent een fundamentele verschuiving: van mensen als uitvoerders naar mensen als stuurders, terwijl de AI-agent de dagelijkse operatie draait.

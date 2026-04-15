@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo laat zien dat AI-bedrijven zich richten op het '
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's interne strategie draait om het bouwen van een 'gracht' rond zijn producten om gebruikers te binden en overstappen moeilijker te maken. Dit markeert een verschuiving in de AI-markt van pure technische superioriteit naar het creëren van 'lock-in', waarbij de keuze voor een AI-leverancier steeds strategischer wordt voor bedrijven.

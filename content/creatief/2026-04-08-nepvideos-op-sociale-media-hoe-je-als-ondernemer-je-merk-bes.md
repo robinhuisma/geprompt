@@ -5,8 +5,9 @@ tags: ["nepvideo's", "merkreputatie", "misinformatie", "contentkwaliteit"]
 categorieen: ["creatief"]
 summary: "AI-gegenereerde nepvideo's worden steeds geloofwaardiger en vormen een risico voor merkreputatie; leer de signalen herkennen en bescherm je bedrijf."
 cover:
-  image: "/images/covers/2026-04-08-fake-videos-on-social-media.webp"
-  alt: "Fake videos on social media"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/fake-videos-on-social-media/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fake-videos-on-social-media"

@@ -7,6 +7,11 @@ summary: "Gemini Notebooks bundelt al je bestanden en gesprekken per onderwerp, 
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google introduceert een functie genaamd "Notebooks" in zijn AI-chatbot Gemini, waarmee je alle informatie over een specifiek onderwerp of project op één plek kunt bundelen. Dit stelt je in staat om gesprekken met de AI te voeren die put uit een complete, georganiseerde kennisbank van eerdere chats, documenten en instructies, waardoor je minder tijd kwijt bent aan het uitleggen van context.

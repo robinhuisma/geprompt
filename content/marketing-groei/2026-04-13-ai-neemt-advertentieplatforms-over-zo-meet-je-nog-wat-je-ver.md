@@ -7,6 +7,11 @@ summary: "AI bepaalt steeds meer je advertentie-uitgaven; dit zijn de meetmethod
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 De komst van AI in advertentieplatforms zoals Google Ads verandert niet alleen hoe je biedt, maar vooral hoe je succes meet. Traditionele metrics volstaan niet meer; je moet overstappen op winstgerichte modellen en slimmere attributie om te zien wat je investering echt oplevert.

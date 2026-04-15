@@ -7,6 +7,11 @@ summary: "YouTube lanceert een tool waarmee je een realistische AI-versie van je
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
+cover:
+  image: "https://images.pexels.com/photos/33440278/pexels-photo-33440278.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of YouTube logo displayed on a laptop screen in a dark environment."
+  caption: "Foto: Zulfugar Karimov via Pexels"
+
 ---
 
 YouTube maakt het nu mogelijk om een realistische digitale versie van jezelf te creëren voor gebruik in Shorts, wat een nieuwe manier biedt voor persoonlijke merkpromotie maar ook waarschuwt voor de risico's van misbruik.

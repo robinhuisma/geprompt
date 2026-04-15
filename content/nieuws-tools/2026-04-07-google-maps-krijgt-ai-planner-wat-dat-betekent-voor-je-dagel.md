@@ -5,8 +5,9 @@ tags: ["google maps", "ai", "productiviteit", "logistiek"]
 categorieen: ["nieuws-tools"]
 summary: "De nieuwe AI-functie in Google Maps helpt je om efficiënt routes en stops te plannen, wat tijd bespaart bij het organiseren van afspraken en bevoorrading."
 cover:
-  image: "/images/covers/2026-04-07-i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisi.webp"
-  alt: "I let Gemini in Google Maps plan my day and it went surprisingly well"
+  image: "https://images.pexels.com/photos/5921677/pexels-photo-5921677.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A smartphone displaying GPS map of New York City secured in a car mount during daylight."
+  caption: "Foto: AS Photography via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"

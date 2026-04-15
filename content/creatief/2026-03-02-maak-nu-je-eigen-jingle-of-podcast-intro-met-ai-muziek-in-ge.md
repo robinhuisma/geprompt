@@ -5,9 +5,9 @@ tags: ["ai-muziek", "contentcreatie", "gemini", "marketing"]
 categorieen: ["creatief"]
 summary: "De Gemini-app kan nu met Lyria 3 unieke, 30 seconden durende muziekstukken genereren op basis van een tekstbeschrijving of een afbeelding."
 cover:
-  image: "/images/covers/2026-03-02-a-new-way-to-express-yourself-gemini-can-now-create-music.webp"
-  alt: "A new way to express yourself: Gemini can now create music"
-  caption: "Beeld gegenereerd met AI voor geprompt.nl"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"

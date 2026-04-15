@@ -7,6 +7,11 @@ summary: "Een groeiende kloof tussen AI-experts en het publiek vergroot de angst
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De groeiende kloof tussen AI-experts en het grote publiek vergroot de angst voor banenverlies en economische onzekerheid. Voor ondernemers betekent dit dat transparante communicatie over AI-gebruik cruciaal wordt om vertrouwen te behouden bij zowel personeel als klanten.

@@ -7,6 +7,11 @@ summary: "Een geoptimaliseerde productfeed is de sleutel tot vindbaarheid in Goo
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse group working on marketing strategies with charts and laptops in an office setting."
+  caption: "Foto: Kindel Media via Pexels"
+
 ---
 
 Een geoptimaliseerde productfeed is geen technisch bijzaakje, maar de fundamentele databron die bepaalt of je producten worden gevonden in Google Shopping, prijsvergelijkers en andere kanalen. Door je feed af te stemmen op zoekintentie en gestructureerde data, versterk je je zichtbaarheid in een e-commerce landschap dat steeds meer door AI wordt aangestuurd.

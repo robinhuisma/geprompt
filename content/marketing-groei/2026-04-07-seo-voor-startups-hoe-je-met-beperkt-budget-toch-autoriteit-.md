@@ -7,6 +7,11 @@ summary: "Een praktische blauwdruk voor Nederlandse startups om een hoogrankende
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/5833273/pexels-photo-5833273.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Professionals analyzing financial data on a tablet and laptop in an office setting."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Voor een startup is het opbouwen van domeinautoriteit de grootste uitdaging om in Google te ranken. Je kunt dit aanpakken door een combinatie van technische perfectie, strategische PR en gerichte betaalde campagnes. Dit zorgt ervoor dat Google je nieuwe domein als betrouwbaar ziet en je content kan concurreren met gevestigde spelers.

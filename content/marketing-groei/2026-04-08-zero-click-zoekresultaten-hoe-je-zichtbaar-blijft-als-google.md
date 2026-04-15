@@ -7,6 +7,11 @@ summary: "Bij 80% van de consumenten vindt 40% van de zoekopdrachten plaats zond
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/zero-click-searches"
+cover:
+  image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands using smartphone beside laptop with stock charts, showcasing digital trading."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
+
 ---
 
 Bij 80% van de consumenten vindt 40% van de zoekopdrachten plaats zonder dat er op een website wordt geklikt. Dit fenomeen, 'zero-click searches', betekent dat zoekmachines zoals Google steeds vaker direct antwoord geven in de zoekresultaten via AI-overzichten of 'featured snippets'. Voor jouw bedrijf kan dit leiden tot meer zichtbaarheid, maar ook tot een daling van het organische websiteverkeer met naar schatting 15% tot 25%. De kernvraag wordt niet langer hoe je een klik krijgt, maar hoe je waarde kunt bieden voordat er überhaupt geklikt wordt.

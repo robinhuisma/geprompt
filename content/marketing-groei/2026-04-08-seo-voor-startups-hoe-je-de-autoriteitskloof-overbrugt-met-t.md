@@ -7,6 +7,11 @@ summary: "Voor startups is een technisch perfecte website de basis, waarna je me
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/7651801/pexels-photo-7651801.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A modern workspace showing hands analyzing marketing data on a laptop and paper documents."
+  caption: "Foto: Kindel Media via Pexels"
+
 ---
 
 Voor een startup is het gebrek aan domeinautoriteit de grootste barrière om via SEO gevonden te worden. Dit overbrug je niet met alleen content, maar door eerst een technisch onzichtbare website te bouwen en vervolgens autoriteit te lenen via gerichte PR en strategische vermeldingen. Het is een combinatie van precisie, timing en slimme versterking.

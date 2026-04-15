@@ -5,8 +5,9 @@ tags: ["ai uitlegbaarheid", "compliance", "zorg", "risicomanagement"]
 categorieen: ["creatief"]
 summary: "Onderzoekers ontwikkelden een methode om AI-modellen te dwingen hun voorspellingen te verklaren met begrijpelijke concepten, wat cruciaal is voor vertrouwen in risicovolle sectoren."
 cover:
-  image: "/images/covers/2026-03-23-improving-ai-models-ability-to-explain-their-predictions.webp"
-  alt: "Improving AI models’ ability to explain their predictions"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309"

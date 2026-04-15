@@ -7,6 +7,11 @@ summary: "Banken voorspellen dat AI op termijn banen oplevert, terwijl ze nu dui
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI levert banken op de lange termijn banen op, maar kost op korte termijn duizenden banen. Dit schijnbare tegenstrijdige beeld komt uit een enquête onder bankbestuurders en toont de tweeslachtige, ongelijke impact van automatisering. Voor ondernemers betekent dit dat AI niet simpelweg banen creëert of vernietigt, maar dat het banen verschuift: routinematig werk verdwijnt, terwijl gespecialiseerde technische functies ontstaan.

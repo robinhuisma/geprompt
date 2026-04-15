@@ -7,6 +7,11 @@ summary: "Bewegende GIFs in e-mails kunnen de ROI met 105% verhogen, maar alleen
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17317902/animation-in-emails"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een bewegende GIF in je e-mail is geen gimmick meer, maar een krachtig conversie-instrument. Het kan de ROI met 105% verhogen, maar alleen als je de beweging gebruikt om iets te tonen, niet om te schreeuwen. Het verschil tussen een waardevolle demonstratie en een irritante flitser bepaalt of je abonnees blijven of weggaan.

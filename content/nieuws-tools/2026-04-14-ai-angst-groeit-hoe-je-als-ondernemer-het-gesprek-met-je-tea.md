@@ -7,6 +7,11 @@ summary: "Een groeiende kloof tussen AI-experts en het publiek vraagt om een nie
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De groeiende angst voor AI onder het publiek vereist dat ondernemers het gesprek hierover anders gaan voeren, zowel intern met hun team als extern met klanten. Het gaat niet langer alleen om de technische mogelijkheden, maar vooral om het wegnemen van onzekerheid en het bieden van duidelijkheid over wat AI wel en niet betekent voor ieders dagelijks werk.

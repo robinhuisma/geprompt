@@ -7,6 +7,11 @@ summary: "De strijd om winstgevendheid bij grote AI-bedrijven leidt tot onverwac
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De race om winstgevendheid bij grote AI-bedrijven zoals OpenAI en Anthropic is nu zo hevig dat het hun productbeslissingen en voorwaarden voor gebruikers direct beïnvloedt. Dit betekent dat de tools waar je op rekent onverwacht kunnen verdwijnen of duurder kunnen worden, omdat de bedrijven keuzes moeten maken tussen innovatie en kostenbeheersing.

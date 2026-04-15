@@ -7,6 +7,11 @@ summary: "Drie multinationals claimen 90% van het fiscale innovatievoordeel, waa
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/ruim-90-procent-innovatiebox-voordeel-naar-asml-msd-en-booking-luchthavens-binnen-drie-weken-door-kerosinereserves"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het fiscale voordeel van de innovatiebox komt voor het overgrote deel terecht bij een handvol grote multinationals, waardoor de regeling haar doel om innovatie breed te stimuleren lijkt te missen. Voor het MKB betekent dit dat de politieke druk om de regeling aan te passen toeneemt, wat zowel kansen als risico's met zich meebrengt.

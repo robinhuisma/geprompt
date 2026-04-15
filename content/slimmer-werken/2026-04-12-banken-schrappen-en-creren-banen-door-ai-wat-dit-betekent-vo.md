@@ -5,8 +5,9 @@ tags: ["ai", "personeel", "banken", "vaardigheden"]
 categorieen: ["slimmer-werken"]
 summary: "Banken verwachten dat AI op termijn meer banen oplevert dan het kost, maar de vaardigheden die nodig zijn verschuiven fundamenteel."
 cover:
-  image: "/images/covers/2026-04-12-banken-schrappen-banen-maar-zeggen-dat-ai-juist-banen-opleve.webp"
-  alt: "Banken schrappen banen, maar zeggen dat AI juist banen oplevert: hoe zit dat?"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"

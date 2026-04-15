@@ -5,8 +5,9 @@ tags: ["ai", "marketing", "zoekmachines", "contentstrategie"]
 categorieen: ["marketing-groei"]
 summary: "Merken moeten hun content en data AI-vriendelijk maken om gevonden te worden door chatbots als ChatGPT, wat vraagt om een nieuwe rol: de AIEO."
 cover:
-  image: "/images/covers/2026-04-12-brands-vs-bots-cmos-ad-agencies-tell-all-about-what-they-ve-.webp"
-  alt: "Brands vs. bots: CMOs, ad agencies tell all about what they’ve learned marketing to our new AI overlords"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=8&amp;partner=newsletter&amp;campaign_date=04122026"

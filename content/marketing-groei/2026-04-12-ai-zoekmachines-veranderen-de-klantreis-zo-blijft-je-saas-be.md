@@ -5,8 +5,9 @@ tags: ["saas", "marketing", "ai-zoekmachines", "vindbaarheid"]
 categorieen: ["marketing-groei"]
 summary: "Meer dan de helft van de SaaS-kopers begint hun zoektocht in een AI-chatbot, waardoor een nieuwe strategie nodig is om gevonden te worden."
 cover:
-  image: "/images/covers/2026-04-12-aeo-strategy-for-saas-6-tactics-that-convert-prospects-into-.webp"
-  alt: "AEO strategy for SaaS: 6 tactics that convert prospects into trials"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-for-saas-companies"

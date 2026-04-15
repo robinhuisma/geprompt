@@ -5,8 +5,9 @@ tags: ["ai", "cybersecurity", "software", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "Een nieuw AI-model van Anthropic kan automatisch kwetsbaarheden vinden in besturingssystemen en browsers, wat de beveiligingsaanpak voor bedrijven kan veranderen."
 cover:
-  image: "/images/covers/2026-04-08-a-new-anthropic-model-found-security-problems-8216-in-every-.webp"
-  alt: "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;"
+  image: "https://images.pexels.com/photos/36731167/pexels-photo-36731167.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A female fashion designer working on her laptop in a creative design studio, surrounded by design sketches."
+  caption: "Foto: Vitaly Gariev via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"

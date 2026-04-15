@@ -7,6 +7,11 @@ summary: "AI vervangt je bestaande software niet, maar maakt deze juist waardevo
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partners/ai-maakt-software-niet-overbodig-het-maakt-haar-onmisbaar"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI vervangt je bestaande software niet, maar maakt deze juist waardevoller door processen te automatiseren en efficiëntie te verhogen. Investeren in een robuuste software-infrastructuur is nu belangrijker dan ooit, omdat AI alleen zijn volledige potentieel kan bereiken als het is geïntegreerd in de systemen die je bedrijfsvoering begrijpen.

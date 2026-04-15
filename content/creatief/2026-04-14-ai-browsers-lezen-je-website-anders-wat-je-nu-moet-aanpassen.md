@@ -7,6 +7,11 @@ summary: "AI-agents zoals ChatGPT Browse en Arc Search 'zien' je website als ges
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 AI-browsers en -assistenten interpreteren je website fundamenteel anders dan menselijke bezoekers of traditionele zoekmachines. Om effectief gevonden en begrepen te worden door deze nieuwe generatie AI-agents, moet je website gebouwd zijn op semantische HTML, toegankelijke patronen en zichtbare, server-rendered content.

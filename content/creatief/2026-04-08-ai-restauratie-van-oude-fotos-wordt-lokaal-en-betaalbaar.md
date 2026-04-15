@@ -7,6 +7,11 @@ summary: "Met nieuwe, lokale AI-modellen kunnen kleine bedrijven zoals fotostudi
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Met nieuwe AI-modellen die je op je eigen computer kunt draaien, wordt professionele fotorestauratie toegankelijk voor kleine bedrijven. Je hoeft geen dure softwarelicenties of clouddiensten meer af te nemen; met een krachtige computer en de juiste modellen kun je beschadigde, oude foto's binnen enkele minuten herstellen en eventueel inkleuren.

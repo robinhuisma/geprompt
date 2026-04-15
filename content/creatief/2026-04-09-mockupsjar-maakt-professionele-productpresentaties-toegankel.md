@@ -7,6 +7,11 @@ summary: "Een online platform stelt ondernemers zonder designervaring in staat o
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315993/mockupsjar-build-professional-screen-and-product-mockups-instantly"
+cover:
+  image: "https://images.pexels.com/photos/5393557/pexels-photo-5393557.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Women in an art studio analyzing sketches and sculptures for design evaluation."
+  caption: "Foto: KATRIN  BOLOVTSOVA via Pexels"
+
 ---
 
 MockupsJar is een online platform waarmee je zonder Photoshop-kennis professionele mockups maakt. Je uploadt je ontwerp, kiest een template en genereert een realistische presentatie van je product in een natuurlijke omgeving. Dit maakt het voor ondernemers en marketeers eenvoudig om hun app, boek of verpakking visueel te pitchen aan klanten of te gebruiken in marketingmateriaal.

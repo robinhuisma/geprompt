@@ -7,6 +7,11 @@ summary: "Passief-agressief gedrag is de grootste bron van conflicten op de werk
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/werk-leven/passieve-agressiviteit-zorgt-op-kantoor-voor-meer-conflicten-dan-roddelen-en-pesten"
+cover:
+  image: "https://images.pexels.com/photos/7654503/pexels-photo-7654503.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two businesswomen in corporate attire working together in a modern office setting with documents."
+  caption: "Foto: Pavel Danilyuk via Pexels"
+
 ---
 
 Passief-agressief gedrag is de meest voorkomende bron van conflicten op de werkvloer, subtieler dan roddelen of pesten maar net zo schadelijk voor productiviteit en vertrouwen. Het gedijt in een omgeving met minder persoonlijk contact, zoals bij thuiswerken en digitale communicatie, en is lastig te bewijzen omdat het zich vaak voordoet als redelijkheid of vergeetachtigheid.

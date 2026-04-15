@@ -7,6 +7,11 @@ summary: "Een groeiende kloof tussen AI-experts en het publiek creëert angst di
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord op de vraag hoe je als ondernemer met AI-angst om moet gaan, ligt in actieve communicatie en transparantie. De groeiende kloof tussen wat experts weten en wat het publiek voelt, vereist dat je niet alleen de tool introduceert, maar ook de menselijke zorgen erachter adresseert.

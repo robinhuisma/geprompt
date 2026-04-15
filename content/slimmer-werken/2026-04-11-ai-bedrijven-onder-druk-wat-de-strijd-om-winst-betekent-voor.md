@@ -7,6 +7,11 @@ summary: "De grootste AI-bedrijven moeten nu winst gaan maken, wat leidt tot onv
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+cover:
+  image: "https://images.pexels.com/photos/5882572/pexels-photo-5882572.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colleagues interact in a modern office setting, blending technology with workplace hygiene."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 De huidige AI-hype is voor veel bedrijven niet betaalbaar op de lange termijn. De grootste spelers, zoals OpenAI en Anthropic, staan onder enorme druk om winstgevend te worden na investeringen van honderden miljarden dollars. Dit betekent dat ze onverwachts diensten kunnen stopzetten of hun prijzen kunnen verhogen, waardoor je als ondernemer plotseling zonder een cruciale tool kunt komen te zitten. Het is tijd om je afhankelijkheid van één leverancier kritisch te bekijken en een plan B te hebben.

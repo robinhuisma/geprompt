@@ -7,6 +7,11 @@ summary: "Meer dan de helft van SaaS-kopers begint hun zoektocht bij een AI-chat
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-for-saas-companies"
+cover:
+  image: "https://images.pexels.com/photos/6956303/pexels-photo-6956303.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a camera placed on brown paper with 'Social Media Marketing' text, emphasizing digital marketing themes."
+  caption: "Foto: Eva Bronzini via Pexels"
+
 ---
 
 Om meer proefabonnementen te genereren, moeten SaaS-ondernemers hun marketingstrategie aanpassen aan AI-gedreven zoeksystemen. Het is niet langer genoeg om hoog te ranken in traditionele zoekresultaten; je product, expertise en differentiatie moeten ook begrepen en nauwkeurig gepresenteerd worden door AI-zoekmachines, vooral tijdens de ontdekking- en overweegfase van de klant.

@@ -5,8 +5,9 @@ tags: ["zoekmachines", "seo", "marketing", "vindbaarheid"]
 categorieen: ["marketing-groei"]
 summary: "Het aandeel van Google in zoekopdrachten neemt af, terwijl AI-zoekmachines groeien, wat vraagt om een nieuwe aanpak van je online vindbaarheid."
 cover:
-  image: "/images/covers/2026-04-07-the-top-6-search-engines-market-share-amp-the-ai-search-engi.webp"
-  alt: "The Top 6 Search Engines Market Share &amp; The AI Search Engines To Watch via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/7691770/pexels-photo-7691770.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A professional tracks stock market trends using two laptops and a smartphone, showcasing digital finance tools."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/"

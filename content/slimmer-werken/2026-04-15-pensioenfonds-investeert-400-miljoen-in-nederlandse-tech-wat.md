@@ -7,6 +7,11 @@ summary: "Pensioenfonds PME investeert €400 miljoen in Nederlandse hightechbed
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/concept-nieuwsupdate-15-4"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Pensioenfonds PME investeert de komende jaren €400 miljoen in veelbelovende Nederlandse hightechbedrijven om te voorkomen dat deze in buitenlandse, met name Amerikaanse of Aziatische, handen vallen. Dit creëert een nieuwe, grote kapitaalbron voor Nederlandse scale-ups die strategisch belangrijk worden geacht voor de nationale economie.

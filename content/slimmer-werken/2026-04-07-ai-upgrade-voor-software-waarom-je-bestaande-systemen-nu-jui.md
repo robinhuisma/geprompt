@@ -7,6 +7,11 @@ summary: "AI maakt je huidige software niet overbodig, maar transformeert het to
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partners/ai-maakt-software-niet-overbodig-het-maakt-haar-onmisbaar"
+cover:
+  image: "https://images.pexels.com/photos/6253568/pexels-photo-6253568.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a video editing timeline on a computer screen, showcasing modern technology."
+  caption: "Foto: Vito Goričan via Pexels"
+
 ---
 
 AI maakt je bestaande software niet overbodig, maar transformeert het juist tot een krachtiger en onmisbaarder platform. De angst dat AI software vervangt, is een misvatting; in de praktijk wordt software de essentiële basislaag die AI veilig en effectief laat functioneren binnen je bedrijfsprocessen.

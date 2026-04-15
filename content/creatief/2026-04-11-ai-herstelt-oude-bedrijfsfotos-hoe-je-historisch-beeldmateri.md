@@ -7,6 +7,11 @@ summary: "Met AI-modellen zoals Qwen Image Edit kun je beschadigde, oude foto's 
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"
+cover:
+  image: "https://images.pexels.com/photos/210114/pexels-photo-210114.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Black and white photo of a vintage gas station with a classic car."
+  caption: "Foto: Pixabay via Pexels"
+
 ---
 
 Met AI-modellen zoals Qwen Image Edit kun je beschadigde, oude foto's automatisch restaureren en inkleuren. Dit maakt het voor ondernemers eenvoudig om historisch beeldmateriaal op te knappen voor gebruik in marketing, op websites of in branding, zonder dure professionele diensten.

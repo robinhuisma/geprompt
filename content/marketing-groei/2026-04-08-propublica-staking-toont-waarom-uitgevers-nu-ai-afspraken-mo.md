@@ -7,6 +7,11 @@ summary: "De staking bij onderzoeksredactie ProPublica draait om concrete AI-pro
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
+cover:
+  image: "https://images.pexels.com/photos/5361088/pexels-photo-5361088.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'social media' on a white background, representing digital communication concepts."
+  caption: "Foto: Visual Tag Mx via Pexels"
+
 ---
 
 De staking bij onderzoeksjournalistiek platform ProPublica is een direct gevolg van het ontbreken van heldere afspraken over het gebruik van kunstmatige intelligentie in de redactie, en toont aan dat uitgevers en redacties beter nu proactief kunnen onderhandelen dan afwachten tot conflicten escaleren.

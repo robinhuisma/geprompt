@@ -7,6 +7,11 @@ summary: "De waarde in content verschuift van perfecte AI-generatie naar authent
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91521779/the-future-of-music-is-human-generated?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=13&amp;partner=newsletter&amp;campaign_date=04112026"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De echte waarde in content en creatie verschuift van perfecte, gladde AI-generatie naar authentieke, menselijke 'messy reality'. Voor ondernemers en merken ligt hier een kans om zich te onderscheiden door imperfectie en echtheid centraal te stellen, juist nu de markt overspoeld raakt met uniforme AI-content.

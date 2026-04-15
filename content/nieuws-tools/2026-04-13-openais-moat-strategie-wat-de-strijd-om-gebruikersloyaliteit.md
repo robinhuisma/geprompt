@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo onthult een strategie om gebruikers vast te houd
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's interne strategie draait nu om het bouwen van een 'gracht' om gebruikers te behouden, wat een teken is dat de AI-markt volwassen wordt. Voor jou als gebruiker betekent dit dat je bewustere keuzes moet maken tussen het flexibel wisselen van tools en het diep integreren van één platform.

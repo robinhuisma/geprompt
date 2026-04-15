@@ -7,6 +7,11 @@ summary: "De overname van startup Hiro wijst erop dat OpenAI financiële plannin
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's overname van de AI-startup Hiro betekent dat het bedrijf financiële planning en analyse rechtstreeks in ChatGPT wil integreren. Dit kan op termijn leiden tot een persoonlijke financiële assistent binnen de chatbot, die ondernemers helpt bij het begrijpen en beheren van hun bedrijfsadministratie.

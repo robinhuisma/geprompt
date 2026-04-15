@@ -7,6 +7,11 @@ summary: "OpenAI biedt een gratis gids om eenvoudige, op maat gemaakte GPT's te 
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/custom-gpts"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI heeft een gratis, praktische gids gepubliceerd waarmee ondernemers en professionals zelf eenvoudige, op maat gemaakte AI-assistenten kunnen bouwen voor specifieke taken. Deze zogenaamde 'Custom GPTs' zijn ontworpen om dagelijkse workflows te automatiseren en consistente resultaten te leveren, zonder dat je een expert hoeft te zijn in programmeren of kunstmatige intelligentie.

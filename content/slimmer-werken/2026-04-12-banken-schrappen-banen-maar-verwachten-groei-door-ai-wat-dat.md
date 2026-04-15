@@ -7,6 +7,11 @@ summary: "Banken verwachten dat AI de komende jaren leidt tot een netto banengro
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/banken-banen-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI kost banken op de korte termijn geen banen, maar levert ze op. Dat is de opvallende conclusie van de banken zelf, gebaseerd op een enquête onder hun eigen bestuurders. Voor jou als ondernemer betekent dit dat de manier waarop je met je bank communiceert en zaken doet, de komende jaren fundamenteel gaat veranderen, waarbij AI meer routinematige taken overneemt.

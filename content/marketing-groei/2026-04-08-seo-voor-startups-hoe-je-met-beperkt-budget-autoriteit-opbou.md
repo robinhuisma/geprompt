@@ -7,6 +7,11 @@ summary: "Een praktische gids voor Nederlandse startups om met technische precis
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/5833272/pexels-photo-5833272.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Business professionals reviewing financial charts on digital devices in a modern office setting."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Voor een startup is het opbouwen van domeinautoriteit de grootste uitdaging om tussen gevestigde bedrijven zichtbaar te worden in zoekmachines. Dit vereist een combinatie van technische perfectie, strategische PR en slimme versterking, zelfs met een beperkt budget. De kern is niet het najagen van links, maar het systematisch bouwen van betrouwbaarheid en relevantie voor zowel zoekmachines als je doelgroep.

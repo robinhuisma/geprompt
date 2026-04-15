@@ -7,6 +7,11 @@ summary: "Grote techbedrijven vormen een alliantie om extreem krachtige, mogelij
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076116/dit-is-hoe-anthropic-wil-voorkomen-dat-ai-alles-kapotmaakt.html"
+cover:
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
+
 ---
 
 Een groep toonaangevende techbedrijven, waaronder Amazon, Apple, Google, Microsoft en Nvidia, sluit zich aan bij AI-bedrijf Anthropic. Hun doel is niet commercieel, maar veiligheid: ze willen samenwerken om extreem krachtige AI-modellen die mogelijk gevaarlijk zijn, veilig te ontwikkelen en te testen voordat ze vrijgegeven worden. Dit markeert een fundamentele verschuiving van een race om de krachtigste AI te bouwen, naar een gezamenlijke inspanning om de risico's daarvan te beheersen.

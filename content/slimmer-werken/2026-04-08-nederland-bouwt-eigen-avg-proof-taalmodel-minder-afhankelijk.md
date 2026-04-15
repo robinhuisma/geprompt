@@ -5,8 +5,9 @@ tags: ["ai", "nederlands", "avg", "taalmodellen"]
 categorieen: ["slimmer-werken"]
 summary: "Het Nederlandse GPT-NL biedt MKB'ers een AVG-compliant alternatief voor buitenlandse AI, met betere Nederlandse taalvaardigheid voor kritische toepassingen."
 cover:
-  image: "/images/covers/2026-04-08-met-13-5-miljoen-euro-bouwt-nederland-een-eigen-avg-proof-ta.webp"
-  alt: "Met 13,5 miljoen euro bouwt Nederland een eigen AVG-proof taalmodel: &#8216;We gaan niet met onze pootjes omhoog liggen&#8217;"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saskia-lensink-tno-gpt-nl"

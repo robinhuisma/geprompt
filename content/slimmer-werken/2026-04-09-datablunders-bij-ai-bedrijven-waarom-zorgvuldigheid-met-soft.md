@@ -7,6 +7,11 @@ summary: "Recente datalekken bij AI-bedrijven tonen aan dat menselijke fouten in
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/02/kort-twee-datablunders-anthropic-in-een-week-vernieuwde-hp-laserjet%e2%80%91lijn-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een datalek bij een softwareleverancier kan directe gevolgen hebben voor de veiligheid van je eigen bedrijfsgegevens, zelfs als je zelf geen software ontwikkelt. De recente blunders bij AI-bedrijven tonen aan dat menselijke fouten in de configuratie van systemen een reëel en actueel risico vormen, waarbij vertrouwelijke informatie per ongeluk publiek wordt gemaakt.

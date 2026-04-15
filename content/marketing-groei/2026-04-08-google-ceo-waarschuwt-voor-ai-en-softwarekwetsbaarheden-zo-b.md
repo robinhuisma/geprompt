@@ -7,6 +7,11 @@ summary: "AI kan volgens Google's topman bestaande software kwetsbaarder maken, 
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/"
+cover:
+  image: "https://images.pexels.com/photos/5361247/pexels-photo-5361247.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Alphabet tiles forming 'Social Media' on a vibrant pink background, perfect for digital marketing themes."
+  caption: "Foto: Visual Tag Mx via Pexels"
+
 ---
 
 Google CEO Sundar Pichai stelt dat kunstmatige intelligentie bestaande software kwetsbaarder kan maken en mogelijk de markt voor geavanceerde cyberaanvallen beïnvloedt. Dit betekent dat ondernemers hun afhankelijkheid van software moeten herzien en proactief moeten investeren in digitale weerbaarheid, omdat de risico's toenemen.

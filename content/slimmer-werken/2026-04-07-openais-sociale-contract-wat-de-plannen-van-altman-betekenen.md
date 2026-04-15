@@ -7,6 +7,11 @@ summary: "Sam Altman pleit voor een nieuw sociaal contract met ideeën als een v
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 OpenAI's CEO Sam Altman publiceert een blauwdruk voor een nieuw 'sociaal contract' om de overgang naar superintelligentie te begeleiden, met concrete voorstellen die de economische basis van bedrijven kunnen raken. Dit is geen abstracte toekomstvisie, maar een reeks beleidsideeën die, als ze worden overgenomen, directe gevolgen hebben voor kosten, personeelsplanning en de manier waarop je AI-technologie gebruikt.

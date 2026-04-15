@@ -7,6 +7,11 @@ summary: "Een praktische handleiding voor Nederlandse startups om vanaf dag éé
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/8154349/pexels-photo-8154349.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two professionals work on laptops focusing on digital advertising in an office setting."
+  caption: "Foto: Cedric Fauntleroy via Pexels"
+
 ---
 
 Het antwoord is dat je als startup met een nieuw domein toch zichtbaar kunt worden in Google door een combinatie van technische perfectie, slimme PR en het juiste type content. De grootste barrière is niet het ontbreken van links, maar het gebrek aan autoriteit en vertrouwen in de ogen van de zoekmachine. Je moet daarom eerst de technische basis op orde hebben voordat je aan promotie begint.

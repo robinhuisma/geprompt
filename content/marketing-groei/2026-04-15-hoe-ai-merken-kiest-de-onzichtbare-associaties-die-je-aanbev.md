@@ -7,6 +7,11 @@ summary: "AI-tools bevelen merken aan op basis van de sterkte van hun associatie
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 AI-tools zoals chatbots en zoekassistenten bevelen merken niet aan op basis van advertentiebudgetten, maar op basis van de sterkte en kwaliteit van hun associaties in de enorme hoeveelheid tekst waarop ze zijn getraind. Dit betekent dat je merk niet alleen bekend moet zijn, maar ook op de juiste manier en in de juiste context genoemd moet worden om door AI als een logische keuze te worden voorgesteld.

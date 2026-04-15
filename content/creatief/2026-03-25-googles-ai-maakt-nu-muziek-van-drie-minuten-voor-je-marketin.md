@@ -5,8 +5,9 @@ tags: ["ai muziek", "contentcreatie", "marketing", "audio"]
 categorieen: ["creatief"]
 summary: "De nieuwe Lyria 3 Pro van Google genereert volledige AI-muzieknummers tot drie minuten, wat nieuwe mogelijkheden biedt voor audiocontent in marketing en productie."
 cover:
-  image: "/images/covers/2026-03-25-google-lyria-3-pro-makes-longer-ai-songs.webp"
-  alt: "Google Lyria 3 Pro makes longer AI songs"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music"

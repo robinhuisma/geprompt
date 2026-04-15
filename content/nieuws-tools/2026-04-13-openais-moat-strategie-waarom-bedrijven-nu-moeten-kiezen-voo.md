@@ -7,6 +7,11 @@ summary: "OpenAI's interne focus op het 'inmetselen' van gebruikers toont aan da
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord op de vraag wat dit interne memo van OpenAI betekent voor jou als ondernemer, is dat de fase van experimenteren met losse AI-tools voorbij is. Bedrijven als OpenAI richten zich nu op het creëren van een 'moat' (slotgracht) om gebruikers vast te houden, wat impliceert dat je binnenkort mogelijk minder makkelijk kunt wisselen tussen aanbieders. Je strategische keuze voor een AI-platform wordt daarmee belangrijker en vraagt om een focus op integratie in je bestaande systemen.

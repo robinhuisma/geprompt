@@ -7,6 +7,11 @@ summary: "Google Gemini introduceert 'notebooks', een functie om al je projectin
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+cover:
+  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A neat workspace featuring a laptop displaying Google search, a smartphone, and a notebook on a wooden desk."
+  caption: "Foto: Caio via Pexels"
+
 ---
 
 Google voegt 'notebooks' toe aan zijn AI-chatbot Gemini, waarmee je alle informatie over een specifiek onderwerp of project op één plek kunt verzamelen en die context vervolgens kunt gebruiken in je gesprekken met de AI. Het is een persoonlijke kennisbank die je projecten structureert en je interacties met Gemini relevanter en efficiënter maakt.

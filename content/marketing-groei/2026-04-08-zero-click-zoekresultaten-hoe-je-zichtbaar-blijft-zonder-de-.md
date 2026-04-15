@@ -7,6 +7,11 @@ summary: "Steeds meer zoekopdrachten eindigen zonder een websitebezoek, wat vraa
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/zero-click-searches"
+cover:
+  image: "https://images.pexels.com/photos/5833309/pexels-photo-5833309.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands using digital devices for financial analysis at a modern desk setup."
+  caption: "Foto: AlphaTradeZone via Pexels"
+
 ---
 
 Zero-click zoekresultaten veranderen de spelregels van online vindbaarheid: je krijgt meer impressies, maar minder bezoekers op je site. Om relevant te blijven, moet je je content en meetstrategie aanpassen aan een wereld waarin de zoekmachine zelf het antwoord geeft.

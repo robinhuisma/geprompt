@@ -7,6 +7,11 @@ summary: "Google's aanpassing aan Gemini bij gevoelige gesprekken is een belangr
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Google past de manier aan waarop zijn AI, Gemini, reageert op gesprekken die wijzen op een mentale gezondheidscrisis, zoals gedachten aan zelfbeschadiging. Deze wijziging, die de toegang tot hulplijnen moet versnellen, komt voort uit een bredere discussie over de verantwoordelijkheid van AI-ontwikkelaars en volgt op rechtszaken waarin AI-systemen worden beschuldigd van het veroorzaken van concrete schade. Voor ondernemers die zelf AI inzetten, is dit een signaal om de veiligheidsprotocollen van hun eigen tools kritisch onder de loep te nemen.

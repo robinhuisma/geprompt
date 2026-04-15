@@ -7,6 +7,11 @@ summary: "Anthropic gebruikt zijn eigen AI, Claude, als een centraal 'besturings
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91524493/anthropic-claude-ai-workplace?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=7&amp;partner=newsletter&amp;campaign_date=04132026"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Anthropic, het bedrijf achter de AI Claude, gebruikt zijn eigen technologie niet alleen als product, maar als het centrale 'besturingssysteem' voor al het interne werk. Dit betekent dat medewerkers voor de overgrote meerderheid van hun taken – van strategie en coderen tot communicatie en planning – eerst Claude raadplegen. Het transformeert de chatbot van een losse tool naar de kern van alle bedrijfsprocessen.

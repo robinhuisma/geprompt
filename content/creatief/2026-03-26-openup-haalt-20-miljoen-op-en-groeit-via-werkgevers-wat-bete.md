@@ -5,8 +5,9 @@ tags: ["mentale gezondheid", "werknemerswelzijn", "zorginnovatie", "hr"]
 categorieen: ["creatief"]
 summary: "Het mentale zorgplatform OpenUp groeit door abonnementen aan bedrijven te verkopen, een model dat ook voor MKB relevant is."
 cover:
-  image: "/images/covers/2026-03-26-psychische-hulp-app-openup-scoort-20-miljoen-8211-meta-en-go.webp"
-  alt: "Psychische hulp-app OpenUp scoort 20 miljoen &#8211; Meta en Google aansprakelijk voor verslaving"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/openup-funding-zorg-app"

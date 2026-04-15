@@ -5,8 +5,9 @@ tags: ["ai", "beveiliging", "retail", "logistiek"]
 categorieen: ["creatief"]
 summary: "Een nieuw AI-systeem maakt het mogelijk om met gewone taal door beveiligingsbeelden te zoeken, wat handmatig terugspoelen overbodig maakt."
 cover:
-  image: "/images/covers/2026-03-26-conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-s.webp"
-  alt: "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/"

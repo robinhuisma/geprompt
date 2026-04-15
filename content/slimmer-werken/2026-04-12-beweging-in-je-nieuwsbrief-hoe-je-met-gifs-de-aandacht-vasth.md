@@ -7,6 +7,11 @@ summary: "Geanimeerde GIFs in e-mails kunnen de ROI meer dan verdubbelen, mits j
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17317902/animation-in-emails"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een subtiele, doelgerichte animatie in je e-mailnieuwsbrief kan de ROI meer dan verdubbelen, van gemiddeld 18:1 naar 37:1. Het verschil tussen succes en irritatie zit in de toepassing: gebruik beweging om een product of proces te *laten zien*, niet om te schreeuwen voor aandacht. Dit sluit aan op de biologische neiging van mensen om beweging op te merken, waardoor je in een overvolle inbox de aandacht kunt grijpen en vasthouden.

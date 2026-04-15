@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "content", "seo"]
 categorieen: ["creatief"]
 summary: "Google gebruikt nu AI om koppen in zoekresultaten te herschrijven, wat de presentatie van jouw content buiten jouw controle om kan veranderen."
 cover:
-  image: "/images/covers/2026-03-20-google-search-is-now-using-ai-to-replace-headlines.webp"
-  alt: "Google Search is now using AI to replace headlines"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"

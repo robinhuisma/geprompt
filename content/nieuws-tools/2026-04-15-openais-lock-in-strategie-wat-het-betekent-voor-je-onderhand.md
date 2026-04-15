@@ -7,6 +7,11 @@ summary: "OpenAI's interne memo legt de focus op het 'locken' van klanten, wat M
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+cover:
+  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
+
 ---
 
 OpenAI's strategische focus op het 'locken' van klanten betekent dat Nederlandse ondernemers hun onderhandelingspositie kunnen versterken en bewuster kunnen kiezen tussen aanbieders. Het bedrijf erkent dat gebruikers nu nog makkelijk kunnen wisselen tussen AI-modellen en wil daar een 'gracht' omheen bouwen, wat wijst op een markt die nog volop in beweging is.

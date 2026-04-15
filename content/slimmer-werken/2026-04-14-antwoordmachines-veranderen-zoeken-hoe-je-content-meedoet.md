@@ -7,6 +7,11 @@ summary: "Antwoordmachine-optimalisatie (AEO) zorgt dat je bedrijf zichtbaar bli
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/aeo-insights"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Om zichtbaar te blijven in antwoordmachines zoals ChatGPT en Perplexity, moet je je content anders benaderen dan voor Google. Antwoordmachine-optimalisatie (AEO) richt zich niet op een hoge positie in zoekresultaten, maar op het leveren van het specifieke, directe antwoord dat deze AI-tools zoeken. Dit betekent een verschuiving van het optimaliseren voor 'de beste bron' naar het geven van 'het juiste antwoord'.

@@ -5,8 +5,9 @@ tags: ["microsoft copilot", "ai-onderzoek", "workflow", "productiviteit"]
 categorieen: ["nieuws-tools"]
 summary: "Microsoft verbetert de nauwkeurigheid van Copilot voor onderzoek, wat professionals helpt sneller betrouwbare informatie te vinden."
 cover:
-  image: "/images/covers/2026-04-07-microsoft-brings-new-ai-capabilities-to-copilot-researcher.webp"
-  alt: "Microsoft Brings New AI Capabilities to Copilot Researcher"
+  image: "https://images.pexels.com/photos/10142683/pexels-photo-10142683.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Interior view of Microsoft office with logo on wooden wall in Brussels, Belgium."
+  caption: "Foto: Angel Bena via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/microsoft-brings-new-ai-capabilities-copilot-researcher"

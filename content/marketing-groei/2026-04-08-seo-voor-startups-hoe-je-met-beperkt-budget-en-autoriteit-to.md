@@ -7,6 +7,11 @@ summary: "Een praktische blauwdruk voor Nederlandse startups om een zichtbare di
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Top view of diverse team collaboratively working in a modern office setting."
+  caption: "Foto: Canva Studio via Pexels"
+
 ---
 
 Het antwoord voor startups is om een zichtbare digitale aanwezigheid op te bouwen door technische SEO, strategische PR en betaalde versterking te combineren. Omdat je als nieuwkomer geen domeinautoriteit hebt, moet je Google op andere manieren overtuigen van je waarde en betrouwbaarheid.

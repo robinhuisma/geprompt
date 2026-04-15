@@ -7,6 +7,11 @@ summary: "Een groeiende verzameling creatieve tools belooft géén AI te gebruik
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/collection-of-noai-tools/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=collection-of-noai-tools"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 De opkomst van 'NoAI'-tools biedt creatieve professionals een voorspelbaar en controleerbaar alternatief in een markt die overspoeld wordt door AI-functies. Dit is een reactie op de behoefte aan stabiliteit en het behoud van ambachtelijke vaardigheden, waarbij de eindresultaten volledig door de mens worden bepaald.

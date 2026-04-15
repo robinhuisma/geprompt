@@ -7,6 +7,11 @@ summary: "YouTube Shorts lanceert een tool waarmee je een digitale versie van je
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 YouTube maakt het voor contentmakers mogelijk om een digitale versie van zichzelf te creëren voor gebruik in Shorts-video's. Deze AI-avatars kunnen bestaande video's aanvullen of volledig nieuwe content genereren, wat een nieuwe weg opent voor efficiënte videoproductie, maar ook vragen oproept over authenticiteit en veiligheid.

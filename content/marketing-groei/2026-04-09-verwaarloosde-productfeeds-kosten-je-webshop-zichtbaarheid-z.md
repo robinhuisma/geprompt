@@ -7,6 +7,11 @@ summary: "Een geoptimaliseerde productfeed is de sleutel tot vindbaarheid in Goo
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/"
+cover:
+  image: "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Top view of diverse team collaboratively working in a modern office setting."
+  caption: "Foto: Canva Studio via Pexels"
+
 ---
 
 Een slecht onderhouden productfeed is een van de grootste gemiste kansen voor webshopeigenaren. Het zorgt ervoor dat je producten niet goed worden gevonden in Google Shopping, prijsvergelijkingssites en andere kanalen, wat direct verkoopkosten oplevert. Door je feed te optimaliseren voor zoekintentie en gestructureerde data, verbeter je je zichtbaarheid aanzienlijk.

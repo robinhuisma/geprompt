@@ -7,6 +7,11 @@ summary: "Een top-down verplichting van AI werkt vaak niet; effectiever is het o
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/columnisten-experts/ai-verplichten-binnen-organisatie-verstandig-of-niet"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het antwoord is dat het simpelweg verplichten van AI-gebruik vaak niet effectief is. Een bottom-up benadering, waarbij je medewerkers vertrouwen en ruimte geeft om zelf te experimenteren, leidt tot betere en meer praktische toepassingen. De kunst voor leiders is om een cultuur te creëren waarin experimenteren wordt gestimuleerd, terwijl je op de inhoud heldere kaders stelt.

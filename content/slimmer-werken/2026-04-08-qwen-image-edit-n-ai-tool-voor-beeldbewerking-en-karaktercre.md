@@ -7,6 +7,11 @@ summary: "Het Qwen Image Edit-model vervangt meerdere gespecialiseerde AI-tools,
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/comfyui/qwen-image-edit-can-create-character-consistent-lora-dataset/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het Qwen Image Edit AI-model kan meerdere gespecialiseerde beeldbewerkingstools vervangen en biedt een krachtige nieuwe functie: het consistent genereren van hetzelfde karakter in verschillende stijlen en poses. Dit maakt het eenvoudiger en goedkoper om datasets voor marketing, storytelling of productontwerp te creëren zonder dat je meerdere aparte softwarepakketten of complexe maskers nodig hebt.

@@ -7,6 +7,11 @@ summary: "Generatie Z wordt steeds sceptischer over AI-tools die ze tegelijkerti
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2076593/gen-z-krijgt-steeds-grotere-hekel-aan-ai-maar-kan-er-niet-mee-stoppen.html"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Generatie Z ontwikkelt een groeiende weerstand tegen AI-tools, maar kan in hun werk en studie steeds minder zonder. Dit creëert een paradox voor werkgevers en leidinggevenden: hoe implementeer je technologie die nodig is voor productiviteit, maar die door een cruciale groep medewerkers met toenemende frustratie en argwaan wordt bekeken?

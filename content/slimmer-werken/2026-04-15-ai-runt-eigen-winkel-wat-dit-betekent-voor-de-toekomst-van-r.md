@@ -7,6 +7,11 @@ summary: "Een AI-agent heeft een fysieke winkel geopend en personeel aangenomen,
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
+cover:
+  image: "https://images.pexels.com/photos/10321966/pexels-photo-10321966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish home office with standing desk, laptop, and plants for ergonomic work environment."
+  caption: "Foto: Standsome Worklifestyle via Pexels"
+
 ---
 
 Een AI-agent heeft een fysieke winkel geopend, personeel aangenomen en het budget beheerd. Dit experiment toont niet aan dat AI nu al perfect is, maar wel dat de techniek snel genoeg vordert om binnen afzienbare tijd operationele managementtaken in de retail over te nemen.

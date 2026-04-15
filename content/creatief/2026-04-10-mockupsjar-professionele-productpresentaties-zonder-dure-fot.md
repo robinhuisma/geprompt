@@ -7,6 +7,11 @@ summary: "Met MockupsJar zet je platte ontwerpen in seconden om in realistische 
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315993/mockupsjar-build-professional-screen-and-product-mockups-instantly"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Met MockupsJar maak je van een plat ontwerp in seconden een realistische productfoto of schermweergave, zonder kennis van Photoshop of een dure fotoshoot. Het is een webplatform dat vooral handig is voor ondernemers, freelancers en marketeers die hun producten, apps of ontwerpen professioneel willen presenteren aan klanten, investeerders of op hun webshop.

@@ -5,8 +5,9 @@ tags: ["ai video", "contentcreatie", "marketing", "auteursrecht"]
 categorieen: ["creatief"]
 summary: "De nieuwe AI Dreamina Seedance 2.0 in CapCut voorkomt automatisch dat je video's maakt met beschermde gezichten of intellectueel eigendom, ideaal voor veilige marketing."
 cover:
-  image: "/images/covers/2026-03-26-bytedance-8217-s-new-ai-video-generation-model-dreamina-seed.webp"
-  alt: "ByteDance&#8217;s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/"

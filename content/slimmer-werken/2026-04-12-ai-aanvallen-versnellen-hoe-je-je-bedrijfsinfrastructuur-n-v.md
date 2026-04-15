@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model kan automatisch kwetsbaarheden vinden en misbruiken
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/10/wereldwijd-alarm-over-anthropic-mythos/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Een nieuw type AI vormt een directe bedreiging voor de digitale infrastructuur van bedrijven, omdat het automatisch zwakke plekken kan vinden en misbruiken voordat menselijke teams kunnen reageren. Dit vereist een fundamenteel andere aanpak van cybersecurity, waarbij beveiliging een bestuurlijke verantwoordelijkheid wordt en niet langer alleen een IT-probleem.

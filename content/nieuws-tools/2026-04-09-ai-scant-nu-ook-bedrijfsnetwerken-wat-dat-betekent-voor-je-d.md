@@ -7,6 +7,11 @@ summary: "Een nieuw AI-model van Anthropic kan automatisch kwetsbaarheden in sof
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"
+cover:
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
+
 ---
 
 Een nieuw AI-model van Anthropic, ontwikkeld in samenwerking met techgiganten, kan automatisch beveiligingslekken in software opsporen. Dit opent de weg naar geautomatiseerde beveiligingsscans die niet langer voorbehouden zijn aan grote ondernemingen, maar ook voor het MKB toegankelijker kunnen worden.

@@ -7,6 +7,11 @@ summary: "Grote merken delen hun eerste strategieën om gevonden te worden door 
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91522570/brands-vs-bots-cmos-ad-agencies-tell-all-about-what-theyve-learned-marketing-to-our-new-ai-overlords?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=04102026"
+cover:
+  image: "https://images.pexels.com/photos/6956303/pexels-photo-6956303.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a camera placed on brown paper with 'Social Media Marketing' text, emphasizing digital marketing themes."
+  caption: "Foto: Eva Bronzini via Pexels"
+
 ---
 
 Het antwoord is dat grote merken en marketingbureaus nu strategieën ontwikkelen om gevonden te worden door AI-chatbots zoals ChatGPT, Claude en Gemini. Deze chatbots fungeren steeds vaker als een nieuwe vorm van zoekmachine, en het traditionele SEO-spel verandert daardoor fundamenteel. De kernles is dat je niet langer alleen voor zoekwoorden optimaliseert, maar voor autoriteit, context en het direct beantwoorden van vragen.

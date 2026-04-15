@@ -7,6 +7,11 @@ summary: "Een webinar legt uit hoe je data uit AI-zoekmachines kunt vertalen naa
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/"
+cover:
+  image: "https://images.pexels.com/photos/6476260/pexels-photo-6476260.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team collaborating on digital marketing strategies at a desk, using laptops and tablets."
+  caption: "Foto: Mikael Blomkvist via Pexels"
+
 ---
 
 Je kunt data uit AI-zoekmachines gebruiken om een lokale marketingstrategie te ontwikkelen die specifieke gaten in je online aanwezigheid, zoals ontbrekende vermeldingen op bedrijfsgidsen, opspoort en verhelpt. Dit webinar van Search Engine Journal legt uit hoe je die signalen vertaalt naar acties die je lokale vindbaarheid direct verbeteren.

@@ -5,8 +5,9 @@ tags: ["podcast", "contentcreatie", "ai-tools", "marketing"]
 categorieen: ["creatief"]
 summary: "Een nieuwe alles-in-één tool gebruikt AI om het opnemen, bewerken en publiceren van podcasts te vereenvoudigen voor beginners."
 cover:
-  image: "/images/covers/2026-03-19-rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-.webp"
-  alt: "Rebel Audio is a new AI podcasting tool aimed at first-time creators"
+  image: "https://images.pexels.com/photos/8132462/pexels-photo-8132462.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A music producer wearing headphones works intently in a vibrant studio environment."
+  caption: "Foto: Anna Pou via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"

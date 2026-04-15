@@ -7,6 +7,11 @@ summary: "AWS investeert in meerdere AI-concurrenten tegelijk, een strategie die
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
+cover:
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
+
 ---
 
 Amazon Web Services (AWS) investeert miljarden in zowel Anthropic als OpenAI, twee concurrenten op het gebied van kunstmatige intelligentie. Dit lijkt een tegenstrijdige strategie, maar volgens de top van AWS is het een bewuste keuze die voortkomt uit een cultuur van 'coopetitie' – het gelijktijdig concurreren en samenwerken. Voor ondernemers biedt deze aanpak een belangrijke les: je kunt meerdere technologiepartners hebben, zelfs als die onderling rivalen zijn, zolang je de relaties maar actief beheert en je eigen strategische doelen voorop stelt.

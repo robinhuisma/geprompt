@@ -7,6 +7,11 @@ summary: "Een coalitie van techreuzen werkt aan veiligheidsprotocollen voor supe
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076116/dit-is-hoe-anthropic-wil-voorkomen-dat-ai-alles-kapotmaakt.html"
+cover:
+  image: "https://images.pexels.com/photos/19895706/pexels-photo-19895706.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A confident woman engineer in a vibrant workshop, showcasing tools and technology."
+  caption: "Foto: ThisIsEngineering via Pexels"
+
 ---
 
 Een coalitie van techreuzen, waaronder Amazon, Apple en Microsoft, werkt samen aan veiligheidsprotocollen voor toekomstige, superintelligente AI. Dit betekent dat de AI-tools die jij straks gebruikt, gebouwd zullen worden met een fundamentele focus op controle en betrouwbaarheid, om te voorkomen dat ze onbedoelde schade kunnen aanrichten.

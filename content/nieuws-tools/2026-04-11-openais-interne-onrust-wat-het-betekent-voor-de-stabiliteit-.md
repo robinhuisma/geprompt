@@ -7,6 +7,11 @@ summary: "De interne veranderingen bij OpenAI kunnen leiden tot hogere kosten en
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2076447/chatgpt-duurder-geen-lol-meer-stoelendans-in-de-top-het-rommelt-bij-openai.html"
+cover:
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De interne ontwikkelingen bij OpenAI kunnen voor Nederlandse bedrijven vertalen naar hogere kosten, minder voorspelbare updates en een groter strategisch risico bij het bouwen van systemen die afhankelijk zijn van één leverancier. Het is een signaal om je AI-afhankelijkheid te diversifiëren en kostenstructuren kritisch te bekijken.

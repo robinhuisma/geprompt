@@ -7,6 +7,11 @@ summary: "Een praktische gids voor Nederlandse startups om met beperkt budget en
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17315049/seo-for-startups"
+cover:
+  image: "https://images.pexels.com/photos/6476258/pexels-photo-6476258.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Overhead view of a team discussing digital marketing strategies with laptops and charts."
+  caption: "Foto: Mikael Blomkvist via Pexels"
+
 ---
 
 Startups kunnen met een slimme combinatie van technische precisie, content en public relations hun zichtbaarheid in zoekmachines opbouwen, ondanks een lage domeinautoriteit. De grootste barrière is niet het gebrek aan links, maar het ontbreken van een solide technische basis en een strategie die verder kijkt dan traditionele SEO.

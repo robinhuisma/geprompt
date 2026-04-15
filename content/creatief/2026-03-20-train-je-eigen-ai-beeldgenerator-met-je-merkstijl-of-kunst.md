@@ -5,8 +5,9 @@ tags: ["creatieve ai", "beeldgeneratie", "merkintegratie", "adobe"]
 categorieen: ["creatief"]
 summary: "Adobe Firefly laat je nu een AI-model trainen op je eigen beeldbank, zodat gegenereerde content direct jouw unieke stijl of merkidentiteit volgt."
 cover:
-  image: "/images/covers/2026-03-20-adobe-s-ai-image-generator-can-now-be-trained-on-your-own-ar.webp"
-  alt: "Adobe’s AI image generator can now be trained on your own art"
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"

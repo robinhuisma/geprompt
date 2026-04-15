@@ -7,6 +7,11 @@ summary: "Top-down AI-gebruik opleggen is vaak niet effectief; succesvolle leide
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/columnisten-experts/ai-verplichten-binnen-organisatie-verstandig-of-niet"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 AI-gebruik afdwingen via regels en verplichtingen is vaak contraproductief. De meest effectieve aanpak is een combinatie van bottom-up experimenteerruimte geven en top-down duidelijke kaders stellen, waarbij vertrouwen in medewerkers centraal staat.

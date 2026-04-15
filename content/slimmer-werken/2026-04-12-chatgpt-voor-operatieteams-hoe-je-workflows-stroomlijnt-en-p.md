@@ -7,6 +7,11 @@ summary: "OpenAI's Academy biedt een gids voor operatieteams om ChatGPT in te ze
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/academy/operations"
+cover:
+  image: "https://images.pexels.com/photos/16094040/pexels-photo-16094040.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a person typing on a laptop displaying the ChatGPT interface, emphasizing modern technology use."
+  caption: "Foto: Matheus Bertelli via Pexels"
+
 ---
 
 ChatGPT kan operatieteams helpen om workflows te stroomlijnen, coördinatie te verbeteren, processen te standaardiseren en tot snellere uitvoering te komen. Dit blijkt uit de nieuwe gids 'ChatGPT for operations teams' in de OpenAI Academy. Het is een praktische handleiding gericht op het efficiënter maken van dagelijkse operationele taken.

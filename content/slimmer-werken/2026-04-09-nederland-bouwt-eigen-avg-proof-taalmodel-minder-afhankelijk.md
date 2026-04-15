@@ -7,6 +7,11 @@ summary: "Het Nederlandse GPT-NL biedt ondernemers een AVG-compliant alternatief
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saskia-lensink-tno-gpt-nl"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Het Nederlandse GPT-NL is een door de overheid gefinancierd, AVG-proof taalmodel dat speciaal is getraind op de Nederlandse taal. Het biedt ondernemers een Europees alternatief voor Amerikaanse AI-diensten, met betere taalvaardigheid en minder compliance-risico's voor gevoelige gegevens.

@@ -7,6 +7,11 @@ summary: "Met gratis, lokaal draaiende AI-modellen zoals Qwen Image Edit kunnen 
 draft: false
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/resources/ai-powered-photo-restoration-using-qwen-image-edit/"
+cover:
+  image: "https://images.pexels.com/photos/32813710/pexels-photo-32813710.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Dynamic abstract art featuring vibrant and fluid shapes in a colorful pattern, ideal for modern design concepts."
+  caption: "Foto: Landiva  Weber via Pexels"
+
 ---
 
 Met gratis, lokaal draaiende AI-modellen zoals Qwen Image Edit kunnen ondernemers kosteneffectief oude foto's restaureren zonder abonnementen. Dit opent mogelijkheden voor kleine bedrijven in de creatieve sector, archiefbeheer of erfgoed om deze dienst zelf aan te bieden of hun interne processen te verbeteren.
