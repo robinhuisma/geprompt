@@ -5,8 +5,9 @@ tags: ["ai agents", "mobiel", "klantinteractie", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "De CEO van Nothing voorspelt dat AI-agents die onze intentie begrijpen, traditionele apps gaan vervangen, wat een fundamentele verschuiving betekent voor hoe je klanten bereikt."
 cover:
-  image: "/images/covers/2026-03-18-nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-.webp"
-  alt: "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place"
+  image: "https://images.pexels.com/photos/5256688/pexels-photo-5256688.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse group of professionals engaging in a collaborative meeting around a laptop in an office."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"

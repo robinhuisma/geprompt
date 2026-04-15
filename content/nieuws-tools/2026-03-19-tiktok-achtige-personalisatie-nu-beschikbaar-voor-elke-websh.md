@@ -5,8 +5,9 @@ tags: ["personalisatie", "e-commerce", "ai", "retail"]
 categorieen: ["nieuws-tools"]
 summary: "Een nieuw platform maakt de geavanceerde, op AI gebaseerde personalisatie van TikTok toegankelijk voor consumentenmerken en webshops."
 cover:
-  image: "/images/covers/2026-03-19-sequen-snags-16m-to-bring-tiktok-style-personalization-tech-.webp"
-  alt: "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company"
+  image: "https://images.pexels.com/photos/4132535/pexels-photo-4132535.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone displaying TikTok app logo, placed on a wireless charger beside a smart speaker."
+  caption: "Foto: Anton via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/"

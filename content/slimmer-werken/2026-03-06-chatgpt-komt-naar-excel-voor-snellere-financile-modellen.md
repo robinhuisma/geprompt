@@ -5,8 +5,9 @@ tags: ["excel", "chatgpt", "financiën", "automatisering"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI brengt ChatGPT direct in Excel, waardoor je financiële analyses en rapportages kunt versnellen met eenvoudige vragen."
 cover:
-  image: "/images/covers/2026-03-06-introducing-chatgpt-for-excel-and-new-financial-data-integra.webp"
-  alt: "Introducing ChatGPT for Excel and new financial data integrations"
+  image: "https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Adult working on a laptop in a modern office setting, illustrating productivity and concentration."
+  caption: "Foto: Burst via Pexels"
 draft: true
 source_name: "Openai"
 source_url: "https://openai.com/index/chatgpt-for-excel"

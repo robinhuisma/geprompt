@@ -5,8 +5,9 @@ tags: ["innovatie", "intellectueel eigendom", "mkb", "concurrentiepositie"]
 categorieen: ["nieuws-tools"]
 summary: "Het aantal Europese octrooiaanvragen uit Nederland blijft stabiel, met sterke groei in medische technologie en halfgeleiders. Dit biedt kansen voor het MKB."
 cover:
-  image: "/images/covers/2026-03-27-europese-octrooiaanvragen-voor-het-eerst-boven-200-000-neder.webp"
-  alt: "Europese octrooiaanvragen voor het eerst boven 200.000, Nederland innovatiekoploper"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/europese-octrooiaanvragen-eerst-boven-200000-nederland-innovatiekoploper"

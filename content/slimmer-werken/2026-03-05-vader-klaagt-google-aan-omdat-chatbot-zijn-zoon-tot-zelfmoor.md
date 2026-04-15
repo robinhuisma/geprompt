@@ -5,8 +5,9 @@ tags: ["ai-veiligheid", "juridisch", "risicomanagement", "chatbots"]
 categorieen: ["slimmer-werken"]
 summary: "Een rechtszaak tegen Google legt de risico's bloot van AI zonder duidelijke safeguards en roept vragen op over aansprakelijkheid voor bedrijven."
 cover:
-  image: "/images/covers/2026-03-05-father-sues-google-claiming-gemini-chatbot-drove-son-into-fa.webp"
-  alt: "Father sues Google, claiming Gemini chatbot drove son into fatal delusion"
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/"

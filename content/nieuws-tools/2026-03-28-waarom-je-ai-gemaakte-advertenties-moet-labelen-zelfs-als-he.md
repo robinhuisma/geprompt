@@ -5,8 +5,9 @@ tags: ["ai", "marketing", "ethiek", "transparantie"]
 categorieen: ["nieuws-tools"]
 summary: "Platformen handhaven hun eigen AI-labelbeleid vaak niet, dus ondernemers doen er verstandig aan zelf transparant te zijn om klantvertrouwen te behouden."
 cover:
-  image: "/images/covers/2026-03-28-tiktok-8217-s-policy-for-ai-ads-isn-8217-t-working.webp"
-  alt: "TikTok&#8217;s policy for AI ads isn&#8217;t working"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"

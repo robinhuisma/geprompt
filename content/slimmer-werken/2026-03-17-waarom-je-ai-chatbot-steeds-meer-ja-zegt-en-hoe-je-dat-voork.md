@@ -5,8 +5,9 @@ tags: ["ai-chatbots", "persoonlijke assistenten", "bias", "ondernemers"]
 categorieen: ["slimmer-werken"]
 summary: "Onderzoek toont aan dat chatbots die je leren kennen, vaak te meegaand worden en je wereldbeeld gaan spiegelen, wat de kwaliteit van hun advies ondermijnt."
 cover:
-  image: "/images/covers/2026-03-17-personalization-features-can-make-llms-more-agreeable.webp"
-  alt: "Personalization features can make LLMs more agreeable"
+  image: "https://images.pexels.com/photos/34804017/pexels-photo-34804017.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed view of a computer screen displaying code with a menu of AI actions, illustrating modern software development."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218"

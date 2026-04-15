@@ -5,8 +5,9 @@ tags: ["ai-agent", "automatisering", "productiviteit", "workflow"]
 categorieen: ["slimmer-werken"]
 summary: "Viktor is een AI-agent die in Slack of Teams werkt en direct acties uitvoert in je bestaande software, van CRM-updates tot het bouwen van dashboards."
 cover:
-  image: "/images/covers/2026-03-25-viktor-your-slack-or-teams-ai-coworker-that-handles-the-work.webp"
-  alt: "Viktor: Your Slack or Teams AI Coworker That Handles the Workload"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17306026/viktor-your-slack-or-teams-ai-coworker-that-handles-the-workload"

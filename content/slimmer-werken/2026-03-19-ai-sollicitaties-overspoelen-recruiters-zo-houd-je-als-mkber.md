@@ -5,8 +5,9 @@ tags: ["recruitment", "ai", "solliciteren", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Meer dan de helft van de sollicitanten gebruikt AI, wat leidt tot een verdubbeling van het aantal brieven. Dit vraagt om een nieuwe, hybride aanpak in je selectie."
 cover:
-  image: "/images/covers/2026-03-19-ai-jaagt-sol-li-ci-ta-ties-door-het-dak.webp"
-  alt: "Ai jaagt sol­li­ci­ta­ties door het dak"
+  image: "https://images.pexels.com/photos/6340691/pexels-photo-6340691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A group of young colleagues stacking hands indoors, showing teamwork and unity."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/18/ai-jaagt-sollicitaties-door-het-dak/"

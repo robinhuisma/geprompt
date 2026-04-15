@@ -5,8 +5,9 @@ tags: ["chatgpt", "marktonderzoek", "prompten", "efficiëntie"]
 categorieen: ["slimmer-werken"]
 summary: "Een specifieke prompt laat je met ChatGPT snel en gestructureerd marktinformatie verzamelen, van concurrentieanalyse tot klantbehoeften."
 cover:
-  image: "/images/covers/2026-03-23-this-single-chatgpt-prompt-can-do-hours-of-market-research-i.webp"
-  alt: "This single ChatGPT prompt can do hours of market research in minutes—here’s how"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91506061/this-single-chatgpt-prompt-hours-market-research-minutes-heres-how?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=03232026"

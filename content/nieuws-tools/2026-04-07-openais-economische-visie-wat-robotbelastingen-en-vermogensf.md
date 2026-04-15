@@ -7,6 +7,11 @@ summary: "OpenAI stelt radicale herverdeling voor, zoals belasting op AI-winst, 
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
+cover:
+  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
+
 ---
 
 OpenAI stelt voor om de winsten uit kunstmatige intelligentie zwaarder te belasten en de opbrengsten in publieke vermogensfondsen te stoppen, om zo de economische gevolgen van grootschalige automatisering op te vangen. Het bedrijf schetst een toekomst waarin een vierdaagse werkweek mogelijk wordt, maar alleen als de welvaart uit AI op een nieuwe manier wordt herverdeeld.

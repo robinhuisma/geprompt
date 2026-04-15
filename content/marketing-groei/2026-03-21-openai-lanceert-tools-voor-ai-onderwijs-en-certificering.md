@@ -5,8 +5,9 @@ tags: ["ai-onderwijs", "certificering", "training", "openai"]
 categorieen: ["marketing-groei"]
 summary: "OpenAI introduceert nieuwe bronnen om organisaties te helpen AI-vaardigheden op te bouwen via training en certificering."
 cover:
-  image: "/images/covers/2026-03-21-ensuring-ai-use-in-education-leads-to-opportunity.webp"
-  alt: "Ensuring AI use in education leads to opportunity"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/ai-education-opportunity"

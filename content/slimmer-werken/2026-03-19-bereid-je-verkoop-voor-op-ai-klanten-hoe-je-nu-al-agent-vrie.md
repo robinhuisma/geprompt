@@ -5,8 +5,9 @@ tags: ["b2b", "ai-agenten", "verkoop", "digitale transformatie"]
 categorieen: ["slimmer-werken"]
 summary: "Binnenkort doet een AI-agent het inkopen voor je klant. Dit is hoe je je website en informatie nu al inricht voor deze nieuwe 'machine-klant'."
 cover:
-  image: "/images/covers/2026-03-19-architecting-b2b-experiences-for-the-15-trillion-machine-cus.webp"
-  alt: "Architecting B2B Experiences for the $15 Trillion Machine Customer Economy: The Trust Paradox"
+  image: "https://images.pexels.com/photos/7988217/pexels-photo-7988217.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team of professionals engaged in a collaborative meeting in a modern conference room."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/architecting-b2b-experiences-for-the-15-trillion-machine-customer-economy-the-trust-paradox/"

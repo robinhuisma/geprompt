@@ -5,8 +5,9 @@ tags: ["google ads", "ai", "performance marketing", "adverteren"]
 categorieen: ["marketing-groei"]
 summary: "Een nieuwe studie toont dat AI Max in Google Ads Search-campagnes gemiddeld 13% meer conversiewaarde oplevert, maar vaak gepaard gaat met hogere kosten per acquisitie en onvoorspelbare ROAS."
 cover:
-  image: "/images/covers/2026-03-08-what-smec-s-data-reveals-about-ai-max-performance-via-sejour.webp"
-  alt: "What SMEC’s Data Reveals About AI Max Performance via @sejournal, @brookeosmundson"
+  image: "https://images.pexels.com/photos/6476787/pexels-photo-6476787.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Young man delivering a business presentation on ad spend with charts and graphs in a modern office setting."
+  caption: "Foto: Mikael Blomkvist via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/what-smecs-data-reveals-about-ai-max-performance/568866/"

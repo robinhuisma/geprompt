@@ -5,8 +5,9 @@ tags: ["ai-beleid", "veiligheid", "jeugd", "verantwoord gebruik"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI introduceert in Japan een pakket maatregelen om generatieve AI veiliger te maken voor tieners, met lessen voor Nederlandse ondernemers."
 cover:
-  image: "/images/covers/2026-03-19-openai-japan-announces-japan-teen-safety-blueprint-to-put-te.webp"
-  alt: "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/japan-teen-safety-blueprint"

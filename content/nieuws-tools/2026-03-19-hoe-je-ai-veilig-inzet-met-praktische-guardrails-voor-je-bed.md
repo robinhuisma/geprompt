@@ -5,8 +5,9 @@ tags: ["ai-beveiliging", "compliance", "workflows", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "AI brengt risico's met zich mee, maar je kunt je bedrijf beschermen met eenvoudige veiligheidscontroles in je workflows."
 cover:
-  image: "/images/covers/2026-03-19-ai-guardrails-add-safety-and-compliance-checks-to-your-workf.webp"
-  alt: "AI Guardrails: Add safety and compliance checks to your workflows"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/ai-guardrails-guide"

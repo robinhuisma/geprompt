@@ -5,8 +5,9 @@ tags: ["ai-onderzoek", "agenten", "model evaluatie", "bedrijfsprocessen"]
 categorieen: ["nieuws-tools"]
 summary: "Een groot investeringsfonds bouwde een eigen AI-onderzoekssysteem met agenten en strenge evaluatie, een aanpak die ook voor andere bedrijven leerzaam is."
 cover:
-  image: "/images/covers/2026-03-24-how-balyasny-asset-management-built-an-ai-research-engine-fo.webp"
-  alt: "How Balyasny Asset Management built an AI research engine for investing"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/balyasny-asset-management"

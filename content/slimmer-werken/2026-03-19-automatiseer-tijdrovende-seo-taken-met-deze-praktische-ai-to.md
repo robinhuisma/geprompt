@@ -5,8 +5,9 @@ tags: ["seo", "automatisering", "content", "zoekmachines"]
 categorieen: ["slimmer-werken"]
 summary: "AI kan je helpen bij het analyseren van content, uitvoeren van technische audits en optimaliseren van interne links, zodat je tijd overhoudt voor strategie."
 cover:
-  image: "/images/covers/2026-03-19-how-to-use-ai-to-streamline-time-consuming-seo-tasks-via-sej.webp"
-  alt: "How To Use AI To Streamline Time-Consuming SEO Tasks via @sejournal, @coreydmorris"
+  image: "https://images.pexels.com/photos/8117465/pexels-photo-8117465.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team of colleagues collaborating on a business project in a modern office setting."
+  caption: "Foto: Ivan S via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/"

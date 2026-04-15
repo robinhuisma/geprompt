@@ -5,8 +5,9 @@ tags: ["ai", "infrastructuur", "energie", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "Bedrijven met grote stroomvraag kunnen netcongestie omzeilen door nabij windparken te bouwen, een strategie die nu ook voor AI-infrastructuur wordt voorgesteld."
 cover:
-  image: "/images/covers/2026-03-27-ai-fabriek-wil-directe-aansluiting-op-noord-zee-stroom-om-ne.webp"
-  alt: "Ai‑fabriek wil directe aansluiting op Noord­zee­stroom om netcongestie te voorkomen"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/27/ai%e2%80%91fabriek-wil-directe-aansluiting-op-noordzeestroom-om-netcongestie-te-voorkomen/"

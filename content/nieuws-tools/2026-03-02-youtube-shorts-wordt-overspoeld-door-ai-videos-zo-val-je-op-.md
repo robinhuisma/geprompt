@@ -5,9 +5,9 @@ tags: ["youtube shorts", "contentstrategie", "videomarketing", "ai"]
 categorieen: ["nieuws-tools"]
 summary: "Meer dan 20% van de YouTube Shorts is AI-gegenereerde 'slop', wat een kans creëert voor merken die met authenticiteit en eenvoud vertrouwen kunnen winnen."
 cover:
-  image: "/images/covers/2026-03-02-youtube-s-ai-slop-problem-and-how-marketers-can-compete-via-.webp"
-  alt: "YouTube’s AI Slop Problem And How Marketers Can Compete via @sejournal, @MattGSouthern"
-  caption: "Beeld gegenereerd met AI voor geprompt.nl"
+  image: "https://images.pexels.com/photos/33440278/pexels-photo-33440278.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of YouTube logo displayed on a laptop screen in a dark environment."
+  caption: "Foto: Zulfugar Karimov via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/"

@@ -5,8 +5,9 @@ tags: ["raycast", "low-code", "automatisering", "productiviteit"]
 categorieen: ["slimmer-werken"]
 summary: "Met Glaze bouw je op de Mac eigen kleine apps via een chat, zonder kennis van code, terminals of deployment."
 cover:
-  image: "/images/covers/2026-03-05-raycast-s-glaze-is-an-all-in-one-vibe-coding-app-platform.webp"
-  alt: "Raycast’s Glaze is an all-in-one vibe coding app platform"
+  image: "https://images.pexels.com/photos/260994/pexels-photo-260994.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Sleek interior of a modern office building showcasing open balconies and contemporary design."
+  caption: "Foto: Pixabay via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store"

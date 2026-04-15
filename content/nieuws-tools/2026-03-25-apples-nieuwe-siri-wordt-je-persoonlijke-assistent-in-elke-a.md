@@ -5,8 +5,9 @@ tags: ["apple", "siri", "ai-assistent", "productiviteit"]
 categorieen: ["nieuws-tools"]
 summary: "Apple werkt aan een Siri die in je e-mail, notities en planning kan kijken om taken te automatiseren, met hulp van Google's AI voor complexe vragen."
 cover:
-  image: "/images/covers/2026-03-25-apple-wil-dat-siri-overal-aanwezig-is-op-je-iphone.webp"
-  alt: "Apple wil dat Siri overal aanwezig is op je iPhone"
+  image: "https://images.pexels.com/photos/6427919/pexels-photo-6427919.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Flat lay of Apple devices including iPhone, iPad, MacBook, and Watch on a white surface, ideal for tech enthusiasts."
+  caption: "Foto: Florian Doppler via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2070635/apple-wil-dat-siri-overal-aanwezig-is-op-je-iphone.html"

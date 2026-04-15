@@ -5,8 +5,9 @@ tags: ["ai-hardware", "klantenservice", "retail", "innovatie"]
 categorieen: ["nieuws-tools"]
 summary: "Meta's nieuwe AI-bril maakt handsfree interactie met AI mogelijk, wat kansen biedt voor klantenservice, training en realtime data-analyse."
 cover:
-  image: "/images/covers/2026-03-26-meta-gets-ready-to-launch-two-new-ray-ban-ai-glasses.webp"
-  alt: "Meta gets ready to launch two new Ray-Ban AI glasses"
+  image: "https://images.pexels.com/photos/15406293/pexels-photo-15406293.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up view of Facebook app on a modern smartphone, emphasizing technology."
+  caption: "Foto: Bastian Riccardi via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses"

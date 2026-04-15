@@ -5,8 +5,9 @@ tags: ["google", "e-commerce", "seo", "patent"]
 categorieen: ["slimmer-werken"]
 summary: "Google heeft een patent voor een systeem dat onderpresterende webshoppagina's automatisch vervangt door eigen, gepersonaliseerde AI-pagina's in de zoekresultaten."
 cover:
-  image: "/images/covers/2026-03-05-google-vervangt-pagina-s-webshops-door-eigen-ai-pagina-8217-.webp"
-  alt: "Google vervangt pagina’s webshops door eigen AI-pagina&#8217;s"
+  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A neat workspace featuring a laptop displaying Google search, a smartphone, and a notebook on a wooden desk."
+  caption: "Foto: Caio via Pexels"
 draft: true
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/google-vervangt-paginas-webshops-door-eigen-aipaginas"

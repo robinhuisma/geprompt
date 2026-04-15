@@ -5,8 +5,9 @@ tags: ["adobe", "photoshop", "beeldbewerking", "ai-assistent"]
 categorieen: ["slimmer-werken"]
 summary: "Je kunt nu in de web- en mobiele versie van Photoshop een AI-assistent vragen om foto's aan te passen door simpelweg te zeggen wat je wilt veranderen."
 cover:
-  image: "/images/covers/2026-03-11-you-can-now-ask-photoshop-s-ai-assistant-to-edit-images-for-.webp"
-  alt: "You can now ask Photoshop’s AI assistant to edit images for you"
+  image: "https://images.pexels.com/photos/12662904/pexels-photo-12662904.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Young woman working on a laptop in an outdoor cafe setting, enjoying a cup of coffee."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"

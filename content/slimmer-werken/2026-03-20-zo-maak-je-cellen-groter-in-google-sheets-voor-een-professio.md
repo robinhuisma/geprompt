@@ -5,8 +5,9 @@ tags: ["google sheets", "spreadsheet", "productiviteit", "automatisering"]
 categorieen: ["slimmer-werken"]
 summary: "Drie eenvoudige methodes om de grootte van cellen in Google Sheets aan te passen, zodat je data altijd leesbaar en netjes gepresenteerd is."
 cover:
-  image: "/images/covers/2026-03-20-how-to-change-cell-size-in-google-sheets-3-methods.webp"
-  alt: "How to change cell size in Google Sheets: 3 methods"
+  image: "https://images.pexels.com/photos/8490178/pexels-photo-8490178.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A modern home workspace featuring a laptop and a vase of green plants."
+  caption: "Foto: PNW Production via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/how-to-change-cell-size-in-google-sheets"

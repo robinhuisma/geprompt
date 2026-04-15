@@ -5,8 +5,9 @@ tags: ["ai", "internetverkeer", "websitebeheer", "cloudflare"]
 categorieen: ["slimmer-werken"]
 summary: "Het internetverkeer wordt volgend jaar gedomineerd door AI-bots, wat gevolgen heeft voor de snelheid, kosten en veiligheid van elke online onderneming."
 cover:
-  image: "/images/covers/2026-03-20-cloudflare-baas-volgend-jaar-zijn-er-meer-bots-dan-mensen-op.webp"
-  alt: "Cloudflare-baas: volgend jaar zijn er meer bots dan mensen op het internet"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068836/cloudflare-baas-volgend-jaar-zijn-er-meer-bots-dan-mensen-op-het-internet.html"

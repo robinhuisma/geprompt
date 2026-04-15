@@ -5,8 +5,9 @@ tags: ["ai-agents", "database", "documenten", "zoeken"]
 categorieen: ["slimmer-werken"]
 summary: "Oracle's nieuwe database kan met AI-agents door elk type bestand zoeken, van spreadsheets tot medische beelden, en helpt je vervolgens met de volgende stap."
 cover:
-  image: "/images/covers/2026-03-06-zelfs-r-ntgenfoto-s-nu-in-oracle-8217-s-nieuwe-vector-databa.webp"
-  alt: "Zelfs röntgenfoto’s nu in Oracle&#8217;s nieuwe vector-database"
+  image: "https://images.pexels.com/photos/7653780/pexels-photo-7653780.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two Asian women collaborating in a modern office environment focused on teamwork and innovation."
+  caption: "Foto: Thirdman via Pexels"
 draft: true
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/05/zelfs-rontgenfotos-nu-in-oracles-nieuwe-vector-database/"

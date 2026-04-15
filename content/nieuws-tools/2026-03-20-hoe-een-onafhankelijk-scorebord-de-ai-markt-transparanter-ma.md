@@ -5,8 +5,9 @@ tags: ["ai-modellen", "benchmark", "platform", "keuzehulp"]
 categorieen: ["nieuws-tools"]
 summary: "Het platform Arena beoordeelt AI-modellen via publieke tests en geeft ondernemers een onafhankelijk kompas in een overvolle markt."
 cover:
-  image: "/images/covers/2026-03-20-the-phd-students-who-became-the-judges-of-the-ai-industry.webp"
-  alt: "The PhD students who became the judges of the AI industry"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/"

@@ -5,8 +5,9 @@ tags: ["cybersecurity", "mkb", "risicomanagement", "preventie"]
 categorieen: ["slimmer-werken"]
 summary: "Hackers vallen alles aan met een internetverbinding aan. Dit zijn vijf praktische stappen om je bedrijf morgen beter te beschermen."
 cover:
-  image: "/images/covers/2026-03-18-het-cybersecurity-noodpakket-vijf-stappen-die-elke-mkb-er-mo.webp"
-  alt: "Het cybersecurity-noodpakket: vijf stappen die elke mkb’er morgen kan zetten"
+  image: "https://images.pexels.com/photos/10187292/pexels-photo-10187292.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A cozy desk setup with art supplies, laptop, and smartphone, ideal for creative work in Bucharest."
+  caption: "Foto: Bianca Jelezniac via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partners/innovatie/cybersecurity-noodpakket-mkb"

@@ -5,8 +5,9 @@ tags: ["google sheets", "automatisering", "data", "efficiëntie"]
 categorieen: ["slimmer-werken"]
 summary: "AI kan formules voor je schrijven, maar zonder basiskennis van VLOOKUP kun je fouten niet herstellen of de logica aanpassen."
 cover:
-  image: "/images/covers/2026-03-19-how-to-use-vlookup-in-google-sheets-a-complete-guide.webp"
-  alt: "How to use VLOOKUP in Google Sheets: A complete guide"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/vlookup-in-google-sheets"

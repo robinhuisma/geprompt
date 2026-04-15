@@ -5,8 +5,9 @@ tags: ["ai-assistenten", "automatisering", "workflow", "mcp"]
 categorieen: ["slimmer-werken"]
 summary: "Het Model Context Protocol (MCP) maakt van je AI-assistent een autonome werker die blijft draaien, ook als je laptop dicht is."
 cover:
-  image: "/images/covers/2026-03-18-20-best-mcp-servers-for-developers-building-autonomous-agent.webp"
-  alt: "20 Best MCP Servers for Developers: Building Autonomous Agentic Workflows"
+  image: "https://images.pexels.com/photos/7710207/pexels-photo-7710207.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Young professionals collaborating on project indoors. Engaged teamwork and creative planning with charts."
+  caption: "Foto: Alena Darmel via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.n8n.io/best-mcp-servers/"

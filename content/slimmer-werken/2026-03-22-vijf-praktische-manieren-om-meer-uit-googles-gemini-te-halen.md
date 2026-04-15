@@ -5,8 +5,9 @@ tags: ["gemini", "ai-tools", "productiviteit", "automatisering"]
 categorieen: ["slimmer-werken"]
 summary: "Google's AI-tool Gemini biedt nieuwe functies die je direct kunt inzetten voor creatie, onderzoek en automatisering in je bedrijf."
 cover:
-  image: "/images/covers/2026-03-22-5-smart-ways-to-get-more-out-of-google-s-gemini.webp"
-  alt: "5 smart ways to get more out of Google’s Gemini"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91512180/5-smart-ways-to-get-more-out-of-googles-gemini?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=03222026"

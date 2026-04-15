@@ -5,8 +5,9 @@ tags: ["ai-muziek", "marketing", "branding", "contentcreatie"]
 categorieen: ["nieuws-tools"]
 summary: "De nieuwe update van Suno stelt je in staat om AI-muziek te trainen op je eigen stem of gewenste stijl, ideaal voor unieke jingles en branding."
 cover:
-  image: "/images/covers/2026-03-28-suno-leans-into-customization-with-v5-5.webp"
-  alt: "Suno leans into customization with v5.5"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"

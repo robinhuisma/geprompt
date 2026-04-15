@@ -5,8 +5,9 @@ tags: ["marketing", "content", "zoekmachines", "ai"]
 categorieen: ["marketing-groei"]
 summary: "AI-zoekmachines zoals ChatGPT veranderen hoe klanten je vinden. Met AEO pas je je content aan voor deze nieuwe zoektoekomst."
 cover:
-  image: "/images/covers/2026-03-24-answer-engine-optimization-case-studies-that-prove-the-roi-o.webp"
-  alt: "Answer engine optimization case studies that prove the ROI of AEO in 2026"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/answer-engine-optimization-case-studies"

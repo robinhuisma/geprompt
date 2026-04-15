@@ -5,8 +5,9 @@ tags: ["google maps", "ai", "klantenservice", "locatie"]
 categorieen: ["nieuws-tools"]
 summary: "Een nieuwe AI-functie in Google Maps geeft gedetailleerde antwoorden op specifieke vragen, wat handig is voor locatie-onderzoek en klantenservice."
 cover:
-  image: "/images/covers/2026-03-14-you-can-now-ask-google-maps-complex-real-world-questions-and.webp"
-  alt: "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer"
+  image: "https://images.pexels.com/photos/5921677/pexels-photo-5921677.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A smartphone displaying GPS map of New York City secured in a car mount during daylight."
+  caption: "Foto: AS Photography via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"

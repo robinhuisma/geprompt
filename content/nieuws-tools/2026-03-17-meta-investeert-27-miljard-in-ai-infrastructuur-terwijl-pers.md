@@ -5,8 +5,9 @@ tags: ["ai-infrastructuur", "investeringen", "strategie", "cloud"]
 categorieen: ["nieuws-tools"]
 summary: "Meta sluit een van de grootste AI-rekendeals ooit, wat laat zien dat investeringen in infrastructuur prioriteit hebben boven personeelsuitgaven."
 cover:
-  image: "/images/covers/2026-03-17-meta-spends-another-27b-on-ai-infrastructure-with-nebius.webp"
-  alt: "Meta Spends Another $27B on AI Infrastructure With Nebius"
+  image: "https://images.pexels.com/photos/17614476/pexels-photo-17614476.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A hand holding a smartphone showing the Threads app with Meta logo in the background."
+  caption: "Foto: Julio Lopez via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/meta-spends-27b-on-ai-infrastructure-with-nebius"

@@ -5,8 +5,9 @@ tags: ["ai-agents", "horeca", "software", "automatisering"]
 categorieen: ["slimmer-werken"]
 summary: "Een AI-agent kan voor restaurants de helft van hun losse softwaretools vervangen, van reviewbeheer tot concurrentieanalyse, en zo tijd en geld besparen."
 cover:
-  image: "/images/covers/2026-03-23-sous-voor-2-75-miljoen-aan-de-slag-met-horeca-ai.webp"
-  alt: "Sous voor 2,75 miljoen aan de slag met horeca‑ai"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/23/sous-voor-275-miljoen-aan-de-slag-met-horeca%e2%80%91ai/"

@@ -5,8 +5,9 @@ tags: ["salesforce", "ai-prijzen", "kostenbeheer", "enterprise software"]
 categorieen: ["nieuws-tools"]
 summary: "Salesforce vervangt API-calls door de Agentic Work Unit, een nieuwe prijsmaat voor AI-taken die de kosten voor bedrijven onvoorspelbaar kan maken."
 cover:
-  image: "/images/covers/2026-03-13-the-illusion-of-value-why-salesforce-s-agentic-work-unit-is-.webp"
-  alt: "The Illusion of Value: Why Salesforce’s Agentic Work Unit is the New “Bad Query” of the AI Era"
+  image: "https://images.pexels.com/photos/8284722/pexels-photo-8284722.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying a messaging app, with eyeglasses and coffee cup on a wooden table."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/the-illusion-of-value-why-salesforces-agentic-work-unit-is-the-new-bad-query-of-the-ai-era/"

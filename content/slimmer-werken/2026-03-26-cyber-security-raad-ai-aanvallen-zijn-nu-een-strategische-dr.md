@@ -5,8 +5,9 @@ tags: ["cybersecurity", "ai", "mkb", "risicomanagement"]
 categorieen: ["slimmer-werken"]
 summary: "De Cyber Security Raad waarschuwt dat AI-gestuurde cyberaanvallen al plaatsvinden en adviseert ondernemers om hun kennis hierover dringend te vergroten."
 cover:
-  image: "/images/covers/2026-03-26-cyber-security-raad-ai-als-wapen-bedreigt-digitale-veilighei.webp"
-  alt: "Cyber Security Raad: AI als wapen bedreigt digitale veiligheid"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/cyber-security-raad-ai-wapen-bedreigt-digitale-veiligheid"

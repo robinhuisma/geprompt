@@ -5,8 +5,9 @@ tags: ["ai-modellen", "benchmark", "evaluatie", "keuzeproces"]
 categorieen: ["nieuws-tools"]
 summary: "Een openbaar scorebord, opgezet door onderzoekers, bepaalt steeds meer welk AI-model als 'beste' wordt gezien en beïnvloedt zo de markt."
 cover:
-  image: "/images/covers/2026-03-19-the-phd-students-who-became-the-judges-of-the-ai-industry.webp"
-  alt: "The PhD students who became the judges of the AI industry"
+  image: "https://images.pexels.com/photos/6045222/pexels-photo-6045222.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Black monitor with headphones placed on desk with modern netbook on stand against wall with photos at convenient workplace in room"
+  caption: "Foto: Skylar Kang via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/"

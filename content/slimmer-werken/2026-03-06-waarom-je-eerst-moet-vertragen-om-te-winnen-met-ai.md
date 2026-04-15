@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "procesoptimalisatie", "strategie", "adoptie"]
 categorieen: ["slimmer-werken"]
 summary: "Succes met AI begint niet met het kopen van tools, maar met het vertragen en kritisch herontwerpen van je bedrijfsprocessen."
 cover:
-  image: "/images/covers/2026-03-06-wie-een-winnaar-wil-worden-in-de-ai-race-zal-eerst-moeten-ve.webp"
-  alt: "Wie een winnaar wil worden in de AI-race zal eerst moeten vertragen"
+  image: "https://images.pexels.com/photos/7065/space-desk-office-hero-7065.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Contemporary open office space with people collaborating and working together."
+  caption: "Foto: Startup Stock Photos via Pexels"
 draft: true
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partner/nyenrode-business-universiteit/wil-een-winnaar-wil-worden-in-de-ai-race-zal-eerst-moeten-vertragen"

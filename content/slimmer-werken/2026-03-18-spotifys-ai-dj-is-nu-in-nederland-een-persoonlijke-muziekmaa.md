@@ -5,8 +5,9 @@ tags: ["spotify", "ai", "muziek", "personalisatie"]
 categorieen: ["slimmer-werken"]
 summary: "Spotify's AI-DJ, een stemgestuurde gids door je eigen muziekbibliotheek, is nu beschikbaar in Nederland en biedt een gepersonaliseerde luisterervaring."
 cover:
-  image: "/images/covers/2026-03-18-ai-dj-van-spotify-nu-in-nederland-zo-gebruik-je-het.webp"
-  alt: "AI-DJ van Spotify nu in Nederland: zo gebruik je het"
+  image: "https://images.pexels.com/photos/31113917/pexels-photo-31113917.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Blurred close-up of vibrant app icons on a smartphone screen showcasing Spotify and more."
+  caption: "Foto: Abdulkadir Emiroğlu via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068055/ai-dj-van-spotify-nu-in-nederland-zo-gebruik-je-het.html"

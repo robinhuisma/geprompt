@@ -5,8 +5,9 @@ tags: ["deepfakes", "factchecken", "informatie", "betrouwbaarheid"]
 categorieen: ["slimmer-werken"]
 summary: "Een praktische checklist, gebaseerd op de methodes van professionele factcheckers, om misinformatie in je eigen werk te herkennen en betrouwbare bronnen te vinden."
 cover:
-  image: "/images/covers/2026-03-05-how-the-experts-figure-out-what-8217-s-real-in-the-age-of-de.webp"
-  alt: "How the experts figure out what&#8217;s real in the age of deepfakes"
+  image: "https://images.pexels.com/photos/36765697/pexels-photo-36765697.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two women working in a stylish office with laptops and greenery."
+  caption: "Foto: Vitaly Gariev via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"

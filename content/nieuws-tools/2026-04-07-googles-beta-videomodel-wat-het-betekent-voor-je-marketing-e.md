@@ -7,6 +7,11 @@ summary: "Google's nieuwe Veo 3.1 Lite-model maakt betaalbare videogeneratie bes
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/"
+cover:
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
+
 ---
 
 Google heeft een nieuwe, lichtere versie van zijn videogeneratie-model Veo beschikbaar gesteld voor betaalde preview, wat het voor bedrijven toegankelijker maakt om te experimenteren met AI-video. Het model, Veo 3.1 Lite, is nu te benaderen via de Gemini API en voor tests in Google AI Studio, en is volgens het bedrijf het meest kosteneffectieve model in de Veo-familie.

@@ -5,8 +5,9 @@ tags: ["chatgpt", "advertising", "retail", "marketing"]
 categorieen: ["marketing-groei"]
 summary: "Criteo plaatst als eerste advertenties voor webwinkels in ChatGPT-antwoorden, met een claim van hogere conversie. Dit markeert een nieuw verdienmodel voor OpenAI."
 cover:
-  image: "/images/covers/2026-03-04-criteo-levert-advertenties-in-chatgpt-antwoorden.webp"
-  alt: "Criteo levert advertenties in ChatGPT-antwoorden"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/criteo-levert-advertenties-chatgptantwoorden"

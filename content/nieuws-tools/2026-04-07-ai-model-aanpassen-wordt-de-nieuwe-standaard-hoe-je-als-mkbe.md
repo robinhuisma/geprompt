@@ -7,6 +7,11 @@ summary: "De grootste AI-winst zit niet in nieuwe algemene modellen, maar in het
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
+cover:
+  image: "https://images.pexels.com/photos/18069695/pexels-photo-18069695.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A digital representation of how large language models function in AI technology."
+  caption: "Foto: Google DeepMind via Pexels"
+
 ---
 
 De grootste sprongen in AI-kwaliteit haal je niet meer door te wachten op een nieuw algemeen model, maar door een bestaand model aan te passen met je eigen bedrijfsdata. Dit proces, dat verder gaat dan eenvoudig 'fine-tunen', codeert de unieke kennis en werkwijze van je bedrijf in het AI-systeem. Het resultaat is een model dat de specifieke taal en logica van jouw sector spreekt, wat een blijvend concurrentievoordeel oplevert.

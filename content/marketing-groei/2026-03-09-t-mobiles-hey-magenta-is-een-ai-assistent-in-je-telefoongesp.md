@@ -5,8 +5,9 @@ tags: ["ai", "telecom", "klantenservice", "productiviteit"]
 categorieen: ["marketing-groei"]
 summary: "T-Mobile introduceert een AI-assistent die tijdens telefoongesprekken live kan vertalen, samenvatten en vragen beantwoorden."
 cover:
-  image: "/images/covers/2026-03-09-hey-magenta-triggert-assistent-voor-t-mobile-bellers.webp"
-  alt: "‘Hey Magenta’ triggert assistent voor T-Mobile-bellers"
+  image: "https://images.pexels.com/photos/7947997/pexels-photo-7947997.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone on business documents with charts and graphs, illustrating financial analysis."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/hey-magenta-triggert-assistent-tmobilebellers"

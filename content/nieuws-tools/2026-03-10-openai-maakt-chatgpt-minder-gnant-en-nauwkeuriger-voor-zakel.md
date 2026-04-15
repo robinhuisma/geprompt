@@ -5,8 +5,9 @@ tags: ["chatgpt", "klantenservice", "ai-modellen", "productiviteit"]
 categorieen: ["nieuws-tools"]
 summary: "De nieuwe ChatGPT-versie is minder 'cringe' en geeft accuratere antwoorden, wat tijd bespaart bij klantcontact en contentcreatie."
 cover:
-  image: "/images/covers/2026-03-10-openai-says-chatgpt-instant-5-3-is-less-cringe-more-accurate.webp"
-  alt: "OpenAI Says ChatGPT Instant 5.3 is Less Cringe, More Accurate"
+  image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a smartphone displaying ChatGPT app held over AI textbook."
+  caption: "Foto: Sanket  Mishra via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-says-chatgpt-instant-5-3-is-less-cringe-more-accurate"

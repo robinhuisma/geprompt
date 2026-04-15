@@ -5,8 +5,9 @@ tags: ["private equity", "maakindustrie", "bedrijfsovername", "ai-strategie"]
 categorieen: ["nieuws-tools"]
 summary: "Jeff Bezos wil met een enorm fonds traditionele fabrieken opkopen en met AI transformeren, een trend die ook voor Nederlandse familiebedrijven kansen en uitdagingen creëert."
 cover:
-  image: "/images/covers/2026-03-19-jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform.webp"
-  alt: "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI"
+  image: "https://images.pexels.com/photos/18033178/pexels-photo-18033178.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A spacious modern office with desks, computers, and natural light creating an inviting work environment."
+  caption: "Foto: Marcus via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"

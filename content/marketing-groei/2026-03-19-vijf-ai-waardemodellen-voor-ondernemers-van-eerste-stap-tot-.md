@@ -5,8 +5,9 @@ tags: ["ai-strategie", "bedrijfsprocessen", "transformatie", "mkb"]
 categorieen: ["marketing-groei"]
 summary: "Vijf logische modellen laten zien hoe je AI stapsgewijs kunt inzetten, van het trainen van je team tot het volledig herontwerpen van je bedrijfsprocessen."
 cover:
-  image: "/images/covers/2026-03-19-the-five-ai-value-models-driving-business-reinvention.webp"
-  alt: "The five AI value models driving business reinvention"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention"

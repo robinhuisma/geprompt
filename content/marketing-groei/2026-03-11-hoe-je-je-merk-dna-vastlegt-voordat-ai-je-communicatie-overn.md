@@ -5,8 +5,9 @@ tags: ["merkopbouw", "ai-strategie", "marketing", "interne communicatie"]
 categorieen: ["marketing-groei"]
 summary: "AI-tools kunnen je merkbeleving versplinteren. De oplossing is een helder merksysteem dat als fundament dient voor zowel menselijke als AI-gestuurde communicatie."
 cover:
-  image: "/images/covers/2026-03-11-dpdk-8216-merken-versplinteren-door-ai-nieuwe-fundamenten-no.webp"
-  alt: "DPDK: &#8216;Merken versplinteren door AI, nieuwe fundamenten nodig&#8217;"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/dpdk-merken-versplinteren-door-ai-nieuwe-fundamenten-nodig"

@@ -5,8 +5,9 @@ tags: ["wordpress", "ai", "content", "website"]
 categorieen: ["marketing-groei"]
 summary: "WordPress heeft een plugin uitgebracht waarmee je nu al kunt experimenteren met AI-functies voor het schrijven en verbeteren van je website."
 cover:
-  image: "/images/covers/2026-03-10-wordpress-releases-updated-ai-experiments-plugin-via-sejourn.webp"
-  alt: "WordPress Releases Updated AI Experiments Plugin via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/7662059/pexels-photo-7662059.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up view of smartphone screen featuring various app icons and notifications."
+  caption: "Foto: Szabó Viktor via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/wordpress-releases-updated-ai-experiments-plugin/569139/"

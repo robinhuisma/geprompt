@@ -5,8 +5,9 @@ tags: ["ai-beleid", "innovatie", "praktische toepassing", "overheid"]
 categorieen: ["slimmer-werken"]
 summary: "Trage AI-implementatie door de overheid remt innovatie, maar ondernemers kunnen zelf het voortouw nemen door praktische toepassingen te omarmen."
 cover:
-  image: "/images/covers/2026-03-26-ceo-kickstartai-waarschuwt-voor-stilstand-in-ai-beleid.webp"
-  alt: "CEO KickstartAI waarschuwt voor stilstand in ai‑beleid"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/26/ceo-kickstartai-waarschuwt-voor-stilstand-in-ai%e2%80%91beleid/"

@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "seo", "websitebeheer"]
 categorieen: ["marketing-groei"]
 summary: "Google breidt AI-functies uit en geeft meer inzicht in hoe websites worden gecrawld, wat impact heeft op je vindbaarheid."
 cover:
-  image: "/images/covers/2026-03-20-google-ai-mode-goes-personal-crawl-limits-clarified-seo-puls.webp"
-  alt: "Google AI Mode Goes Personal, Crawl Limits Clarified – SEO Pulse via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/"

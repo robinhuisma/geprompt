@@ -5,8 +5,9 @@ tags: ["leiderschap", "ai-agents", "strategie", "toekomstbestendig"]
 categorieen: ["slimmer-werken"]
 summary: "Leiders moeten zich voorbereiden op het managen van AI-agents naast mensen, en dat begint met een leermindset en praktische experimenten."
 cover:
-  image: "/images/covers/2026-03-10-accenture-topman-rob-knigge-8216-ik-ben-de-laatste-generatie.webp"
-  alt: "Accenture-topman Rob Knigge: &#8216;Ik ben de laatste generatie leider die alleen aan mensen leiding heeft gegeven&#8217;"
+  image: "https://images.pexels.com/photos/7455908/pexels-photo-7455908.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a person working on a laptop with graphic design software."
+  caption: "Foto: Danik Prihodko via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/rob-knigge-accenture-ik-ben-de-laatste-generatie-leider-die-alleen-aan-mensen-leiding-heeft-gegeven"

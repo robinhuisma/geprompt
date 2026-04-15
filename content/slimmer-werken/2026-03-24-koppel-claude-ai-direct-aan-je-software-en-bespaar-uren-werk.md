@@ -5,8 +5,9 @@ tags: ["ai automatisering", "claude", "zapier", "workflow"]
 categorieen: ["slimmer-werken"]
 summary: "Met Zapier MCP kun je Claude AI direct laten praten met je CRM, boekhouding en andere apps, zodat je niet meer hoeft te kopiëren en plakken."
 cover:
-  image: "/images/covers/2026-03-24-5-ways-to-automate-claude-with-zapier-mcp.webp"
-  alt: "5 ways to automate Claude with Zapier MCP"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-claude-zapier-mcp"

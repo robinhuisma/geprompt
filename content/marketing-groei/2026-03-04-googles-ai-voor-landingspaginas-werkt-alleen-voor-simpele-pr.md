@@ -5,8 +5,9 @@ tags: ["google", "ai", "landingspagina", "e-commerce"]
 categorieen: ["marketing-groei"]
 summary: "Google's gepatenteerde AI-tool voor het maken van landingspagina's is beperkt tot eenvoudige productpagina's en ads, niet voor complexe verkoop."
 cover:
-  image: "/images/covers/2026-03-04-google-s-ai-generated-landing-page-patent-is-limited-to-shop.webp"
-  alt: "Google’s AI Generated Landing Page Patent Is Limited To Shopping &amp; Ads via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/"

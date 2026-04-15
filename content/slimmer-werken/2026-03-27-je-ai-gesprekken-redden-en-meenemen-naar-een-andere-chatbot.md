@@ -5,8 +5,9 @@ tags: ["ai", "productiviteit", "chatbots", "data"]
 categorieen: ["slimmer-werken"]
 summary: "Google maakt het nu eenvoudig om je waardevolle chats en prompts uit ChatGPT of Claude te importeren in Gemini, zodat je niet opnieuw hoeft te beginnen."
 cover:
-  image: "/images/covers/2026-03-27-het-is-nu-veel-makkelijker-om-over-te-stappen-van-chatgpt-of.webp"
-  alt: "Het is nu veel makkelijker om over te stappen van ChatGPT of Claude naar Gemini"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2071363/het-is-nu-veel-makkelijker-om-over-te-stappen-van-chatgpt-of-claude-naar-gemini.html"

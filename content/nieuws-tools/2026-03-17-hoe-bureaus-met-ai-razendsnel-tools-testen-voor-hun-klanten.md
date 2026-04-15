@@ -5,8 +5,9 @@ tags: ["marketingbureaus", "ai-tools", "dienstverlening", "efficiëntie"]
 categorieen: ["nieuws-tools"]
 summary: "Marketing- en communicatiebureaus kunnen AI gebruiken om in een fractie van de tijd nieuwe tools te onderzoeken en te vergelijken voor hun klanten."
 cover:
-  image: "/images/covers/2026-03-17-a-shortcut-to-testing-tools-how-agencies-can-leverage-ai-to-.webp"
-  alt: "A Shortcut to Testing Tools: How Agencies Can Leverage AI to Serve Clients Better"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/using-ai-to-serve-clients"

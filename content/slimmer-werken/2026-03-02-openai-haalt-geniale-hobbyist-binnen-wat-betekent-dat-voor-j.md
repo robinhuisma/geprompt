@@ -5,9 +5,9 @@ tags: ["openai", "ai-agent", "talentacquisitie", "chatgpt"]
 categorieen: ["slimmer-werken"]
 summary: "De maker van de experimentele AI-agent OpenClaw gaat nu voor OpenAI werken, wat kan leiden tot een veel slimmere en betrouwbaardere assistent in ChatGPT."
 cover:
-  image: "/images/covers/2026-03-02-openai-haalt-de-maker-van-openclaw-binnen.webp"
-  alt: "OpenAI haalt de maker van OpenClaw binnen"
-  caption: "Beeld gegenereerd met AI voor geprompt.nl"
+  image: "https://images.pexels.com/photos/16037283/pexels-photo-16037283.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop displaying ChatGPT on a desk by a window, featuring a modern home office setup."
+  caption: "Foto: Hatice Baran via Pexels"
 draft: false
 source_name: "AI Report"
 source_url: "https://www.aireport.email/p/openclaw-maker-kiest-openai-straks"

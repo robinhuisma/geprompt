@@ -5,8 +5,9 @@ tags: ["ai", "optimalisatie", "engineering", "data-analyse"]
 categorieen: ["slimmer-werken"]
 summary: "MIT-onderzoekers ontwikkelden een AI-methode die honderden variabelen in spreadsheets analyseert om ingenieurs sneller de beste ontwerpkeuzes te laten vinden."
 cover:
-  image: "/images/covers/2026-03-21-a-chatgpt-for-spreadsheets-helps-solve-difficult-engineering.webp"
-  alt: "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304"

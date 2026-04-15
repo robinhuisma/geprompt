@@ -7,6 +7,11 @@ summary: "AI-tools stellen één persoon in staat om een bedrijf met een miljard
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/ai-just-made-the-billion-dollar-solo-founder-real"
+cover:
+  image: "https://images.pexels.com/photos/5882572/pexels-photo-5882572.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colleagues interact in a modern office setting, blending technology with workplace hygiene."
+  caption: "Foto: www.kaboompics.com via Pexels"
+
 ---
 
 AI maakt het mogelijk om als één persoon een bedrijf met een miljardenomzet te runnen, niet door zelf AI te bouwen, maar door bestaande tools te gebruiken om een heel team te vervangen. Het verhaal van Matthew Gallagher en zijn bedrijf Medvi laat zien hoe je met een combinatie van AI-tools, een sterk product en slimme outsourcing in twee maanden tijd een miljoenenbedrijf kunt opzetten.

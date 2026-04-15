@@ -5,8 +5,9 @@ tags: ["ai", "programmeren", "productiviteit", "veiligheid"]
 categorieen: ["slimmer-werken"]
 summary: "De nieuwe 'auto mode' van Claude Code laat AI zelfstandig coderen, maar houdt risico's zoals het verwijderen van bestanden onder controle."
 cover:
-  image: "/images/covers/2026-03-25-anthropic-s-claude-code-gets-safer-auto-mode.webp"
-  alt: "Anthropic’s Claude Code gets ‘safer’ auto mode"
+  image: "https://images.pexels.com/photos/34803969/pexels-photo-34803969.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A close-up of a laptop displaying code in a dimly lit room with a coffee mug nearby."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode"

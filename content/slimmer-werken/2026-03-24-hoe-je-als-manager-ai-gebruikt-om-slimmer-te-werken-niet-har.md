@@ -5,8 +5,9 @@ tags: ["management", "ai", "productiviteit", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "AI-smart management gaat niet over meer doen, maar over energie beschermen en ruimte creëren voor strategisch werk."
 cover:
-  image: "/images/covers/2026-03-24-how-ai-smart-cpg-managers-protect-their-energy-and-grow-thei.webp"
-  alt: "How AI-Smart CPG Managers Protect Their Energy And Grow Their Careers"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/how-ai-smart-cpg-managers-protect-their-energy-and-grow-their-careers/"

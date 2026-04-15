@@ -5,8 +5,9 @@ tags: ["ai-infrastructuur", "investeringen", "cloud", "geopolitiek"]
 categorieen: ["slimmer-werken"]
 summary: "Het AI-cloudbedrijf Nebius, dat nu een miljardeninvestering van Nvidia krijgt, is Nederlands geworden door een onverwachte politieke interventie."
 cover:
-  image: "/images/covers/2026-03-13-nebius-werd-dankzij-meloni-per-ongeluk-nederlands-en-bouwt-n.webp"
-  alt: "Nebius werd dankzij Meloni per ongeluk Nederlands en bouwt nu met Nvidia-miljarden zijn AI-cloud"
+  image: "https://images.pexels.com/photos/28754729/pexels-photo-28754729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Cozy and organized home office workspace featuring a desktop computer, headphones, and creative decor."
+  caption: "Foto: Faizur Rehman via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/nebius-cloud-yandex"

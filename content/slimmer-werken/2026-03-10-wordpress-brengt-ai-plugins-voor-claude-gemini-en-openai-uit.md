@@ -5,8 +5,9 @@ tags: ["wordpress", "ai", "chatbots", "contentcreatie"]
 categorieen: ["slimmer-werken"]
 summary: "WordPress heeft officiële plugins uitgebracht waarmee je eenvoudig Claude, Gemini of ChatGPT aan je website kunt koppelen voor content en ondersteuning."
 cover:
-  image: "/images/covers/2026-03-10-wordpress-releases-ai-plugins-for-anthropic-claude-google-ge.webp"
-  alt: "WordPress Releases AI Plugins For Anthropic Claude, Google Gemini, And OpenAI via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/7455875/pexels-photo-7455875.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "High-angle shot of a person using a laptop with design software, indoors on a tiled floor."
+  caption: "Foto: Danik Prihodko via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/wordpress-releases-ai-plugins-for-anthropic-claude-google-gemini-and-openai/568822/"

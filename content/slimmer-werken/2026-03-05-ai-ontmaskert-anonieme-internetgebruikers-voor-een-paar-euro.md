@@ -5,8 +5,9 @@ tags: ["privacy", "ai", "bewustwording", "communicatie"]
 categorieen: ["slimmer-werken"]
 summary: "Onderzoek toont aan dat AI met minimale moeite en kosten pseudonieme forumgebruikers kan identificeren, een waarschuwing voor zakelijke privacy."
 cover:
-  image: "/images/covers/2026-03-05-ai-ontmaskert-pseudonieme-internetgebruikers.webp"
-  alt: "AI ontmaskert pseudonieme internetgebruikers"
+  image: "https://images.pexels.com/photos/16094056/pexels-photo-16094056.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop to interact with AI technology indoors during the day."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: true
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/ai-ontmaskert-pseudonieme-internetgebruikers"

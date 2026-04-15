@@ -5,8 +5,9 @@ tags: ["chatgpt", "e-commerce", "productinformatie", "ai"]
 categorieen: ["marketing-groei"]
 summary: "Klanten vragen steeds vaker productadvies aan AI-chatbots. Dit is hoe je je online informatie aanpast om in die aanbevelingen te komen."
 cover:
-  image: "/images/covers/2026-03-23-chatgpt-product-recommendations-how-to-make-sure-you-are-one.webp"
-  alt: "ChatGPT Product Recommendations: How to Make Sure You Are One in 2026"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/chatgpt-product-recommendations"

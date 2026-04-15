@@ -5,8 +5,9 @@ tags: ["ai-beleid", "zakelijke ethiek", "overheid", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI paste zijn beleid aan voor een militair contract, wat laat zien hoe AI-bedrijven ethische principes afwegen tegen zakelijke kansen."
 cover:
-  image: "/images/covers/2026-03-04-how-openai-caved-to-the-pentagon-on-ai-surveillance.webp"
-  alt: "How OpenAI caved to the Pentagon on AI surveillance"
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"

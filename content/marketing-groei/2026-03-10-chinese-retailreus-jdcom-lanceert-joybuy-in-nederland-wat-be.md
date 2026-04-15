@@ -5,8 +5,9 @@ tags: ["e-commerce", "concurrentie", "ai", "retail"]
 categorieen: ["marketing-groei"]
 summary: "De komst van Joybuy brengt nieuwe concurrentie, maar ook een kijkje in de toekomst van AI-gedreven e-commerce voor Nederlandse webshops."
 cover:
-  image: "/images/covers/2026-03-10-nederlandse-lancering-joybuy-van-jd-com-aanstaande.webp"
-  alt: "Nederlandse lancering Joybuy van JD.com aanstaande"
+  image: "https://images.pexels.com/photos/36034229/pexels-photo-36034229.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A JD Express delivery scooter parked in a bustling Asian city street."
+  caption: "Foto: mingche lee via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/nederlandse-lancering-joybuy-jdcom-aanstaande"

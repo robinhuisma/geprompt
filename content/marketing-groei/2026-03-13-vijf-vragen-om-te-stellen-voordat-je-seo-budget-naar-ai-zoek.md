@@ -5,8 +5,9 @@ tags: ["seo", "ai", "zoekoptimalisatie", "marketingstrategie"]
 categorieen: ["marketing-groei"]
 summary: "Een praktische checklist helpt je beslissen of en hoeveel budget je moet verplaatsen van traditionele SEO naar AI-zoekoptimalisatie."
 cover:
-  image: "/images/covers/2026-03-13-before-you-shift-seo-budget-to-ai-ask-these-questions-webina.webp"
-  alt: "Before You Shift SEO Budget to AI, Ask These Questions [Webinar] via @sejournal, @hethr_campbell"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/before-you-shift-seo-budget-to-ai-ask-these-questions-webinar/568836/"

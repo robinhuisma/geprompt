@@ -5,8 +5,9 @@ tags: ["auteursrecht", "ai-training", "contentcreatie", "intellectueel eigendom"
 categorieen: ["slimmer-werken"]
 summary: "De CEO van Patreon noemt het 'fair use'-argument van AI-bedrijven onzin en stelt dat makers betaald moeten worden voor het gebruik van hun werk."
 cover:
-  image: "/images/covers/2026-03-18-patreon-ceo-calls-ai-companies-8217-fair-use-argument-8216-b.webp"
-  alt: "Patreon CEO calls AI companies&#8217; fair use argument &#8216;bogus,&#8217; says creators should be paid"
+  image: "https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A multicultural team engaged in a collaborative office meeting, discussing ideas around a table."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/"

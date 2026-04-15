@@ -5,8 +5,9 @@ tags: ["ai-chips", "exportcontrole", "nvidia", "geopolitiek"]
 categorieen: ["nieuws-tools"]
 summary: "Nieuwe Amerikaanse exportregels kunnen de toegang tot krachtige AI-chips beperken, wat gevolgen heeft voor Nederlandse bedrijven die AI-modellen ontwikkelen of trainen."
 cover:
-  image: "/images/covers/2026-03-10-vs-wil-wereldwijde-verkoop-van-ai-chips-controleren-met-nieu.webp"
-  alt: "VS wil wereldwijde verkoop van AI-chips controleren met nieuwe exportregels"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1748895/vs-wil-wereldwijde-verkoop-van-ai-chips-controleren-met-nieuwe-exportregels.html"

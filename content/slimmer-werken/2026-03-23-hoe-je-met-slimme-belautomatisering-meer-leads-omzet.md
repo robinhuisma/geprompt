@@ -5,8 +5,9 @@ tags: ["verkoop", "automatisering", "communicatie", "ai"]
 categorieen: ["slimmer-werken"]
 summary: "Een geïntegreerd belplatform kan je verkoopteam ontzorgen door gesprekken te automatiseren en te analyseren, zodat ze meer tijd hebben voor de echte verkoop."
 cover:
-  image: "/images/covers/2026-03-23-calilio-close-more-deals-using-smart-call-automation.webp"
-  alt: "Calilio: Close More Deals Using Smart Call Automation"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17304586/calilio-close-more-deals-using-smart-call-automation"

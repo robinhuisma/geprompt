@@ -5,8 +5,9 @@ tags: ["ai-tools", "automatisering", "productiviteit", "low-code"]
 categorieen: ["slimmer-werken"]
 summary: "Vibe coding laat je met gewone taal een AI instructies geven om kleine, praktische applicaties te maken, zonder dat je zelf hoeft te programmeren."
 cover:
-  image: "/images/covers/2026-03-20-iedereen-programmeur-zo-start-je-met-vibe-coding.webp"
-  alt: "Iedereen programmeur! Zo start je met vibe coding"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/videos/2068993/iedereen-programmeur-zo-start-je-met-vibe-coding.html"

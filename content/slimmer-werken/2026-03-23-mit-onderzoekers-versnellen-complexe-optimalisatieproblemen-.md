@@ -5,8 +5,9 @@ tags: ["optimalisatie", "engineering", "ai-model", "onderzoek"]
 categorieen: ["slimmer-werken"]
 summary: "Een nieuw AI-model, getraind op tabelgegevens, helpt ingenieurs bij het sneller vinden van de beste oplossingen voor problemen met honderden variabelen, zoals in voertuigontwerp of energienetwerken."
 cover:
-  image: "/images/covers/2026-03-23-a-chatgpt-for-spreadsheets-helps-solve-difficult-engineering.webp"
-  alt: "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304"

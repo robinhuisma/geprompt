@@ -5,8 +5,9 @@ tags: ["leiderschap", "communicatie", "persoonlijke ontwikkeling", "ai-coaching"
 categorieen: ["nieuws-tools"]
 summary: "AI-tools kunnen ondernemers helpen om hun communicatie en leiderschapsvaardigheden te verbeteren door feedback te geven op toon, taalgebruik en gesprekspatronen."
 cover:
-  image: "/images/covers/2026-03-26-how-ai-is-teaching-us-to-be-more-human.webp"
-  alt: "How AI is teaching us to be more human"
+  image: "https://images.pexels.com/photos/5614259/pexels-photo-5614259.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop, smartphone, and tablet with a prosthetic hand, emphasizing digital connectivity."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91496743/how-ai-teaching-us-more-human?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=03262026"

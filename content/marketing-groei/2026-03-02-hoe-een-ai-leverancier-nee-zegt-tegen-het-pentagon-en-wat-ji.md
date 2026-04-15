@@ -5,9 +5,9 @@ tags: ["ai-ethiek", "leverancierskeuze", "compliance", "risicomanagement"]
 categorieen: ["marketing-groei"]
 summary: "AI-bedrijf Anthropic weigert militaire eisen voor massa-surveillance en autonome wapens, een les in het kiezen van leveranciers met duidelijke ethische principes."
 cover:
-  image: "/images/covers/2026-03-02-hoe-een-ai-leverancier-nee-zegt-tegen-het-pentagon-en-wat-ji.webp"
-  alt: "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"

@@ -5,8 +5,9 @@ tags: ["linkbuilding", "merkautoriteit", "digital pr", "seo"]
 categorieen: ["slimmer-werken"]
 summary: "Merkbekendheid draait niet meer alleen om SEO, maar om autoriteit en vertrouwen. Dit bereik je door geciteerd te worden door experts en relevante links te verdienen."
 cover:
-  image: "/images/covers/2026-03-19-maximizing-brand-exposure-through-expert-quoting-and-strateg.webp"
-  alt: "Maximizing Brand Exposure Through Expert Quoting and Strategic Link Building in 2026"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17302034/maximizing-brand-exposure-through-expert-quoting-and-strategic-link-building"

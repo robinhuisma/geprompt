@@ -5,8 +5,9 @@ tags: ["ai", "browser", "zoeken", "mobiel"]
 categorieen: ["nieuws-tools"]
 summary: "De Comet browser integreert AI-ondersteuning direct in je zoekgedrag, waardoor je vanaf je iPhone sneller antwoorden krijgt op complexe vragen."
 cover:
-  image: "/images/covers/2026-03-20-deze-bijzondere-webbrowser-is-er-nu-ook-voor-je-iphone.webp"
-  alt: "Deze bijzondere webbrowser is er nu ook voor je iPhone"
+  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A neat workspace featuring a laptop displaying Google search, a smartphone, and a notebook on a wooden desk."
+  caption: "Foto: Caio via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068347/deze-bijzondere-webbrowser-is-er-nu-ook-voor-je-iphone.html"

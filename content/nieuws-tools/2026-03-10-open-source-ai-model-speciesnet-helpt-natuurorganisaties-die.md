@@ -5,8 +5,9 @@ tags: ["ai", "natuurbehoud", "open source", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "Google's open-source AI-model SpeciesNet kan duizenden diersoorten herkennen op foto's, wat natuurorganisaties en recreatiebedrijven tijd en geld kan besparen."
 cover:
-  image: "/images/covers/2026-03-10-how-our-open-source-ai-model-speciesnet-is-helping-to-promot.webp"
-  alt: "How our open-source AI model SpeciesNet is helping to promote wildlife conservation"
+  image: "https://images.pexels.com/photos/34804018/pexels-photo-34804018.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of AI-assisted coding with menu options for debugging and problem-solving."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"

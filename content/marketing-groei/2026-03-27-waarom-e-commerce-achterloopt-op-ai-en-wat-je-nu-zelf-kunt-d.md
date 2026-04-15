@@ -5,8 +5,9 @@ tags: ["e-commerce", "ai-strategie", "marketing", "innovatie"]
 categorieen: ["marketing-groei"]
 summary: "Ondanks veel AI-tools op de Webwinkel Vakdagen, ontbrak het aan strategie voor disruptieve verandering. Dit is hoe je als ondernemer zelf de regie pakt."
 cover:
-  image: "/images/covers/2026-03-27-wwvd-stil-over-social-shopping-en-disruptief-ai.webp"
-  alt: "WWVD stil over social shopping en disruptief AI"
+  image: "https://images.pexels.com/photos/7947668/pexels-photo-7947668.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Top view of e-commerce market analysis graph with smartphone calculator and glasses for business insights."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/wwvd-stil-over-social-shopping-disruptief-ai"

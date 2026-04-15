@@ -5,8 +5,9 @@ tags: ["recruitment", "ai", "whatsapp", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Jumbo versnelt het werven van jong talent door sollicitaties via WhatsApp te laten verlopen met een AI-agent, een aanpak die ook voor MKB'ers relevant is."
 cover:
-  image: "/images/covers/2026-03-19-jumbo-lanceert-sollicitatiegesprek-zonder-wachttijd-voor-bij.webp"
-  alt: "Jumbo lanceert sollicitatiegesprek zonder wachttijd voor bijbanen"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/jumbo-lanceert-sollicitatiegesprek-zonder-wachttijd-bijbanen"

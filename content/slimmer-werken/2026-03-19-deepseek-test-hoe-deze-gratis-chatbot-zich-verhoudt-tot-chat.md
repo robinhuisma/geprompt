@@ -5,8 +5,9 @@ tags: ["deepseek", "chatgpt", "ai-chatbot", "gratis-tools"]
 categorieen: ["slimmer-werken"]
 summary: "Een praktische test laat zien waar de gratis DeepSeek chatbot sterk in is en waar je hem vandaag al kunt inzetten voor je bedrijf."
 cover:
-  image: "/images/covers/2026-03-19-i-tested-deepseek-vs-chatgpt-with-5-prompts.webp"
-  alt: "I tested DeepSeek vs ChatGPT with 5 prompts"
+  image: "https://images.pexels.com/photos/7693729/pexels-photo-7693729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Diverse team working together on a project in a modern office environment."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"

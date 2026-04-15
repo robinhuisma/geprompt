@@ -5,8 +5,9 @@ tags: ["expansie", "financiering", "marktonderzoek", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "De Amerikaanse expansie van Action laat zien hoe je een nieuwe markt betreedt, terwijl een rapport waarschuwt voor een miljardenkloof in Europese tech-financiering."
 cover:
-  image: "/images/covers/2026-03-27-action-trekt-naar-vs-wil-100-winkels-in-2030-8211-financieri.webp"
-  alt: "Action trekt naar VS, wil 100 winkels in 2030 &#8211; Financieringskloof kost Europese deeptech al $1.200 miljard"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/action-trekt-naar-vs-wi-100-winkels-in-2030"

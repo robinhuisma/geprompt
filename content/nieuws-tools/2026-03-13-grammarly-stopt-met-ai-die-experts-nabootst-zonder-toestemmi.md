@@ -5,8 +5,9 @@ tags: ["ai-ethiek", "data", "privacy", "tools"]
 categorieen: ["nieuws-tools"]
 summary: "Grammarly schakelt een AI-functie uit die schrijvers imiteerde zonder toestemming, een waarschuwing voor ondernemers over data-gebruik."
 cover:
-  image: "/images/covers/2026-03-13-grammarly-says-it-will-stop-using-ai-to-clone-experts-withou.webp"
-  alt: "Grammarly says it will stop using AI to clone experts without permission"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"

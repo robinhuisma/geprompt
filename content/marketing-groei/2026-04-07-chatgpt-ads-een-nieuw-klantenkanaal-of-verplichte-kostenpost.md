@@ -5,8 +5,9 @@ tags: ["chatgpt", "advertising", "ppc", "marketing"]
 categorieen: ["marketing-groei"]
 summary: "OpenAI maakt ChatGPT Ads breder beschikbaar, wat een kans of een verplichte kostenpost kan zijn voor adverteerders."
 cover:
-  image: "/images/covers/2026-04-07-chatgpt-ads-new-acquisition-channel-or-just-another-brand-ta.webp"
-  alt: "ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax? via @sejournal, @brookeosmundson"
+  image: "https://images.pexels.com/photos/6476787/pexels-photo-6476787.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Young man delivering a business presentation on ad spend with charts and graphs in a modern office setting."
+  caption: "Foto: Mikael Blomkvist via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/"

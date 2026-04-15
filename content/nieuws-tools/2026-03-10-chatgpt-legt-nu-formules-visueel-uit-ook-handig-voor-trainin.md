@@ -5,8 +5,9 @@ tags: ["chatgpt", "educatie", "training", "visualisatie"]
 categorieen: ["nieuws-tools"]
 summary: "ChatGPT kan nu wiskunde en wetenschap visueel uitleggen, wat ondernemers kunnen gebruiken voor interne training of als inspiratie voor eigen instructiemateriaal."
 cover:
-  image: "/images/covers/2026-03-10-new-ways-to-learn-math-and-science-in-chatgpt.webp"
-  alt: "New ways to learn math and science in ChatGPT"
+  image: "https://images.pexels.com/photos/36513381/pexels-photo-36513381.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person typing on a laptop displaying ChatGPT logo with a green vibrant setting."
+  caption: "Foto: UMA media via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"

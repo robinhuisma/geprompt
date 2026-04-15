@@ -5,8 +5,9 @@ tags: ["ai search", "zoekmachineoptimalisatie", "merkstrategie", "contentmarketi
 categorieen: ["marketing-groei"]
 summary: "Wil je als merk gevonden worden in AI-zoekresultaten? Vermijd dan deze vijf veelgemaakte fouten die je zichtbaarheid eerder schaden dan helpen."
 cover:
-  image: "/images/covers/2026-03-27-zichtbaar-worden-als-merk-in-ai-search-pas-op-deze-vijf-8217.webp"
-  alt: "Zichtbaar worden als merk in AI Search? Pas op: deze vijf &#8217;trucjes&#8217; gaan je zeker niet helpen"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/zichtbaar-worden-als-merk-in-ai-search-pas-op-deze-vijf-trucjes-gaan-je-zeker-niet-helpen/"

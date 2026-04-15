@@ -5,8 +5,9 @@ tags: ["gemeenten", "openbare ruimte", "ai-analyse", "preventief onderhoud"]
 categorieen: ["nieuws-tools"]
 summary: "Een startup laat zien hoe AI-gestuurde beeldanalyse gemeenten kan helpen bij het vroegtijdig signaleren van problemen zoals graffiti, afval of beschadigingen."
 cover:
-  image: "/images/covers/2026-03-09-city-detect-which-uses-ai-to-help-cities-stay-safe-and-clean.webp"
-  alt: "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A"
+  image: "https://images.pexels.com/photos/16094056/pexels-photo-16094056.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop to interact with AI technology indoors during the day."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/"

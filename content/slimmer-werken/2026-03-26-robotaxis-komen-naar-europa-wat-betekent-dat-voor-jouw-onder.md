@@ -5,8 +5,9 @@ tags: ["mobiliteit", "logistiek", "autonoom vervoer", "innovatie"]
 categorieen: ["slimmer-werken"]
 summary: "De eerste Europese robotaxi-dienst komt naar Kroatië, een teken dat autonoom vervoer ook hier een kans wordt voor logistiek en dienstverlening."
 cover:
-  image: "/images/covers/2026-03-26-europe-s-first-robotaxis-coming-to-croatia-via-uber-pony-ai-.webp"
-  alt: "Europe’s First Robotaxis Coming to Croatia via Uber, Pony.ai and Verne"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/europe-s-first-robotaxis-coming-croatia-uber-pony-ai-and-verne"

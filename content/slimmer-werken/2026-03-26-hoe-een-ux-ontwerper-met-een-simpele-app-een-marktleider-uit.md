@@ -5,8 +5,9 @@ tags: ["app-ontwikkeling", "gebruikerservaring", "ondernemerschap", "privacy"]
 categorieen: ["slimmer-werken"]
 summary: "Een ontwerper loste zijn eigen ergernis op door een alternatief voor Stocard te bouwen, volledig geïntegreerd in Apple's ecosysteem."
 cover:
-  image: "/images/covers/2026-03-26-ux-ontwerper-bouwt-alternatief-stocard-instant-succes.webp"
-  alt: "UX-ontwerper bouwt alternatief Stocard, instant succes"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/uxontwerper-bouwt-alternatief-stocard-instant-succes"

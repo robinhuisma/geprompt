@@ -5,8 +5,9 @@ tags: ["zoekmachine optimalisatie", "google", "ai", "toekomst"]
 categorieen: ["marketing-groei"]
 summary: "Zoekmachines worden actieve assistenten die taken uitvoeren, waardoor je website niet alleen gevonden maar ook bruikbaar moet zijn."
 cover:
-  image: "/images/covers/2026-03-27-why-google-s-new-google-agent-is-the-biggest-mindset-shift-i.webp"
-  alt: "Why Google’s New “Google-Agent” Is The Biggest Mindset Shift In SEO History via @sejournal, @marie_haynes"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/"

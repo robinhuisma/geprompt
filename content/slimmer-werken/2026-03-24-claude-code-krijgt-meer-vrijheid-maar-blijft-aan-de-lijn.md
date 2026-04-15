@@ -5,8 +5,9 @@ tags: ["ai voor ontwikkelaars", "programmeren", "productiviteit", "antropisch"]
 categorieen: ["slimmer-werken"]
 summary: "De nieuwe 'auto mode' van Claude Code voert programmeertaken zelfstandiger uit, wat ontwikkelaars tijd bespaart mits ze de veiligheidsgrenzen begrijpen."
 cover:
-  image: "/images/covers/2026-03-24-anthropic-hands-claude-code-more-control-but-keeps-it-on-a-l.webp"
-  alt: "Anthropic hands Claude Code more control, but keeps it on a leash"
+  image: "https://images.pexels.com/photos/34803969/pexels-photo-34803969.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A close-up of a laptop displaying code in a dimly lit room with a coffee mug nearby."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"

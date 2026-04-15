@@ -5,8 +5,9 @@ tags: ["ai-agents", "automatisering", "bedrijfsprocessen", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Prosus gebruikt een intern AI-platform om dagelijkse bedrijfsprocessen te automatiseren en stelt dit nu open voor partners, wat een blauwdruk biedt voor operationele efficiëntie."
 cover:
-  image: "/images/covers/2026-03-17-prosus-stelt-eigen-ai-platform-open-8216-straks-runnen-agent.webp"
-  alt: "Prosus stelt eigen AI-platform open: &#8216;Straks runnen agents het hele bedrijf&#8217;"
+  image: "https://images.pexels.com/photos/36765876/pexels-photo-36765876.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Young female photographer reviewing photos in an artistic studio setting."
+  caption: "Foto: Vitaly Gariev via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/prosus-stelt-eigen-aiplatform-open-straks-runnen-agents-hele-bedrijf"

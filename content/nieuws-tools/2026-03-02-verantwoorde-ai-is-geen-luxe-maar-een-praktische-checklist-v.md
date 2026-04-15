@@ -5,9 +5,9 @@ tags: ["ai-beleid", "ethiek", "compliance", "praktisch"]
 categorieen: ["nieuws-tools"]
 summary: "De mondiale focus verschuift van alleen maar innoveren met AI naar het op orde hebben van transparantie, inclusiviteit en verantwoording – en dat begint met eenvoudige stappen."
 cover:
-  image: "/images/covers/2026-03-02-verantwoorde-ai-is-geen-luxe-maar-een-praktische-checklist-v.webp"
-  alt: "After the India AI Impact Summit 2026: What Enterprise Leaders Are Still Getting Wrong About Responsible AI"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/5614259/pexels-photo-5614259.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop, smartphone, and tablet with a prosthetic hand, emphasizing digital connectivity."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/after-the-india-ai-impact-summit-2026-what-enterprise-leaders-are-still-getting-wrong-about-responsible-ai/"

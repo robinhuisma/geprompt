@@ -5,8 +5,9 @@ tags: ["chatbots", "antropologie", "klantenservice", "gebruikerservaring"]
 categorieen: ["slimmer-werken"]
 summary: "Een nieuwe MIT-cursus laat zien hoe principes uit de antropologie chatbots minder verslavend en meer ondersteunend kunnen maken."
 cover:
-  image: "/images/covers/2026-03-12-new-mit-class-uses-anthropology-to-improve-chatbots.webp"
-  alt: "New MIT class uses anthropology to improve chatbots"
+  image: "https://images.pexels.com/photos/4050452/pexels-photo-4050452.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Adult working on laptop with a cup of tea, showcasing remote work lifestyle."
+  caption: "Foto: Vlada Karpovich via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311"

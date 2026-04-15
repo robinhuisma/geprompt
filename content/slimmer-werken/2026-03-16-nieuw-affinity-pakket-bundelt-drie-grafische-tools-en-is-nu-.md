@@ -5,8 +5,9 @@ tags: ["grafisch ontwerp", "software", "canva", "affinity"]
 categorieen: ["slimmer-werken"]
 summary: "Het nieuwe Affinity-pakket combineert Photo, Designer en Publisher in één gratis app, inclusief optionele AI-tools via Canva."
 cover:
-  image: "/images/covers/2026-03-16-new-affinity-is-available-for-free.webp"
-  alt: "New Affinity is available for free"
+  image: "https://images.pexels.com/photos/27436628/pexels-photo-27436628.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Contemporary home office setup with desk, computer, and creative shelves displaying figurines and art."
+  caption: "Foto: Huy Phan via Pexels"
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/noai/new-affinity-is-available-for-free/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-affinity-is-available-for-free"

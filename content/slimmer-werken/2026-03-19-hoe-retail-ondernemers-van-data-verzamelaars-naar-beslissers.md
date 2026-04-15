@@ -5,8 +5,9 @@ tags: ["retail", "data-analyse", "besluitvorming", "marketing"]
 categorieen: ["slimmer-werken"]
 summary: "AI in retail faalt vaak door gebrek aan context. De oplossing ligt in het combineren van klantdata, realtime gedrag en productinformatie in één systeem."
 cover:
-  image: "/images/covers/2026-03-19-retail-marketers-are-drowning-in-data-and-starved-for-answer.webp"
-  alt: "Retail Marketers Are Drowning in Data and Starved for Answers"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17301821/retail-marketers-are-drowning-in-data-and-starved-for-answers"

@@ -5,8 +5,9 @@ tags: ["ai-strategie", "automatisering", "workflow", "bedrijfsprocessen"]
 categorieen: ["slimmer-werken"]
 summary: "Een praktische gids om losse AI-tools te verbinden tot een samenhangend systeem dat echt voor je werkt."
 cover:
-  image: "/images/covers/2026-03-18-ai-frameworks-the-building-blocks-of-business-intelligence.webp"
-  alt: "AI frameworks: The building blocks of business intelligence"
+  image: "https://images.pexels.com/photos/20456575/pexels-photo-20456575.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A digital artist using a graphics tablet and stylus in a modern workspace. High-tech creative process."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/ai-frameworks"

@@ -5,8 +5,9 @@ tags: ["automatisering", "ai-integratie", "productiviteit", "workflow"]
 categorieen: ["marketing-groei"]
 summary: "Zapier MCP slaat een brug tussen ChatGPT en je bedrijfssoftware, zodat ideeën en concepten automatisch in je CRM of Google Docs terechtkomen."
 cover:
-  image: "/images/covers/2026-03-25-4-ways-to-automate-chatgpt-with-zapier-mcp.webp"
-  alt: "4 ways to automate ChatGPT with Zapier MCP"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-chatgpt-zapier-mcp"

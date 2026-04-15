@@ -5,8 +5,9 @@ tags: ["social media", "merkbescherming", "adverteren", "platformrisico"]
 categorieen: ["slimmer-werken"]
 summary: "Als je adverteert op TikTok of Meta, loop je het risico dat je merk automatisch naast extreme content wordt geplaatst. Dit is wat je kunt doen."
 cover:
-  image: "/images/covers/2026-03-18-klokkenluiders-tiktok-en-meta-pushen-haat-en-complottheorie-.webp"
-  alt: "Klokkenluiders: TikTok en Meta pushen haat en complottheorieën &#8211; Fonq op rand van faillissement"
+  image: "https://images.pexels.com/photos/28754729/pexels-photo-28754729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Cozy and organized home office workspace featuring a desktop computer, headphones, and creative decor."
+  caption: "Foto: Faizur Rehman via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/faillissement-fonq-dreigt-klokkenluiders-tiktok-en-meta-pushen-haat"

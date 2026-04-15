@@ -5,8 +5,9 @@ tags: ["enterprise ai", "implementatie", "strategie", "samenwerking"]
 categorieen: ["nieuws-tools"]
 summary: "Capgemini sluit zich aan bij een OpenAI-alliantie om de kloof tussen AI-experimenten en concrete bedrijfsimplementaties te overbruggen voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-06-capgemini-joins-openai-s-frontier-alliance-to-scale-enterpri.webp"
-  alt: "Capgemini Joins OpenAI's Frontier Alliance to Scale Enterprise AI"
+  image: "https://images.pexels.com/photos/1181386/pexels-photo-1181386.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "An adult seated by the window using a tablet device in an office setting."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/capgemini-openai-frontier-alliance-enterprise-ai"

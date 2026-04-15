@@ -5,8 +5,9 @@ tags: ["openai", "ai-agents", "automatisering", "productiviteit"]
 categorieen: ["nieuws-tools"]
 summary: "De nieuwe GPT-5.4 is speciaal ontworpen om als 'agent' zelfstandig computerwerk te doen, zoals gegevens verwerken op basis van schermafbeeldingen."
 cover:
-  image: "/images/covers/2026-03-18-openai-introduces-gpt-5-4-with-more-knowledge-work-capabilit.webp"
-  alt: "OpenAI introduces GPT-5.4 with more knowledge-work capability"
+  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/"

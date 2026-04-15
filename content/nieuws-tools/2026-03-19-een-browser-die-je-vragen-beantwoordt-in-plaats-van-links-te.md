@@ -5,8 +5,9 @@ tags: ["ai-tools", "browser", "zoeken", "productiviteit"]
 categorieen: ["nieuws-tools"]
 summary: "De Comet-browser zet AI direct in je zoekbalk, waardoor je een samenvattend antwoord krijgt in plaats van een lijst met websites."
 cover:
-  image: "/images/covers/2026-03-19-deze-bijzondere-webbrowser-is-er-nu-ook-voor-je-iphone.webp"
-  alt: "Deze bijzondere webbrowser is er nu ook voor je iPhone"
+  image: "https://images.pexels.com/photos/1181449/pexels-photo-1181449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Businesswoman working on laptop with Android 6.0 Marshmallow webpage open."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068347/deze-bijzondere-webbrowser-is-er-nu-ook-voor-je-iphone.html"

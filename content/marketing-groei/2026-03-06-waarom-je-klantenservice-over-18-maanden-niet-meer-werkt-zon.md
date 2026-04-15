@@ -5,8 +5,9 @@ tags: ["klantenservice", "ai-strategie", "klantervaring", "automatisering"]
 categorieen: ["marketing-groei"]
 summary: "Klantverwachtingen veranderen door AI; overleven vraagt niet om losse tools, maar om een fundamenteel nieuwe strategie die mens en machine integreert."
 cover:
-  image: "/images/covers/2026-03-06-why-your-current-cx-strategy-won-8217-t-survive-the-next-18-.webp"
-  alt: "Why Your Current CX Strategy Won&#8217;t Survive the Next 18 Months"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: true
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/why-your-current-cx-strategy-wont-survive-the-next-18-months/"

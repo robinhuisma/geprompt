@@ -5,8 +5,9 @@ tags: ["marketingbureaus", "innovatie", "dienstverlening", "ai-strategie"]
 categorieen: ["nieuws-tools"]
 summary: "Voor marketing- en adviesbureaus is het tijd om van AI-optimalisatie over te stappen op AI-innovatie, door compleet nieuwe diensten te creëren."
 cover:
-  image: "/images/covers/2026-03-18-the-ai-innovation-imperative-for-agencies-why-optimization-i.webp"
-  alt: "The AI Innovation Imperative for Agencies: Why Optimization Isn’t Enough Anymore"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies"

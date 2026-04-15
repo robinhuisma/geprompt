@@ -5,8 +5,9 @@ tags: ["video", "ai-tools", "post-productie", "netflix"]
 categorieen: ["nieuws-tools"]
 summary: "Netflix neemt een AI-tool over die filmmakers helpt om in de post-productie sneller en makkelijker scènes te herschikken en aan te passen."
 cover:
-  image: "/images/covers/2026-03-06-netflix-buys-ben-affleck-8217-s-ai-filmmaking-company-interp.webp"
-  alt: "Netflix buys Ben Affleck&#8217;s AI filmmaking company InterPositive"
+  image: "https://images.pexels.com/photos/6142159/pexels-photo-6142159.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a MacBook Pro showing Netflix on the screen in a modern workspace."
+  caption: "Foto: Luca Sammarco via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/"

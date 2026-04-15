@@ -5,8 +5,9 @@ tags: ["chatgpt", "documenten", "automatisering", "efficiëntie"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI heeft ChatGPT een nieuwe functionaliteit gegeven waarmee het direct met bestanden op je computer kan werken, wat het analyseren van eigen data veel sneller maakt."
 cover:
-  image: "/images/covers/2026-03-25-eindelijk-goed-nieuws-over-chatgpt-openai-tackelt-irritatie.webp"
-  alt: "Eindelijk goed nieuws over ChatGPT: OpenAI tackelt irritatie"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2070605/eindelijk-goed-nieuws-over-chatgpt-openai-tackelt-irritatie.html"

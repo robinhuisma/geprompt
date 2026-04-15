@@ -5,8 +5,9 @@ tags: ["ai", "kritisch denken", "besluitvorming", "validatie"]
 categorieen: ["nieuws-tools"]
 summary: "Een viral verhaal over een door ChatGPT 'genezen' hond toont aan waarom gezond scepticisme essentieel is bij het beoordelen van AI-claims voor je bedrijf."
 cover:
-  image: "/images/covers/2026-03-21-chatgpt-did-not-cure-a-dog-s-cancer.webp"
-  alt: "ChatGPT did not cure a dog’s cancer"
+  image: "https://images.pexels.com/photos/37011843/pexels-photo-37011843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman focuses on her laptop while sitting in a lush outdoor cafe."
+  caption: "Foto: Sóc Năng Động via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"

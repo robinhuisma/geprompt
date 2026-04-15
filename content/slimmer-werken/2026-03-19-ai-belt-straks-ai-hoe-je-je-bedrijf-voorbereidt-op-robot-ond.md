@@ -5,8 +5,9 @@ tags: ["ai", "automatisering", "klantenservice", "toekomst"]
 categorieen: ["slimmer-werken"]
 summary: "De volgende stap in automatisering is dat AI-systemen van bedrijven onderling met elkaar gaan communiceren, wat vraagt om nieuwe inrichting van processen."
 cover:
-  image: "/images/covers/2026-03-19-when-ai-calls-ai-the-funny-and-real-future-of-call-centers.webp"
-  alt: "When AI Calls AI: The Funny (and Real) Future of Call Centers"
+  image: "https://images.pexels.com/photos/7793692/pexels-photo-7793692.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A group of diverse professionals high-fiving over a collaborative workspace."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/when-ai-calls-ai-the-funny-and-real-future-of-call-centers/"

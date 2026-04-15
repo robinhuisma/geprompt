@@ -5,8 +5,9 @@ tags: ["ai", "beveiliging", "softwareontwikkeling", "kwaliteitscontrole"]
 categorieen: ["nieuws-tools"]
 summary: "Een AI-model vond in twee weken 22 kwetsbaarheden in Firefox, wat laat zien hoe je AI kunt inzetten voor proactieve security-checks."
 cover:
-  image: "/images/covers/2026-03-10-anthropic-8217-s-claude-found-22-vulnerabilities-in-firefox-.webp"
-  alt: "Anthropic&#8217;s Claude found 22 vulnerabilities in Firefox over two weeks"
+  image: "https://images.pexels.com/photos/34804017/pexels-photo-34804017.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed view of a computer screen displaying code with a menu of AI actions, illustrating modern software development."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/"

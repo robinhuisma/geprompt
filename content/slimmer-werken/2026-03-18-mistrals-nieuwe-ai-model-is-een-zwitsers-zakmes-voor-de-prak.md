@@ -5,8 +5,9 @@ tags: ["ai-modellen", "efficiëntie", "open source", "lokale ai"]
 categorieen: ["slimmer-werken"]
 summary: "Het Franse Mistral brengt een compact, veelzijdig AI-model uit dat lokaal draait en tekst, code en beeld combineert, een alternatief voor de grote Amerikaanse merken."
 cover:
-  image: "/images/covers/2026-03-18-mistral-brengt-effici-nt-zakelijk-multimodaal-model-uit.webp"
-  alt: "Mistral brengt efficiënt zakelijk multimodaal model uit"
+  image: "https://images.pexels.com/photos/4538271/pexels-photo-4538271.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A modern office space featuring artistic wall decor and minimalist design, illuminated by natural light."
+  caption: "Foto: Karl Solano via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/mistral-brengt-efficint-zakelijk-multimodaal-model-uit"

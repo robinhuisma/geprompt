@@ -5,9 +5,9 @@ tags: ["belasting", "startups", "investeren", "ondernemerschap"]
 categorieen: ["nieuws-tools"]
 summary: "Zweden belast vermogenswinst pas bij verkoop en stelt belasting uit bij herinvestering, wat een vliegwieleffect creëerde voor startups. Nederland kiest een ander pad."
 cover:
-  image: "/images/covers/2026-03-02-het-zweedse-belastinggeheim-dat-een-startup-ecosysteem-bouwd.webp"
-  alt: "Een nieuwe Box 3? Zweden grossiert in unicorns dankzij een veel slimmere vermogensbelasting"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/columnisten-experts/box-3-jeroen-westerbeek"

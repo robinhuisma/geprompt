@@ -5,8 +5,9 @@ tags: ["computer vision", "ecologie", "monitoring", "automatisering"]
 categorieen: ["slimmer-werken"]
 summary: "Onderzoek toont aan dat computer vision op onderwatervideo's de beperkingen van traditionele visuele tellingen kan overstijgen, voor een vollediger en nauwkeuriger beeld."
 cover:
-  image: "/images/covers/2026-03-25-augmenting-citizen-science-with-computer-vision-for-fish-mon.webp"
-  alt: "Augmenting citizen science with computer vision for fish monitoring"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325"

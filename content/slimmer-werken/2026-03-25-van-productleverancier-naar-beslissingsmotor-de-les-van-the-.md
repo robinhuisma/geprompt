@@ -5,8 +5,9 @@ tags: ["strategie", "positionering", "klantwaarde", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Dow Jones transformeert van uitgever naar 'beslissingsmotor' voor professionals, een strategie die elke ondernemer kan gebruiken om onmisbaar te worden."
 cover:
-  image: "/images/covers/2026-03-25-nieuws-is-geen-product-meer-zegt-de-baas-van-the-wall-street.webp"
-  alt: "Nieuws is geen product meer, zegt de baas van The Wall Street Journal"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/tech-innovatie/innovatiestrategie/dow-jones-almar-latour"

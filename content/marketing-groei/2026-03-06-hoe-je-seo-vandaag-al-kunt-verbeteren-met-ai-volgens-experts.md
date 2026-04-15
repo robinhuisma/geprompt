@@ -5,8 +5,9 @@ tags: ["seo", "ai", "contentmarketing", "zoekmachines"]
 categorieen: ["marketing-groei"]
 summary: "Experts geven concrete tips om AI te gebruiken voor betere content, snellere optimalisatie en het begrijpen van zoekintentie."
 cover:
-  image: "/images/covers/2026-03-06-ai-and-seo-what-ai-means-for-the-future-of-seo-expert-tips-a.webp"
-  alt: "AI and SEO: What AI means for the future of SEO [Expert Tips &amp; Interview]"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/how-ai-is-impacting-seo"

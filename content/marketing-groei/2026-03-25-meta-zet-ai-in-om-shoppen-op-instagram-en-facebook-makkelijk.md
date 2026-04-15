@@ -5,8 +5,9 @@ tags: ["social commerce", "meta", "retail", "ai-assistent"]
 categorieen: ["marketing-groei"]
 summary: "Meta gebruikt generatieve AI om productinformatie in zijn apps te verrijken, wat kansen biedt voor merken die hun content hierop afstemmen."
 cover:
-  image: "/images/covers/2026-03-25-meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-fa.webp"
-  alt: "Meta turns to AI to make shopping easier on Instagram and Facebook"
+  image: "https://images.pexels.com/photos/8636589/pexels-photo-8636589.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A professional workspace featuring computers and analytical graphs on a monitor, symbolizing modern business environment."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/"

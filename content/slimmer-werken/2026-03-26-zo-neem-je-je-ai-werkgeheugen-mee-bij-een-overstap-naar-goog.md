@@ -5,8 +5,9 @@ tags: ["ai", "productiviteit", "data", "overstappen"]
 categorieen: ["slimmer-werken"]
 summary: "Google Gemini maakt het nu mogelijk om je voorkeuren en chatgeschiedenis van een andere AI, zoals ChatGPT, te importeren, zodat je niet opnieuw hoeft te beginnen."
 cover:
-  image: "/images/covers/2026-03-26-google-is-making-it-easier-to-import-another-ai-s-memory-int.webp"
-  alt: "Google is making it easier to import another AI’s memory into Gemini"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history"

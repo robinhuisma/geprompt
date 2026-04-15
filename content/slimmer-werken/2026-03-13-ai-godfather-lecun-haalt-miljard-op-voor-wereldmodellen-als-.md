@@ -5,8 +5,9 @@ tags: ["ai", "innovatie", "investeren", "technologie"]
 categorieen: ["slimmer-werken"]
 summary: "Yann LeCun haalt een miljard op voor een nieuw type AI dat direct van de werkelijkheid leert, wat een minder foutgevoelig alternatief kan zijn voor chatbots."
 cover:
-  image: "/images/covers/2026-03-13-ai-godfather-yann-lecun-haalt-miljard-op-voor-drie-maanden-o.webp"
-  alt: "AI-godfather Yann LeCun haalt miljard op voor drie maanden oude startup &#8211; Pieter Elbers vertrekt per direct als topman IndiGo"
+  image: "https://images.pexels.com/photos/12498874/pexels-photo-12498874.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman working on laptops at a cafe with drinks and teapots, showcasing a remote work lifestyle."
+  caption: "Foto: Atlantic Ambience via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/ai-godfather-yann-lecun-haalt-miljard-op-voor-drie-maanden-oude-startup-pieter-elbers-vertrekt-per-direct-als-topman-indigo"

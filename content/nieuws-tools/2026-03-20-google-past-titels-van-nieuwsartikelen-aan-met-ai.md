@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "content", "ai"]
 categorieen: ["nieuws-tools"]
 summary: "Google experimenteert met AI om titels van artikelen in de zoekresultaten automatisch aan te passen, wat gevolgen kan hebben voor de vindbaarheid van je content."
 cover:
-  image: "/images/covers/2026-03-20-deze-titel-heeft-geen-nut-google-past-hem-vanaf-nu-aan-met-a.webp"
-  alt: "Deze titel heeft geen nut - Google past hem vanaf nu aan met AI"
+  image: "https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A neat workspace featuring a laptop displaying Google search, a smartphone, and a notebook on a wooden desk."
+  caption: "Foto: Caio via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068973/deze-titel-heeft-geen-nut-google-past-hem-vanaf-nu-aan-met-ai.html"

@@ -5,8 +5,9 @@ tags: ["seo", "marketing", "vindbaarheid", "contentstrategie"]
 categorieen: ["marketing-groei"]
 summary: "SEO draait niet meer om clicks naar je site, maar om vindbaarheid en geloofwaardigheid overal waar klanten zoeken, ook via AI-assistenten."
 cover:
-  image: "/images/covers/2026-03-26-what-is-seo-search-engine-optimization-in-2026.webp"
-  alt: "What is SEO? Search Engine Optimization In 2026"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/15540893/what-is-search-engine-optimization"

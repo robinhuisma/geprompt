@@ -5,8 +5,9 @@ tags: ["inflatie", "personeel", "energie", "risicomanagement"]
 categorieen: ["slimmer-werken"]
 summary: "DNB waarschuwt voor inflatie tot 5% door geopolitieke spanningen, wat directe gevolgen heeft voor je inkoopkosten, personeel en energiecontracten."
 cover:
-  image: "/images/covers/2026-03-25-dnb-topman-sleijpen-8216-code-donker-oranje-8217-8211-booshe.webp"
-  alt: "DNB-topman Sleijpen: &#8216;Code donker oranje&#8217; &#8211; Boosheid ASML-personeel groeit"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/dnb-topman-sleijpen-code-donker-oranje-boosheid-asml-personeel-groeit"

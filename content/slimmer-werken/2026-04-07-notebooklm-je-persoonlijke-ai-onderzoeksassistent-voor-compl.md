@@ -5,8 +5,9 @@ tags: ["ai-tools", "onderzoek", "productiviteit", "informatieverwerking"]
 categorieen: ["slimmer-werken"]
 summary: "NotebookLM is een AI-tool die je eigen documenten omzet in een interactieve kennisbank, zodat je sneller onderzoek kunt doen en betere beslissingen neemt."
 cover:
-  image: "/images/covers/2026-04-07-notebooklm-master-your-research-and-synthesize-information-w.webp"
-  alt: "NotebookLM: Master Your Research and Synthesize Information With AI"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17314054/notebooklm-master-your-research-and-synthesize-information-with-ai"

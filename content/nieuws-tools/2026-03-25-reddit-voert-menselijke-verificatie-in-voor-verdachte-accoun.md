@@ -5,8 +5,9 @@ tags: ["authenticatie", "klantcontact", "ai-beleid", "online veiligheid"]
 categorieen: ["nieuws-tools"]
 summary: "Reddit gaat accounts met 'verdacht' gedrag verplichten te bewijzen dat ze door een mens worden beheerd, een strategie die ook voor bedrijven relevant is."
 cover:
-  image: "/images/covers/2026-03-25-reddit-will-require-quot-fishy-quot-accounts-to-verify-they-.webp"
-  alt: "Reddit will require &quot;fishy&quot; accounts to verify they are run by a human"
+  image: "https://images.pexels.com/photos/34804016/pexels-photo-34804016.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colorful workspace featuring a laptop with code editor and vibrant screens."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/"

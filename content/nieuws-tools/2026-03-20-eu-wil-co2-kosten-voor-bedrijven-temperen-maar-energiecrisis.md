@@ -5,8 +5,9 @@ tags: ["duurzaamheid", "energie", "wetgeving", "kosten"]
 categorieen: ["nieuws-tools"]
 summary: "De EU overweegt CO2-regels te versoepelen om prijsstijgingen te beteugelen, terwijl een wereldwijde energiecrisis de kosten voor bedrijven alsnog kan opdrijven."
 cover:
-  image: "/images/covers/2026-03-20-eu-wil-co2-regels-voor-industrie-verzachten-8211-iea-waarsch.webp"
-  alt: "EU wil CO2-regels voor industrie verzachten &#8211; IEA waarschuwt voor grote energiecrisis"
+  image: "https://images.pexels.com/photos/32079707/pexels-photo-32079707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Air quality monitor next to a potted plant on a desk, showing CO2 and PM2.5 levels."
+  caption: "Foto: Tim Witzdam via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/eu-wil-co2-regels-voor-bedrijven-verzachten"

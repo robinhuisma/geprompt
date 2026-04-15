@@ -5,8 +5,9 @@ tags: ["ai-tools", "claude", "chatgpt", "keuzestress"]
 categorieen: ["slimmer-werken"]
 summary: "Claude wint terrein op ChatGPT in gebruikersgroei, wat duidt op een verschuiving in de markt en meer keuze voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-07-claude-8217-s-consumer-growth-surge-continues-after-pentagon.webp"
-  alt: "Claude&#8217;s consumer growth surge continues after Pentagon deal debacle"
+  image: "https://images.pexels.com/photos/7504588/pexels-photo-7504588.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Man working at a computer in a modern office setting with organized workspace."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/"

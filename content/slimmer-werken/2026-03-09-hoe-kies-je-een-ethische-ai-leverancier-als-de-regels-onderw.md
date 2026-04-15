@@ -5,8 +5,9 @@ tags: ["ai-ethiek", "leveranciersselectie", "strategie", "risicomanagement"]
 categorieen: ["slimmer-werken"]
 summary: "De keuze voor een AI-leverancier gaat verder dan functionaliteit; het vraagt om een gesprek over ethische grenzen en de vraag of die grenzen standhouden."
 cover:
-  image: "/images/covers/2026-03-09-anthropic-vs-het-pentagon-het-hele-verhaal-ai-zonder-interne.webp"
-  alt: "Anthropic vs. het Pentagon: het hele verhaal + AI zonder internet op je smartphone + nerden in de terminal"
+  image: "https://images.pexels.com/photos/24778056/pexels-photo-24778056.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek office setup featuring a laptop, tablet, eyeglasses, and keyboard on a tidy desk."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "AI Report"
 source_url: "https://www.aireport.email/p/anthropic-vs-het-pentagon-het-hele"

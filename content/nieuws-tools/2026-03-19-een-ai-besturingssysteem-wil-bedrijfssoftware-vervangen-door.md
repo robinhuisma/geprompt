@@ -5,8 +5,9 @@ tags: ["ai", "bedrijfssoftware", "workflow", "automatisering"]
 categorieen: ["nieuws-tools"]
 summary: "Een startup bouwt een AI-systeem dat complexe bedrijfssoftware vervangt door eenvoudige prompts, waardoor je taken uitvoert via een chat in plaats van menu's."
 cover:
-  image: "/images/covers/2026-03-19-this-startup-wants-to-make-enterprise-software-look-more-lik.webp"
-  alt: "This startup wants to make enterprise software look more like a prompt"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/"

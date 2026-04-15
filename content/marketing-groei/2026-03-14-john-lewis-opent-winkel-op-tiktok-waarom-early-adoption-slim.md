@@ -5,8 +5,9 @@ tags: ["retail", "tiktok", "ai", "klantbereik"]
 categorieen: ["marketing-groei"]
 summary: "De Britse warenhuisketen John Lewis opent als eerste een winkel op TikTok Shop en bereidt zich voor op AI-chatbots, een strategie die ook voor Nederlandse retailers interessant is."
 cover:
-  image: "/images/covers/2026-03-14-john-lewis-opent-op-tiktok-shop-chatgpt-en-gemini-volgen.webp"
-  alt: "John Lewis opent op TikTok Shop, ChatGPT en Gemini volgen"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/john-lewis-opent-tiktok-shop-chatgpt-gemini-volgen"

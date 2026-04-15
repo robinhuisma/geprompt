@@ -5,8 +5,9 @@ tags: ["google maps", "ai", "productiviteit", "routeplanning"]
 categorieen: ["nieuws-tools"]
 summary: "De nieuwe Gemini AI in Google Maps helpt je een volledige dag efficiënt in te plannen, van route tot tussenstops, wat tijd bespaart bij werkbezoeken en planning."
 cover:
-  image: "/images/covers/2026-04-07-i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisi.webp"
-  alt: "I let Gemini in Google Maps plan my day and it went surprisingly well"
+  image: "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed view of Google Maps app icon on a smartphone screen, showcasing digital navigation technology."
+  caption: "Foto: Brett Jordan via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"

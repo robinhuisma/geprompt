@@ -5,8 +5,9 @@ tags: ["inkoop", "automatisering", "enterprise software", "ai"]
 categorieen: ["nieuws-tools"]
 summary: "Een AI-startup haalt een grote investering op om het volledige inkoopproces, van aanvraag tot betaling, te automatiseren voor grote bedrijven."
 cover:
-  image: "/images/covers/2026-03-06-lio-raises-30m-from-andreessen-horowitz-and-others-to-automa.webp"
-  alt: "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/"

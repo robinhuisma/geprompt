@@ -5,8 +5,9 @@ tags: ["retail", "marketing", "ai", "budget"]
 categorieen: ["marketing-groei"]
 summary: "Retailers sturen hun marketingbudgetten weg van algemene reclame naar meetbare kanalen als retail media en AI-tools voor garantie op resultaat."
 cover:
-  image: "/images/covers/2026-03-13-the-state-of-retail-marketing-budgets-2026-the-shift-to-prec.webp"
-  alt: "The State of Retail Marketing Budgets 2026: The Shift to Precision and Performance"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17296552/retailers-spending-advertising-dollars"

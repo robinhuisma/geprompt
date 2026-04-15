@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "ai", "vindbaarheid"]
 categorieen: ["nieuws-tools"]
 summary: "Google rolt zijn AI-gestuurde 'Live Search' wereldwijd uit, waardoor zoekopdrachten via spraak en camera directe, gespreksachtige antwoorden geven in plaats van links."
 cover:
-  image: "/images/covers/2026-03-26-google-takes-search-live-global-with-gemini-3-1-flash-live-v.webp"
-  alt: "Google Takes Search Live Global With Gemini 3.1 Flash Live via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/6961857/pexels-photo-6961857.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "An adult using a laptop indoors, browsing Google at a wooden table with coffee."
+  caption: "Foto: Firmbee.com via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/"

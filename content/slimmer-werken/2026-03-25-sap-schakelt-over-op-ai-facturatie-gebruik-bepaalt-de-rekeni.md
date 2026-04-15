@@ -5,8 +5,9 @@ tags: ["ai", "kostenbeheer", "erp", "softwarelicenties"]
 categorieen: ["slimmer-werken"]
 summary: "SAP schakelt van vaste abonnementskosten naar een model waarbij je betaalt voor het daadwerkelijke gebruik en resultaat van AI-diensten."
 cover:
-  image: "/images/covers/2026-03-25-sap-voert-radicale-ai-facturatie-in-gebruik-bepaalt-straks-d.webp"
-  alt: "SAP voert radicale ai‑facturatie in: gebruik bepaalt straks de rekening"
+  image: "https://images.pexels.com/photos/7947996/pexels-photo-7947996.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Man reviewing business charts on a laptop from an over-the-shoulder angle."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/25/sap-voert-radicale-ai%e2%80%91facturatie-in-gebruik-bepaalt-straks-de-rekening/"

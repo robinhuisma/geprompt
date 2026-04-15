@@ -5,8 +5,9 @@ tags: ["belastingdienst", "btw", "gegevensbescherming", "overheid"]
 categorieen: ["slimmer-werken"]
 summary: "De Belastingdienst besteedt het cruciale btw-incassosysteem uit aan een Amerikaans bedrijf, met garanties voor gegevensveiligheid."
 cover:
-  image: "/images/covers/2026-03-19-btw-systeem-gaat-alsnog-naar-amerikaans-bedrijf-8211-startup.webp"
-  alt: "Btw-systeem gaat alsnog naar Amerikaans bedrijf &#8211; Startups niet tevreden met EU Inc."
+  image: "https://images.pexels.com/photos/5257576/pexels-photo-5257576.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team of professionals brainstorming solutions at a whiteboard in an office setting."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/btw-systeem-soevereiniteit"

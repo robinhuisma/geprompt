@@ -5,8 +5,9 @@ tags: ["contentmoderatie", "platformbeleid", "sociale media", "ai"]
 categorieen: ["nieuws-tools"]
 summary: "Meta bouwt eigen AI-systemen om content te modereren, wat de zichtbaarheid en veiligheid van zakelijke accounts en advertenties kan beïnvloeden."
 cover:
-  image: "/images/covers/2026-03-19-meta-rolls-out-new-ai-content-enforcement-systems-while-redu.webp"
-  alt: "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors"
+  image: "https://images.pexels.com/photos/27691024/pexels-photo-27691024.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish home office setup featuring laptop and external drives for data storage and backup."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"

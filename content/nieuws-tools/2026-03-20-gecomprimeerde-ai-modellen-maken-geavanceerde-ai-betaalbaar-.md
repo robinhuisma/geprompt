@@ -5,8 +5,9 @@ tags: ["ai-modellen", "kostenbesparing", "mkb", "technologie"]
 categorieen: ["nieuws-tools"]
 summary: "Door compressietechnieken worden grote AI-modellen nu bruikbaar op gewone computers, wat kosten verlaagt en snelheid verhoogt voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-20-multiverse-computing-pushes-its-compressed-ai-models-into-th.webp"
-  alt: "Multiverse Computing pushes its compressed AI models into the mainstream"
+  image: "https://images.pexels.com/photos/34804017/pexels-photo-34804017.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed view of a computer screen displaying code with a menu of AI actions, illustrating modern software development."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"

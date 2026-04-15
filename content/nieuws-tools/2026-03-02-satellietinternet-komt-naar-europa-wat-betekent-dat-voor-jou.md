@@ -5,9 +5,9 @@ tags: ["satellietinternet", "connectiviteit", "telecom", "mobiel werken"]
 categorieen: ["nieuws-tools"]
 summary: "Europese telecomreuzen gaan via satelliet mobiel internet aanbieden, wat een uitkomst kan zijn voor ondernemers in afgelegen gebieden of met mobiele teams."
 cover:
-  image: "/images/covers/2026-03-02-satellietinternet-komt-naar-europa-wat-betekent-dat-voor-jou.webp"
-  alt: "Orange, Telefónica, Three Group krijgen satellietinternet"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/orange-telefnica-three-group-krijgen-satellietinternet"

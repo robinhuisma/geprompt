@@ -5,8 +5,9 @@ tags: ["ai", "automotive", "productiviteit", "spraakassistent"]
 categorieen: ["slimmer-werken"]
 summary: "Nieuwe auto's van Polestar, Volvo en Mercedes krijgen Google's AI-assistent Gemini, waarmee je onderweg zaken kunt doen via spraak."
 cover:
-  image: "/images/covers/2026-03-22-verschillende-autofabrikanten-stappen-in-korte-tijd-over-naa.webp"
-  alt: "Verschillende autofabrikanten stappen in korte tijd over naar Google Gemini"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2069508/verschillende-autofabrikanten-stappen-in-korte-tijd-over-naar-google-gemini.html"

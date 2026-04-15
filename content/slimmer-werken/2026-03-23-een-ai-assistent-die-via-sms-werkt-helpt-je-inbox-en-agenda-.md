@@ -5,8 +5,9 @@ tags: ["ai-assistent", "productiviteit", "automatisering", "slimmer-werken"]
 categorieen: ["slimmer-werken"]
 summary: "Lindy is een AI-assistent die via SMS werkt en je helpt met e-mail, afspraken en taken, zonder dat je een nieuwe app hoeft te leren."
 cover:
-  image: "/images/covers/2026-03-23-lindy-review-what-it-is-what-you-get-and-who-it-apos-s-for-2.webp"
-  alt: "Lindy review: What it is, what you get, and who it&apos;s for [2026]"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/lindy-review"

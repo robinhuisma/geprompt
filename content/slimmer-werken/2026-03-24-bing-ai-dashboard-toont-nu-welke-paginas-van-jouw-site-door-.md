@@ -5,8 +5,9 @@ tags: ["bing", "ai", "seo", "content"]
 categorieen: ["slimmer-werken"]
 summary: "Het nieuwe Bing AI Performance dashboard koppelt vragen die AI beantwoordt aan de specifieke pagina's op je website die als bron worden gebruikt."
 cover:
-  image: "/images/covers/2026-03-24-bing-ai-dashboard-maps-grounding-queries-to-cited-pages-via-.webp"
-  alt: "Bing AI Dashboard Maps Grounding Queries To Cited Pages via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/"

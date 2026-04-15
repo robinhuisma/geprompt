@@ -5,8 +5,9 @@ tags: ["ai-claims", "kritisch denken", "besluitvorming", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "Een anekdote over een hond die 'genezen' zou zijn door ChatGPT laat zien waarom ondernemers AI-claims kritisch moeten beoordelen."
 cover:
-  image: "/images/covers/2026-03-19-chatgpt-did-not-cure-a-dog-s-cancer.webp"
-  alt: "ChatGPT did not cure a dog’s cancer"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"

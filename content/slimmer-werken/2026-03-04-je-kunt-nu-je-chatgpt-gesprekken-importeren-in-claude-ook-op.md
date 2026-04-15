@@ -5,8 +5,9 @@ tags: ["claude", "ai-chatbots", "productiviteit", "data-importeren"]
 categorieen: ["slimmer-werken"]
 summary: "Anthropic maakt de overstap naar Claude makkelijker door een importtool en een gratis geheugenfunctie, zodat je niet opnieuw hoeft te beginnen."
 cover:
-  image: "/images/covers/2026-03-04-anthropic-upgrades-claude-s-memory-to-attract-ai-switchers.webp"
-  alt: "Anthropic upgrades Claude’s memory to attract AI switchers"
+  image: "https://images.pexels.com/photos/5882572/pexels-photo-5882572.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colleagues interact in a modern office setting, blending technology with workplace hygiene."
+  caption: "Foto: www.kaboompics.com via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"

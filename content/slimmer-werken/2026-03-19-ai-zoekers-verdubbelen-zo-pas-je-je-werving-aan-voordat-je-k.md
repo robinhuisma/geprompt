@@ -5,8 +5,9 @@ tags: ["recruitment", "ai", "werving", "arbeidsmarkt"]
 categorieen: ["slimmer-werken"]
 summary: "Het gebruik van AI door sollicitanten explodeert, maar de meeste werkgevers zijn er niet op voorbereid. Dit is wat je nu kunt doen."
 cover:
-  image: "/images/covers/2026-03-19-ai-baanzoeker-rukt-op-driekwart-van-organisaties-bereidt-zic.webp"
-  alt: "AI-baanzoeker rukt op: driekwart van organisaties bereidt zich nog niet voor"
+  image: "https://images.pexels.com/photos/7163354/pexels-photo-7163354.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A group of diverse professionals working collaboratively in a modern office setting."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/aibaanzoeker-rukt-driekwart-organisaties-bereidt-zich-nog"

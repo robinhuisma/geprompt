@@ -5,8 +5,9 @@ tags: ["contentmarketing", "seo", "ai", "chatbots"]
 categorieen: ["marketing-groei"]
 summary: "AI-answer engines zoals ChatGPT halen hun informatie uit specifieke bronnen; met deze inzichten optimaliseer je jouw content om daar tussen te staan."
 cover:
-  image: "/images/covers/2026-03-28-answer-engine-optimization-how-to-get-your-content-into-ai-r.webp"
-  alt: "Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/"

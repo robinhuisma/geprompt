@@ -5,8 +5,9 @@ tags: ["infrastructuur", "ai", "kosten", "beleid"]
 categorieen: ["slimmer-werken"]
 summary: "Zeven grote techbedrijven beloven dat hun nieuwe AI-data centers de lokale stroomprijzen niet zullen opdrijven, wat stabiliteit voor digitale diensten kan betekenen."
 cover:
-  image: "/images/covers/2026-03-06-seven-tech-giants-signed-trump-s-pledge-to-keep-electricity-.webp"
-  alt: "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers"
+  image: "https://images.pexels.com/photos/7658273/pexels-photo-7658273.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Group of colleagues sharing ideas in a vibrant office environment, promoting team collaboration and diversity."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"

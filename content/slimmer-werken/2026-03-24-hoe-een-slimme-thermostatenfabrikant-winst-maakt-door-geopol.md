@@ -5,8 +5,9 @@ tags: ["mkb", "groeistrategie", "energietransitie", "hardware"]
 categorieen: ["slimmer-werken"]
 summary: "Tado boekt zijn eerste winst door een stijgende vraag naar energiebesparing, een kans die ontstond na het vertrek van een grote concurrent."
 cover:
-  image: "/images/covers/2026-03-24-tado-boekt-eerste-winst.webp"
-  alt: "Tado boekt eerste winst"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/tado-boekt-eerste-winst"

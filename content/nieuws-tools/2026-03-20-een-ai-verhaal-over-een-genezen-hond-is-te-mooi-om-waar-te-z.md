@@ -5,8 +5,9 @@ tags: ["ai", "gezondheid", "ethiek", "kritisch denken"]
 categorieen: ["nieuws-tools"]
 summary: "Een viral verhaal over ChatGPT die een hond van kanker zou hebben genezen, blijkt een waarschuwing te zijn tegen het blind vertrouwen op AI zonder professioneel advies."
 cover:
-  image: "/images/covers/2026-03-20-chatgpt-did-not-cure-a-dog-s-cancer.webp"
-  alt: "ChatGPT did not cure a dog’s cancer"
+  image: "https://images.pexels.com/photos/5614259/pexels-photo-5614259.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop, smartphone, and tablet with a prosthetic hand, emphasizing digital connectivity."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"

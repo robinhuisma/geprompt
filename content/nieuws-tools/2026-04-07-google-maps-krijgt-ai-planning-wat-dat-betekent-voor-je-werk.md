@@ -7,6 +7,11 @@ summary: "De nieuwe AI-assistent Gemini in Google Maps kan dagroutes plannen, wa
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"
+cover:
+  image: "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed view of Google Maps app icon on a smartphone screen, showcasing digital navigation technology."
+  caption: "Foto: Brett Jordan via Pexels"
+
 ---
 
 De nieuwe AI-assistent Gemini in Google Maps kan volledige dagroutes voor je plannen op basis van je wensen, wat ondernemers veel tijd kan besparen bij het organiseren van klantbezoeken, leveringen of vergaderdagen buiten de deur.

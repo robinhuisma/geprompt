@@ -5,8 +5,9 @@ tags: ["openai", "productiviteit", "ai-tools", "software"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI wil zijn losse AI-tools samenvoegen tot één desktop-app, wat voor ondernemers kan betekenen: minder schakelen tussen vensters."
 cover:
-  image: "/images/covers/2026-03-20-openai-is-planning-a-desktop-superapp.webp"
-  alt: "OpenAI is planning a desktop ‘superapp’"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"

@@ -5,8 +5,9 @@ tags: ["seo", "ai", "marketing", "bureau"]
 categorieen: ["slimmer-werken"]
 summary: "Een goed AI SEO-bureau legt uit hoe techniek, content en 'citations' samenkomen voor zichtbaarheid in zowel klassieke als AI-zoekmachines."
 cover:
-  image: "/images/covers/2026-03-19-best-ai-seo-agencies-2026-by-category-and-how-we-scored-the-.webp"
-  alt: "Best AI SEO Agencies (2026 By Category) and How We Scored The Winners"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17301746/best-ai-seo-agencies"

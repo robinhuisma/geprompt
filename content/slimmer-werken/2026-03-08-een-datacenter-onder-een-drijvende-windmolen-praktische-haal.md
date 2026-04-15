@@ -5,8 +5,9 @@ tags: ["datacenters", "duurzaamheid", "innovatie", "infrastructuur"]
 categorieen: ["slimmer-werken"]
 summary: "Het concept van een drijvend datacenter op zee biedt een antwoord op energie- en koelproblemen, maar vraagt om een nieuwe manier van denken en samenwerken."
 cover:
-  image: "/images/covers/2026-03-08-drijvende-windmolen-met-datacenter-eronder-duurzamer-en-mooi.webp"
-  alt: "Drijvende windmolen met datacenter eronder: duurzamer en mooier"
+  image: "https://images.pexels.com/photos/7654411/pexels-photo-7654411.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse group of coworkers meeting in a contemporary office, working together on projects with technology and documents."
+  caption: "Foto: Pavel Danilyuk via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1749196/drijvende-windmolen-met-datacenter-eronder-duurzamer-en-mooier.html"

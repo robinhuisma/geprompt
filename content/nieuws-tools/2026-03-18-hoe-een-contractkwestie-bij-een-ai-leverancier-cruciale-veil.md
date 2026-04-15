@@ -5,8 +5,9 @@ tags: ["ai-beleid", "leveranciersmanagement", "risicomanagement", "overheid"]
 categorieen: ["nieuws-tools"]
 summary: "Een administratief geschil over de toegang tot AI-model Claude dreigt Amerikaans nucleair veiligheidsonderzoek te stoppen, een waarschuwing voor afhankelijkheid van één leverancier."
 cover:
-  image: "/images/covers/2026-03-18-anthropic-s-forced-removal-from-the-u-s-government-is-threat.webp"
-  alt: "Anthropic’s forced removal from the U.S. government is threatening critical AI nuclear safety research"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91509072/anthropics-forced-removal-from-the-u-s-government-is-threatening-critical-ai-nuclear-safety-research?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=12&amp;partner=newsletter&amp;campaign_date=03182026"

@@ -5,8 +5,9 @@ tags: ["ai", "reisbranche", "content", "personalisatie"]
 categorieen: ["nieuws-tools"]
 summary: "AI-tools kunnen de statische pagina's van je reiswebsite automatisch laten aanpassen aan actuele informatie en persoonlijke voorkeuren van bezoekers."
 cover:
-  image: "/images/covers/2026-03-14-how-ai-automation-turns-static-travel-pages-into-living-cont.webp"
-  alt: "How AI Automation Turns Static Travel Pages Into Living Content &amp; Experiences via @sejournal, @TaylorDanRW"
+  image: "https://images.pexels.com/photos/326512/pexels-photo-326512.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Modern office desk setup with dual monitors displaying design software, ideal for tech and business themes."
+  caption: "Foto: Tranmautritam via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-automation-turns-static-travel-pages-into-living-content-experiences/568599/"

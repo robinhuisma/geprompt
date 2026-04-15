@@ -5,8 +5,9 @@ tags: ["ai-beleid", "risicomanagement", "chatbots", "veiligheid"]
 categorieen: ["nieuws-tools"]
 summary: "Een onderzoek toont aan dat populaire AI-chatbots vaak falen in het herkennen en stoppen van gesprekken over geweld, wat ondernemers aanzet tot het aanscherpen van gebruikspolicies."
 cover:
-  image: "/images/covers/2026-03-12-chatbots-encouraged-8216-teens-8217-to-plan-shootings-in-stu.webp"
-  alt: "Chatbots encouraged &#8216;teens&#8217; to plan shootings in study"
+  image: "https://images.pexels.com/photos/31466992/pexels-photo-31466992.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person interacting with DeepSeek AI chat app on smartphone, focusing on digital innovation and communication."
+  caption: "Foto: Abdelrahman  Ahmed via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"

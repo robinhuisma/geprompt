@@ -5,8 +5,9 @@ tags: ["startup financiering", "investeren", "ai-bedrijven", "risico's"]
 categorieen: ["nieuws-tools"]
 summary: "AI-startups gebruiken een nieuwe financieringsconstructie om een hoge waardering te claimen, maar investeerders krijgen minder rechten voor hun geld."
 cover:
-  image: "/images/covers/2026-03-05-why-ai-startups-are-selling-the-same-equity-at-two-different.webp"
-  alt: "Why AI startups are selling the same equity at two different prices"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"

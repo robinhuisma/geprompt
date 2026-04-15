@@ -5,8 +5,9 @@ tags: ["ai-modellen", "open source", "nvidia", "innovatie"]
 categorieen: ["nieuws-tools"]
 summary: "Een coalitie van techbedrijven lanceert een open source AI-basismodel, wat meer keuze en mogelijk lagere kosten kan betekenen voor bedrijven."
 cover:
-  image: "/images/covers/2026-03-23-nvidia-bouwt-concurrent-van-claude-en-chatgpt.webp"
-  alt: "NVIDIA bouwt concurrent van Claude en ChatGPT"
+  image: "https://images.pexels.com/photos/343239/pexels-photo-343239.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed close-up of a laptop keyboard featuring Intel Core i7 and NVIDIA GeForce stickers, highlighting technology components."
+  caption: "Foto: Jordan Harrison via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/nvidia-bouwt-concurrent-claude-chatgpt"

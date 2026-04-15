@@ -5,8 +5,9 @@ tags: ["saas", "ai-agents", "businessmodel", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "AI maakt software bouwen en automatiseren zo eenvoudig dat het traditionele abonnementsmodel van SaaS-bedrijven onder druk komt te staan."
 cover:
-  image: "/images/covers/2026-03-22-hoe-ai-zorgt-voor-een-saas-pocalypse-8216-klanten-willen-nie.webp"
-  alt: "Hoe AI zorgt voor een SaaS-pocalypse: &#8216;klanten willen niet meer betalen voor alleen een abonnement&#8217;"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saas-saaspocalypse-ai-agentic-verdienmodel"

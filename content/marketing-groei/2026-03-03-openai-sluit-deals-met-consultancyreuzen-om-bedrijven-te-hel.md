@@ -5,8 +5,9 @@ tags: ["openai", "enterprise ai", "implementatie", "advies"]
 categorieen: ["marketing-groei"]
 summary: "OpenAI werkt samen met grote adviesbureaus om bedrijven te helpen AI te implementeren, wat de toegang voor het MKB kan vergemakkelijken."
 cover:
-  image: "/images/covers/2026-03-03-openai-partners-with-consulting-giants-in-enterprise-ai-push.webp"
-  alt: "OpenAI Partners With Consulting Giants in Enterprise AI Push"
+  image: "https://images.pexels.com/photos/5833879/pexels-photo-5833879.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Two professionals shaking hands in an office with data analysis on a laptop screen."
+  caption: "Foto: AlphaTradeZone via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai"

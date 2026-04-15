@@ -7,6 +7,11 @@ summary: "Microsoft stelt in zijn gebruiksvoorwaarden dat Copilot-output 'alleen
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
+cover:
+  image: "https://images.pexels.com/photos/10142683/pexels-photo-10142683.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Interior view of Microsoft office with logo on wooden wall in Brussels, Belgium."
+  caption: "Foto: Angel Bena via Pexels"
+
 ---
 
 Microsoft stelt in de juridische kleine lettertjes van Copilot dat de output 'alleen voor entertainmentdoeleinden' is. Dit betekent dat je als ondernemer volledig zelf verantwoordelijk bent voor de gevolgen van het zakelijk gebruik van gegenereerde content, code of advies. Het is een expliciete risicoverklaring die de basis vormt voor hoe je AI-tools in je processen inbouwt.

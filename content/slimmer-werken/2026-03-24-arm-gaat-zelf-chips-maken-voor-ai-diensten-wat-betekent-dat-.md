@@ -5,8 +5,9 @@ tags: ["ai hardware", "cloud computing", "kostenbesparing", "infrastructuur"]
 categorieen: ["slimmer-werken"]
 summary: "Chipontwerper Arm gaat zelf processors maken voor AI-berekeningen in datacenters, wat op termijn kan leiden tot snellere en goedkopere AI-diensten."
 cover:
-  image: "/images/covers/2026-03-24-arm-s-first-cpu-ever-will-plug-into-meta-s-ai-data-centers-l.webp"
-  alt: "Arm’s first CPU ever will plug into Meta’s AI data centers later this year"
+  image: "https://images.pexels.com/photos/31726549/pexels-photo-31726549.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish home office desk with microphone, plant, and modern decor in natural lighting."
+  caption: "Foto: Alpha En via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"

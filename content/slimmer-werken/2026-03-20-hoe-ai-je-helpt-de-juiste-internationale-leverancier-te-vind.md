@@ -5,8 +5,9 @@ tags: ["sourcing", "leveranciers", "ai", "b2b"]
 categorieen: ["slimmer-werken"]
 summary: "AI-tools filteren de chaos in leveranciersdata, zodat je sneller een betrouwbare partner vindt die aan je eisen voldoet."
 cover:
-  image: "/images/covers/2026-03-20-how-ai-and-sourcing-agents-are-reshaping-supplier-discovery-.webp"
-  alt: "How AI and Sourcing Agents Are Reshaping Supplier Discovery for Modern B2B Teams"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17302816/how-ai-and-sourcing-agents-are-reshaping-supplier-discovery-for-modern-b2b-teams"

@@ -5,8 +5,9 @@ tags: ["ai", "businessmodel", "internet", "toekomst"]
 categorieen: ["slimmer-werken"]
 summary: "AI-agents klikken niet op advertenties, waardoor het traditionele online verdienmodel instort. Voor ondernemers betekent dit een fundamentele verschuiving."
 cover:
-  image: "/images/covers/2026-03-26-cloudflare-topman-8216-het-businessmodel-van-het-internet-st.webp"
-  alt: "Cloudflare-topman: &#8216;Het businessmodel van het internet staat op instorten&#8217;"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/cloudflaretopman-het-businessmodel-internet-staat-instorten"

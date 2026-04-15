@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "veranderingsmanagement", "klantcommunicatie", "techn
 categorieen: ["marketing-groei"]
 summary: "De woede over een nieuwe AI-tool voor games laat zien hoe je technologie introduceert zonder je publiek tegen je in het harnas te jagen."
 cover:
-  image: "/images/covers/2026-03-19-gamedesign-is-dood-door-nvidia-s-nieuwe-ai-tool-of-toch-niet.webp"
-  alt: "Gamedesign is dood door Nvidia’s nieuwe AI Tool (of toch niet?)"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2068521/gamedesign-is-dood-door-nvidia-s-nieuwe-ai-tool-of-toch-niet.html"

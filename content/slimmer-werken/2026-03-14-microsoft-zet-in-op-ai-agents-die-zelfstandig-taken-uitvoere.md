@@ -5,8 +5,9 @@ tags: ["microsoft copilot", "ai agents", "workflow automatisering", "productivit
 categorieen: ["slimmer-werken"]
 summary: "Microsoft integreert AI-agents zoals Claude in Copilot, waardoor je straks complexe workflows kunt automatiseren zonder tussen apps te hoeven schakelen."
 cover:
-  image: "/images/covers/2026-03-14-microsoft-recommits-to-ai-agents-with-new-copilot-features.webp"
-  alt: "Microsoft Recommits to AI Agents With New Copilot Features"
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/microsoft-recommits-to-ai-agents"

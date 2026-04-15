@@ -5,8 +5,9 @@ tags: ["communicatie", "ai-tools", "klantcontact", "copywriting"]
 categorieen: ["nieuws-tools"]
 summary: "AI-taal is efficiënt maar voorspelbaar; menselijke taal is persoonlijker en overtuigender. Kies bewust op basis van je doel."
 cover:
-  image: "/images/covers/2026-03-27-when-to-use-human-english-vs-ai-english.webp"
-  alt: "When to use human English vs. AI English"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91513015/when-to-use-human-english-vs-ai-english?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=03272026"

@@ -5,8 +5,9 @@ tags: ["ai", "seo", "webcrawlers", "contentstrategie"]
 categorieen: ["marketing-groei"]
 summary: "AI-crawlers van ChatGPT en andere tools crawlen nu veel meer dan Googlebot, waardoor je website-inrichting moet veranderen."
 cover:
-  image: "/images/covers/2026-04-07-chatgpt-now-crawls-3-6x-more-than-googlebot-what-24m-request.webp"
-  alt: "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/"

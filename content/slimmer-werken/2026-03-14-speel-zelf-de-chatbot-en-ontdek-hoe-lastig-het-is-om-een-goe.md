@@ -5,8 +5,9 @@ tags: ["ai-begrip", "gebruikerservaring", "interactie", "spel"]
 categorieen: ["slimmer-werken"]
 summary: "Een online spel laat je zelf vragen beantwoorden als een chatbot, wat inzicht geeft in wat gebruikers verwachten en hoe moeilijk het is om een goede AI te zijn."
 cover:
-  image: "/images/covers/2026-03-14-op-deze-viral-site-speel-jij-zelf-de-chatbot-die-vragen-bean.webp"
-  alt: "Op deze viral site speel jij zelf de chatbot die vragen beantwoordt"
+  image: "https://images.pexels.com/photos/6368908/pexels-photo-6368908.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "From above of artist workplace with modern keyboard and stationary placed on wooden desk stained with paint"
+  caption: "Foto: Skylar Kang via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1750526/op-deze-viral-site-speel-jij-zelf-de-chatbot-die-vragen-beantwoordt.html"

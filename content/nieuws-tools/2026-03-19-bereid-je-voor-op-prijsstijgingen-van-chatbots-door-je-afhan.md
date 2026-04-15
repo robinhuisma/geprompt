@@ -5,8 +5,9 @@ tags: ["ai-kosten", "strategie", "chatbots", "ondernemerschap"]
 categorieen: ["nieuws-tools"]
 summary: "De huidige lage kosten voor AI-chatbots zijn waarschijnlijk een tijdelijke subsidie; slimme ondernemers beperken nu hun afhankelijkheid en borgen hun kosten."
 cover:
-  image: "/images/covers/2026-03-19-don-t-get-too-used-to-subsidized-chatbot-costs.webp"
-  alt: "Don’t get too used to ‘subsidized’ chatbot costs"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91511668/dont-get-too-used-to-subsidized-chatbot-costs?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=03192026"

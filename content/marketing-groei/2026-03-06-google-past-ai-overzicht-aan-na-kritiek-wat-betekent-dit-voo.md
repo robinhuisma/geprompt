@@ -5,8 +5,9 @@ tags: ["google", "ai-overzicht", "contentstrategie", "zoekmachinemarketing"]
 categorieen: ["marketing-groei"]
 summary: "Google heeft zijn AI-overzicht aangepast om meer links naar receptensites te tonen, een direct gevolg van kritiek uit de industrie."
 cover:
-  image: "/images/covers/2026-03-06-google-updates-ai-mode-recipe-sites-results-in-response-to-b.webp"
-  alt: "Google Updates AI Mode Recipe Sites Results In Response To Backlash via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: true
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results-in-response-to-backlash/568798/"

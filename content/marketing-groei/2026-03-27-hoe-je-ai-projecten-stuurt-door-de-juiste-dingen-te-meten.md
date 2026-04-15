@@ -5,8 +5,9 @@ tags: ["ai-strategie", "metrics", "projectmanagement", "data"]
 categorieen: ["marketing-groei"]
 summary: "AI levert alleen waarde als je meet wat er écht toe doet; dit is hoe je de juiste metrics kiest."
 cover:
-  image: "/images/covers/2026-03-27-wat-je-meet-stuurt-ai.webp"
-  alt: "Wat je meet, stuurt AI"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/wat-je-meet-stuurt-ai/"

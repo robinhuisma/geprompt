@@ -5,8 +5,9 @@ tags: ["beeldgeneratie", "marketing", "ai-tools", "consistentie"]
 categorieen: ["slimmer-werken"]
 summary: "Het QWEN Image Edit-model maakt het mogelijk om vanuit één basisbeeld een reeks consistente marketingbeelden te genereren in verschillende stijlen en omgevingen."
 cover:
-  image: "/images/covers/2026-03-04-qwen-image-edit-can-create-character-consistent-lora-dataset.webp"
-  alt: "QWEN Image Edit can create Character Consistent LoRA Dataset"
+  image: "https://images.pexels.com/photos/326509/pexels-photo-326509.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A digital workspace featuring dual monitors, keyboard, mouse, and decor on a wooden desk."
+  caption: "Foto: Tranmautritam via Pexels"
 draft: true
 source_name: "Weird Wonderful AI"
 source_url: "https://weirdwonderfulai.art/comfyui/qwen-image-edit-can-create-character-consistent-lora-dataset/"

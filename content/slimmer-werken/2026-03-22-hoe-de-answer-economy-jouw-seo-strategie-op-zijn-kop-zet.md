@@ -5,8 +5,9 @@ tags: ["ai", "zoekmachines", "contentstrategie", "klantreis"]
 categorieen: ["slimmer-werken"]
 summary: "AI-samenvattingen vervangen de traditionele zoekresultaten, waardoor je content direct antwoord moet geven om nog gevonden te worden."
 cover:
-  image: "/images/covers/2026-03-22-the-answer-economy-how-ai-has-changed-discovery-trust-and-de.webp"
-  alt: "The Answer Economy: How AI Has Changed Discovery, Trust, and Demand"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/the-answer-economy-how-ai-has-changed-discovery-trust-and-demand/"

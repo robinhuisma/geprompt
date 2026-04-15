@@ -5,8 +5,9 @@ tags: ["marketing", "affiliate", "data", "analytics"]
 categorieen: ["slimmer-werken"]
 summary: "Met link-attributie zie je eindelijk welk kanaal of welke partner een klant oplevert, zodat je je marketingbudget slimmer kunt inzetten."
 cover:
-  image: "/images/covers/2026-03-25-dub-stop-guessing-and-start-scaling-your-revenue-with-attrib.webp"
-  alt: "Dub: Stop Guessing and Start Scaling Your Revenue with Attribution and Affiliate Growth"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17305821/dub-stop-guessing-and-start-scaling-your-revenue-with-attribution-and-affiliate-growth"

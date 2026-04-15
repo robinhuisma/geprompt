@@ -5,8 +5,9 @@ tags: ["zoekmachinemarketing", "ai", "contentstrategie", "klantreis"]
 categorieen: ["slimmer-werken"]
 summary: "Answer Engine Optimization (AEO) zorgt dat je merk genoemd wordt in AI-antwoorden, nog voordat klanten je website bezoeken."
 cover:
-  image: "/images/covers/2026-03-14-answer-engine-optimization-strategy-beyond-basic-seo-and-aeo.webp"
-  alt: "Answer engine optimization strategy beyond basic SEO and AEO tactics"
+  image: "https://images.pexels.com/photos/6322822/pexels-photo-6322822.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A black and white photo of hands typing on a laptop from an overhead perspective, conveying focus."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/enterprise-seo-audit"

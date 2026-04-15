@@ -5,8 +5,9 @@ tags: ["chatgpt", "e-commerce", "seo", "productinformatie"]
 categorieen: ["marketing-groei"]
 summary: "AI-shoppingtools zoals ChatGPT worden een belangrijke verkoopkanaal. Dit is wat je nu kunt doen om je productinformatie en SEO te optimaliseren."
 cover:
-  image: "/images/covers/2026-03-23-chatgpt-product-recommendations-how-to-make-sure-you-are-one.webp"
-  alt: "ChatGPT Product Recommendations: How to Make Sure You Are One in 2026"
+  image: "https://images.pexels.com/photos/17485348/pexels-photo-17485348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person working on a laptop with business analytics displayed on the screen."
+  caption: "Foto: Shoper .pl via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/chatgpt-product-recommendations"

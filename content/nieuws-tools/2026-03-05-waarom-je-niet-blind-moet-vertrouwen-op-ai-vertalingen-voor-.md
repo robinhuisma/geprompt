@@ -5,8 +5,9 @@ tags: ["ai-vertaling", "contentkwaliteit", "risicomanagement", "taalmodellen"]
 categorieen: ["nieuws-tools"]
 summary: "AI-vertaaltools kunnen bij het vertalen van complexe teksten feiten verzinnen, wat een waarschuwing is voor ondernemers die ze voor zakelijke content gebruiken."
 cover:
-  image: "/images/covers/2026-03-05-wikipedia-pagina-s-vertalen-met-ai-gaat-helemaal-fout-met-al.webp"
-  alt: "Wikipedia-pagina's vertalen met AI gaat helemaal fout, met als oplossing: meer AI"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: true
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1748262/wikipedia-pagina-s-vertalen-met-ai-gaat-helemaal-fout-met-als-oplossing-meer-ai.html"

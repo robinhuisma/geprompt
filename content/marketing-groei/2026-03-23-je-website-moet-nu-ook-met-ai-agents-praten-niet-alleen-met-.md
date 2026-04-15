@@ -5,8 +5,9 @@ tags: ["ai agents", "e-commerce", "website optimalisatie", "toekomstbestendig"]
 categorieen: ["marketing-groei"]
 summary: "AI-agents gaan steeds vaker namens klanten winkelen; je website moet daarom gestructureerde data aanbieden die machines direct kunnen lezen."
 cover:
-  image: "/images/covers/2026-03-23-from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-we.webp"
-  alt: "From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines via @sejournal, @slobodanmanic"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/"

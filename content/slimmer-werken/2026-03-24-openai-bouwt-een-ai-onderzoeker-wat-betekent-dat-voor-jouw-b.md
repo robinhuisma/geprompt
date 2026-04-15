@@ -5,8 +5,9 @@ tags: ["ai-onderzoek", "innovatie", "concurrentie", "automatisering"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI zet alles in op een volledig geautomatiseerde AI-onderzoeker, die vanaf 2028 zelfstandig complexe problemen moet kunnen oplossen."
 cover:
-  image: "/images/covers/2026-03-24-openai-is-throwing-everything-into-building-a-fully-automate.webp"
-  alt: "OpenAI is throwing everything into building a fully automated researcher"
+  image: "https://images.pexels.com/photos/16037283/pexels-photo-16037283.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop displaying ChatGPT on a desk by a window, featuring a modern home office setup."
+  caption: "Foto: Hatice Baran via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"

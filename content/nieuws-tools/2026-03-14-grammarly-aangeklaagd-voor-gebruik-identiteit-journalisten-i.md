@@ -5,8 +5,9 @@ tags: ["ai", "juridisch", "ethiek", "privacy"]
 categorieen: ["nieuws-tools"]
 summary: "Een rechtszaak tegen Grammarly waarschuwt ondernemers: gebruik nooit persoonlijke data of identiteiten in je AI zonder expliciete toestemming."
 cover:
-  image: "/images/covers/2026-03-14-one-of-grammarly-s-experts-is-suing-the-company-over-its-ide.webp"
-  alt: "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin"

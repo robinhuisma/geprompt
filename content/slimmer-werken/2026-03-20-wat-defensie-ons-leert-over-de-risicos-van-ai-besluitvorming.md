@@ -5,8 +5,9 @@ tags: ["ai-ethiek", "besluitvorming", "risicomanagement", "chatbots"]
 categorieen: ["slimmer-werken"]
 summary: "Het Pentagon overweegt AI-chatbots te gebruiken voor het prioriteren van militaire doelen, een praktijkvoorbeeld dat ondernemers waarschuwt voor de gevaren van geautomatiseerde beslissingen."
 cover:
-  image: "/images/covers/2026-03-20-a-defense-official-reveals-how-ai-chatbots-could-be-used-for.webp"
-  alt: "A defense official reveals how AI chatbots could be used for targeting decisions"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"

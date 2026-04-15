@@ -5,8 +5,9 @@ tags: ["productie", "ai-implementatie", "simulatie", "validatie"]
 categorieen: ["nieuws-tools"]
 summary: "Productiebedrijven zetten AI pragmatisch in, vooral voor simulatie en validatie, om tastbare risico's te beheersen en geleidelijk vertrouwen op te bouwen."
 cover:
-  image: "/images/covers/2026-03-23-pragmatic-by-design-engineering-ai-for-the-real-world.webp"
-  alt: "Pragmatic by design: Engineering AI for the real world"
+  image: "https://images.pexels.com/photos/5614259/pexels-photo-5614259.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop, smartphone, and tablet with a prosthetic hand, emphasizing digital connectivity."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"

@@ -5,8 +5,9 @@ tags: ["seo", "ai", "contentstrategie", "marketing"]
 categorieen: ["marketing-groei"]
 summary: "Een duurzame AI-SEO-strategie gaat verder dan losse tools en draait om het integreren van AI in je kernprocessen voor blijvende groei."
 cover:
-  image: "/images/covers/2026-03-06-how-to-build-an-ai-seo-strategy-that-outlasts-tactics-via-se.webp"
-  alt: "How To Build An AI SEO Strategy That Outlasts Tactics via @sejournal, @Kevin_Indig"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/"

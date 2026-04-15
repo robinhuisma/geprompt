@@ -5,8 +5,9 @@ tags: ["privacy", "ai-agents", "online veiligheid", "feedback"]
 categorieen: ["slimmer-werken"]
 summary: "Onderzoek toont aan dat AI-agents anonieme online accounts kunnen herleiden, wat gevolgen heeft voor hoe je veilig feedback geeft."
 cover:
-  image: "/images/covers/2026-03-06-ai-tools-can-unmask-anonymous-accounts.webp"
-  alt: "AI tools can unmask anonymous accounts"
+  image: "https://images.pexels.com/photos/8547280/pexels-photo-8547280.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Diverse group working in a modern office setting with laptops and wooden desks."
+  caption: "Foto: Edmond Dantès via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts"

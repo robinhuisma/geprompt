@@ -5,8 +5,9 @@ tags: ["openai", "automatisering", "digitale assistent", "ai-agents"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI's GPT-5.4 kan zelf je computer bedienen, wat de weg opent naar een digitale assistent die saaie, repetitieve klussen overneemt."
 cover:
-  image: "/images/covers/2026-03-06-openai-s-new-gpt-5-4-model-is-a-big-step-toward-autonomous-a.webp"
-  alt: "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents"
+  image: "https://images.pexels.com/photos/16037283/pexels-photo-16037283.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop displaying ChatGPT on a desk by a window, featuring a modern home office setup."
+  caption: "Foto: Hatice Baran via Pexels"
 draft: true
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"

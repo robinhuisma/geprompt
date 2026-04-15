@@ -5,8 +5,9 @@ tags: ["ai veiligheid", "ai monitoring", "ai tools", "risicobeheer"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI gebruikt 'chain-of-thought monitoring' om AI-coderende assistenten te controleren; je kunt dit principe toepassen om je eigen AI-tools te checken op fouten en risico's."
 cover:
-  image: "/images/covers/2026-03-19-how-we-monitor-internal-coding-agents-for-misalignment.webp"
-  alt: "How we monitor internal coding agents for misalignment"
+  image: "https://images.pexels.com/photos/28754729/pexels-photo-28754729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Cozy and organized home office workspace featuring a desktop computer, headphones, and creative decor."
+  caption: "Foto: Faizur Rehman via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"

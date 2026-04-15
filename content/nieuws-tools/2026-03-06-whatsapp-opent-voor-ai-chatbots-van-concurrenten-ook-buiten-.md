@@ -5,8 +5,9 @@ tags: ["whatsapp", "chatbots", "klantenservice", "platform"]
 categorieen: ["nieuws-tools"]
 summary: "Meta laat andere AI-bedrijven chatbots aanbieden op WhatsApp, wat kan leiden tot nieuwe klantenservice-tools voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-06-after-europe-whatsapp-will-let-rival-ai-companies-offer-chat.webp"
-  alt: "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil"
+  image: "https://images.pexels.com/photos/16307279/pexels-photo-16307279.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek modern workspace featuring a graphic tablet, stylus, keyboard, headphones, and camera."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/"

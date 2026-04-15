@@ -5,8 +5,9 @@ tags: ["ai-regelgeving", "privacy", "autoriteit persoonsgegevens", "compliance"]
 categorieen: ["nieuws-tools"]
 summary: "De privacywaakhond dringt aan op snelle AI-regels om grondrechten te beschermen, wat voor ondernemers een signaal is om nu al na te denken over verantwoord gebruik."
 cover:
-  image: "/images/covers/2026-03-06-autoriteit-persoonsgegevens-waarschuwt-kabinet-voor-ai-snel-.webp"
-  alt: "Autoriteit Persoonsgegevens waarschuwt kabinet voor AI: snel actie nodig"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: true
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1748451/autoriteit-persoonsgegevens-waarschuwt-kabinet-voor-ai-snel-actie-nodig.html"

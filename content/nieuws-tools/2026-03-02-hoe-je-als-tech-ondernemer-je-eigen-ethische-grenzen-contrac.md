@@ -5,9 +5,9 @@ tags: ["ethiek", "contracten", "defensie", "ai-beleid"]
 categorieen: ["nieuws-tools"]
 summary: "Het conflict tussen AI-bedrijf Anthropic en het Pentagon toont aan waarom je als ondernemer je 'rode lijnen' voor gebruik van je technologie moet vastleggen."
 cover:
-  image: "/images/covers/2026-03-02-ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-l.webp"
-  alt: "AI vs. the Pentagon: killer robots, mass surveillance, and red lines"
-  caption: "Beeld gegenereerd met AI voor geprompt.nl"
+  image: "https://images.pexels.com/photos/37011843/pexels-photo-37011843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman focuses on her laptop while sitting in a lush outdoor cafe."
+  caption: "Foto: Sóc Năng Động via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"

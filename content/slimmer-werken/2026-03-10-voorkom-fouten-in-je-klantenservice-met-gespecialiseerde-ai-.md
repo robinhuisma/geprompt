@@ -5,8 +5,9 @@ tags: ["ai", "klantenservice", "automatisering", "kennisbeheer"]
 categorieen: ["slimmer-werken"]
 summary: "Stop met het dumpen van al je informatie in één AI-chatbot. Creëer gespecialiseerde kennisbanken per domein voor foutloze en professionele antwoorden."
 cover:
-  image: "/images/covers/2026-03-10-build-multi-domain-rag-systems-with-specialized-knowledge-ba.webp"
-  alt: "Build Multi-Domain RAG Systems with Specialized Knowledge Bases"
+  image: "https://images.pexels.com/photos/7455935/pexels-photo-7455935.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person wearing a plaid shirt typing on a laptop keyboard indoors, focusing on hands and device."
+  caption: "Foto: Danik Prihodko via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.n8n.io/build-multi-domain-rag-systems-with-specialized-knowledge-bases/"

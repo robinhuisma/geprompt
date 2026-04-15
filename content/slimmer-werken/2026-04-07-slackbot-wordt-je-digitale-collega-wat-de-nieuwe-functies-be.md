@@ -7,6 +7,11 @@ summary: "Slackbot krijgt meer dan dertig nieuwe functies, waardoor de assistent
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/03/slackbot-krijgt-ruim-dertig-nieuwe-functies/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 Slackbot verandert van een simpele vraag-beantwoorder in een actieve digitale collega die automatisch taken uitvoert in je bedrijfssoftware. Dit betekent dat je terugkerende werkzaamheden kunt automatiseren en informatie sneller kunt vinden, zonder tussen verschillende apps te hoeven schakelen.

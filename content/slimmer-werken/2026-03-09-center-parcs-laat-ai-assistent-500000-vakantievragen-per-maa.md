@@ -5,8 +5,9 @@ tags: ["klantenservice", "automatisering", "hospitality", "ai-assistent"]
 categorieen: ["slimmer-werken"]
 summary: "Center Parcs gebruikt een eigen AI-assistent om klantcontact te automatiseren en verwacht zo de boekingen met meer dan 5% te verhogen."
 cover:
-  image: "/images/covers/2026-03-09-center-parcs-zet-ai-assistent-in-om-half-miljoen-vakantieber.webp"
-  alt: "Center Parcs zet AI-assistent in om half miljoen vakantieberichten te automatiseren"
+  image: "https://images.pexels.com/photos/7580982/pexels-photo-7580982.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Workspace featuring hands typing on a keyboard, a coffee mug, colored pencils, and graphs on paper."
+  caption: "Foto: RDNE Stock project via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/center-parcs-zet-aiassistent-om-half-miljoen-vakantieberichten-automatiseren"

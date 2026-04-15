@@ -5,8 +5,9 @@ tags: ["ai-kritiek", "chatbots", "strategie", "leiderschap"]
 categorieen: ["slimmer-werken"]
 summary: "AI-grondlegger Yann LeCun zegt dat chatbots als ChatGPT fundamenteel beperkt zijn. Voor ondernemers betekent dit: gebruik ze als krachtige assistenten, maar verwacht geen echt begrip."
 cover:
-  image: "/images/covers/2026-03-12-de-ai-godfather-die-niet-gelooft-in-chatbots-als-claude-en-c.webp"
-  alt: "De AI-godfather die niet gelooft in chatbots als Claude en ChatGPT: &#8216;Niet eens slimmer dan een kat&#8217;"
+  image: "https://images.pexels.com/photos/6889199/pexels-photo-6889199.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman types on a laptop while enjoying a cup of tea at her home workspace."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/ai-rebel-yann-lecun-ami"

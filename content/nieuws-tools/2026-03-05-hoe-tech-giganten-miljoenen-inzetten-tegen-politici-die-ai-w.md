@@ -5,8 +5,9 @@ tags: ["ai-regulering", "politiek", "lobby", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "Een super PAC, gesteund door tech-miljardairs, investeert 125 miljoen dollar om politici die AI-regulering voorstaan te bevechten, wat de toekomstige wetgeving voor ondernemers bepaalt."
 cover:
-  image: "/images/covers/2026-03-05-ai-companies-are-spending-millions-to-thwart-this-former-tec.webp"
-  alt: "AI companies are spending millions to thwart this former tech exec’s congressional bid"
+  image: "https://images.pexels.com/photos/6804086/pexels-photo-6804086.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "IT professional working on a computer in a modern office setting, focused on coding and tasks."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/"

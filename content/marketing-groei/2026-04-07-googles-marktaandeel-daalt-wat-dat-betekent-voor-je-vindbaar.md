@@ -10,6 +10,11 @@ cover:
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/"
+cover:
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
+
 ---
 
 Het marktaandeel van Google in zoekopdrachten neemt af, terwijl het gebruik van AI-zoekmachines toeneemt. Dit signaleert een fundamentele verschuiving in hoe mensen informatie en bedrijven ontdekken, wat vraagt om een herziening van waar je als ondernemer je tijd en budget voor online vindbaarheid in steekt.

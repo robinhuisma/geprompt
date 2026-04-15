@@ -5,8 +5,9 @@ tags: ["ai-ontwikkeling", "veiligheid", "richtlijnen", "openai"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI publiceert richtlijnen waarmee ontwikkelaars hun AI-toepassingen veiliger kunnen maken voor tieners, met praktische prompts voor moderatie."
 cover:
-  image: "/images/covers/2026-03-24-helping-developers-build-safer-ai-experiences-for-teens.webp"
-  alt: "Helping developers build safer AI experiences for teens"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"

@@ -5,8 +5,9 @@ tags: ["ai-strategie", "data-soevereiniteit", "europa", "foundation models"]
 categorieen: ["slimmer-werken"]
 summary: "Het Franse Mistral bouwt een onafhankelijke Europese AI-stack, wat voor Nederlandse bedrijven meer controle over data en mogelijk lagere kosten kan betekenen."
 cover:
-  image: "/images/covers/2026-03-18-mistral-pioneers-sovereign-ai-in-europe.webp"
-  alt: "Mistral Pioneers Sovereign AI in Europe"
+  image: "https://images.pexels.com/photos/16307278/pexels-photo-16307278.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek office desk featuring tech gadgets including a camera and digital drawing tablet."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/foundation-models/mistral-pioneers-sovereign-ai-in-europe"

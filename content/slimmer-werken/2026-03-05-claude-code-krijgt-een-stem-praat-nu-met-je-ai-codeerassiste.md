@@ -5,8 +5,9 @@ tags: ["ai voor ontwikkelaars", "claude", "spraakassistent", "programmeren"]
 categorieen: ["slimmer-werken"]
 summary: "De AI-codeerassistent Claude Code heeft nu een spraakmodus, waarmee ontwikkelaars via gesprekken code kunnen schrijven, uitleg kunnen vragen en sneller kunnen prototypen."
 cover:
-  image: "/images/covers/2026-03-05-claude-code-rolls-out-a-voice-mode-capability.webp"
-  alt: "Claude Code rolls out a voice mode capability"
+  image: "https://images.pexels.com/photos/34803969/pexels-photo-34803969.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A close-up of a laptop displaying code in a dimly lit room with a coffee mug nearby."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/"

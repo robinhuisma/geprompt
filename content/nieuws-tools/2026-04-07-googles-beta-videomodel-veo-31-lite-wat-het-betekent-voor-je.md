@@ -5,8 +5,9 @@ tags: ["google", "ai video", "marketing", "api"]
 categorieen: ["nieuws-tools"]
 summary: "Google's nieuwe beta videomodel Veo 3.1 Lite maakt het genereren van video via een API betaalbaarder, wat kansen biedt voor marketing en interne communicatie."
 cover:
-  image: "/images/covers/2026-04-07-build-with-veo-3-1-lite-our-most-cost-effective-video-genera.webp"
-  alt: "Build with Veo 3.1 Lite, our most cost-effective video generation model"
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/"

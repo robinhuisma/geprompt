@@ -5,8 +5,9 @@ tags: ["solo-ondernemer", "productiviteit", "contentcreatie", "automatisering"]
 categorieen: ["nieuws-tools"]
 summary: "AI kan je als solo-ondernemer helpen met content, planning en administratie. Dit zijn vijf concrete projecten om mee te beginnen."
 cover:
-  image: "/images/covers/2026-03-25-5-ai-projects-every-solo-business-owner-should-try.webp"
-  alt: "5 AI projects every solo business owner should try"
+  image: "https://images.pexels.com/photos/30869149/pexels-photo-30869149.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Wooden Scrabble tiles spelling 'AI' and 'NEWS' for a tech concept image."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91511546/5-ai-projects-every-solo-business-owner-should-try?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=4&amp;partner=newsletter&amp;campaign_date=03252026"

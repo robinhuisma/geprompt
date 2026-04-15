@@ -5,8 +5,9 @@ tags: ["ai video", "google", "prijzen", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "Google's Veo 3.1 biedt professionele AI-videogeneratie tegen een fractie van de kosten van concurrenten, waardoor het voor meer bedrijven toegankelijk wordt."
 cover:
-  image: "/images/covers/2026-04-07-met-dit-ai-model-steekt-google-een-middelvinger-op-naar-open.webp"
-  alt: "Met dit AI-model steekt Google een middelvinger op naar OpenAI"
+  image: "https://images.pexels.com/photos/6961857/pexels-photo-6961857.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "An adult using a laptop indoors, browsing Google at a wooden table with coffee."
+  caption: "Foto: Firmbee.com via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2073490/met-dit-ai-model-steekt-google-een-middelvinger-op-naar-openai.html"

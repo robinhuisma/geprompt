@@ -5,8 +5,9 @@ tags: ["microsoft", "contentcreatie", "marketing", "productiviteit"]
 categorieen: ["marketing-groei"]
 summary: "Grote merken versnellen contentcreatie en campagnes met AI-tools van Microsoft, wat praktische ideeën oplevert voor elke ondernemer."
 cover:
-  image: "/images/covers/2026-03-20-from-hot-wheels-to-handling-content-how-brands-are-using-mic.webp"
-  alt: "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative"
+  image: "https://images.pexels.com/photos/590011/pexels-photo-590011.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A hand points to colorful business charts and graphs on a paper sheet on a wooden desk."
+  caption: "Foto: Lukas Blazek via Pexels"
 draft: false
 source_name: "Blogs"
 source_url: "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/"

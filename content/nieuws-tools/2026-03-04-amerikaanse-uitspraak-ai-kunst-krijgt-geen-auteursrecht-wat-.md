@@ -5,8 +5,9 @@ tags: ["auteursrecht", "ai kunst", "juridisch", "intellectueel eigendom"]
 categorieen: ["nieuws-tools"]
 summary: "De Amerikaanse rechter bevestigt dat volledig door AI gegenereerde werken geen auteursrecht krijgen, wat gevolgen heeft voor logo's, marketing en ontwerpen."
 cover:
-  image: "/images/covers/2026-03-04-ai-generated-art-can-8217-t-be-copyrighted-after-supreme-cou.webp"
-  alt: "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"

@@ -5,8 +5,9 @@ tags: ["robotica", "productie", "automatisering", "innovatie"]
 categorieen: ["nieuws-tools"]
 summary: "BMW test humanoïde robots in een Duitse autofabriek, een teken dat fysieke AI de fabrieksvloer bereikt en de productie-efficiëntie kan veranderen."
 cover:
-  image: "/images/covers/2026-03-06-humanoid-robots-now-assembling-cars-in-europe-and-china.webp"
-  alt: "Humanoid Robots Now Assembling Cars in Europe and China"
+  image: "https://images.pexels.com/photos/3862608/pexels-photo-3862608.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Female engineer tests lighting prototype on her hand in a modern office environment."
+  caption: "Foto: ThisIsEngineering via Pexels"
 draft: true
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/robotics/humanoid-robots-assembling-cars-europe-china"

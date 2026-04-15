@@ -5,8 +5,9 @@ tags: ["ai-tools", "marketing", "productiviteit", "research"]
 categorieen: ["marketing-groei"]
 summary: "Google's NotebookLM is een AI-tool die je eigen documenten begrijpt en helpt bij het analyseren, samenvatten en omzetten van content."
 cover:
-  image: "/images/covers/2026-03-20-notebooklm-in-action-7-killer-use-cases-for-agencies.webp"
-  alt: "NotebookLM in Action: 7 Killer Use Cases for Agencies"
+  image: "https://images.pexels.com/photos/6694560/pexels-photo-6694560.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A top-down view of analytical data sheets and a laptop, ideal for business analysis themes."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
 draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies"

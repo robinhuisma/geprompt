@@ -5,8 +5,9 @@ tags: ["data", "overheid", "marktanalyse", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "Het nieuwe dashboard 'Blik op Nederland' van de Rekenkamer bundelt data over economie, wonen en zorg, en biedt ondernemers een unieke blik op langetermijntrends."
 cover:
-  image: "/images/covers/2026-03-27-kort-dashboard-rekenkamer-biedt-blik-op-overheid-xebia-sluit.webp"
-  alt: "Kort: Dashboard Rekenkamer biedt blik op overheid, Xebia sluit Europees pact met OVHcloud (en meer)"
+  image: "https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Sleek laptop showcasing data analytics and graphs on the screen in a bright room."
+  caption: "Foto: Lukas Blazek via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/27/kort-dashboard-rekenkamer-biedt-blik-op-overheid-xebia-sluit-europees-pact-met-ovhcloud-en-meer/"

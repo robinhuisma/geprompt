@@ -5,8 +5,9 @@ tags: ["toeleveringsketen", "risicomanagement", "strategie", "mkb"]
 categorieen: ["nieuws-tools"]
 summary: "Tesla neemt de productie van kritieke chips in eigen hand om niet afhankelijk te zijn van tekorten. Een strategie die elke ondernemer kan overwegen voor zijn belangrijkste grondstoffen of diensten."
 cover:
-  image: "/images/covers/2026-03-23-tesla-gaat-miljarden-chips-bouwen.webp"
-  alt: "Tesla gaat miljarden chips bouwen"
+  image: "https://images.pexels.com/photos/12860663/pexels-photo-12860663.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A row of Tesla charging stations illuminated at night in Redlands, CA."
+  caption: "Foto: Soly Moses via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/tesla-gaat-miljarden-chips-bouwen"

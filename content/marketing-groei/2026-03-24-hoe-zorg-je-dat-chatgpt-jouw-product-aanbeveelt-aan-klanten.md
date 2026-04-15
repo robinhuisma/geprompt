@@ -5,8 +5,9 @@ tags: ["chatgpt", "marketing", "productaanbevelingen", "zoekgedrag"]
 categorieen: ["marketing-groei"]
 summary: "ChatGPT wordt steeds vaker gebruikt als persoonlijke shopper. Dit is wat je kunt doen om ervoor te zorgen dat jouw product of dienst in de aanbevelingen verschijnt."
 cover:
-  image: "/images/covers/2026-03-24-chatgpt-product-recommendations-how-to-make-sure-you-are-one.webp"
-  alt: "ChatGPT Product Recommendations: How to Make Sure You Are One in 2026"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/chatgpt-product-recommendations"

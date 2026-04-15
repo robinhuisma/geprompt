@@ -5,8 +5,9 @@ tags: ["meta", "ai", "e-commerce", "social media"]
 categorieen: ["slimmer-werken"]
 summary: "Meta test een AI-assistent die producten aanbeveelt, wat de zichtbaarheid van webshops op sociale media kan veranderen."
 cover:
-  image: "/images/covers/2026-03-09-meta-begint-met-test-van-ai-winkelassistent.webp"
-  alt: "Meta begint met test van AI-winkelassistent"
+  image: "https://images.pexels.com/photos/16094044/pexels-photo-16094044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A man working on a laptop in a cozy, modern office space with a focus on technology."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/meta-begint-test-aiwinkelassistent"

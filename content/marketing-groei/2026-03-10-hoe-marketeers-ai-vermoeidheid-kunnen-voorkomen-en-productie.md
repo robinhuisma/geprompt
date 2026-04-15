@@ -5,8 +5,9 @@ tags: ["ai-vermoeidheid", "marketing", "productiviteit", "welzijn"]
 categorieen: ["marketing-groei"]
 summary: "Uit onderzoek blijkt dat marketeers het vaakst last hebben van 'AI-brainfry'. Dit zijn praktische manieren om dat te voorkomen."
 cover:
-  image: "/images/covers/2026-03-10-marketers-report-highest-rates-of-ai-brain-fry-report-finds-.webp"
-  alt: "Marketers Report Highest Rates Of AI ‘Brain Fry,’ Report Finds via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/marketers-report-highest-rates-of-ai-brain-fry-report-finds/569110/"

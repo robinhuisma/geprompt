@@ -5,8 +5,9 @@ tags: ["ai-fraude", "vacature", "data", "arbeidsmarkt"]
 categorieen: ["slimmer-werken"]
 summary: "Oplichters gebruiken valse vacatures voor goedbetaald 'AI-trainingswerk' om werkloze professionals te strikken voor dataverzameling, vaak onder valse voorwendselen."
 cover:
-  image: "/images/covers/2026-03-10-you-could-be-next.webp"
-  alt: "You Could Be Next"
+  image: "https://images.pexels.com/photos/12663193/pexels-photo-12663193.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Young woman freelancing with a laptop on a sunny oceanfront balcony, embracing remote work lifestyle."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor"

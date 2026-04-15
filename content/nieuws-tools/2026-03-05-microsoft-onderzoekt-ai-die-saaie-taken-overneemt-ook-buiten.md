@@ -5,8 +5,9 @@ tags: ["microsoft", "patent", "automatisering", "ai-assistent"]
 categorieen: ["nieuws-tools"]
 summary: "Een patent van Microsoft laat zien hoe AI routinetaken kan automatiseren, een concept dat ook voor werk en softwareleren interessant is."
 cover:
-  image: "/images/covers/2026-03-05-speelt-je-xbox-straks-je-games-voor-je-patent-schetst-opmerk.webp"
-  alt: "Speelt je Xbox straks je games voor je? Patent schetst opmerkelijke toekomst"
+  image: "https://images.pexels.com/photos/6019019/pexels-photo-6019019.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A futuristic humanoid robot with glowing green eyes in a modern setting."
+  caption: "Foto: Laura Musikanski via Pexels"
 draft: true
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1748135/speelt-je-xbox-straks-je-games-voor-je-patent-schetst-opmerkelijke-toekomst.html"

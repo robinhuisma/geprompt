@@ -5,8 +5,9 @@ tags: ["ai agents", "e-commerce", "toekomst", "platformstrategie"]
 categorieen: ["nieuws-tools"]
 summary: "Meta's overname van Moltbook laat zien dat AI-agenten straks zelfstandig voor consumenten gaan shoppen, wat de rol van traditionele webshops en advertenties verandert."
 cover:
-  image: "/images/covers/2026-03-12-meta-s-moltbook-deal-points-to-a-future-built-around-ai-agen.webp"
-  alt: "Meta’s Moltbook deal points to a future built around AI agents"
+  image: "https://images.pexels.com/photos/17614479/pexels-photo-17614479.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands holding smartphone with Meta Threads logo on screen, Meta branding in background."
+  caption: "Foto: Julio Lopez via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/"

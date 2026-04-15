@@ -5,8 +5,9 @@ tags: ["automatisering", "ai-modellen", "efficiëntie", "workflow"]
 categorieen: ["nieuws-tools"]
 summary: "Door het juiste GPT-model te koppelen aan specifieke taken via automatiseringstools kun je als ondernemer kosten besparen en processen versnellen."
 cover:
-  image: "/images/covers/2026-03-23-how-to-automate-chatgpt-gpt-5-4-nano-gpt-5-4-mini-and-more.webp"
-  alt: "How to automate ChatGPT (GPT-5.4 nano, GPT-5.4 mini, and more)"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-chatgpt"

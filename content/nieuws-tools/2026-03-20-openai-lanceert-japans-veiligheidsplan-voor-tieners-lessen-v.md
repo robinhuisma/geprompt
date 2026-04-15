@@ -5,8 +5,9 @@ tags: ["ai-beleid", "gebruikersveiligheid", "compliance", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI's Japanse blueprint voor tienerveiligheid biedt een concreet kader waar Nederlandse ondernemers hun eigen AI-gebruiksbeleid op kunnen baseren."
 cover:
-  image: "/images/covers/2026-03-20-openai-japan-announces-japan-teen-safety-blueprint-to-put-te.webp"
-  alt: "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first"
+  image: "https://images.pexels.com/photos/16053029/pexels-photo-16053029.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A contemporary screen displaying the ChatGPT plugins interface by OpenAI, highlighting AI technology advancements."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/japan-teen-safety-blueprint"

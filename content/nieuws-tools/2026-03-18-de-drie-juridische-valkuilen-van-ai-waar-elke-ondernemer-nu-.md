@@ -5,8 +5,9 @@ tags: ["ai", "juridisch", "risicomanagement", "compliance"]
 categorieen: ["nieuws-tools"]
 summary: "Het gebruik van AI brengt concrete juridische risico's met zich mee op het gebied van auteursrecht, privacy en aansprakelijkheid."
 cover:
-  image: "/images/covers/2026-03-18-the-legal-questions-ai-is-forcing-every-agency-to-face.webp"
-  alt: "The Legal Questions AI Is Forcing Every Agency to Face"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Marketingaiinstitute"
 source_url: "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies"

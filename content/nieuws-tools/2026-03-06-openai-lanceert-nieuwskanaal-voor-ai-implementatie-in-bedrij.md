@@ -5,8 +5,9 @@ tags: ["openai", "nieuws", "implementatie", "frameworks"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI start een nieuwskanaal met praktische stappenplannen en frameworks om AI-ontwikkelingen direct om te zetten in zakelijk voordeel."
 cover:
-  image: "/images/covers/2026-03-06-introducing-the-adoption-news-channel.webp"
-  alt: "Introducing the Adoption news channel"
+  image: "https://images.pexels.com/photos/16053029/pexels-photo-16053029.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A contemporary screen displaying the ChatGPT plugins interface by OpenAI, highlighting AI technology advancements."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: true
 source_name: "Openai"
 source_url: "https://openai.com/index/introducing-the-adoption-news-channel"

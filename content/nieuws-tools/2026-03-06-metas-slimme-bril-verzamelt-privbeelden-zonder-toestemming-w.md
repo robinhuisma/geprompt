@@ -5,8 +5,9 @@ tags: ["privacy", "ai-hardware", "compliance", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "Een rechtszaak onthult dat beelden van Meta's AI-bril door medewerkers worden bekeken, ondanks privacybeloften, een waarschuwing voor elk bedrijf dat AI-hardware overweegt."
 cover:
-  image: "/images/covers/2026-03-06-meta-sued-over-ai-smart-glasses-8217-privacy-concerns-after-.webp"
-  alt: "Meta sued over AI smart glasses&#8217; privacy concerns, after workers reviewed nudity, sex, and other footage"
+  image: "https://images.pexels.com/photos/4389971/pexels-photo-4389971.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Woman in a metallic top using a virtual reality headset immersed in a digital environment with vibrant lights."
+  caption: "Foto: Darlene Alderson via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/"

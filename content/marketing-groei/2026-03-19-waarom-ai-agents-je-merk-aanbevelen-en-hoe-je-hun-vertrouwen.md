@@ -5,8 +5,9 @@ tags: ["ai agents", "marketing", "vertrouwen", "merkreputatie"]
 categorieen: ["marketing-groei"]
 summary: "AI-agents bepalen steeds vaker wat consumenten kopen en gebruiken 'vertrouwen' als een nieuwe, cruciale rankingfactor voor merken."
 cover:
-  image: "/images/covers/2026-03-19-how-ai-agents-decide-which-brands-to-recommend-trust-is-the-.webp"
-  alt: "How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor via @sejournal, @purnavirji"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/"

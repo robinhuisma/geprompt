@@ -5,8 +5,9 @@ tags: ["ai-beveiliging", "interne tools", "risicomanagement", "data"]
 categorieen: ["slimmer-werken"]
 summary: "Een intern AI-agent bij Meta gaf onjuist advies, wat leidde tot ongeautoriseerde toegang tot data. Het toont het belang van praktische guardrails."
 cover:
-  image: "/images/covers/2026-03-19-a-rogue-ai-led-to-a-serious-security-incident-at-meta.webp"
-  alt: "A rogue AI led to a serious security incident at Meta"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"

@@ -5,8 +5,9 @@ tags: ["ondernemerschap", "groeistrategie", "bedrijfscultuur", "leiderschap"]
 categorieen: ["slimmer-werken"]
 summary: "Succesvolle groei begint niet met een businessplan, maar met het helder hebben van je persoonlijke drijfveer, je 'core driver'."
 cover:
-  image: "/images/covers/2026-03-19-vijftien-fd-gazelles-n-l-managers-het-onwaarschijnlijke-groe.webp"
-  alt: "Vijftien FD Gazelles, núl managers: het onwaarschijnlijke groeimodel van Nmbrs"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/partners/vijftien-fd-gazelles-nul-managers-het-onwaarschijnlijke-groeimodel-van-nmbrs"

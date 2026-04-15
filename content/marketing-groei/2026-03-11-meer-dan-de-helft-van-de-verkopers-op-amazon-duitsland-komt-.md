@@ -5,8 +5,9 @@ tags: ["amazon", "e-commerce", "china", "concurrentie"]
 categorieen: ["marketing-groei"]
 summary: "Onderzoek toont dat 60% van de verkopers op Amazon.de Chinees is; dit vraagt om een andere concurrentiestrategie voor Europese webshops."
 cover:
-  image: "/images/covers/2026-03-11-ruim-helft-verkopers-amazon-de-uit-china.webp"
-  alt: "Ruim helft verkopers Amazon.de uit China"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/ruim-helft-verkopers-amazonde-uit-china"

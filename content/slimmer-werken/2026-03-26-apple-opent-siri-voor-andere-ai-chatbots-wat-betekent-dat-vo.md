@@ -5,8 +5,9 @@ tags: ["apple", "siri", "ai-integratie", "app-ontwikkeling"]
 categorieen: ["slimmer-werken"]
 summary: "Apple's nieuwe 'Extensions' systeem laat gebruikers straks zelf kiezen welke AI-chatbot via Siri antwoordt, wat kansen biedt voor app-ontwikkelaars."
 cover:
-  image: "/images/covers/2026-03-26-apple-will-reportedly-allow-other-ai-chatbots-to-plug-into-s.webp"
-  alt: "Apple will reportedly allow other AI chatbots to plug into Siri"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27"

@@ -5,8 +5,9 @@ tags: ["chatgpt", "advertenties", "productiviteit", "ai-tools"]
 categorieen: ["marketing-groei"]
 summary: "OpenAI introduceert advertenties in ChatGPT, wat de gebruikservaring en productiviteit voor professionals kan beïnvloeden."
 cover:
-  image: "/images/covers/2026-03-23-chatgpt-krijgt-binnenkort-advertenties-ook-voor-betalende-ge.webp"
-  alt: "ChatGPT krijgt binnenkort advertenties, ook voor betalende gebruikers"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2069964/chatgpt-krijgt-binnenkort-advertenties-ook-voor-betalende-gebruikers.html"

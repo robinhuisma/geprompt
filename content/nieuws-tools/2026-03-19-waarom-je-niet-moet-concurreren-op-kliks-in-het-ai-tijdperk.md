@@ -5,8 +5,9 @@ tags: ["contentstrategie", "media", "ai", "waardecreatie"]
 categorieen: ["nieuws-tools"]
 summary: "De waarde van je content ligt niet in het verkeer, maar in het creëren van iets dat een algoritme niet kan namaken."
 cover:
-  image: "/images/covers/2026-03-19-traffic-is-dying-as-a-media-metric-what-comes-next-is-more-i.webp"
-  alt: "Traffic is dying as a media metric. What comes next is more important"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91508972/traffic-dying-media-metric-whats-next?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=5&amp;partner=newsletter&amp;campaign_date=03192026"

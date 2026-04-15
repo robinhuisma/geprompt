@@ -5,8 +5,9 @@ tags: ["chatgpt", "productiviteit", "kenniswerk", "implementatie"]
 categorieen: ["slimmer-werken"]
 summary: "Een traditioneel industrieel bedrijf gebruikt ChatGPT om kenniswerk te versnellen, met tijdswinsten tot 80% voor specifieke taken."
 cover:
-  image: "/images/covers/2026-03-27-stadler-reshapes-knowledge-work-at-a-230-year-old-company.webp"
-  alt: "STADLER reshapes knowledge work at a 230-year-old company"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/stadler"

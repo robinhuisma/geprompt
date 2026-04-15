@@ -5,8 +5,9 @@ tags: ["ai hardware", "infrastructuur", "strategie", "nvidia"]
 categorieen: ["nieuws-tools"]
 summary: "Nvidia voorspelt een omzet van 1 biljoen dollar aan AI-chips tot 2027, wat wijst op blijvende schaarste maar ook op nieuwe, efficiëntere mogelijkheden voor bedrijven."
 cover:
-  image: "/images/covers/2026-03-18-nvidia-verkoopt-tot-eind-2027-voor-1-biljoen-aan-nieuwe-ai-c.webp"
-  alt: "Nvidia verkoopt tot eind 2027 voor 1 biljoen aan nieuwe ai-chips"
+  image: "https://images.pexels.com/photos/8622912/pexels-photo-8622912.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of two NVIDIA RTX 2080 graphics cards with dual fans, high-performance hardware."
+  caption: "Foto: Nana  Dua via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/17/nvidia-verkoopt-tot-eind-2027-voor-1-biljoen-aan-nieuwe-ai-chips/"

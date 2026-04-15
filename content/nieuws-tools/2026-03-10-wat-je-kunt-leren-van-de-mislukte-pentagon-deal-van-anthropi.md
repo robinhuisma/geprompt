@@ -5,8 +5,9 @@ tags: ["overheid", "contracten", "ai-beleid", "ondernemen"]
 categorieen: ["nieuws-tools"]
 summary: "Een mislukte defensiecontract laat zien waarom tech-ondernemers hun voorwaarden en reputatie goed moeten afwegen bij overheidssamenwerking."
 cover:
-  image: "/images/covers/2026-03-10-anthropic-8217-s-pentagon-deal-is-a-cautionary-tale-for-star.webp"
-  alt: "Anthropic&#8217;s Pentagon deal is a cautionary tale for startups chasing federal contracts"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/"

@@ -5,8 +5,9 @@ tags: ["ai-beleid", "belasting", "europa", "kosten"]
 categorieen: ["nieuws-tools"]
 summary: "De oprichter van AI-bedrijf Mistral pleit voor een Europese AI-belasting, wat de kosten voor het gebruik van AI-tools voor bedrijven kan beïnvloeden."
 cover:
-  image: "/images/covers/2026-03-24-mistral-ceo-says-ai-companies-should-pay-a-tax-in-europe.webp"
-  alt: "Mistral CEO Says AI Companies Should Pay a Tax in Europe"
+  image: "https://images.pexels.com/photos/8937586/pexels-photo-8937586.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Focused man working on laptop and notes in a modern office."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/ai-policy/mistral-ceo-says-ai-companies-should-pay-tax-europe"

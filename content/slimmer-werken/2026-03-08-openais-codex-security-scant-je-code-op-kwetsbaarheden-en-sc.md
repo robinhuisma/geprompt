@@ -5,8 +5,9 @@ tags: ["ai", "cybersecurity", "softwareontwikkeling", "openai"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI's nieuwe AI-agent analyseert je codebase, vindt beveiligingslekken en schrijft automatisch de gepaste patch voor."
 cover:
-  image: "/images/covers/2026-03-08-codex-security-now-in-research-preview.webp"
-  alt: "Codex Security: now in research preview"
+  image: "https://images.pexels.com/photos/7792835/pexels-photo-7792835.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team collaborates in a modern office setting with laptops and documents."
+  caption: "Foto: Yan Krukau via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/codex-security-now-in-research-preview"

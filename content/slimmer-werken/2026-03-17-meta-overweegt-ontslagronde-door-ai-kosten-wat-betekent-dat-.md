@@ -5,8 +5,9 @@ tags: ["ai-strategie", "personeel", "kostenbeheersing", "innovatie"]
 categorieen: ["slimmer-werken"]
 summary: "De enorme investeringen in AI bij grote techbedrijven leiden tot personeelskosten, een les in balans voor elke ondernemer."
 cover:
-  image: "/images/covers/2026-03-17-meta-platforms-plant-grote-ontslagronde-door-hoge-ai-kosten.webp"
-  alt: "Meta Platforms plant grote ontslagronde door hoge AI-kosten"
+  image: "https://images.pexels.com/photos/4348362/pexels-photo-4348362.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Bright creative workspace featuring calligraphy tools, potted plants, and a white table setup."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/meta-platforms-plant-grote-ontslagronde-door-hoge-aikosten"

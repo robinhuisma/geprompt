@@ -5,8 +5,9 @@ tags: ["legaltech", "ai", "investeringen", "juridisch"]
 categorieen: ["nieuws-tools"]
 summary: "De enorme investering in juridische AI toont aan dat de technologie klaar is voor de praktijk, niet alleen voor grote kantoren maar ook voor kleinere praktijken."
 cover:
-  image: "/images/covers/2026-03-10-legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-e.webp"
-  alt: "Legora reaches $5.55 billion valuation as AI legaltech boom endures"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"

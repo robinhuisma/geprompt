@@ -5,8 +5,9 @@ tags: ["ai-ontwikkeling", "tooling", "strategie", "productiviteit"]
 categorieen: ["slimmer-werken"]
 summary: "De AI-ontwikkeling versnelt explosief, met krachtigere en goedkopere modellen. De kunst voor ondernemers is niet het bouwen, maar het slim combineren van deze tools."
 cover:
-  image: "/images/covers/2026-03-06-10x-de-impact-van-de-industri-le-revolutie-10x-zo-snel-ft-pi.webp"
-  alt: "“10x de impact van de industriële revolutie, 10x zo snel” ft. Pim de Witte"
+  image: "https://images.pexels.com/photos/8296950/pexels-photo-8296950.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Office desk setup with laptop, documents, and calculators, ideal for business productivity."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 source_name: "AI Report"
 source_url: "https://www.aireport.email/p/10x-de-impact-van-de-industriele"

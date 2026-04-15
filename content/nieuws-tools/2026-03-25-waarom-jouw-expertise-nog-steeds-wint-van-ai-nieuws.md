@@ -5,8 +5,9 @@ tags: ["contentstrategie", "ai", "autoriteit", "media"]
 categorieen: ["nieuws-tools"]
 summary: "AI kan feiten samenvatten, maar de echte waarde voor je bedrijf ligt in analyse, context en follow-up die alleen jij kunt bieden."
 cover:
-  image: "/images/covers/2026-03-25-why-breaking-news-still-wins-in-the-age-of-ai.webp"
-  alt: "Why breaking news still wins in the age of AI"
+  image: "https://images.pexels.com/photos/19895705/pexels-photo-19895705.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Woman intensely repairs electronics with precision tools and a soldering iron indoors."
+  caption: "Foto: ThisIsEngineering via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91513019/why-breaking-news-still-wins-in-the-age-of-ai?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=3&amp;partner=newsletter&amp;campaign_date=03252026"

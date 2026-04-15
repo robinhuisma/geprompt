@@ -5,8 +5,9 @@ tags: ["kennisbeheer", "google workspace", "efficiëntie", "ai"]
 categorieen: ["slimmer-werken"]
 summary: "Met een goed georganiseerde map in Google Drive en de ingebouwde AI van Gemini maak je van je bestaande documenten een levende kennisbank, zonder extra software."
 cover:
-  image: "/images/covers/2026-03-08-how-google-drive-and-gemini-ai-just-retired-the-knowledge-ba.webp"
-  alt: "How Google Drive and Gemini (AI) Just Retired the Knowledge Base Industry"
+  image: "https://images.pexels.com/photos/7412024/pexels-photo-7412024.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist desk setup with a laptop and world map wall art, inspiring travel and creativity."
+  caption: "Foto: Monstera Production via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17286648/how-google-drive-and-gemini-ai-just-retired-the-knowledge-base-industry"

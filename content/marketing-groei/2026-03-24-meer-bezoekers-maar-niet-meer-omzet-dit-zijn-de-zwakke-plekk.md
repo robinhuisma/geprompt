@@ -5,8 +5,9 @@ tags: ["marketing", "groei", "martech", "data-integratie"]
 categorieen: ["marketing-groei"]
 summary: "Een stijgend bezoekersaantal zonder groei in omzet wijst vaak op lekkages in je marketingtechnologie, niet op slechte campagnes."
 cover:
-  image: "/images/covers/2026-03-24-more-traffic-same-revenue-your-martech-system-may-be-the-pro.webp"
-  alt: "More Traffic, Same Revenue? Your Martech System May Be the Problem"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17305397/more-traffic-same-revenue-your-martech-system-may-be-the-problem"

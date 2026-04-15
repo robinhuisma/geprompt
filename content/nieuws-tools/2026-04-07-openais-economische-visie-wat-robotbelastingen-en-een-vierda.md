@@ -5,8 +5,9 @@ tags: ["openai", "arbeidsmarkt", "toekomstvisie", "beleid"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI stelt voor om winst uit AI te belasten en de opbrengst te gebruiken voor een publiek vermogensfonds en een kortere werkweek, wat gevolgen heeft voor ondernemers."
 cover:
-  image: "/images/covers/2026-04-07-openai-s-vision-for-the-ai-economy-public-wealth-funds-robot.webp"
-  alt: "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek"
+  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"

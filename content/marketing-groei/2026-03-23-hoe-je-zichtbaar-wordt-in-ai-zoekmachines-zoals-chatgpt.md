@@ -5,8 +5,9 @@ tags: ["marketing", "zoekmachineoptimalisatie", "ai", "content"]
 categorieen: ["marketing-groei"]
 summary: "Answer Engine Optimization (AEO) maakt je content vindbaar voor tools als ChatGPT, wat volgens een rapport leidt tot beter converterende bezoekers."
 cover:
-  image: "/images/covers/2026-03-23-answer-engine-optimization-case-studies-that-prove-the-roi-o.webp"
-  alt: "Answer engine optimization case studies that prove the ROI of AEO in 2026"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/answer-engine-optimization-case-studies"

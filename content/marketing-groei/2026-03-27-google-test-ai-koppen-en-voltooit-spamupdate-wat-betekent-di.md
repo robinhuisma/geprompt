@@ -5,8 +5,9 @@ tags: ["google", "zoekmachine optimalisatie", "ai", "content"]
 categorieen: ["marketing-groei"]
 summary: "Google experimenteert met AI die automatisch koppen herschrijft en heeft een grote spamupdate uitgerold, wat directe gevolgen kan hebben voor je vindbaarheid."
 cover:
-  image: "/images/covers/2026-03-27-google-tests-ai-headlines-rolls-out-spam-update-seo-pulse-vi.webp"
-  alt: "Google Tests AI Headlines, Rolls Out Spam Update – SEO Pulse via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/"

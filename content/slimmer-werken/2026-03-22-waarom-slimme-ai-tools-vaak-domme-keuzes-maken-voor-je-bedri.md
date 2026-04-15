@@ -5,8 +5,9 @@ tags: ["ai-strategie", "bedrijfsprocessen", "praktische ai", "kosten"]
 categorieen: ["slimmer-werken"]
 summary: "De huidige AI is geen intelligentie, maar patroonherkenning, en dat leidt tot onpraktische en dure keuzes als je niet oplet."
 cover:
-  image: "/images/covers/2026-03-22-the-uncomfortable-truth-about-enterprise-ai-in-2026-it-s-not.webp"
-  alt: "The Uncomfortable Truth About Enterprise AI in 2026: It’s Not Intelligence, and That’s a Problem"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/the-uncomfortable-truth-about-enterprise-ai-in-2026-its-not-intelligence-and-thats-a-problem/"

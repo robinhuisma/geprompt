@@ -5,8 +5,9 @@ tags: ["ai-beleid", "verantwoordelijkheid", "transparantie", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "AI-tools kunnen je werk versnellen, maar de verantwoordelijkheid voor de output blijft altijd bij jou als ondernemer."
 cover:
-  image: "/images/covers/2026-03-24-the-new-rules-of-trust-in-an-ai-era.webp"
-  alt: "The new rules of trust in an AI era"
+  image: "https://images.pexels.com/photos/5614259/pexels-photo-5614259.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop, smartphone, and tablet with a prosthetic hand, emphasizing digital connectivity."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91514784/the-new-rules-of-trust-in-an-ai-era?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=2&amp;partner=newsletter&amp;campaign_date=03242026"

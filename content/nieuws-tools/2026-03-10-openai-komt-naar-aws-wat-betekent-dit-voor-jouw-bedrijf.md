@@ -5,8 +5,9 @@ tags: ["openai", "aws", "cloud", "ai-infrastructuur"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI's krachtigste AI-modellen komen beschikbaar op Amazon Web Services, wat meer keuze en mogelijk lagere kosten betekent voor bedrijven."
 cover:
-  image: "/images/covers/2026-03-10-openai-and-amazon-announce-strategic-partnership.webp"
-  alt: "OpenAI and Amazon announce strategic partnership"
+  image: "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up shot of a smartphone screen showing the OpenAI website with greenery in the background."
+  caption: "Foto: Solen Feyissa via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/amazon-partnership"

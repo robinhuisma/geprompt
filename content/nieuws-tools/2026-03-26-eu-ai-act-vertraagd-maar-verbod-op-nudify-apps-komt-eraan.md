@@ -5,8 +5,9 @@ tags: ["ai act", "regelgeving", "compliance", "risicomanagement"]
 categorieen: ["nieuws-tools"]
 summary: "De implementatie van de EU AI Act wordt uitgesteld, maar een verbod op apps die naaktfoto's genereren wordt wel bevestigd. Dit geeft ondernemers meer tijd voor compliance."
 cover:
-  image: "/images/covers/2026-03-26-eu-backs-nude-app-ban-and-delays-to-landmark-ai-rules.webp"
-  alt: "EU backs nude app ban and delays to landmark AI rules"
+  image: "https://images.pexels.com/photos/16094040/pexels-photo-16094040.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of a person typing on a laptop displaying the ChatGPT interface, emphasizing modern technology use."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps"

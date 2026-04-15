@@ -5,8 +5,9 @@ tags: ["logistiek", "automatisering", "ai-optimalisatie", "magazijn"]
 categorieen: ["slimmer-werken"]
 summary: "Een nieuw AI-systeem leert zelf robots te prioriteren om knelpunten te voorkomen, wat in simulaties leidt tot 25% meer doorvoer."
 cover:
-  image: "/images/covers/2026-03-26-ai-system-learns-to-keep-warehouse-robot-traffic-running-smo.webp"
-  alt: "AI system learns to keep warehouse robot traffic running smoothly"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326"

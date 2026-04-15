@@ -5,8 +5,9 @@ tags: ["auteursrecht", "ai", "wetgeving", "content"]
 categorieen: ["nieuws-tools"]
 summary: "Het Europees Parlement wil een licentie-systeem dat AI-bedrijven verplicht toestemming te vragen voor het gebruiken van jouw online content."
 cover:
-  image: "/images/covers/2026-03-17-eu-parlement-stop-de-contentroof-door-ai-bouwers.webp"
-  alt: "EU-parlement: Stop de contentroof door AI-bouwers"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/euparlement-stop-contentroof-door-aibouwers"

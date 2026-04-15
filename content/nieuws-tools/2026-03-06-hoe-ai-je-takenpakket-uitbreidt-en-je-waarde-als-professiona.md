@@ -5,8 +5,9 @@ tags: ["ai op de werkvloer", "vaardigheden", "productiviteit", "concurrentievoor
 categorieen: ["nieuws-tools"]
 summary: "Professionals die AI gebruiken om taken buiten hun directe expertise aan te pakken, bouwen een concurrentievoordeel op. Dit begon met 'vibe coding' en breidt zich nu uit."
 cover:
-  image: "/images/covers/2026-03-06-vibe-coding-was-just-the-beginning.webp"
-  alt: "Vibe Coding Was Just the Beginning"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: true
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/vibe-coding-was-just-the-beginning"

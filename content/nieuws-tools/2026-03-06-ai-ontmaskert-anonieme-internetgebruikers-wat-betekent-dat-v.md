@@ -5,8 +5,9 @@ tags: ["privacy", "ai", "beveiliging", "reputatiemanagement"]
 categorieen: ["nieuws-tools"]
 summary: "Onderzoek toont aan dat AI anonieme online profielen kan koppelen aan echte personen, met gevolgen voor zakelijke anonimiteit en reputatie."
 cover:
-  image: "/images/covers/2026-03-06-ai-kan-anonieme-internetgebruikers-op-grote-schaal-ontmasker.webp"
-  alt: "AI kan anonieme internetgebruikers op grote schaal ontmaskeren"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1748449/ai-kan-anonieme-internetgebruikers-op-grote-schaal-ontmaskeren.html"

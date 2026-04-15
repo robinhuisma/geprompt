@@ -5,8 +5,9 @@ tags: ["claude", "plugins", "agentic ai", "professionele dienstverlening"]
 categorieen: ["nieuws-tools"]
 summary: "Anthropic lanceert plugins voor Claude die specifiek zijn toegesneden op juridische, financiële en consultancywerkzaamheden, waardoor professionals sneller documenten kunnen analyseren."
 cover:
-  image: "/images/covers/2026-03-03-anthropic-targets-more-industries-with-claude-cowork-plugins.webp"
-  alt: "Anthropic Targets More Industries With Claude Cowork Plugins"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins"

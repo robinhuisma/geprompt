@@ -5,8 +5,9 @@ tags: ["ai", "kunst", "creatieve industrie", "auteursrecht"]
 categorieen: ["nieuws-tools"]
 summary: "Een kunstenaar uploadt zijn levenswerk naar een open platform om AI zelf te trainen, een strategie die ook voor Nederlandse creatieven relevant is."
 cover:
-  image: "/images/covers/2026-03-25-this-artist-s-work-has-been-shown-at-moma-now-it-s-training-.webp"
-  alt: "This artist’s work has been shown at MoMA. Now it’s training AI"
+  image: "https://images.pexels.com/photos/7014939/pexels-photo-7014939.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "From above of crop faceless female photographer drawing on graphic tablet while editing photos on laptop at table with printed photos"
+  caption: "Foto: George Milton via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91514741/michael-hafftka-ai-training-hugging-face?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=2&amp;partner=newsletter&amp;campaign_date=03252026"

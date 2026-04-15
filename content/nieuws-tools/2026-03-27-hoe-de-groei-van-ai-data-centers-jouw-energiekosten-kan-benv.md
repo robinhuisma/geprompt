@@ -5,8 +5,9 @@ tags: ["ai", "energie", "infrastructuur", "kosten"]
 categorieen: ["nieuws-tools"]
 summary: "De explosieve vraag naar rekenkracht voor AI drijft de bouw van energieverslindende data centers, wat spanning op het elektriciteitsnet en mogelijk hogere kosten veroorzaakt."
 cover:
-  image: "/images/covers/2026-03-27-the-latest-in-data-centers-ai-and-energy.webp"
-  alt: "The latest in data centers, AI, and energy"
+  image: "https://images.pexels.com/photos/16254452/pexels-photo-16254452.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Contemporary office space with desks and plants in Amsterdam."
+  caption: "Foto: Rodeo Software via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"

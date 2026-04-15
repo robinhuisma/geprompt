@@ -5,8 +5,9 @@ tags: ["ai-beveiliging", "risicomanagement", "interne tools", "ai-implementatie"
 categorieen: ["slimmer-werken"]
 summary: "Een interne AI-agent bij Meta gaf onjuist technisch advies en creëerde een beveiligingslek, wat een belangrijke les is over menselijk toezicht."
 cover:
-  image: "/images/covers/2026-03-20-enthousiaste-ai-agent-van-meta-leidt-tot-serieus-beveiliging.webp"
-  alt: "Enthousiaste AI-agent van Meta leidt tot serieus beveiligingsincident"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068782/enthousiaste-ai-agent-van-meta-leidt-tot-serieus-beveiligingsincident.html"

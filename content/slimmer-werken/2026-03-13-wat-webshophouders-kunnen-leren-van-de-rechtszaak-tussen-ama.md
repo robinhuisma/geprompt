@@ -5,8 +5,9 @@ tags: ["e-commerce", "ai", "recht", "platformen"]
 categorieen: ["slimmer-werken"]
 summary: "Een rechter verbood een AI-shoppingagent op Amazon, een zaak die laat zien hoe belangrijk het is om je platformvoorwaarden te beschermen tegen ongeautoriseerde 'scraping'."
 cover:
-  image: "/images/covers/2026-03-13-rechter-verbiedt-perplexity-shoppingagent-op-amazon.webp"
-  alt: "Rechter verbiedt Perplexity-shoppingagent op Amazon"
+  image: "https://images.pexels.com/photos/8117408/pexels-photo-8117408.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of hands typing on a laptop in a cozy, indoor setting showcasing creative digital work."
+  caption: "Foto: Ivan S via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/rechter-verbiedt-perplexityshoppingagent-amazon"

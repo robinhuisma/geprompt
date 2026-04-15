@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "sales", "marketing", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "De sleutel tot succesvolle AI-implementatie is niet het uitproberen van tools, maar het eerst identificeren van een specifiek, pijnlijk werkprobleem."
 cover:
-  image: "/images/covers/2026-03-06-where-to-start-with-ai-a-practical-guide-for-gtm-teams.webp"
-  alt: "Where to Start with AI: A Practical Guide for GTM Teams"
+  image: "https://images.pexels.com/photos/8070632/pexels-photo-8070632.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Modern office environment with diverse team collaborating in pod-style workspaces."
+  caption: "Foto: Edmond Dantès via Pexels"
 draft: true
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/where-to-start-with-ai-gtm"

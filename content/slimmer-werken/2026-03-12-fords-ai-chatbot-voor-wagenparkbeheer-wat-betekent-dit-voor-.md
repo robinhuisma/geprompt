@@ -5,8 +5,9 @@ tags: ["ai", "transport", "logistiek", "data-analyse"]
 categorieen: ["slimmer-werken"]
 summary: "Ford introduceert een AI-chatbot die data van bedrijfswagens analyseert en directe adviezen geeft, een ontwikkeling die ook voor andere transport- en servicebedrijven relevant is."
 cover:
-  image: "/images/covers/2026-03-12-ford-is-giving-its-commercial-fleet-business-an-ai-makeover.webp"
-  alt: "Ford is giving its commercial fleet business an AI makeover"
+  image: "https://images.pexels.com/photos/16094043/pexels-photo-16094043.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A focused individual types on a laptop running AI software indoors."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"

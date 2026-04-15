@@ -5,8 +5,9 @@ tags: ["automatisering", "ai-integratie", "productiviteit", "chatgpt"]
 categorieen: ["nieuws-tools"]
 summary: "Je kunt ChatGPT automatiseren met Zapier om AI in te zetten voor repetitieve taken zoals e-mails verwerken, social media plannen en data analyseren."
 cover:
-  image: "/images/covers/2026-03-20-how-to-automate-chatgpt-gpt-5-4-nano-gpt-5-4-mini-and-more.webp"
-  alt: "How to automate ChatGPT (GPT-5.4 nano, GPT-5.4 mini, and more)"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-chatgpt"

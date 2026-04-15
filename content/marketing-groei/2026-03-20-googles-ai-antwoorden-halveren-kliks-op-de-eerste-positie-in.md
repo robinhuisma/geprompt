@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "seo", "ai-overviews"]
 categorieen: ["marketing-groei"]
 summary: "De nieuwe AI-antwoorden van Google verminderen het aantal kliks naar de eerste organische zoekresultaat in sommige sectoren met meer dan de helft."
 cover:
-  image: "/images/covers/2026-03-20-google-ai-overviews-cut-germany-s-top-organic-ctr-by-59-via-.webp"
-  alt: "Google AI Overviews Cut Germany’s Top Organic CTR By 59% via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/"

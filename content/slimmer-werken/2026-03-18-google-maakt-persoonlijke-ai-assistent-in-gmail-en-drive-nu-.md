@@ -5,8 +5,9 @@ tags: ["google", "gemini", "productiviteit", "ai-assistent"]
 categorieen: ["slimmer-werken"]
 summary: "De AI-functie die je e-mails, agenda en documenten analyseert om vragen te beantwoorden, is nu gratis in Gemini."
 cover:
-  image: "/images/covers/2026-03-18-google-haalt-deze-interessante-gemini-functie-achter-de-beta.webp"
-  alt: "Google haalt deze interessante Gemini-functie achter de betaalmuur vandaan"
+  image: "https://images.pexels.com/photos/4348294/pexels-photo-4348294.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Woman arranging calligraphy materials in a plant-filled studio setting, emphasizing creativity."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2067913/google-haalt-deze-interessante-gemini-functie-achter-de-betaalmuur-vandaan.html"

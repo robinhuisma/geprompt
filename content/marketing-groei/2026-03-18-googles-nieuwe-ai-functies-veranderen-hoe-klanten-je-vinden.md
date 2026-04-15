@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "lokale marketing", "ai"]
 categorieen: ["marketing-groei"]
 summary: "Google introduceert AI Mode en Ask Maps, wat betekent dat zoekresultaten minder uitklikken bevatten en gesprekken met Maps mogelijk worden."
 cover:
-  image: "/images/covers/2026-03-18-ai-mode-data-ask-maps-amp-branded-queries-go-live-seo-pulse-.webp"
-  alt: "AI Mode Data, Ask Maps &amp; Branded Queries Go Live – SEO Pulse via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/seo-pulse-ai-mode-data-ask-maps-branded-queries-go-live/569648/"

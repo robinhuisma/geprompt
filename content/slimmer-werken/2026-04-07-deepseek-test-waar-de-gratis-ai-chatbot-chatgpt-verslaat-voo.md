@@ -7,6 +7,11 @@ summary: "Een praktische test laat zien in welke zakelijke taken de gratis DeepS
 draft: false
 source_name: "AI Art Blog"
 source_url: "https://aiartblog.com/generative-ai/deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deepseek-r1-artificial-intelligence-chatbot-vs-chatgpt"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De gratis AI-chatbot DeepSeek kan in specifieke zakelijke taken, zoals het schrijven van gedetailleerde analyses, concurreren met betaalde modellen zoals ChatGPT, maar mist cruciale functies zoals internettoegang. Dit maakt het een kosteneffectief alternatief voor tekstgerichte werkzaamheden, mits je de beperkingen accepteert.

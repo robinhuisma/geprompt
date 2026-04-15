@@ -7,6 +7,11 @@ summary: "NotebookLM is een AI-tool die je eigen documenten gebruikt als bron, z
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17314054/notebooklm-master-your-research-and-synthesize-information-with-ai"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 NotebookLM is een AI-tool die je helpt om sneller en betrouwbaarder onderzoek te doen en rapporten te schrijven, door uitsluitend te werken met de documenten die je zelf uploadt. Het is een gepersonaliseerde onderzoeksassistent die je bronmateriaal omzet in een interactieve kennisbank, waardoor je de controle houdt over de feiten en het risico op fouten of 'hallucinaties' van de AI minimaliseert.

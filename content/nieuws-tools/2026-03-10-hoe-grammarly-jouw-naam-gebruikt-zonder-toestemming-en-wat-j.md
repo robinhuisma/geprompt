@@ -5,8 +5,9 @@ tags: ["ai-ethiek", "reputatiemanagement", "contenttools", "privacy"]
 categorieen: ["nieuws-tools"]
 summary: "Grammarly's AI gebruikt namen van experts zonder toestemming voor schrijfadvies; dit artikel legt uit wat dit betekent voor jouw reputatie en hoe je controle houdt."
 cover:
-  image: "/images/covers/2026-03-10-grammarly-is-using-our-identities-without-permission.webp"
-  alt: "Grammarly is using our identities without permission"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"

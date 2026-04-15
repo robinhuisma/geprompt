@@ -5,8 +5,9 @@ tags: ["seo", "ai", "marketing", "strategie"]
 categorieen: ["marketing-groei"]
 summary: "Stop met rankings najagen en bouw zichtbaarheid op via andere kanalen, want AI-zoekmachines veranderen de regels van SEO."
 cover:
-  image: "/images/covers/2026-03-24-3-strategies-that-can-survive-ai-search-in-2026-what-i-share.webp"
-  alt: "3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live via @sejournal, @theshelleywalsh"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/"

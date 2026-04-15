@@ -5,8 +5,9 @@ tags: ["ai-onderzoek", "automatisering", "innovatie", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI zet alles op een volledig geautomatiseerde AI-onderzoeker, een systeem dat zelfstandig grote problemen kan aanpakken, van wiskunde tot marktvraagstukken."
 cover:
-  image: "/images/covers/2026-03-23-openai-is-throwing-everything-into-building-a-fully-automate.webp"
-  alt: "OpenAI is throwing everything into building a fully automated researcher"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"

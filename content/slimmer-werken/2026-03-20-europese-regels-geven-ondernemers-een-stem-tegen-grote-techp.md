@@ -5,8 +5,9 @@ tags: ["techplatforms", "regelgeving", "ondernemerschap", "europa"]
 categorieen: ["slimmer-werken"]
 summary: "Nieuwe Europese wetgeving maakt het voor ondernemers realistischer om op te komen tegen oneerlijke behandeling door platforms als Meta, Amazon en Google."
 cover:
-  image: "/images/covers/2026-03-20-must-reads-week-12-new-space-economy-big-tech-buigt-en-ai-do.webp"
-  alt: "Must reads week 12: New space economy, big tech buigt en AI doodsteek voor je team"
+  image: "https://images.pexels.com/photos/5882572/pexels-photo-5882572.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colleagues interact in a modern office setting, blending technology with workplace hygiene."
+  caption: "Foto: www.kaboompics.com via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/must-reads-week-12-new-space-economy-big-tech-buigt-en-ai-doodsteek-voor-je-team"

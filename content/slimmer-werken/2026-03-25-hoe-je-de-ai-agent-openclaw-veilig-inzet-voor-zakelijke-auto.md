@@ -5,8 +5,9 @@ tags: ["ai-agenten", "automatisering", "open-source", "workflow"]
 categorieen: ["slimmer-werken"]
 summary: "OpenClaw is een krachtige, open-source AI-assistent die je zelf host en via Zapier veilig kunt koppelen aan je bedrijfsprocessen."
 cover:
-  image: "/images/covers/2026-03-25-5-ways-to-safely-automate-openclaw-with-zapier-mcp.webp"
-  alt: "5 ways to safely automate OpenClaw with Zapier MCP"
+  image: "https://images.pexels.com/photos/28754729/pexels-photo-28754729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Cozy and organized home office workspace featuring a desktop computer, headphones, and creative decor."
+  caption: "Foto: Faizur Rehman via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-openclaw-zapier-mcp"

@@ -5,8 +5,9 @@ tags: ["google analytics", "ppc", "adverteren", "data-analyse"]
 categorieen: ["slimmer-werken"]
 summary: "GA4 geeft je de data om te zien welke advertenties echt geld opleveren, zodat je je budget kunt verschuiven naar wat werkt."
 cover:
-  image: "/images/covers/2026-03-20-how-to-increase-ppc-advertising-roas-with-google-analytics-4.webp"
-  alt: "How to Increase PPC Advertising ROAS with Google Analytics 4 – Your 2026 Playbook"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17302608/ppc-roas-google-analytics"

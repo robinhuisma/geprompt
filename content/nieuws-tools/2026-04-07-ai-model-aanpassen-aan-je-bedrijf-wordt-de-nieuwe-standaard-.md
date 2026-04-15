@@ -5,8 +5,9 @@ tags: ["ai-modellen", "fine-tuning", "mkb", "concurrentievoordeel", "bedrijfspro
 categorieen: ["nieuws-tools"]
 summary: "De grootste AI-sprongen komen niet meer van algemene modellen, maar van systemen die zijn afgestemd op de specifieke kennis en data van jouw bedrijf."
 cover:
-  image: "/images/covers/2026-04-07-shifting-to-ai-model-customization-is-an-architectural-imper.webp"
-  alt: "Shifting to AI model customization is an architectural imperative"
+  image: "https://images.pexels.com/photos/18069695/pexels-photo-18069695.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A digital representation of how large language models function in AI technology."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"

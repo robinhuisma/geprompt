@@ -5,9 +5,9 @@ tags: ["ai", "life sciences", "medicijnontwikkeling", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "AI-tools voor medicijnontwikkeling worden gebruiksvriendelijker en toegankelijker, waardoor ook kleinere labs en MKB'ers in de life sciences kunnen innoveren."
 cover:
-  image: "/images/covers/2026-03-02-3-questions-using-ai-to-accelerate-the-discovery-and-design-.webp"
-  alt: "3 Questions: Using AI to accelerate the discovery and design of therapeutic drugs"
-  caption: "Beeld gegenereerd met AI voor geprompt.nl"
+  image: "https://images.pexels.com/photos/31198914/pexels-photo-31198914.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish home office setup featuring a laptop, monitor, and desk accessories."
+  caption: "Foto: Huy Phan via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"

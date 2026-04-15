@@ -5,8 +5,9 @@ tags: ["ai", "automatisering", "productiviteit", "claude"]
 categorieen: ["slimmer-werken"]
 summary: "De AI Claude kan met toestemming zelfstandig taken op je computer uitvoeren, zoals bestanden openen en apps bedienen, om je tijd te besparen."
 cover:
-  image: "/images/covers/2026-03-24-anthropic-s-claude-code-and-cowork-can-control-your-computer.webp"
-  alt: "Anthropic’s Claude Code and Cowork can control your computer"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"

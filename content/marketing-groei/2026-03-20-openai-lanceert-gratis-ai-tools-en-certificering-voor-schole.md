@@ -5,8 +5,9 @@ tags: ["onderwijs", "ai-integratie", "docententraining", "gelijke kansen"]
 categorieen: ["marketing-groei"]
 summary: "OpenAI biedt scholen gratis AI-tools en een certificeringsprogramma om docenten te trainen en kansenongelijkheid in het onderwijs te verkleinen."
 cover:
-  image: "/images/covers/2026-03-20-ensuring-ai-use-in-education-leads-to-opportunity.webp"
-  alt: "Ensuring AI use in education leads to opportunity"
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/ai-education-opportunity"

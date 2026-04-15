@@ -5,8 +5,9 @@ tags: ["creatieve diensten", "marketing", "abonnementsmodel", "kostenbeheersing"
 categorieen: ["slimmer-werken"]
 summary: "Een abonnementsmodel met een vast maandbedrag voor creatieve diensten belooft voorspelbare kosten, een consistent team en snellere levering."
 cover:
-  image: "/images/covers/2026-03-22-flocksy-eliminate-agency-overhead-with-flat-rate-creative-de.webp"
-  alt: "Flocksy: Eliminate Agency Overhead with Flat-Rate Creative Design"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17303658/flocksy-eliminate-agency-overhead-with-flat-rate-creative-design"

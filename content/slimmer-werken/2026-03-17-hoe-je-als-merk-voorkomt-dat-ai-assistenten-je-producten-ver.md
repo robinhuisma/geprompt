@@ -5,8 +5,9 @@ tags: ["ai", "e-commerce", "retail", "merken"]
 categorieen: ["slimmer-werken"]
 summary: "Merken als L'Oréal sluiten aan op een neutraal protocol om grip te krijgen op hoe AI-shoppertools hun producten tonen en aanprijzen."
 cover:
-  image: "/images/covers/2026-03-17-l-8217-or-al-unilever-mars-in-agentic-commerce.webp"
-  alt: "L&#8217;Oréal, Unilever, Mars in agentic commerce"
+  image: "https://images.pexels.com/photos/10321966/pexels-photo-10321966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish home office with standing desk, laptop, and plants for ergonomic work environment."
+  caption: "Foto: Standsome Worklifestyle via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/loral-unilever-mars-agentic-commerce"

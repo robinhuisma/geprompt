@@ -5,8 +5,9 @@ tags: ["ai-adoptie", "verandermanagement", "organisatiecultuur", "vertrouwen"]
 categorieen: ["nieuws-tools"]
 summary: "Ondernemers zien kansen, maar medewerkers vrezen AI. De sleutel tot adoptie ligt in het aanpakken van praktische angsten, niet in meer technologie."
 cover:
-  image: "/images/covers/2026-03-21-why-people-really-hate-ai.webp"
-  alt: "Why people really hate AI"
+  image: "https://images.pexels.com/photos/5614259/pexels-photo-5614259.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop, smartphone, and tablet with a prosthetic hand, emphasizing digital connectivity."
+  caption: "Foto: Anna Shvets via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast"

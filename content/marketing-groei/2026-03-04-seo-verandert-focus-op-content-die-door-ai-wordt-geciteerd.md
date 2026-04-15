@@ -5,8 +5,9 @@ tags: ["seo", "contentmarketing", "ai", "zoekmachines"]
 categorieen: ["marketing-groei"]
 summary: "Zichtbaarheid in AI-zoekresultaten hangt niet meer alleen af van links, maar van content die zo betrouwbaar is dat AI-tools je als bron citeren."
 cover:
-  image: "/images/covers/2026-03-04-why-seo-now-depends-on-citation-worthy-content-webinar-via-s.webp"
-  alt: "Why SEO Now Depends on Citation-Worthy Content [Webinar] via @sejournal, @hethr_campbell"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/"

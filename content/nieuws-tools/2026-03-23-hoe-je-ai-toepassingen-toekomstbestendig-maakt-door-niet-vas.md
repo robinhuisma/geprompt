@@ -5,8 +5,9 @@ tags: ["ai infrastructuur", "kostenbeheersing", "toekomstbestendigheid", "chipon
 categorieen: ["nieuws-tools"]
 summary: "Een nieuwe technologie maakt het mogelijk om AI-software flexibel te laten draaien op chips van verschillende fabrikanten, wat kosten kan drukken en afhankelijkheid vermindert."
 cover:
-  image: "/images/covers/2026-03-23-startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-i.webp"
-  alt: "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"

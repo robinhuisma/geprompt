@@ -5,8 +5,9 @@ tags: ["machine experience", "website", "ai", "toegankelijkheid"]
 categorieen: ["slimmer-werken"]
 summary: "Machine Experience (MX) meet hoe goed je website communiceert met AI's en tools. Een goede MX is essentieel voor zichtbaarheid in AI-overzichten en toegankelijkheid."
 cover:
-  image: "/images/covers/2026-03-19-app-what-is-your-site-s-machine-experience-mx-score.webp"
-  alt: "App: What Is Your Site’s Machine Experience (MX) Score?"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17091514/what-is-your-sites-machine-experience-score"

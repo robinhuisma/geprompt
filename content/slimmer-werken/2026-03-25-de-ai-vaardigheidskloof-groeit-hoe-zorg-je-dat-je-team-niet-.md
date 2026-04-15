@@ -5,8 +5,9 @@ tags: ["ai-vaardigheden", "teamontwikkeling", "strategie", "slimmer-werken"]
 categorieen: ["slimmer-werken"]
 summary: "AI vervangt banen nog niet, maar creëert wel een groeiende kloof tussen ervaren gebruikers en de rest. Dit is hoe je als ondernemer praktisch investeert in de vaardigheden van je team."
 cover:
-  image: "/images/covers/2026-03-25-the-ai-skills-gap-is-here-says-ai-company-and-power-users-ar.webp"
-  alt: "The AI skills gap is here, says AI company, and power users are pulling ahead"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"

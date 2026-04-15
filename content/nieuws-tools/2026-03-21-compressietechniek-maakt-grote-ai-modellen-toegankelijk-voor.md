@@ -5,8 +5,9 @@ tags: ["ai-modellen", "efficiëntie", "toegankelijkheid", "infrastructuur"]
 categorieen: ["nieuws-tools"]
 summary: "Een nieuwe techniek comprimeert krachtige AI-modellen, waardoor ze ook op minder geavanceerde hardware kunnen draaien."
 cover:
-  image: "/images/covers/2026-03-21-multiverse-computing-pushes-its-compressed-ai-models-into-th.webp"
-  alt: "Multiverse Computing pushes its compressed AI models into the mainstream"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"

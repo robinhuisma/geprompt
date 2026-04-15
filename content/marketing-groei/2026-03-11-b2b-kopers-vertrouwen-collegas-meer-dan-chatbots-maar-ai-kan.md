@@ -5,8 +5,9 @@ tags: ["b2b", "chatbots", "vertrouwen", "marketing"]
 categorieen: ["marketing-groei"]
 summary: "Een rapport toont dat B2B-beslissers aanbevelingen van collega's bijna twee keer zo veel vertrouwen als AI-chatbots, maar dat betekent niet dat je chatbots moet vermijden."
 cover:
-  image: "/images/covers/2026-03-11-b2b-buyers-trust-peers-over-ai-chatbots-report-finds-via-sej.webp"
-  alt: "B2B Buyers Trust Peers Over AI Chatbots, Report Finds via @sejournal, @MattGSouthern"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/b2b-buyers-trust-peers-over-ai-chatbots-report-finds/569261/"

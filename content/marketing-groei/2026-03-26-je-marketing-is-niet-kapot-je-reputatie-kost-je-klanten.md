@@ -5,8 +5,9 @@ tags: ["reputatiemanagement", "klantervaring", "marketing", "ai"]
 categorieen: ["marketing-groei"]
 summary: "Klanten kiezen niet meer op je advertentie, maar op je online reputatie. AI-systemen beoordelen je op basis van reviews en klantfeedback."
 cover:
-  image: "/images/covers/2026-03-26-your-marketing-isn-t-broken-your-reputation-is-costing-you-c.webp"
-  alt: "Your Marketing Isn’t Broken—Your Reputation Is Costing You Customers"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17306768/your-reputation-is-costing-you-customers"

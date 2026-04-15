@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "organisatieverandering", "strategie", "leiderschap"]
 categorieen: ["marketing-groei"]
 summary: "Succesvolle AI-integratie draait niet om de nieuwste tools, maar om het aanpassen van je bedrijfsprocessen, teamstructuur en leiderschap."
 cover:
-  image: "/images/covers/2026-03-04-marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technolo.webp"
-  alt: "Marketingfacts Jaarboek 2026: AI is geen kwestie van technologie, maar een organisatievraagstuk"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/marketingfacts-jaarboek-2026-ai-is-geen-kwestie-van-technologie-maar-een-organisatievraagstuk/"

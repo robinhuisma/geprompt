@@ -5,8 +5,9 @@ tags: ["google workspace", "ai-productiviteit", "slimmer werken", "automatiserin
 categorieen: ["slimmer-werken"]
 summary: "Binnen Google Workspace zijn enkele Gemini-AI-tools praktisch inzetbaar voor het samenvatten van mails, opstellen van content en bijhouden van acties."
 cover:
-  image: "/images/covers/2026-03-18-the-gemini-powered-features-in-google-workspace-that-are-wor.webp"
-  alt: "The Gemini-powered features in Google Workspace that are worth using"
+  image: "https://images.pexels.com/photos/5435089/pexels-photo-5435089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Explore a neatly arranged artist's workspace filled with drawing materials and sketchbooks."
+  caption: "Foto: Anna Tarazevich via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/"

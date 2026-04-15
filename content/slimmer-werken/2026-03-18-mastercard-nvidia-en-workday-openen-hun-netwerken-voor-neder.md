@@ -5,8 +5,9 @@ tags: ["fintech", "ai-infrastructuur", "samenwerking", "innovatieprogramma"]
 categorieen: ["slimmer-werken"]
 summary: "Gevestigde techreuzen bieden via specifieke programma's toegang tot hun kennis, infrastructuur en AI-tools, wat kansen biedt voor fintechs en andere bedrijven."
 cover:
-  image: "/images/covers/2026-03-18-kort-mastercard-verleidt-fin-tech-star-tups-vertiv-en-nvidia.webp"
-  alt: "Kort: Mastercard verleidt fin­tech­star­tups, Vertiv en Nvidia tillen ai-fabriek omhoog (en meer)"
+  image: "https://images.pexels.com/photos/5224947/pexels-photo-5224947.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Wooden mannequin and inspirational sign on a desk beside a laptop, promoting creativity."
+  caption: "Foto: Joslyn Pickens via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/18/kort-mastercard-verleidt-fintechstartups-vertiv-en-nvidia-tillen-ai-fabriek-omhoog-en-meer/"

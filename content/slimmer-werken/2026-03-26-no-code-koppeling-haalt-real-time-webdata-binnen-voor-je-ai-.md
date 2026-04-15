@@ -5,8 +5,9 @@ tags: ["no-code", "automatisering", "webscraping", "ai-workflows"]
 categorieen: ["slimmer-werken"]
 summary: "Met de nieuwe integratie tussen Firecrawl en n8n kun je zonder technische kennis webdata ophalen en direct gebruiken in je AI-projecten."
 cover:
-  image: "/images/covers/2026-03-26-firecrawl-n8n-real-time-web-data-for-your-ai-workflows.webp"
-  alt: "Firecrawl + n8n: real-time web data for your AI workflows"
+  image: "https://images.pexels.com/photos/34803980/pexels-photo-34803980.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A modern workspace featuring a laptop, mouse, and plant on a wooden desk by a window."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.n8n.io/firecrawl-n8n-real-time-web-data-for-your-ai-workflows/"

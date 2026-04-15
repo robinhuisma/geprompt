@@ -5,8 +5,9 @@ tags: ["chatgpt", "automatisering", "productiviteit", "apps"]
 categorieen: ["slimmer-werken"]
 summary: "ChatGPT kan nu direct met apps als Canva, Expedia en Spotify praten, waardoor je taken zoals ontwerp, reisplanning en contentcreatie sneller kunt uitvoeren."
 cover:
-  image: "/images/covers/2026-03-16-how-to-use-the-new-chatgpt-app-integrations-including-doorda.webp"
-  alt: "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others"
+  image: "https://images.pexels.com/photos/4348297/pexels-photo-4348297.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman organizing art supplies on a desk in a creatively decorated indoor workspace."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"

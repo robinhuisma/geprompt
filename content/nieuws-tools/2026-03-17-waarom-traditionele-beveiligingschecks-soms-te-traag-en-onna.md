@@ -5,8 +5,9 @@ tags: ["ai", "cybersecurity", "softwareontwikkeling", "codereview"]
 categorieen: ["nieuws-tools"]
 summary: "AI-gestuurde beveiliging kan traditionele SAST-tools vervangen door sneller echte kwetsbaarheden te vinden met minder valse meldingen."
 cover:
-  image: "/images/covers/2026-03-17-why-codex-security-doesn-t-include-a-sast-report.webp"
-  alt: "Why Codex Security Doesn’t Include a SAST Report"
+  image: "https://images.pexels.com/photos/92628/pexels-photo-92628.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Blurred modern workspace with laptops and papers, highlighting contemporary office dynamics."
+  caption: "Foto: Markus Spiske via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/why-codex-security-doesnt-include-sast"

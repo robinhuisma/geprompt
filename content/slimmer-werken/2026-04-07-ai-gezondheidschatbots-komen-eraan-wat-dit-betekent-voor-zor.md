@@ -7,6 +7,11 @@ summary: "Grote techbedrijven lanceren gezondheids-AI voor iedereen, wat kansen 
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De opkomst van AI-gezondheidschatbots van grote techbedrijven biedt kansen voor zorgondernemers om hun dienstverlening te vernieuwen, maar vraagt ook om een kritische blik op de betrouwbaarheid en onafhankelijke toetsing van deze tools. Het is een kans om de toegankelijkheid van zorg te verbeteren, maar de kwaliteit moet voorop staan.

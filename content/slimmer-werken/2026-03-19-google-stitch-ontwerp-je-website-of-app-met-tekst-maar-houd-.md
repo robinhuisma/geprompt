@@ -5,8 +5,9 @@ tags: ["ai-tools", "webdesign", "prototyping", "google"]
 categorieen: ["slimmer-werken"]
 summary: "Google's nieuwe AI-tool Stitch maakt UI-ontwerpen op basis van tekst, maar is vooral een hulpmiddel voor snelle concepten, geen vervanging voor ontwerpers."
 cover:
-  image: "/images/covers/2026-03-19-google-komt-met-vibedesign-koers-figma-keldert.webp"
-  alt: "Google komt met ‘vibedesign’, koers Figma keldert"
+  image: "https://images.pexels.com/photos/7653569/pexels-photo-7653569.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Aerial view of four colleagues working with laptops and documents at a shared desk."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/google-komt-vibedesign-koers-figma-keldert"

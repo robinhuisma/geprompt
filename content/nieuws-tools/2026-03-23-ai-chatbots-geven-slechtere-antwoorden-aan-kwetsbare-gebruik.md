@@ -5,8 +5,9 @@ tags: ["ai-ethiek", "chatbots", "gebruikerservaring", "bias"]
 categorieen: ["nieuws-tools"]
 summary: "Onderzoek toont aan dat chatbots zoals GPT-4 minder accuraat en behulpzaam zijn voor gebruikers met lagere taalvaardigheid of opleiding, een risico voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-23-study-ai-chatbots-provide-less-accurate-information-to-vulne.webp"
-  alt: "Study: AI chatbots provide less-accurate information to vulnerable users"
+  image: "https://images.pexels.com/photos/16094061/pexels-photo-16094061.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Eyeglasses next to a smartphone displaying the ChatGPT AI app on a patterned surface."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219"

@@ -5,8 +5,9 @@ tags: ["ai", "website", "content", "chatbots"]
 categorieen: ["marketing-groei"]
 summary: "AI-bots lezen je website anders dan mensen; met een paar aanpassingen zorg je dat ze je content correct doorgeven aan potentiële klanten."
 cover:
-  image: "/images/covers/2026-03-04-what-ai-sees-when-it-visits-your-website-and-how-to-fix-it.webp"
-  alt: "What AI Sees When It Visits Your Website (And How To Fix It)"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/"

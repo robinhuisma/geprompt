@@ -5,8 +5,9 @@ tags: ["zelfrijdende auto's", "wetgeving", "innovatie", "mobiliteit"]
 categorieen: ["slimmer-werken"]
 summary: "Trage wetgeving houdt zelfrijdende auto's in het lab, wat innovatie en concurrentievermogen van Nederlandse bedrijven in mobiliteit en logistiek schaadt."
 cover:
-  image: "/images/covers/2026-03-03-de-zelfrijdende-auto-moet-het-lab-uit.webp"
-  alt: "De zelfrijdende auto moet het lab uit"
+  image: "https://images.pexels.com/photos/5506059/pexels-photo-5506059.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious auto workshop showcasing various car parts and repair equipment."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/20/de-zelfrijdende-auto-moet-het-lab-uit/"

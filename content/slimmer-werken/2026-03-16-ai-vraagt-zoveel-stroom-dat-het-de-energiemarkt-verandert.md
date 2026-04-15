@@ -5,8 +5,9 @@ tags: ["ai", "datacenters", "energie", "duurzaamheid"]
 categorieen: ["slimmer-werken"]
 summary: "De explosieve groei van AI drijft het stroomverbruik van datacenters enorm op, wat de energiemarkt en mogelijk je energierekening beïnvloedt."
 cover:
-  image: "/images/covers/2026-03-16-energievraag-stijgt-enorm-door-datacenters-maar-waar-moet-he.webp"
-  alt: "Energievraag stijgt enorm door datacenters, maar waar moet het vandaan komen?"
+  image: "https://images.pexels.com/photos/4348375/pexels-photo-4348375.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Artistic workspace featuring a laptop, tablet, flowers, and art supplies on a table."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1751844/waar-moet-de-stroom-voor-al-die-datacenters-straks-vandaan-komen.html"

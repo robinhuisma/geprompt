@@ -5,8 +5,9 @@ tags: ["e-commerce", "klantensupport", "automatisering", "productcatalogus"]
 categorieen: ["nieuws-tools"]
 summary: "Webshops kunnen met AI-modellen klantvragen automatisch sorteren en productinformatie op grote schaal nauwkeuriger maken, net als grote spelers."
 cover:
-  image: "/images/covers/2026-03-13-wayfair-boosts-catalog-accuracy-and-support-speed-with-opena.webp"
-  alt: "Wayfair boosts catalog accuracy and support speed with OpenAI"
+  image: "https://images.pexels.com/photos/17485351/pexels-photo-17485351.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person navigating an online store on a laptop, at a modern indoor office desk."
+  caption: "Foto: Shoper .pl via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/wayfair"

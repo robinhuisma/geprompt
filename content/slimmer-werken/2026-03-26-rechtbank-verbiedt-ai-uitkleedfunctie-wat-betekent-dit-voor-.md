@@ -5,8 +5,9 @@ tags: ["ai", "regelgeving", "juridisch", "verantwoordelijkheid"]
 categorieen: ["slimmer-werken"]
 summary: "Een rechter verbiedt een specifieke AI-functie in Nederland, wat een precedent schept voor de verantwoordelijkheid van aanbieders en gebruikers van AI-tools."
 cover:
-  image: "/images/covers/2026-03-26-rechtbank-amsterdam-verbiedt-uitkleedfunctie-chatbot-grok-in.webp"
-  alt: "Rechtbank Amsterdam verbiedt uitkleedfunctie chatbot Grok in Nederland"
+  image: "https://images.pexels.com/photos/10321966/pexels-photo-10321966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Stylish home office with standing desk, laptop, and plants for ergonomic work environment."
+  caption: "Foto: Standsome Worklifestyle via Pexels"
 draft: false
 source_name: "Nos"
 source_url: "https://nos.nl/l/2607979"

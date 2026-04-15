@@ -5,8 +5,9 @@ tags: ["saas", "ai-agents", "verdienmodel", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "AI die zelf codeert en taken uitvoert bedreigt het abonnementsmodel van softwarebedrijven, waardoor strategische aanpassingen nodig zijn."
 cover:
-  image: "/images/covers/2026-03-24-saas-pocalypse-ai-zet-het-verdienmodel-van-60-000-softwarebe.webp"
-  alt: "SaaS-pocalypse: AI zet het verdienmodel van 60.000 softwarebedrijven op zijn kop"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/saas-saaspocalypse-ai-agentic-verdienmodel"

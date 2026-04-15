@@ -5,8 +5,9 @@ tags: ["ai search", "website optimalisatie", "contentstrategie", "technische seo
 categorieen: ["marketing-groei"]
 summary: "Een concrete audit om je website te optimaliseren voor AI-zoekmachines, gericht op technische eenvoud en duidelijke contentstructuur."
 cover:
-  image: "/images/covers/2026-03-25-is-your-website-ready-for-ai-search-a-practical-audit-for-cm.webp"
-  alt: "Is Your Website Ready for AI Search? A Practical Audit for CMOs via @sejournal, @lorenbaker"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/"

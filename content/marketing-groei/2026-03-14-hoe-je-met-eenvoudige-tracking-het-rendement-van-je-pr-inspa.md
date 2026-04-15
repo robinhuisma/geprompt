@@ -5,8 +5,9 @@ tags: ["pr", "analytics", "meetbaarheid", "marketing"]
 categorieen: ["marketing-groei"]
 summary: "Door slimme UTM-parameters te koppelen aan Google Analytics 4 zie je eindelijk welke persvermeldingen klanten en omzet opleveren."
 cover:
-  image: "/images/covers/2026-03-14-how-to-prove-pr-business-value-with-utm-parameters-amp-ga4-v.webp"
-  alt: "How To Prove PR Business Value With UTM Parameters &amp; GA4 via @sejournal, @gregjarboe"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/how-to-prove-pr-business-value-with-utm-parameters-ga4/566928/"

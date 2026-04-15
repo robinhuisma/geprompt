@@ -5,8 +5,9 @@ tags: ["ai-tools", "onderzoek", "productiviteit", "informatie"]
 categorieen: ["slimmer-werken"]
 summary: "Perplexity is geen standaard chatbot, maar een AI-onderzoeksassistent die direct bronnen checkt en samenvat, ideaal voor marktonderzoek en concurrentieanalyse."
 cover:
-  image: "/images/covers/2026-03-25-perplexity-vs-chatgpt-which-ai-tool-is-better-2026.webp"
-  alt: "Perplexity vs. ChatGPT: Which AI tool is better? [2026]"
+  image: "https://images.pexels.com/photos/5882572/pexels-photo-5882572.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Colleagues interact in a modern office setting, blending technology with workplace hygiene."
+  caption: "Foto: www.kaboompics.com via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/perplexity-vs-chatgpt"

@@ -5,8 +5,9 @@ tags: ["ai", "gezondheid", "privacy", "data"]
 categorieen: ["slimmer-werken"]
 summary: "Google's Fitbit krijgt een AI-coach die medische dossiers leest, een ontwikkeling die ethische vragen oproept voor bedrijven die met gezondheidsdata werken."
 cover:
-  image: "/images/covers/2026-03-19-fitbit-8217-s-ai-health-coach-will-soon-be-able-to-read-your.webp"
-  alt: "Fitbit&#8217;s AI health coach will soon be able to read your medical records"
+  image: "https://images.pexels.com/photos/8636603/pexels-photo-8636603.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A diverse team engaged in a lively discussion in a modern office setting, fostering collaboration and teamwork."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"

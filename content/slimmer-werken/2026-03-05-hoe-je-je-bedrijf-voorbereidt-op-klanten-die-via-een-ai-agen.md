@@ -5,8 +5,9 @@ tags: ["ai-agent", "klantinteractie", "toekomst", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "De smartphone maakt plaats voor een spraakgestuurde AI-agent als centraal knooppunt. Dit verandert hoe klanten je vinden en met je omgaan."
 cover:
-  image: "/images/covers/2026-03-05-ai-agent-treedt-in-de-plaats-van-smartphone.webp"
-  alt: "Ai-agent treedt in de plaats van smartphone"
+  image: "https://images.pexels.com/photos/7709307/pexels-photo-7709307.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Diverse call center staff collaborating with laptops and headsets in a professional office setting."
+  caption: "Foto: MART  PRODUCTION via Pexels"
 draft: true
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/05/ai-agent-treedt-in-de-plaats-van-smartphone/"

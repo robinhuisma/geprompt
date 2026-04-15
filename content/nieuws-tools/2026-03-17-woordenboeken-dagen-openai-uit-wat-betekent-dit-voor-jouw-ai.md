@@ -5,8 +5,9 @@ tags: ["auteursrecht", "ai-training", "juridisch", "content"]
 categorieen: ["nieuws-tools"]
 summary: "Twee gerenommeerde uitgevers dagen OpenAI voor de rechter wegens auteursrecht, wat de basis van veel AI-tools raakt."
 cover:
-  image: "/images/covers/2026-03-17-the-dictionary-sues-openai.webp"
-  alt: "The dictionary sues OpenAI"
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/"

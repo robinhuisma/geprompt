@@ -5,8 +5,9 @@ tags: ["robotica", "automatisering", "ai-modellen", "productie"]
 categorieen: ["nieuws-tools"]
 summary: "Google integreert zijn AI-modellen in fysieke robots van Agile Robots, waardoor ze beter kunnen leren en zich aanpassen aan onverwachte situaties."
 cover:
-  image: "/images/covers/2026-03-25-google-partners-with-agile-robots-in-latest-ai-robotics-push.webp"
-  alt: "Google Partners With Agile Robots in Latest AI Robotics Push"
+  image: "https://images.pexels.com/photos/18069490/pexels-photo-18069490.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract digital visualization of AI, featuring colorful 3D elements and modern design."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/robotics/google-partners-with-agile-robots-in-ai-robotics-push"

@@ -5,8 +5,9 @@ tags: ["ai infrastructuur", "ruimte", "rekenkracht", "toekomst"]
 categorieen: ["nieuws-tools"]
 summary: "Blue Origin wil satellieten lanceren voor AI-berekeningen, een stap die op termijn de beschikbaarheid en mogelijkheden van AI-tools kan vergroten."
 cover:
-  image: "/images/covers/2026-03-23-bezos-blue-origin-joins-race-to-put-ai-data-centers-in-space.webp"
-  alt: "Bezos’ Blue Origin joins race to put AI data centers in space"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/data-centers/bezos-blue-origin-joins-race-ai-data-centers-in-space"

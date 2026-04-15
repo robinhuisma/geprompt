@@ -5,9 +5,9 @@ tags: ["marketing", "seo", "ai", "content"]
 categorieen: ["marketing-groei"]
 summary: "AEO is het optimaliseren van je content om als bron geciteerd te worden door AI-systemen zoals ChatGPT, naast je reguliere SEO."
 cover:
-  image: "/images/covers/2026-02-28-wat-is-answer-engine-optimization-en-hoe-pas-je-het-toe-als.webp"
-  alt: "What is Answer Engine Optimization (AEO) and how does it change SEO?"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "HubSpot"
 source_url: "https://blog.hubspot.com/marketing/answer-engine-optimization"

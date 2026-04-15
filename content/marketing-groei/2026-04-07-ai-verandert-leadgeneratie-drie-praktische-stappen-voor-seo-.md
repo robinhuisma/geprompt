@@ -10,6 +10,11 @@ cover:
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 AI analyseert klantgesprekken en zoekgedrag om de kwaliteit van leads te verbeteren, wat directe actie vereist van marketingteams. Dit betekent dat je niet langer alleen kunt sturen op het aantal leads, maar moet inzoomen op welke leads daadwerkelijk tot een verkoop leiden.

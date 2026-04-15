@@ -5,8 +5,9 @@ tags: ["openai", "gpt-5", "ai-modellen", "kosten"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI biedt GPT-5.4 nu in twee varianten aan: een snellere Pro en een diepgaandere Thinking, elk met een eigen prijsstrategie."
 cover:
-  image: "/images/covers/2026-03-06-openai-launches-gpt-5-4-with-pro-and-thinking-versions.webp"
-  alt: "OpenAI launches GPT-5.4 with Pro and Thinking versions"
+  image: "https://images.pexels.com/photos/16587315/pexels-photo-16587315.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Smartphone screen showing ChatGPT introduction by OpenAI, showcasing AI technology."
+  caption: "Foto: Sanket  Mishra via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/"

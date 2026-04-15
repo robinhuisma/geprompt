@@ -5,8 +5,9 @@ tags: ["automatisering", "ai", "productiviteit", "software"]
 categorieen: ["slimmer-werken"]
 summary: "Zapier's MCP biedt een veilige manier om de AI-code-editor Cursor te koppelen aan je bedrijfsapps, zonder gevoelige API-sleutels te riskeren."
 cover:
-  image: "/images/covers/2026-03-26-4-ways-to-automate-cursor-with-zapier-mcp.webp"
-  alt: "4 ways to automate Cursor with Zapier MCP"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-cursor-zapier-mcp"

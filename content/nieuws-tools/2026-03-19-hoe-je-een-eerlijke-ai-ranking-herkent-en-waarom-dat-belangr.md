@@ -5,8 +5,9 @@ tags: ["ai-modellen", "ranking", "selectie", "transparantie"]
 categorieen: ["nieuws-tools"]
 summary: "De belangrijkste ranking voor AI-modellen wordt betaald door de bedrijven die hij beoordeelt. Dit is wat je moet weten om als ondernemer een goede keuze te maken."
 cover:
-  image: "/images/covers/2026-03-19-the-leaderboard-you-can-8217-t-game-funded-by-the-companies-.webp"
-  alt: "The leaderboard “you can&#8217;t game,” funded by the companies it ranks"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/"

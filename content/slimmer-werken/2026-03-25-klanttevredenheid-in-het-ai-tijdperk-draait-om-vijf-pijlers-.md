@@ -5,8 +5,9 @@ tags: ["klantenservice", "ai-strategie", "klantervaring", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Een goede klantervaring met AI gaat niet om de chatbot zelf, maar om een systeem dat moeiteloos, competent, veilig, betrouwbaar en inclusief is."
 cover:
-  image: "/images/covers/2026-03-25-what-great-customer-experience-means-in-the-ai-era.webp"
-  alt: "What Great Customer Experience Means in the AI Era"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/what-great-customer-experience-means-in-the-ai-era/"

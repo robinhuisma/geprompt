@@ -5,8 +5,9 @@ tags: ["openai", "ai-modellen", "bedrijfsprocessen", "keuze"]
 categorieen: ["nieuws-tools"]
 summary: "OpenAI introduceert twee nieuwe AI-modellen: een supersnelle, compacte versie en een krachtige, langzamere. Dit biedt ondernemers keuze tussen snelheid en diepgang."
 cover:
-  image: "/images/covers/2026-03-18-openai-s-new-frontier-models-mark-a-huge-change-in-how-ai-wi.webp"
-  alt: "OpenAI’s new frontier models mark a huge change in how AI will be built"
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91507032/openais-new-frontier-models-mark-huge-change-how-ai-will-built?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=03182026"

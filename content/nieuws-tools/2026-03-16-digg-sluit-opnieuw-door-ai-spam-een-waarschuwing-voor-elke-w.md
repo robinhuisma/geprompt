@@ -5,8 +5,9 @@ tags: ["ai-spam", "contentmoderatie", "community", "platformbeheer"]
 categorieen: ["nieuws-tools"]
 summary: "Het platform Digg sluit na een open bèta omdat het werd overspoeld door AI-bots, een direct signaal dat ook jouw website kwetsbaar kan zijn."
 cover:
-  image: "/images/covers/2026-03-16-socialemediaplatform-digg-stopt-opnieuw-door-ai-spam.webp"
-  alt: "Socialemediaplatform 'Digg' stopt opnieuw door AI-spam"
+  image: "https://images.pexels.com/photos/326512/pexels-photo-326512.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Modern office desk setup with dual monitors displaying design software, ideal for tech and business themes."
+  caption: "Foto: Tranmautritam via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1751640/socialemediaplatform-digg-stopt-opnieuw-door-ai-spam.html"

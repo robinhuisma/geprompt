@@ -5,8 +5,9 @@ tags: ["arbeidsmarkt", "personeelsbeleid", "ai-impact", "strategie"]
 categorieen: ["nieuws-tools"]
 summary: "Onderzoek van Anthropic toont aan dat AI banen nog niet vervangt, maar wel invloed heeft op de instroom van jongere werknemers."
 cover:
-  image: "/images/covers/2026-03-14-anthropic-report-says-it-s-too-early-for-ai-to-affect-jobs.webp"
-  alt: "Anthropic Report Says It’s Too Early for AI to Affect Jobs"
+  image: "https://images.pexels.com/photos/30530415/pexels-photo-30530415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop on a wooden table shows an AI chat interface, featuring the DeepSeek chatbot in action."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs"

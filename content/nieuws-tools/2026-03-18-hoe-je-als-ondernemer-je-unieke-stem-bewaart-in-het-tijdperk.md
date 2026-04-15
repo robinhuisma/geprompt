@@ -5,8 +5,9 @@ tags: ["ai", "schrijven", "communicatie", "persoonlijk merk"]
 categorieen: ["nieuws-tools"]
 summary: "Onderzoek waarschuwt voor 'eenheidsworst' door AI, maar met bewust gebruik kun je je eigen toon en denkwijze juist versterken."
 cover:
-  image: "/images/covers/2026-03-18-wetenschappers-waarschuwen-we-gaan-allemaal-hetzelfde-schrij.webp"
-  alt: "Wetenschappers waarschuwen: we gaan allemaal hetzelfde schrijven, praten en denken door AI"
+  image: "https://images.pexels.com/photos/37011843/pexels-photo-37011843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman focuses on her laptop while sitting in a lush outdoor cafe."
+  caption: "Foto: Sóc Năng Động via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1750924/we-gaan-allemaal-hetzelfde-schrijven-praten-en-denken-door-ai.html"

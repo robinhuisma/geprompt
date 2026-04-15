@@ -5,8 +5,9 @@ tags: ["mobiliteit", "autonoom vervoer", "smart city", "samenwerking"]
 categorieen: ["nieuws-tools"]
 summary: "Nvidia sluit deals met Uber en Bolt voor robotaxi's, wat de komende jaren kan leiden tot nieuwe mobiliteitsdiensten en kansen voor lokale bedrijven."
 cover:
-  image: "/images/covers/2026-03-18-bolt-en-uber-in-nvidia-deal-voor-robotaxi-8217-s.webp"
-  alt: "Bolt en Uber in Nvidia-deal voor robotaxi&#8217;s"
+  image: "https://images.pexels.com/photos/8622912/pexels-photo-8622912.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of two NVIDIA RTX 2080 graphics cards with dual fans, high-performance hardware."
+  caption: "Foto: Nana  Dua via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/bolt-uber-nvidiadeal-robotaxis"

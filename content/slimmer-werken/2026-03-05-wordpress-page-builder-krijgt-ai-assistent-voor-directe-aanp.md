@@ -5,8 +5,9 @@ tags: ["wordpress", "webdesign", "ai-integratie", "claude"]
 categorieen: ["slimmer-werken"]
 summary: "De Builderius page builder voor WordPress integreert Claude AI, waarmee je via tekstcommando's direct elementen op je pagina kunt aanpassen zonder te slepen."
 cover:
-  image: "/images/covers/2026-03-05-builderius-wordpress-page-builder-integrates-claude-ai-via-s.webp"
-  alt: "Builderius WordPress Page Builder Integrates Claude AI via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/7653582/pexels-photo-7653582.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Three colleagues working at a shared office desk, using laptops in a modern workspace."
+  caption: "Foto: Thirdman via Pexels"
 draft: true
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/builderius-wordpress-page-builder-integrates-claude-ai/568737/"

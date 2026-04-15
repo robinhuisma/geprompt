@@ -5,8 +5,9 @@ tags: ["openai", "softwareontwikkeling", "python", "ai-assistenten"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI neemt de maker van populaire Python-tools over, wat kan leiden tot betere integratie van AI-assistenten in je dagelijkse ontwikkelwerk."
 cover:
-  image: "/images/covers/2026-03-19-openai-is-acquiring-open-source-python-tool-maker-astral.webp"
-  alt: "OpenAI is acquiring open source Python tool-maker Astral"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/"

@@ -5,9 +5,9 @@ tags: ["reorganisatie", "bedrijfsvoering", "kostenbeheersing", "strategie"]
 categorieen: ["marketing-groei"]
 summary: "De drastische reorganisatie van WPP laat zien hoe je door te schrappen en te focussen je bedrijf wendbaarder en kostenbewuster maakt."
 cover:
-  image: "/images/covers/2026-02-28-wpp-schrapt-tientallen-labels-een-les-in-vereenvoudiging-voo.webp"
-  alt: "WPP reorganiseert: schrappen en indikken tot vier divisies"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/wpp-reorganiseert-schrappen-indikken-tot-vier-divisies"

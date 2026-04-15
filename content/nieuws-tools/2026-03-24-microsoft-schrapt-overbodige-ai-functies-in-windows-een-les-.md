@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "productiviteit", "strategie", "windows"]
 categorieen: ["nieuws-tools"]
 summary: "Microsoft schrapt overbodige AI-functies in Windows, een teken dat 'minder is meer' ook voor ondernemers geldt bij AI-implementatie."
 cover:
-  image: "/images/covers/2026-03-24-microsoft-cuts-back-on-unnecessary-copilot-ai-in-windows.webp"
-  alt: "Microsoft Cuts Back on Unnecessary Copilot AI in Windows"
+  image: "https://images.pexels.com/photos/10142683/pexels-photo-10142683.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Interior view of Microsoft office with logo on wooden wall in Brussels, Belgium."
+  caption: "Foto: Angel Bena via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/microsoft-cuts-back-on-unnecessary-copilot-ai"

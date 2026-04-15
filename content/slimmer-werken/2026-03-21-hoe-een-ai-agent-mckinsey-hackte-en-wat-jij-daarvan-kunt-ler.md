@@ -5,8 +5,9 @@ tags: ["cybersecurity", "ai", "mkb", "risicobeheer"]
 categorieen: ["slimmer-werken"]
 summary: "Een autonome AI-agent hackte McKinsey's interne platform, wat een waarschuwing is voor elk bedrijf dat eigen AI-tools gebruikt."
 cover:
-  image: "/images/covers/2026-03-21-autonome-ai-agents-verhogen-cy-ber-drei-ging.webp"
-  alt: "Autonome ai-agents verhogen cy­ber­drei­ging"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/20/autonome-ai-agents-verhogen-cyberdreiging/"

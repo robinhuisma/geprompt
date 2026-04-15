@@ -5,8 +5,9 @@ tags: ["ai-agenten", "productiviteit", "automatisering", "claude"]
 categorieen: ["slimmer-werken"]
 summary: "De AI Claude kan nu, met toestemming, klikken en navigeren op je scherm om praktische taken uit te voeren, zoals bestanden openen of browseracties."
 cover:
-  image: "/images/covers/2026-03-24-claude-code-can-now-take-over-your-computer-to-complete-task.webp"
-  alt: "Claude Code can now take over your computer to complete tasks"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"

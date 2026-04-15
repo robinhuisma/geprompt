@@ -5,8 +5,9 @@ tags: ["ai", "startups", "innovatie", "investeren"]
 categorieen: ["nieuws-tools"]
 summary: "Investeerders wijzen oppervlakkige 'AI-wrappers' af en zoeken naar startups die fundamentele problemen oplossen met eigen technologie."
 cover:
-  image: "/images/covers/2026-03-16-google-accel-india-accelerator-chooses-5-startups-and-none-a.webp"
-  alt: "Google, Accel India accelerator chooses 5 startups and none are &#8216;AI wrappers&#8217;"
+  image: "https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a laptop with Google on screen, in a remote work setup in Milan, Italy."
+  caption: "Foto: Luca Sammarco via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"

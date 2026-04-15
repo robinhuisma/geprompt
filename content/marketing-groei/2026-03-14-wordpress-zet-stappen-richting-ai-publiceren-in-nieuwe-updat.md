@@ -5,8 +5,9 @@ tags: ["wordpress", "contentcreatie", "ai", "websitebeheer"]
 categorieen: ["marketing-groei"]
 summary: "De nieuwe Gutenberg-update legt de basis voor AI-ondersteund publiceren, wat het beheer van je bedrijfswebsite kan versnellen."
 cover:
-  image: "/images/covers/2026-03-14-wordpress-gutenberg-22-7-lays-groundwork-for-ai-publishing-v.webp"
-  alt: "WordPress Gutenberg 22.7 Lays Groundwork For AI Publishing via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/wordpress-gutenberg-22-7-lays-groundwork-for-ai-publishing/569543/"

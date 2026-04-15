@@ -5,8 +5,9 @@ tags: ["ai", "taalmodel", "nederlands", "dataveiligheid"]
 categorieen: ["slimmer-werken"]
 summary: "Het Nederlandse AI-model GPT-NL biedt een soeverein alternatief voor commerciële taalmodellen, speciaal getraind op rechtmatige Nederlandstalige data."
 cover:
-  image: "/images/covers/2026-03-05-gpt-nl-groeit-uit-tot-alternatief-commerci-le-ai-modellen.webp"
-  alt: "GPT-NL groeit uit tot alternatief commerciële ai-modellen"
+  image: "https://images.pexels.com/photos/28754729/pexels-photo-28754729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Cozy and organized home office workspace featuring a desktop computer, headphones, and creative decor."
+  caption: "Foto: Faizur Rehman via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/02/27/gpt-nl-groeit-uit-tot-alternatief-commerciele-ai-modellen/"

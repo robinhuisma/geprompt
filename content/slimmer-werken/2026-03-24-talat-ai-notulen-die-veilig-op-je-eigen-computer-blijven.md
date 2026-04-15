@@ -5,8 +5,9 @@ tags: ["ai", "meetings", "privacy", "productiviteit"]
 categorieen: ["slimmer-werken"]
 summary: "Talat is een AI-app die vergadernotulen maakt en alles lokaal op je computer verwerkt, zonder cloud-abonnement."
 cover:
-  image: "/images/covers/2026-03-24-talat-8217-s-ai-meeting-notes-stay-on-your-machine-not-in-th.webp"
-  alt: "Talat&#8217;s AI meeting notes stay on your machine, not in the cloud"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/"

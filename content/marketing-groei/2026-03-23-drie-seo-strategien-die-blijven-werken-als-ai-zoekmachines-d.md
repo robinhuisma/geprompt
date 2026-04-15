@@ -5,8 +5,9 @@ tags: ["seo", "ai-zoeken", "contentstrategie", "marketing"]
 categorieen: ["marketing-groei"]
 summary: "Stop met het najagen van rankings en bouw zichtbaarheid op die ertoe doet, met drie praktische SEO-strategieën die bestand zijn tegen AI-zoekmachines."
 cover:
-  image: "/images/covers/2026-03-23-3-strategies-that-can-survive-ai-search-in-2026-what-i-share.webp"
-  alt: "3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live via @sejournal, @theshelleywalsh"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/"

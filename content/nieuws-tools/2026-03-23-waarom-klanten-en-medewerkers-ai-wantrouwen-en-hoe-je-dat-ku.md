@@ -5,8 +5,9 @@ tags: ["ai", "vertrouwen", "klantrelaties", "implementatie"]
 categorieen: ["nieuws-tools"]
 summary: "Ondernemers kunnen het vertrouwen in AI vergroten door transparant te zijn over de beperkingen en de menselijke controle te benadrukken."
 cover:
-  image: "/images/covers/2026-03-23-why-people-really-hate-ai.webp"
-  alt: "Why people really hate AI"
+  image: "https://images.pexels.com/photos/8353783/pexels-photo-8353783.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious modern office featuring multiple computers, chairs, and collaborative workstations in natural light."
+  caption: "Foto: Kampus Production via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast"

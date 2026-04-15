@@ -5,8 +5,9 @@ tags: ["ai-optimalisatie", "geheugen", "modelcompressie", "lokaal draaien"]
 categorieen: ["slimmer-werken"]
 summary: "Een nieuwe compressietechniek reduceert het geheugengebruik van AI-modellen drastisch, wat lokaal draaien goedkoper en sneller maakt."
 cover:
-  image: "/images/covers/2026-03-25-google-039-s-turboquant-ai-compression-algorithm-can-reduce-.webp"
-  alt: "Google&#039;s TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/"

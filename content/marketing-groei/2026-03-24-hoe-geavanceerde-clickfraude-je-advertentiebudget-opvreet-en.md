@@ -5,8 +5,9 @@ tags: ["online adverteren", "clickfraude", "marketingbudget", "ad fraud"]
 categorieen: ["marketing-groei"]
 summary: "Clickfraude is een geavanceerde industrie geworden die je advertentiebudget kan uitputten. Dit zijn de signalen en eerste stappen om je te beschermen."
 cover:
-  image: "/images/covers/2026-03-24-navigating-the-sophisticated-landscape-of-click-fraud-in-202.webp"
-  alt: "Navigating the Sophisticated Landscape of Click Fraud in 2026"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17303016/navigating-the-sophisticated-landscape-of-click-fraud"

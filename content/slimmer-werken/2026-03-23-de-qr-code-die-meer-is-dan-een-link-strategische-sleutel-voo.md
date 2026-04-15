@@ -5,8 +5,9 @@ tags: ["productdata", "logistiek", "compliance", "digitalisering"]
 categorieen: ["slimmer-werken"]
 summary: "Een nieuwe, gestandaardiseerde QR-code kan ondernemers helpen om productinformatie beheersbaar en transparant te delen in de hele keten."
 cover:
-  image: "/images/covers/2026-03-23-de-qr-code-als-strategische-sleutel-voor-productdata.webp"
-  alt: "De QR-code als strategische sleutel voor productdata"
+  image: "https://images.pexels.com/photos/17659372/pexels-photo-17659372.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person interacts with a colorful QR code display on a laptop in a modern indoor setting."
+  caption: "Foto: Viralyft via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/23/de-qr-code-als-strategische-sleutel-voor-productdata/"

@@ -5,8 +5,9 @@ tags: ["openai", "desktop-app", "workflow", "ai-tools"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI werkt aan een alles-in-één desktop-app die ChatGPT, DALL-E en andere tools integreert, wat het dagelijks gebruik voor ondernemers makkelijker maakt."
 cover:
-  image: "/images/covers/2026-03-21-openai-werkt-aan-alles-in-n-desktopapp-voor-ai-tools.webp"
-  alt: "OpenAI werkt aan alles-in-één desktopapp voor AI-tools"
+  image: "https://images.pexels.com/photos/16037283/pexels-photo-16037283.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A laptop displaying ChatGPT on a desk by a window, featuring a modern home office setup."
+  caption: "Foto: Hatice Baran via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2069207/openai-werkt-aan-alles-in-n-desktopapp-voor-ai-tools.html"

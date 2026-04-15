@@ -7,6 +7,11 @@ summary: "Vertrouwen in AI-gedreven klantcontact is geen vage term meer, maar ee
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/the-economics-of-trust-in-ai%e2%80%91driven-cx/"
+cover:
+  image: "https://images.pexels.com/photos/18498317/pexels-photo-18498317.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A vintage typewriter outdoors displaying \"AI ethics\" on paper, symbolizing tradition meets technology."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 Het antwoord op de vraag hoe je de ROI van AI in klantcontact meet, ligt in het kwantificeren van vertrouwen. Vertrouwen is geen abstract merkbegrip meer, maar een operationele variabele die direct van invloed is op klantbehoud, kosten per oplossing en de totale klantwaarde. Door vertrouwen te meten en te verbeteren, kun je de investering in AI-klantcontact rechtstreeks koppelen aan financiële resultaten.

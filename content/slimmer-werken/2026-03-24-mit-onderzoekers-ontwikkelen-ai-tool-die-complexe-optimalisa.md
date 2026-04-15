@@ -5,8 +5,9 @@ tags: ["optimalisatie", "engineering", "ai-onderzoek", "productontwikkeling"]
 categorieen: ["slimmer-werken"]
 summary: "Een nieuwe AI-methode identificeert automatisch de belangrijkste variabelen in complexe problemen, waardoor ingenieurs en ontwerpers veel sneller tot de beste oplossing komen."
 cover:
-  image: "/images/covers/2026-03-24-a-chatgpt-for-spreadsheets-helps-solve-difficult-engineering.webp"
-  alt: "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "News"
 source_url: "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304"

@@ -5,8 +5,9 @@ tags: ["femtech", "gezondheid", "investeren", "startups"]
 categorieen: ["slimmer-werken"]
 summary: "De Nederlandse femtech-sector telt meer dan 50 startups, maar trekt slechts 6% van de health-investeringen. Dit is waarom het geen niche is."
 cover:
-  image: "/images/covers/2026-03-14-must-reads-week-11-booming-femtech-godfather-van-ai-en-ton-v.webp"
-  alt: "Must reads week 11: booming femtech, godfather van AI en Ton van Veen, Jumbo-ceo tegen wil en dank"
+  image: "https://images.pexels.com/photos/7047421/pexels-photo-7047421.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person typing on a laptop outdoors by a lakeside with coffee and newspaper, ideal for remote work imagery."
+  caption: "Foto: cottonbro studio via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/must-reads-femtech-yann-lecun-ton-van-veen"

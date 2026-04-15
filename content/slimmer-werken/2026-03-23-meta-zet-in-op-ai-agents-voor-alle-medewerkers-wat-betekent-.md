@@ -5,8 +5,9 @@ tags: ["ai op de werkvloer", "interne communicatie", "teammanagement", "toekomst
 categorieen: ["slimmer-werken"]
 summary: "Meta experimenteert met persoonlijke AI-agents voor elke werknemer om interne communicatie te stroomlijnen, een model dat vragen oproept over teamdynamiek."
 cover:
-  image: "/images/covers/2026-03-23-bij-meta-krijgt-iedereen-een-ai-agent-zodat-men-minder-met-e.webp"
-  alt: "Bij Meta krijgt iedereen een AI-agent, zodat men minder met elkaar hoeft te praten"
+  image: "https://images.pexels.com/photos/7709271/pexels-photo-7709271.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Professional call center agents working on laptops in a bright modern office."
+  caption: "Foto: MART  PRODUCTION via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2069990/bij-meta-krijgt-iedereen-een-ai-agent-zodat-men-minder-met-elkaar-hoeft-te-praten.html"

@@ -5,8 +5,9 @@ tags: ["digitale transformatie", "it-partnerschap", "strategie", "klantloyalitei
 categorieen: ["slimmer-werken"]
 summary: "McDonald's verlengt zijn IT-partnerschap met Capgemini met vijf jaar, een praktijkvoorbeeld van hoe langdurige samenwerking digitale groei voedt."
 cover:
-  image: "/images/covers/2026-03-08-kort-opnieuw-big-mac-voor-capgemini-odin-koopt-proxsys-en-me.webp"
-  alt: "Kort: Opnieuw Big Mac voor Capgemini, Odin koopt Proxsys (en meer)"
+  image: "https://images.pexels.com/photos/129205/pexels-photo-129205.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "MacBook Pro displayed on a minimalist office desk with shelves in the background."
+  caption: "Foto: Nao Triponez via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/06/kort-opnieuw-big-mac-voor-capgemini-odin-koopt-proxsys-en-meer/"

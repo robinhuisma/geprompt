@@ -7,6 +7,11 @@ summary: "OpenAI stelt voor om winsten uit AI te belasten en publieke vermogensf
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
+cover:
+  image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Minimalist display of OpenAI logo on a screen, set against a gradient blue background."
+  caption: "Foto: Andrew Neel via Pexels"
+
 ---
 
 OpenAI stelt een hervorming van het economisch systeem voor, met belastingen op AI-winsten en publieke vermogensfondsen, om de verwachte impact van AI op werk en ongelijkheid op te vangen. Dit is geen productaankondiging, maar een visiedocument dat de politieke discussie over AI-regulering wil beïnvloeden.

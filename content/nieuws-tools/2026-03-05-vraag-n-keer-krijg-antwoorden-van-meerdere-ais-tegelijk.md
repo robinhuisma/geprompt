@@ -5,8 +5,9 @@ tags: ["ai-tools", "productiviteit", "besluitvorming", "chatbots"]
 categorieen: ["nieuws-tools"]
 summary: "Een nieuwe tool laat je één vraag stellen en toont direct de antwoorden van ChatGPT, Claude, Gemini en anderen, zodat je snel het beste en meest complete antwoord vindt."
 cover:
-  image: "/images/covers/2026-03-05-one-startup-s-pitch-to-provide-more-reliable-ai-answers-crow.webp"
-  alt: "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: true
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/"

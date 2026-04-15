@@ -5,8 +5,9 @@ tags: ["google", "zoekmachines", "contentmarketing", "foodblog"]
 categorieen: ["marketing-groei"]
 summary: "Google heeft zijn AI-receptenweergave aangepast, waardoor foodblogs en receptensites weer meer direct bezoekers kunnen krijgen vanuit de zoekresultaten."
 cover:
-  image: "/images/covers/2026-03-10-google-updates-ai-recipe-results-to-send-more-traffic-via-se.webp"
-  alt: "Google Updates AI Recipe Results To Send More Traffic via @sejournal, @martinibuster"
+  image: "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Laptop displaying Google Analytics in a modern workspace, highlighting digital analytics and technology."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results/568798/"

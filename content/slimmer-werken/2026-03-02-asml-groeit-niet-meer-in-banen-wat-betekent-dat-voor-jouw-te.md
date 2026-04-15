@@ -5,9 +5,9 @@ tags: ["arbeidsmarkt", "tech talent", "strategie", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "De banenmotor bij techreus ASML staat bijna stil, wat wijst op een nieuwe fase in de krappe arbeidsmarkt voor technisch talent."
 cover:
-  image: "/images/covers/2026-03-02-recordcijfers-voor-asml-maar-banengroei-stagneert-8211-penta.webp"
-  alt: "Recordcijfers voor ASML, maar banengroei stagneert &#8211; Pentagon voert druk op Anthropic op"
-  caption: "Beeld gegenereerd met AI voor geprompt.nl"
+  image: "https://images.pexels.com/photos/5506020/pexels-photo-5506020.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious industrial workshop featuring advanced machinery and organized workstations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/recordcijfers-voor-asml-maar-banengroei-stagneert"

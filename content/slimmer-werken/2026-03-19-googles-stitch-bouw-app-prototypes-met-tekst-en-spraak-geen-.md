@@ -5,8 +5,9 @@ tags: ["app-ontwikkeling", "prototyping", "ai-tools", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Google's nieuwe platform Stitch laat je met tekst, afbeeldingen en spraak een werkend prototype van een app of website bouwen, zonder diepgaande programmeerkennis."
 cover:
-  image: "/images/covers/2026-03-19-google-s-stitch-and-the-shift-in-ai-driven-development.webp"
-  alt: "Google's Stitch and the Shift in AI-Driven Development"
+  image: "https://images.pexels.com/photos/6147015/pexels-photo-6147015.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A group of diverse colleagues collaborate in a modern office setting around a wooden table."
+  caption: "Foto: Diva Plavalaguna via Pexels"
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/google-s-stitch-and-ai-driven-development"

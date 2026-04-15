@@ -5,8 +5,9 @@ tags: ["klantcontact", "ai", "empathie", "customer experience"]
 categorieen: ["marketing-groei"]
 summary: "Empathie in AI-klantcontact gaat niet om trucjes, maar om het slim inzetten van data om de juiste menselijke interventie op het juiste moment te bieden."
 cover:
-  image: "/images/covers/2026-03-19-how-to-revive-empathy-and-the-human-touch-in-ai-driven-cx.webp"
-  alt: "How to Revive Empathy and the Human Touch in AI-Driven CX"
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
 draft: false
 source_name: "CustomerThink"
 source_url: "https://customerthink.com/how-to-revive-empathy-and-the-human-touch-in-ai-driven-cx/"

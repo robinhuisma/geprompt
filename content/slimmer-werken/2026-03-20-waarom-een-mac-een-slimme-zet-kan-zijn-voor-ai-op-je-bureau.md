@@ -5,8 +5,9 @@ tags: ["ai", "hardware", "productiviteit", "mac"]
 categorieen: ["slimmer-werken"]
 summary: "De nieuwste generatie AI-tools, zoals persoonlijke assistenten, werkt vaak het beste op een Mac, wat het een strategische keuze maakt voor ondernemers."
 cover:
-  image: "/images/covers/2026-03-20-wie-ai-voor-zich-wil-laten-werken-moet-een-mac-hebben-en-dat.webp"
-  alt: "Wie AI voor zich wil laten werken moet een Mac hebben - en dat weten AI-makers ook"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2068825/wie-ai-voor-zich-wil-laten-werken-moet-een-mac-hebben-en-dat-weten-ai-makers-ook.html"

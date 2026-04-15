@@ -5,8 +5,9 @@ tags: ["microsoft", "windows", "productiviteit", "ai-integratie"]
 categorieen: ["slimmer-werken"]
 summary: "Microsoft verwijdert overbodige Copilot-knoppen uit Windows-apps, een voorbeeld van hoe softwareontwikkelaars luisteren naar feedback om productiviteit te verbeteren."
 cover:
-  image: "/images/covers/2026-03-20-microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows.webp"
-  alt: "Microsoft rolls back some of its Copilot AI bloat on Windows"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"

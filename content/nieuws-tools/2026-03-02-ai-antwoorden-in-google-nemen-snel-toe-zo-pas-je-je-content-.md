@@ -5,9 +5,9 @@ tags: ["google", "zoekmachines", "contentstrategie", "ai"]
 categorieen: ["nieuws-tools"]
 summary: "AI-antwoorden verschijnen nu bij bijna de helft van alle zoekopdrachten in negen sectoren, waardoor je je SEO-strategie moet aanpassen."
 cover:
-  image: "/images/covers/2026-03-02-ai-antwoorden-in-google-nemen-snel-toe-zo-pas-je-je-content.webp"
-  alt: "Google AI Overviews Surges Across 9 Industries via @sejournal, @martinibuster"
-  caption: "Foto via Pexels"
+  image: "https://images.pexels.com/photos/34804017/pexels-photo-34804017.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Detailed view of a computer screen displaying code with a menu of AI actions, illustrating modern software development."
+  caption: "Foto: Daniil Komov via Pexels"
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/"

@@ -5,8 +5,9 @@ tags: ["klantcontact", "lokale dienstverlening", "telefonie", "ai-assistent"]
 categorieen: ["slimmer-werken"]
 summary: "Een platform combineert AI met live telefonisten om 24/7 klantcontact te managen, zodat loodgieters en elektriciens niet meer gebonden zijn aan hun telefoon."
 cover:
-  image: "/images/covers/2026-03-09-signpost-scale-your-small-service-business-with-ai-and-live-.webp"
-  alt: "Signpost: Scale Your Small Service Business With AI and Live Answering"
+  image: "https://images.pexels.com/photos/4559531/pexels-photo-4559531.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "High angle of crop anonymous young man in formal suit typing on laptop while sitting at round table with coffee notebook and documents in outdoor cafe"
+  caption: "Foto: Ketut Subiyanto via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17295760/signpost-conversational-ai-for-small-business-response"

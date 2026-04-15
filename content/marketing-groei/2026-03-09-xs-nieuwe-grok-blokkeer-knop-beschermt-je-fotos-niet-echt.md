@@ -5,8 +5,9 @@ tags: ["social media", "ai", "content", "privacy"]
 categorieen: ["marketing-groei"]
 summary: "Een nieuwe instelling op X belooft te voorkomen dat de AI-chatbot Grok je foto's bewerkt, maar blokkeert alleen het taggen van het account."
 cover:
-  image: "/images/covers/2026-03-09-x-says-you-can-block-grok-from-editing-your-photos.webp"
-  alt: "X says you can block Grok from editing your photos"
+  image: "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Abstract visualization of data analytics with graphs and charts showing dynamic growth."
+  caption: "Foto: Negative Space via Pexels"
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"

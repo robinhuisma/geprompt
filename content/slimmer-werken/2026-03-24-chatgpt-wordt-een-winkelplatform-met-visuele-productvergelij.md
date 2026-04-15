@@ -5,8 +5,9 @@ tags: ["chatgpt", "e-commerce", "ai", "winkelen"]
 categorieen: ["slimmer-werken"]
 summary: "OpenAI integreert een winkelprotocol in ChatGPT, waarmee je straks producten kunt ontdekken en visueel kunt vergelijken via de chat."
 cover:
-  image: "/images/covers/2026-03-24-powering-product-discovery-in-chatgpt.webp"
-  alt: "Powering product discovery in ChatGPT"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Openai"
 source_url: "https://openai.com/index/powering-product-discovery-in-chatgpt"

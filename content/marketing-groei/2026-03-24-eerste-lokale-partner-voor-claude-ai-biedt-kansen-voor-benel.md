@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "enterprise-software", "cloud", "partnerschap"]
 categorieen: ["marketing-groei"]
 summary: "Een Benelux-bedrijf is nu officieel erkend om Claude AI aan te bieden, wat lokale ondersteuning en toegang tot de nieuwste modellen mogelijk maakt voor Nederlandse ondernemers."
 cover:
-  image: "/images/covers/2026-03-24-als-eerste-lokale-benelux-partner-officieel-erkend-door-anth.webp"
-  alt: "Als eerste lokale Benelux-partner officieel erkend door Anthropic"
+  image: "https://images.pexels.com/photos/5833873/pexels-photo-5833873.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Business professionals shaking hands with a tablet displaying financial graphs."
+  caption: "Foto: AlphaTradeZone via Pexels"
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/03/24/als-eerste-lokale-benelux-partner-officieel-erkend-door-anthropic/"

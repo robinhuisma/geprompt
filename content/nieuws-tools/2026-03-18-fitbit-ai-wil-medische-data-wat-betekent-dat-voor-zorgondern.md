@@ -5,8 +5,9 @@ tags: ["gezondheidszorg", "data-integratie", "privacy", "wearables"]
 categorieen: ["nieuws-tools"]
 summary: "Google wil AI van Fitbit toegang geven tot medische dossiers, een ontwikkeling die zorgondernemers dwingt tot een strategische keuze over data-integratie en privacy."
 cover:
-  image: "/images/covers/2026-03-18-ook-de-ai-van-fitbit-neemt-een-duik-in-je-medisch-dossier.webp"
-  alt: "Ook de AI van Fitbit neemt een duik in je medisch dossier"
+  image: "https://images.pexels.com/photos/16094056/pexels-photo-16094056.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A person using a laptop to interact with AI technology indoors during the day."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2068078/ook-de-ai-van-fitbit-neemt-een-duik-in-je-medisch-dossier.html"

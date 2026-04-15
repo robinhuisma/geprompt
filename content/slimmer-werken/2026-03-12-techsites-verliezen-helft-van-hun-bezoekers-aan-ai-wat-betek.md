@@ -5,8 +5,9 @@ tags: ["zoekverkeer", "contentstrategie", "ai search", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Grote techwebsites zien hun zoekverkeer halveren door AI-antwoorden in Google, een trend die ook Nederlandse ondernemers raakt."
 cover:
-  image: "/images/covers/2026-03-12-internationale-techsites-verloren-58-verkeer-aan-ai.webp"
-  alt: "Internationale techsites verloren 58% verkeer aan AI"
+  image: "https://images.pexels.com/photos/6588437/pexels-photo-6588437.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Focused close-up of hands typing on a laptop keyboard, showcasing digital work and technology."
+  caption: "Foto: Yuri Adriel via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/internationale-techsites-verloren-58-verkeer-ai"

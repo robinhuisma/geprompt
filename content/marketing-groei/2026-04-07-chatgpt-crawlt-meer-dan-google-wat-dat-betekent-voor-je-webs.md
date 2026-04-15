@@ -10,6 +10,11 @@ cover:
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/"
+cover:
+  image: "https://images.pexels.com/photos/19891030/pexels-photo-19891030.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Scrabble tiles spelling 'Analytics' on a wooden surface, symbolizing data analytics concept."
+  caption: "Foto: Markus Winkler via Pexels"
+
 ---
 
 ChatGPT's eigen webcrawler haalt nu aanzienlijk meer data van websites op dan de traditionele Googlebot. Dit betekent dat je website niet langer alleen geoptimaliseerd hoeft te zijn voor zoekmachines, maar ook voor AI-modellen die informatie verzamelen voor tools zoals ChatGPT. De verschuiving vraagt om een andere kijk op hoe je content publiceert en structureert.

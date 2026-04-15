@@ -5,8 +5,9 @@ tags: ["ai", "financiën", "klantenservice", "efficiëntie"]
 categorieen: ["slimmer-werken"]
 summary: "Consumenten gebruiken AI voor budgetteren en besparingen, een trend die kansen biedt voor ondernemers om hun eigen financiën te stroomlijnen en klantcontact te verbeteren."
 cover:
-  image: "/images/covers/2026-03-24-helft-nederlanders-vraagt-ai-om-financieel-advies.webp"
-  alt: "Helft Nederlanders vraagt AI om financieel advies"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/helft-nederlanders-vraagt-ai-om-financieel-advies"

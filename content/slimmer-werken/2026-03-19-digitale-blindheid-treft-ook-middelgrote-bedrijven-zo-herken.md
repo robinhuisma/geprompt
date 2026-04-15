@@ -5,8 +5,9 @@ tags: ["digitalisering", "mkb", "strategie", "transformatie"]
 categorieen: ["slimmer-werken"]
 summary: "Een vijfde van de middelgrote bedrijven heeft geen digitale strategie, wat hen kwetsbaar maakt in een snel veranderende markt."
 cover:
-  image: "/images/covers/2026-03-19-n-vijfde-middelgrote-bedrijven-is-digitaal-blind.webp"
-  alt: "‘Één vijfde middelgrote bedrijven is digitaal blind’"
+  image: "https://images.pexels.com/photos/9301290/pexels-photo-9301290.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Group of professionals collaborating in an office setting, emphasizing teamwork and unity."
+  caption: "Foto: Mikhail Nilov via Pexels"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/n-vijfde-middelgrote-bedrijven-digitaal-blind"

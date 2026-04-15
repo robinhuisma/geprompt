@@ -5,8 +5,9 @@ tags: ["overheid", "inspraak", "ai-veiligheid", "authenticatie"]
 categorieen: ["nieuws-tools"]
 summary: "AI maakt het makkelijk om massaal nep-reacties te genereren bij overheidsconsultaties, wat jouw echte inspraak kan verdunnen. Dit is hoe je je stem authentiek houdt."
 cover:
-  image: "/images/covers/2026-03-18-does-the-public-comment-system-have-an-ai-problem.webp"
-  alt: "Does the public comment system have an AI problem?"
+  image: "https://images.pexels.com/photos/37011843/pexels-photo-37011843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman focuses on her laptop while sitting in a lush outdoor cafe."
+  caption: "Foto: Sóc Năng Động via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91510885/does-the-public-comment-system-have-an-ai-problem?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=1&amp;partner=newsletter&amp;campaign_date=03182026"

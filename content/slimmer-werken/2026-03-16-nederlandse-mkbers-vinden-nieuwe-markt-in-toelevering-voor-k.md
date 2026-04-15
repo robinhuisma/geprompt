@@ -5,8 +5,9 @@ tags: ["ruimtevaart", "mkb", "innovatie", "toelevering"]
 categorieen: ["slimmer-werken"]
 summary: "De opkomst van kleine, betaalbare 'cubesats' creëert zakelijke kansen voor Nederlandse MKB'ers in de toelevering van hightech componenten."
 cover:
-  image: "/images/covers/2026-03-16-kleine-satellieten-grote-kansen-nederlandse-ruimtevaartbedri.webp"
-  alt: "Kleine satellieten, grote kansen: Nederlandse ruimtevaartbedrijven groeien hard in de New Space Economy"
+  image: "https://images.pexels.com/photos/4348370/pexels-photo-4348370.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Aerial view of a creative workspace with art supplies and plants, promoting creativity and greenery."
+  caption: "Foto: Antoni Shkraba Studio via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/groei/ruimtevaart-scaleups-defensie"

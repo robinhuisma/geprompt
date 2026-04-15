@@ -7,6 +7,11 @@ summary: "Twee datalekken bij AI-bedrijf Anthropic tonen hoe menselijke fouten g
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/04/02/kort-twee-datablunders-anthropic-in-een-week-vernieuwde-hp-laserjet%e2%80%91lijn-en-meer/"
+cover:
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
+
 ---
 
 De belangrijkste les voor ondernemers is niet dat grote techbedrijven fouten maken, maar dat hun fouten een blauwdruk vormen voor je eigen beveiligingscontroles. Menselijke fouten, zoals verkeerd geconfigureerde systemen, zijn de grootste dreiging, en die kun je vandaag nog aanpakken met eenvoudige processen.

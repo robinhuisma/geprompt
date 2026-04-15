@@ -5,8 +5,9 @@ tags: ["ai", "ondernemen", "privacy", "mkb"]
 categorieen: ["slimmer-werken"]
 summary: "Mark Vletter werkt aan een privacyproof, steward-owned AI-dienst die het moet winnen van grote spelers door gebruiksgemak."
 cover:
-  image: "/images/covers/2026-03-10-must-reads-week-10-comeback-kid-aldi-en-shell-opzij-rift-kom.webp"
-  alt: "Must reads week 10: Comeback kid Aldi en Shell, opzij: Rift komt eraan"
+  image: "https://images.pexels.com/photos/4778/laptop-notebook-working-outside.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Person using laptop outdoors near a boat on a tranquil lake, showcasing remote work lifestyle."
+  caption: "Foto: Picography via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/must-reads-week-10-comeback-kid-aldi-en-shell-opzij-rift-komt-eraan"

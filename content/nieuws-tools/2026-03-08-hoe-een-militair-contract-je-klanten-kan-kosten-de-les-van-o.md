@@ -5,8 +5,9 @@ tags: ["ai-strategie", "leveranciersselectie", "reputatiemanagement", "zakelijke
 categorieen: ["nieuws-tools"]
 summary: "Bedrijven die AI-leveranciers kiezen, moeten rekening houden met reputatieschade als die leveranciers controversiële contracten aangaan, zoals blijkt uit de reacties op OpenAI en Anthropic."
 cover:
-  image: "/images/covers/2026-03-08-anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competit.webp"
-  alt: "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually"
+  image: "https://images.pexels.com/photos/5511089/pexels-photo-5511089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Spacious, well-lit office conference room featuring modern computers and a large screen display for presentations."
+  caption: "Foto: Mike van Schoonderwalt via Pexels"
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/"

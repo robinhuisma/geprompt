@@ -5,8 +5,9 @@ tags: ["ai-strategie", "marketing", "machine learning", "basiskennis"]
 categorieen: ["slimmer-werken"]
 summary: "Een basiskennis van hoe AI leert voorkomt strategische fouten en helpt je de juiste tools te kiezen, in plaats van blind te vertrouwen op 'intelligente' systemen."
 cover:
-  image: "/images/covers/2026-03-11-beyond-the-how-to-of-ai-why-marketers-must-understand-what-a.webp"
-  alt: "Beyond the “How-To” of AI: Why Marketers Must Understand What AI Is"
+  image: "https://images.pexels.com/photos/5976681/pexels-photo-5976681.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A woman works remotely on a laptop while sitting alone in a sandy desert under the sunlight."
+  caption: "Foto: Tima Miroshnichenko via Pexels"
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17294636/machines-that-think"

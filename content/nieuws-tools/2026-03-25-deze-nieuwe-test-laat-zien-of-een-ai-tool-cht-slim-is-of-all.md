@@ -5,8 +5,9 @@ tags: ["ai", "benchmark", "redeneren", "betrouwbaarheid"]
 categorieen: ["nieuws-tools"]
 summary: "Een nieuwe benchmark, ARC-AGI-3, test of AI-systemen echt kunnen redeneren over nieuwe problemen, een vaardigheid die cruciaal is voor betrouwbare zakelijke toepassingen."
 cover:
-  image: "/images/covers/2026-03-25-exclusive-this-new-benchmark-could-expose-ai-s-biggest-weakn.webp"
-  alt: "Exclusive: This new benchmark could expose AI’s biggest weakness"
+  image: "https://images.pexels.com/photos/3862608/pexels-photo-3862608.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Female engineer tests lighting prototype on her hand in a modern office environment."
+  caption: "Foto: ThisIsEngineering via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91515360/arc-prize-foundation-new-ai-benchmark?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=2&amp;partner=newsletter&amp;campaign_date=03252026"

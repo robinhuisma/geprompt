@@ -5,8 +5,9 @@ tags: ["ai", "boekhouden", "ondernemen", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "Intuit ontwikkelt AI die niet alleen transacties verwerkt, maar ook strategisch financieel advies kan geven, zoals een CFO."
 cover:
-  image: "/images/covers/2026-03-27-intuit-thinks-it-s-found-your-company-s-next-cfo-ai.webp"
-  alt: "Intuit thinks it’s found your company’s next CFO: AI"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Fastcompany"
 source_url: "https://www.fastcompany.com/91516946/can-ai-act-as-your-cfo-intuit-is-trying-to-find-out?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=2&amp;partner=newsletter&amp;campaign_date=03272026"

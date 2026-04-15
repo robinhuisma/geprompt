@@ -5,8 +5,9 @@ tags: ["microsoft copilot", "automatisering", "workflows", "mcp"]
 categorieen: ["slimmer-werken"]
 summary: "Met Zapier MCP kun je Microsoft Copilot toegang geven tot duizenden andere apps, waardoor je workflows automatisch doorlopen van je inbox tot je CRM."
 cover:
-  image: "/images/covers/2026-03-24-4-ways-to-automate-microsoft-copilot-with-zapier-mcp.webp"
-  alt: "4 ways to automate Microsoft Copilot with Zapier MCP"
+  image: "https://images.pexels.com/photos/1181207/pexels-photo-1181207.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Hands typing on a blue keyboard with a branded cup on a table."
+  caption: "Foto: Christina Morillo via Pexels"
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/automate-microsoft-copilot-zapier-mcp"

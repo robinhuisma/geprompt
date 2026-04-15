@@ -5,8 +5,9 @@ tags: ["retail", "internationalisering", "schaalvergroting", "strategie"]
 categorieen: ["slimmer-werken"]
 summary: "De Nederlandse retailgigant Action bereidt zich voor op de Amerikaanse markt, een les in schaalvergroting en het navigeren van cultuurverschillen."
 cover:
-  image: "/images/covers/2026-03-27-must-reads-week-13-saas-pocalypse-action-goes-usa-en-de-geva.webp"
-  alt: "Must reads week 13: SaaS-pocalypse, Action goes USA en de gevaarlijkste idealist van Silicon Valley"
+  image: "https://images.pexels.com/photos/16284696/pexels-photo-16284696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A sleek home office setup with digital tools including a tablet, keyboard, and headphones."
+  caption: "Foto: Jakub Zerdzicki via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/leiderschap/must-reads-week-13"

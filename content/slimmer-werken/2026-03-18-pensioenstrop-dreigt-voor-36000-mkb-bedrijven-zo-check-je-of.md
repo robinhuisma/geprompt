@@ -5,8 +5,9 @@ tags: ["pensioen", "mkb", "belasting", "verzekeraars"]
 categorieen: ["slimmer-werken"]
 summary: "Duizenden mkb'ers moeten hun pensioenregeling aanpassen voor het nieuwe stelsel. Doe je niets, dan riskeren jouw werknemers een forse belastingaanslag vanaf 2028."
 cover:
-  image: "/images/covers/2026-03-18-pensioenstrop-dreigt-voor-honderdduizenden-werknemers-8211-o.webp"
-  alt: "Pensioenstrop dreigt voor honderdduizenden werknemers &#8211; Oliemaatschappijen verdienen miljarden aan Iran-oorlog"
+  image: "https://images.pexels.com/photos/5256819/pexels-photo-5256819.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Overhead view of a diverse team placing hands together in a sign of unity during a meeting."
+  caption: "Foto: Thirdman via Pexels"
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/pensioenstrop-dreigt-voor-honderdduizenden-werknemers-oliemaatschappijen-verdienen-miljarden-aan-iran-oorlog"

@@ -5,8 +5,9 @@ tags: ["slimme woning", "ai-assistent", "installatie", "klantadvies"]
 categorieen: ["slimmer-werken"]
 summary: "De nieuwe locatiebewuste functies van Google's AI-assistent openen mogelijkheden voor installateurs om klanten te adviseren over slimmere en efficiëntere woningautomatisering."
 cover:
-  image: "/images/covers/2026-03-04-google-s-gemini-ai-weet-straks-precies-vanuit-waar-in-huis-j.webp"
-  alt: "Google’s Gemini AI weet straks precies vanuit waar in huis je opdrachten geeft"
+  image: "https://images.pexels.com/photos/16094044/pexels-photo-16094044.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A man working on a laptop in a cozy, modern office space with a focus on technology."
+  caption: "Foto: Matheus Bertelli via Pexels"
 draft: true
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1747913/google-s-gemini-ai-weet-straks-precies-vanuit-waar-in-huis-je-opdrachten-geeft.html"

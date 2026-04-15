@@ -5,8 +5,9 @@ tags: ["ai-implementatie", "contentplatforms", "testen", "kwaliteitscontrole"]
 categorieen: ["nieuws-tools"]
 summary: "Een AI-test van YouTube die automatisch video's labelde, leidde tot fouten en laat zien waarom menselijke controle essentieel is."
 cover:
-  image: "/images/covers/2026-03-27-youtube-test-meer-ai-op-thuisscherm-met-dramatische-gevolgen.webp"
-  alt: "YouTube test meer AI op thuisscherm, met dramatische gevolgen"
+  image: "https://images.pexels.com/photos/33440278/pexels-photo-33440278.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "Close-up of YouTube logo displayed on a laptop screen in a dark environment."
+  caption: "Foto: Zulfugar Karimov via Pexels"
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2071459/youtube-test-meer-ai-op-thuisscherm-met-dramatische-gevolgen.html"

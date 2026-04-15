@@ -5,8 +5,9 @@ tags: ["auteursrecht", "ai kunst", "juridisch", "creatief"]
 categorieen: ["nieuws-tools"]
 summary: "Zonder menselijke tussenkomst is AI-gegenereerd werk niet auteursrechtelijk beschermd. Dit is wat 'menselijke tussenkomst' in de praktijk betekent."
 cover:
-  image: "/images/covers/2026-03-05-auteursrecht-op-ai-kunst-niet-zonder-menselijke-tussenkomst.webp"
-  alt: "Auteursrecht op ‘AI-kunst’? Niet zonder menselijke tussenkomst"
+  image: "https://images.pexels.com/photos/18069493/pexels-photo-18069493.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  alt: "A colorful and vibrant abstract 3D render featuring intricate geometric shapes and structures."
+  caption: "Foto: Google DeepMind via Pexels"
 draft: true
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/1748120/auteursrecht-op-ai-kunst-niet-zonder-menselijke-tussenkomst.html"
