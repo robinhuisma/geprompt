@@ -1,33 +1,34 @@
 ---
 title: "Hoe je zichtbaar blijft als klanten via AI-zoekmachines shoppen"
-date: 2026-04-15T18:22:13.478Z
-tags: ["ai-zoeken", "klantreis", "zichtbaarheid", "marketingstrategie"]
+date: 2026-04-15T18:36:41.482Z
+tags: ["aeo", "zoekmachineoptimalisatie", "klantreis", "contentstrategie"]
 categorieen: ["slimmer-werken"]
-summary: "HubSpot's case study laat zien hoe je meetbaar zichtbaar blijft nu klanten hun zoektocht beginnen bij tools als ChatGPT in plaats van Google."
+summary: "HubSpot's case study laat zien hoe je meet en optimaliseert voor 'answer engine optimization' om gevonden te worden in tools als ChatGPT en Perplexity."
+cover:
+  image: "/images/covers/2026-04-15-how-hubspot-became-the-1-crm-in-ai-search-a-case-study.png"
+  alt: "Hoe je zichtbaar blijft als klanten via AI-zoekmachines shoppen"
 draft: false
 source_name: "Blog"
 source_url: "https://blog.hubspot.com/marketing/hubspot-aeo-case-study"
 ---
 
-HubSpot's case study toont een meetbare aanpak om zichtbaar te blijven voor klanten die hun zoektocht starten bij AI-zoekmachines zoals ChatGPT, Gemini of Perplexity. Dit is cruciaal omdat traditionele SEO-metingen hier niet werken. De kern is het systematisch definiëren en meten van je zichtbaarheid in antwoorden van AI-tools.
+Klanten beginnen hun zoektocht steeds vaker in een AI-chat in plaats van Google, en als je bedrijf daar niet verschijnt, mis je leads. HubSpot ontwikkelde een meetmethode om hun zichtbaarheid in 'answer engines' zoals ChatGPT, Gemini en Perplexity te meten en te verbeteren, een strategie die 'answer engine optimization' (AEO) wordt genoemd.
 
 ## Wat er aan de hand is
-HubSpot constateerde dat potentiële klanten steeds vaker hun zoektocht beginnen bij een 'answer engine' zoals ChatGPT, Gemini of Perplexity. Ze vragen daar direct naar productvergelijkingen of oplossingen voor hun problemen, vaak zonder door te klikken naar websites. Om dit te kunnen meten en optimaliseren, begon het marketingteam in juni 2025 met het tool XFunnel. Hiermee bouwden ze een meetarchitectuur voor AI Engine Optimization (AEO). Ze definieerden eerst de 'buyer's journey' in deze nieuwe context: welke vragen stelt een potentiële klant over de problemen die HubSpot's producten oplossen? Vervolgens structureerden ze de meting per productlijn (zoals CRM, Marketing Hub, Sales Hub) en zelfs per specifieke feature (zoals 'Email Automation').
+Volgens een case study op hun eigen blog signaleerde HubSpot een fundamentele verschuiving: potentiële klanten gebruiken steeds vaker AI-tools zoals ChatGPT, Gemini of Perplexity om producten te vergelijken of vragen te stellen. Ze kunnen ook gewoon op Google zoeken en het AI-antwoord (AI Overview) lezen zonder ooit door te klikken naar een website. Om niet onzichtbaar te worden in deze nieuwe klantreis, begon het marketingteam van HubSpot in juni 2025 met het meten van hun 'AI-visibility'. Hiervoor gebruikten ze het tool XFunnel, waarmee ze konden volgen of en hoe vaak HubSpot werd genoemd in de antwoorden van verschillende AI-zoekmachines.
 
 ## Wat dit betekent
-Dit betekent een fundamentele verschuiving in hoe je gevonden wordt. Traditionele SEO, gericht op het ranken in Google en het genereren van kliks, is niet langer voldoende. De nieuwe uitdaging is om op te duiken in de directe antwoorden die AI-tools geven, zonder dat er een klik aan te pas komt. Voor marketeers en ondernemers verandert de belangrijkste KPI van 'klik-through rate' naar 'answer engine visibility'. Het betekent ook dat je je content en kennisbank moet inrichten op het beantwoorden van concrete, vaak vergelijkende vragen, in plaats van het trekken van bezoekers naar een landingspagina. Bedrijven die dit negeren, lopen het risico onzichtbaar te worden in het eerste en meest cruciale stadium van de klantreis.
+Dit betekent dat de traditionele SEO-strategie (optimaliseren voor Google) niet meer voldoende is om klanten te bereiken. De klantreis verplaatst zich van een zoekmachine met tien blauwe links naar een gesprek met een AI. Als jouw bedrijf, product of dienst niet in het antwoord van die AI staat, bestaat het in feite niet voor die zoeker. Voor marketeers, content creators en eigenaren van MKB-bedrijven wordt het daarom cruciaal om te begrijpen op welke vragen (prompts) hun ideale klant een antwoord zoekt, en ervoor te zorgen dat hun bedrijf het juiste, gezaghebbende antwoord is. Het gaat niet langer om het ranken op een zoekwoord, maar om het ranken in een antwoord.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing begint met het in kaart brengen van de vragen die jouw ideale klant zou kunnen stellen aan een AI-tool. HubSpot's aanpak biedt een blauwdruk die je kunt vertalen naar je eigen situatie, ongeacht de grootte van je bedrijf.
+De praktische toepassing hangt af van jouw situatie. HubSpot's aanpak was grootschalig en gestructureerd, maar de kernprincipes zijn ook voor kleinere bedrijven relevant. Het begint met het in kaart brengen van de vragen die jouw doelgroep stelt aan een AI. Vervolgens kun je je content daarop afstemmen.
 
-**Als je een specialistisch product of een dienst verkoopt...** kun je beginnen met het definiëren van de drie tot vijf belangrijkste problemen die je oplost. Stel je voor: een klant vraagt aan ChatGPT "Wat zijn goede opties voor [jouw oplossing]?" of "Hoe kies ik tussen [jouw dienst] en [concurrent]?". Zorg dat de informatie op je website (zoals blogposts, FAQ's, casestudies) deze vragen direct en uitgebreid beantwoordt, met duidelijke, feitelijke vergelijkingen.
+**Als je een specialistische dienst verleent...** zoals advies, coaching of maatwerk, denk dan na over de specifieke problemen waar je klanten tegenaan lopen. Welke vragen zouden ze kunnen stellen aan ChatGPT voordat ze een expert inschakelen? Bijvoorbeeld: "Hoe kies ik de juiste juridische structuur voor mijn eenmanszaak?" Zorg ervoor dat jouw website content bevat die dit vraagstuk grondig en betrouwbaar beantwoordt, zodat een AI-tool jouw site als bron kan aanwijzen.
 
-**Als je een webshop of e-commerce bedrijf runt...** gaat het niet alleen om productnamen, maar om gebruiksscenario's. Klanten vragen niet meer "beste hardloopshoes", maar "welke schoenen zijn goed voor iemand met knieklachten die 10 km per week rent?". Herstructureer je productbeschrijvingen en blogcontent om dit soort specifieke, probleemgerichte vragen te beantwoorden. Focus op gedetailleerde specificaties, voor- en nadelen, en echte gebruikersscenario's.
+**Als je een webshop of product verkoopt...** ga dan verder dan alleen productbeschrijvingen. Klanten gebruiken AI om producten te vergelijken. Welke kenmerken, voor- en nadelen noemen ze in hun prompt? Creëer uitgebreide vergelijkingsgidsen, 'kopersgidsen' of onafhankelijk lijkende reviews die de voor- en nadelen van verschillende oplossingen (inclusief die van jou) uitleggen. Dit is het type content waar een answer engine naar op zoek gaat.
 
-**Als je een marketingteam aanstuurt...** is het tijd om naast SEO-KPI's ook AEO-KPI's te definiëren. Dit hoeft niet met dure tools; begin kwalitatief. Laat teamleden regelmatig zoekopdrachten intypen in gratis versies van ChatGPT of Gemini, gericht op jouw niche. Noteer of en hoe jouw bedrijf wordt genoemd. Stel jezelf de vraag: "Als wij het antwoord waren, hoe zou dat er dan uitzien?" en creëer content die dat antwoord vormgeeft.
+**Als je content maakt voor leadgeneratie...** verschuif je focus van 'keywords' naar 'prompts'. In plaats van te schrijven voor "CRM software", schrijf je voor de prompt: "Wat zijn de belangrijkste functies om naar te zoeken in een CRM voor een klein team?" Structureer je artikel expliciet als een antwoord op die vraag, met duidelijke, feitelijke informatie. Autoriteit en volledigheid worden nog belangrijker, omdat AI-tools bronnen willen citeren die betrouwbaar zijn.
 
-**Als je een lokale ondernemer bent...** lijkt dit misschien minder relevant, maar ook jouw klanten gebruiken AI. Iemand kan vragen: "Wat is een goede [jouw beroep] in [jouw stad]?" of "Hoe kies ik een betrouwbare [jouw dienst]?". Zorg dat je online profielen (Google Bedrijfsprofiel, website, sociale media) vol staan met duidelijke informatie over je specialisaties, dienstenpakket en onderscheidende kenmerken. AI-tools halen hun antwoorden uit deze publiek toegankelijke bronnen.
+De eerste stap is simpel: ga zelf eens in de rol van je klant zitten. Stel de vragen die zij zouden stellen in ChatGPT, Gemini of de zoekbalk van Google (let op de AI Overview). Kijk of jouw bedrijf of website wordt genoemd. Zo niet, dan weet je waar je werk aan de winkel is.
 
-De kern is om te stoppen met alleen te denken in termen van 'trekker'-content en te beginnen met het creëren van 'antwoord'-content. Het doel is niet langer de klik, maar het zijn van de meest complete en betrouwbare bron voor de vraag die gesteld wordt.
-
-Bron: HubSpot Blog (https://blog.hubspot.com/marketing/hubspot-aeo-case-study)
+Bron: [HubSpot Blog](https://blog.hubspot.com/marketing/hubspot-aeo-case-study)
