@@ -1,31 +1,29 @@
 ---
-title: "AI als winkelmanager: wat de eerste autonome winkel betekent voor jouw personeelsplanning"
-date: 2026-04-17T10:41:48.322Z
-tags: ["ai", "retail", "personeel", "automatisering"]
+title: "AI als winkelmanager: wat de eerste autonome winkel betekent voor ondernemers"
+date: 2026-04-17T14:32:14.492Z
+tags: ["ai", "retail", "automatisering", "personeel"]
 categorieen: ["slimmer-werken"]
-summary: "Een AI-agent runt nu een echte winkel, huurt personeel in en maakt de roosters – een praktijkvoorbeeld van hoe AI eerst het management kan vervangen, niet de medewerker."
+summary: "Een AI-agent runt nu een echte winkel in San Francisco, wat een voorproefje is van hoe AI managementtaken kan overnemen."
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store"
 ---
 
-Een AI-agent runt nu een echte winkel in San Francisco, huurt personeel in en maakt de roosters. Dit experiment laat zien hoe AI eerst het middenmanagement kan vervangen, niet de uitvoerende medewerker. Voor ondernemers betekent dit een verschuiving in waar je automatisering kunt inzetten: niet om mensen te vervangen, maar om ze slimmer aan te sturen.
+Een AI-agent runt nu een echte winkel in San Francisco, huurt personeel in en beheert de dagelijkse operaties. Dit experiment toont niet dat AI de menselijke winkelmedewerker vervangt, maar wel dat het de rol van manager of ondernemer kan overnemen. Het is een voorproefje van een toekomst waarin AI de baas vervangt lang voordat het de werknemer vervangt.
 
 ## Wat er aan de hand is
-Andon Labs, een onderzoekslab, heeft een AI-agent genaamd 'Luna' volledige controle gegeven over een fysieke winkel. Volgens een bericht in The Rundown kreeg de agent een driejarig huurcontract, een budget van $100.000 en een creditcard. De enige opdracht was: maak winst. De AI bedacht zelf het winkelconcept, plaatste vacatures op platforms zoals TaskRabbit en voerde sollicitatiegesprekken via Zoom (met de camera uit). De agent gebruikt Claude Sonnet voor de besluitvorming en Gemini voor spraakinteracties, en observeert de winkel via screenshots van beveiligingscamera's. Tijdens het proces maakte de AI fouten, zoals per ongeluk een klusjesman uit Afghanistan selecteren en het rooster voor de openingsweekend verprutsen.
+Het AI-bedrijf Andon Labs heeft een experiment opgezet waarbij een AI-agent genaamd 'Luna' volledige autonomie kreeg over een fysieke winkel in San Francisco. Volgens een bericht in The Rundown kreeg de agent een driejarig huurcontract, een budget van $100.000 en een creditcard. De enige opdracht was: maak winst. De AI creëerde zelf het concept voor de boetiek, plaatste vacatures en voerde sollicitatiegesprekken via Zoom (met de camera uit). De agent gebruikt Claude Sonnet 4.6 voor de redeneringen en Gemini 3.1 Flash-Lite Preview voor spraak, en observeert de winkel via screenshots van beveiligingscamera's. Tijdens het proces maakte de AI fouten, zoals per ongeluk Afghanistan selecteren in een dropdown-menu bij het inhuren van een schilder en het rooster voor de openingsweekend verprutsen.
 
 ## Wat dit betekent
-Dit experiment is een concrete voorbode van een verschuiving in automatisering. AI vervangt niet de kassamedewerker of de vakkenvuller, maar neemt de rol van de filiaalmanager of regiomanager over. Het betekent dat taken zoals roosteren, budgetbewaking, basisinkoop en personeelsselectie voor entry-level functies geautomatiseerd kunnen worden. Voor ondernemers verandert de vraag van "welke banen verdwijnen er?" naar "welke managementtaken kan ik uitbesteden aan een agent?". Het experiment toont ook de huidige beperkingen: AI is capabel in gestructureerde planning, maar faalt nog in praktisch gezond verstand en contextbegrip, wat leidt tot kostbare fouten. De verwachting is dat deze kloof met elke nieuwe modelgeneratie kleiner wordt.
+Dit experiment is een concrete stap van AI-demo's in een afgeschermde omgeving naar de echte wereld. Het betekent dat voor ondernemers, vooral in de retail, de discussie verschuift van 'kan AI een klant helpen?' naar 'kan AI mijn bedrijf runnen?'. De fouten die de AI maakt – zoals het verkeerd plannen – tonen de huidige beperkingen, maar elke upgrade van het model brengt een foutlozere versie dichterbij. Voor winkeliers en kleine ondernemers wijst dit op een toekomst waarin AI de operationele en administratieve last kan verlichten, waardoor zij zich meer kunnen richten op strategie, inkoop of persoonlijk klantcontact. Het zet ook vraagtekens bij de traditionele managementfunctie.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. Het experiment toont een principe: AI kan worden ingezet voor operationeel management, niet alleen voor repetitieve taken. Denk na over welke beslissingsprocessen in jouw bedrijf gestandaardiseerd zijn maar veel tijd kosten.
+De praktische toepassing hangt af van jouw situatie. Het experiment toont vooral de richting aan waarin de technologie zich beweegt: AI die complexe, samengestelde taken overneemt in plaats van losse handelingen. Hoewel de specifieke 'Luna'-agent niet beschikbaar is voor algemeen gebruik, kun je de principes ervan verkennen.
 
-**Als je een winkel of horecazaak runt...** kun je experimenteren met AI voor het maken van personeelsroosters op basis van historische verkoopdata en beschikbaarheid. Begin met een proef voor één locatie en laat een mens de output controleren op praktische haalbaarheid, voordat je het live zet.
+**Als je een winkel runt of een klein bedrijf hebt...** kun je nadenken over welke managementtaken het meest tijdrovend en regelmatig zijn, zoals roosterplanning of basisinventarisatie. Dit zijn taken waarop je nu al geautomatiseerde systemen of eenvoudige AI-tools kunt inzetten als voorbereiding op meer geavanceerde agenten in de toekomst.
 
-**Als je een groeiend team aanstuurt...** dan kan een AI-agent helpen bij de eerste screening van sollicitaties voor junior- of standaardfuncties. Je kunt de agent trainen op je basisvoorwaarden (beschikbaarheid, vereiste certificaten) zodat jij alleen de meest geschikte kandidaten hoeft te spreken.
+**Als je leidinggevende bent...** is het verstandig om je team voor te bereiden op een samenwerking met AI-systemen die instructies geven of prestaties monitoren. Focus op het ontwikkelen van vaardigheden die AI (nog) niet goed kan, zoals complexe conflictbemiddeling, creatieve probleemoplossing of het aanvoelen van teamdynamiek.
 
-**Als je operationeel manager bent...** overweeg dan om een deel van je budgetbewaking en rapportage over te dragen. Een AI kan bijvoorbeeld dagelijkse verkopen monitoren tegen het budget en een alert sturen bij significante afwijkingen, zodat jij je kunt richten op de oorzaak en oplossing.
+**Als je investeert in bedrijfsautomatisering...** kijk dan verder dan chatbots voor klantenservice. Onderzoek platforms of tools die workflows kunnen aansturen die meerdere stappen en beslissingen combineren, zoals het verwerken van een inkomende bestelling van ontvangst tot facturering. Dit experiment laat zien dat dit de volgende logische stap is.
 
-De kern is om AI te zien als een digitale assistent voor het middenkader, die routinematige beslissingen neemt binnen duidelijke kaders. Het doel is niet om mensen overbodig te maken, maar om hun tijd vrij te maken voor taken die menselijk inzicht, creativiteit en klantcontact vereisen.
-
-Bron: The Rundown
+Bron: [The Rundown](https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store)
