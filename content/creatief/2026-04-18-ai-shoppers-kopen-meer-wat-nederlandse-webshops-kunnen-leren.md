@@ -1,31 +1,31 @@
 ---
 title: "AI-shoppers kopen meer: wat Nederlandse webshops kunnen leren van Amerikaanse data"
-date: 2026-04-18T02:24:55.300Z
-tags: ["e-commerce", "ai", "retail", "conversie"]
+date: 2026-04-18T14:25:32.999Z
+tags: ["e-commerce", "ai", "conversie", "retail"]
 categorieen: ["creatief"]
-summary: "Bezoekers die via AI-tools op webshops komen, kopen vaker en geven meer uit, blijkt uit Amerikaanse data waar Nederlandse ondernemers van kunnen profiteren."
+summary: "Bezoekers die via AI-tools op webshops komen, converteren beter en geven meer uit, blijkt uit Amerikaanse data die ook voor Nederlandse ondernemers relevant is."
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/"
 ---
 
-Het aantal bezoekers dat via AI-tools op Amerikaanse retailwebsites komt, is in het eerste kwartaal met 393% gestegen, en deze bezoekers converteren beter en genereren meer omzet dan traditionele shoppers. Dit blijkt uit data van Adobe, die een fundamentele verschuiving in online shoppgedrag signaleert, waarbij AI steeds vaker als startpunt voor productzoektochten wordt gebruikt.
+Het verkeer van bezoekers die via AI-tools op Amerikaanse retailwebsites komen, is in het eerste kwartaal met 393% gestegen. Deze zogenoemde AI-shoppers converteren beter en genereren meer omzet per bezoek dan traditioneel verkeer, volgens data van Adobe. Voor Nederlandse webshophouders betekent dit dat het optimaliseren voor AI-zoekopdrachten steeds belangrijker wordt om deze groeiende, waardevolle doelgroep te bereiken.
 
 ## Wat er aan de hand is
-Uit analyse van Adobe over het eerste kwartaal van 2026 blijkt dat het verkeer van AI-shoppers – bezoekers die via AI-zoektools of -assistenten op een webshop terechtkomen – naar Amerikaanse retailwebsites met 393% is gestegen ten opzichte van hetzelfde kwartaal een jaar eerder. In maart alleen al was de stijging 269%. Het cruciale inzicht is dat dit verkeer niet alleen groeit, maar ook waardevoller is. Volgens Adobe converteren deze AI-gestuurde bezoekers beter, wat betekent dat een hoger percentage van hen daadwerkelijk iets koopt. Bovendien genereren ze meer omzet per bezoeker dan shoppers die via andere kanalen, zoals traditionele zoekmachines of sociale media, op de site komen. Deze data wijst op de opkomst van AI als een nieuw, hoogwaardig acquisitiekanaal.
+Uit nieuwe data van Adobe, gerapporteerd door TechCrunch, blijkt dat het verkeer van AI-gebruikers naar Amerikaanse retailwebsites in het eerste kwartaal van 2026 met 393% is gestegen ten opzichte van hetzelfde kwartaal een jaar eerder. Alleen al in maart 2026 was er een toename van 269%. Het opvallende is niet alleen het volume, maar ook het gedrag van deze bezoekers. Volgens Adobe converteren ze beter – ze kopen vaker iets – en genereren ze meer omzet per sessie dan shoppers die via andere kanalen op de site komen. Dit suggereert dat AI-gebruikers die een product zoeken, vaak een specifiekere koopintentie hebben.
 
 ## Wat dit betekent
-Voor Nederlandse webshopeigenaren en marketeers betekent dit dat de klantreis aan het veranderen is. Steeds meer consumenten beginnen hun zoektocht naar een product niet meer standaard in Google, maar stellen hun vraag aan een AI-assistent zoals ChatGPT, Microsoft Copilot of een specifieke shopping-assistant. Als jouw producten en webshop niet optimaal vindbaar en aanbevelenswaardig zijn binnen deze AI-omgevingen, mis je een groeiende stroom van hoogwaardig verkeer. Het verschil is niet alleen kwantitatief (meer bezoekers), maar vooral kwalitatief: deze bezoekers zijn verder in hun koopbeslissing, hebben een duidelijker intentie en zijn bereid meer uit te geven. Het negeren van deze trend is het negeren van een kanaal dat mogelijk beter converteert dan je huidige SEO- of social media-inspanningen.
+Deze cijfers komen uit de VS, maar de trend is relevant voor de Nederlandse markt. Ze tonen een fundamentele verschuiving in hoe consumenten producten ontdekken. In plaats van alleen via Google of sociale media, gebruiken ze steeds vaker AI-assistenten (zoals ChatGPT, Copilot of gespecialiseerde shopping-tools) om productaanbevelingen te krijgen. Voor ondernemers betekent dit dat hun zichtbaarheid in deze AI-omgevingen cruciaal begint te worden voor het aantrekken van hoogwaardig verkeer. Het is niet langer alleen een kwestie van SEO voor zoekmachines, maar ook van hoe goed je productinformatie gestructureerd is voor AI-systemen die antwoorden genereren.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie, maar de kern is om je webshop en productinformatie 'AI-vriendelijk' te maken. Dit betekent niet per se investeren in complexe eigen AI, maar wel optimaliseren voor de tools die jouw potentiële klanten gebruiken.
+De praktische toepassing hangt af van jouw situatie, maar de kern is dat je je productinformatie AI-vriendelijk maakt. AI-tools halen hun antwoorden uit gestructureerde data op websites. Hoe beter jouw data, hoe groter de kans dat een AI-tool jouw product aanbeveelt.
 
-**Als je een webshop runt met fysieke producten...** zorg er dan voor dat je productdata perfect op orde is. AI-tools halen hun informatie vaak uit gestructureerde productfeeds, specificatietabellen en duidelijke productbeschrijvingen. Controleer of je producttitels, kenmerken, prijzen en voorraadstatus accuraat en machine-leesbaar zijn. Een mogelijkheid is om je productfeed expliciet aan te bieden aan platforms die AI-shoppingtools ontwikkelen.
+**Als je een webshop runt...** is de eerste stap het optimaliseren van je productpagina's. Zorg voor duidelijke, uitgebreide productbeschrijvingen, specificaties en gestandaardiseerde kenmerken (zoals materiaal, afmetingen, kleur). Dit helpt AI-systemen om je producten correct te begrijpen en te matchen met zoekvragen. Een mogelijkheid is om te investeren in een gedetailleerde product feed.
 
-**Als je marketing verantwoordelijkheden hebt...** overweeg dan om een deel van je testbudget in te zetten om te analyseren of je al AI-verkeer ontvangt. Je zou kunnen kijken in je analytics-software naar verkeersbronnen met ongebruikelijke namen of naar bezoekers die specifieke, lange zoektermen gebruiken die op een AI-prompt lijken. Begrijp hoe deze gebruikers zich gedragen op je site vergeleken met anderen.
+**Als je een merk beheert...** kun je overwegen om je contentstrategie uit te breiden. Naast blogposts voor zoekmachines, is het waardevol om FAQ-pagina's en uitgebreide gidsen te maken die vragen beantwoorden waar consumenten AI voor gebruiken, zoals "Wat is het beste [product] voor [specifieke situatie]?". Dit positioneert je site als een autoriteit waar AI-systemen informatie vandaan halen.
 
-**Als je content maakt voor je webshop...** schrijf dan niet alleen voor menselijke lezers, maar denk ook aan de AI die de content mogelijk samenvat. Zorg voor heldere, feitelijke antwoorden op veelgestelde vragen over je producten in de productbeschrijving zelf. Een AI-assistant kan een vraag als "Wat is de beste waterfles voor fietsers?" beter beantwoorden met jouw product als het duidelijke specificaties heeft over isolatie, formaat en bevestiging.
+**Als je in de B2B-sector actief bent...** geldt hetzelfde principe. Zorg dat technische specificaties, datasheets en use-cases duidelijk en machine-leesbaar op je site staan. Een B2B-koper kan een AI-tool vragen naar "een industriële pomp die aan X en Y specificaties voldoet". Als jouw productpagina die data helder presenteert, kom je in aanmerking voor die aanbeveling.
 
-**Als je klantenservice aanbiedt...** sluit dan aan bij dit gedrag. Verwacht dat klanten steeds vaker komen met zeer specifieke vragen die zijn gegenereerd door een AI-tool ("Vergelijk model X met model Y op kenmerk Z"). Zorg dat je team of je kennisbank deze diepgaande, vergelijkende vragen accuraat kan beantwoorden, want dit zijn vaak de laatste stap voor aankoop.
+De kern is niet per se een nieuwe techniek, maar een scherpere focus op de kwaliteit en structuur van de informatie die je al online hebt. Het doel is om de bron te worden waar AI-systemen hun accurate, bruikbare antwoorden vandaan halen.
 
 Bron: TechCrunch
