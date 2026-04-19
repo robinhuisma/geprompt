@@ -1,31 +1,31 @@
 ---
 title: "Chrome's nieuwe AI-modus: hoe je sneller onderzoek doet en content vergelijkt"
-date: 2026-04-19T02:15:59.060Z
-tags: ["chrome", "ai", "productiviteit", "browser"]
+date: 2026-04-19T10:18:20.607Z
+tags: ["chrome", "ai", "productiviteit", "browsertools"]
 categorieen: ["marketing-groei"]
-summary: "Google voegt side-by-side browsen en een contextmenu toe aan de AI-modus in Chrome, waardoor je efficiënter informatie kunt verzamelen en vergelijken."
+summary: "Google voegt side-by-side browsen en context toevoegen toe aan de AI-modus in Chrome, wat het online onderzoek en vergelijken versnelt."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/"
 ---
 
-De nieuwe AI-modus in Google Chrome krijgt twee krachtige functies: side-by-side browsen en een plus-menu om context toe te voegen. Dit betekent dat je straks twee webpagina's naast elkaar kunt bekijken en AI-tools direct kunt voeden met tabbladen, afbeeldingen of bestanden vanuit je browser. Het maakt onderzoek en vergelijkingen een stuk sneller.
+De nieuwe AI-modus in Google Chrome maakt het mogelijk om twee webpagina's naast elkaar te bekijken en direct content, afbeeldingen en bestanden toe te voegen als context voor je onderzoek. Dit versnelt het vergelijken van informatie en het verzamelen van bronnen aanzienlijk.
 
 ## Wat er aan de hand is
-Google werkt aan een update voor de experimentele AI-modus in de Chrome-browser. Volgens een bericht in Search Engine Journal, dat zich baseert op code-analyse, komen er twee nieuwe functionaliteiten bij. De eerste is 'side-by-side browsing', waarmee je twee webpagina's tegelijkertijd in één venster kunt zien. De tweede is een plus-menu (+) dat verschijnt in de interface. Via dat menu kun je volgens het bericht actieve tabbladen, afbeeldingen en bestanden toevoegen als context voor de AI-tools in Chrome. Deze functies zijn onderdeel van de bestaande 'AI Mode', die gebruikers al kunnen inschakelen om geïntegreerde AI-hulp te krijgen bij het schrijven of het verkrijgen van informatie op een pagina.
+Google breidt de experimentele AI-modus in zijn Chrome-browser uit met twee nieuwe functies, zo meldt Search Engine Journal op basis van een update in de Canary-ontwikkelversie. De eerste functie is 'side-by-side browsing', waarmee je twee webpagina's tegelijkertijd in één browservenster kunt bekijken. De tweede is een plus-menu ('+') waarmee je actief tabbladen, afbeeldingen en bestanden kunt toevoegen als context voor de AI. Deze functies zijn bedoeld om de ingebouwde AI-assistent (mogelijk Gemini) beter te laten samenwerken met de content die je bekijkt. De update onderstreept de trend waarbij browsers steeds meer geïntegreerde AI-hulp krijgen, niet alleen voor zoeken maar voor het actief verwerken van informatie tijdens het browsen.
 
 ## Wat dit betekent
-Voor ondernemers en professionals die veel online onderzoek doen, is dit een directe productiviteitsboost. Side-by-side browsen elimineert het constante heen-en-weer klikken tussen tabbladen wanneer je prijzen, specificaties of artikelen moet vergelijken. Het bespaart tijd en vermindert fouten. Het plus-menu maakt de AI-hulp in Chrome veel praktischer. In plaats van handmatig tekst te kopiëren en plakken, kun je straks met één klik een heel geopend artikel, een productfoto of een gedownload PDF-bestaat als bronmateriaal aan de AI geven. Dit is vooral relevant voor taken zoals marktanalyse, het samenvatten van lange rapporten, het vertalen van technische specificaties of het voorbereiden van content. Het zet de browser om van een passief kijkvenster naar een actieve onderzoekswerkbank.
+Voor ondernemers en professionals die veel online onderzoek doen, betekent dit een directe productiviteitswinst. Het handmatig heen en weer schakelen tussen tabbladen of het naast elkaar zetten van browservensters verdwijnt. Dit is vooral relevant voor taken zoals het vergelijken van leveranciers, het analyseren van concurrentie, het checken van feiten, het schrijven van content gebaseerd op meerdere bronnen, of het snel screenen van kandidaat-informatie. De mogelijkheid om actief context toe te voegen – zoals een productafbeelding of een PDF-bestand – betekent dat je de AI veel gerichtere vragen kunt stellen over de specifieke materialen waar je mee werkt, in plaats van alleen algemene prompts.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie. De nieuwe functies zijn nog in ontwikkeling en niet voor iedereen beschikbaar. Als ze uitkomen, kun je ze op deze manieren inzetten.
+De praktische toepassing hangt af van jouw situatie en van de officiële release van deze functies. Op basis van de aangekondigde mogelijkheden zijn dit logische toepassingsscenarios als de update beschikbaar komt.
 
-**Als je producten of diensten vergelijkt voor een aankoop...** kun je side-by-side browsen gebruiken om offertes, datasheets of reviews van twee verschillende leveranciers direct naast elkaar te leggen. De AI kan je vervolgens helpen de verschillen te benadrukken of een samenvatting te maken.
+**Als je marktonderzoek doet voor een nieuwe dienst...** kun je de website van een directe concurrent en een brancherapport naast elkaar openen. Je zou de AI vervolgens kunnen vragen om de belangrijkste verschillen in positionering te benadrukken of om de kernargumenten uit het rapport te relateren aan wat de concurrent communiceert. Dit maakt analyse minder gefragmenteerd.
 
-**Als je content creëert of onderzoek doet...** is het plus-menu handig. Stel, je schrijft een blog over een nieuwe trend. Je kunt dan een relevant nieuwsartikel in een tabblad openen, een infographic in een ander, en beide via het plus-menu toevoegen als context. Vraag de AI vervolgens om de kernpunten samen te vatten of een eerste opzet te maken.
+**Als je content schrijft, zoals een blog of productbeschrijving...** is een mogelijkheid om je eigen concept in de ene helft te hebben en een inspirerende bron in de andere. Je kunt dan specifieke passages of afbeeldingen uit de bron toevoegen via het plus-menu en de AI vragen om te helpen met een andere formulering of om aanvullende punten te genereren die jouw tekst versterken.
 
-**Als je veel met documenten en data werkt...** zoals offertes, contracten of spreadsheets, kun je een gedownload bestand via het plus-menu aan de AI geven. Je zou kunnen vragen om de belangrijkste voorwaarden te extraheren, een vertaling te maken van een specifieke clausule, of de data in een tabel om te zetten in een beknopte tekst.
+**Als je offertes of voorstellen vergelijkt van verschillende leveranciers...** zou je de PDF-documenten naast elkaar kunnen bekijken in de browser (als ze online staan) of de belangrijkste pagina's van hun websites. Door beide documenten of pagina's als context toe te voegen, kun je de AI vragen om een samenvatting te maken van de belangrijkste voorwaarden, kosten of service-level agreements voor een snellere beslissing.
 
-Overweeg om de AI-modus in Chrome (indien beschikbaar) alvast in te schakelen en te verkennen. Zo raak je vertrouwd met de basis en ben je voorbereid wanneer deze nieuwe functies uitrollen.
+**Als je een productcatalogus of webshop bijwerkt...** overweeg dan om een eigen productpagina naast die van een concurrent te zetten. Door een afbeelding van hun product toe te voegen aan de context, kun je gericht vragen naar verschillen in productpresentatie, specificaties of de gebruikte marketingtaal om je eigen pagina's te optimaliseren.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/)
