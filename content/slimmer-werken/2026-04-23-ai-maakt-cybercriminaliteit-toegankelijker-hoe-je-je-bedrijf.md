@@ -1,31 +1,33 @@
 ---
-title: "AI maakt cybercriminaliteit toegankelijker: hoe je je bedrijf beschermt"
-date: 2026-04-23T02:44:47.837Z
-tags: ["cybersecurity", "phishing", "ai-risico's", "bedrijfsveiligheid"]
+title: "AI maakt cybercriminaliteit toegankelijker: hoe je je bedrijf nu beschermt"
+date: 2026-04-23T06:53:14.638Z
+tags: ["cybersecurity", "ai-fraude", "phishing", "mkb-beveiliging"]
 categorieen: ["slimmer-werken"]
-summary: "Criminelen gebruiken AI om phishing, deepfakes en malware goedkoper en op grotere schaal te verspreiden, waardoor het risico voor bedrijven toeneemt."
+summary: "Criminelen gebruiken AI om phishing en fraude op grote schaal goedkoper en makkelijker uit te voeren, waardoor ook MKB-bedrijven kwetsbaarder worden."
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/"
 ---
 
-Criminelen gebruiken kunstmatige intelligentie om cyberaanvallen goedkoper, sneller en op grotere schaal uit te voeren, waardoor het risico voor bedrijven toeneemt. Dit betekent dat ook minder gesofisticeerde aanvallers nu geavanceerde phishing, overtuigende deepfakes en moeilijk te detecteren malware kunnen inzetten.
+AI verandert cybercriminaliteit in een goedkope, geautomatiseerde industrie die ook het MKB bedreigt. Criminelen gebruiken grote taalmodellen niet alleen voor massa-phishing, maar ook voor het maken van overtuigende deepfakes, het zoeken naar kwetsbaarheden en het analyseren van gestolen data, waardoor aanvallen sneller en op grotere schaal kunnen plaatsvinden.
 
 ## Wat er aan de hand is
-Sinds de introductie van generatieve AI zoals ChatGPT gebruiken cybercriminelen deze tools om hun operaties te versterken. Volgens een waarschuwing van Interpol omarmen oplichtingscentra in Zuidoost-Azië goedkope AI-tools om snel grotere aantallen potentiële slachtoffers te targeten. De technologie wordt ingezet voor het opstellen van phishing-e-mails, het maken van hyperrealistische deepfake video's en het aanpassen van malware zodat deze moeilijker te detecteren is. Daarnaast kunnen aanvallers AI gebruiken om automatisch te zoeken naar kwetsbaarheden in netwerken, snel losgeldnota's te genereren en gestolen data te analyseren om de meest waardevolle informatie te vinden. AI-bedrijf Anthropic claimt dat een model dat het ontwikkelt, duizenden kritieke kwetsbaarheden heeft gevonden, waaronder in elk groot besturingssysteem en elke webbrowser. Het bedrijf stelt dat deze allemaal zijn gedicht, maar vertraagt de release van het model vanwege deze nieuwe mogelijkheden.
+Sinds de introductie van ChatGPT gebruiken criminelen generatieve AI om hun operaties een boost te geven. Volgens een waarschuwing van Interpol omarmen oplichtingscentra in Zuidoost-Azië goedkope AI-tools om snel grotere aantallen potentiële slachtoffers te targeten. De technologie wordt ingezet voor het opstellen van phishing-e-mails, het maken van hyperrealistische deepfake video's, het aanpassen van malware om detectie te ontwijken, en het automatiseren van het zoeken naar kwetsbaarheden in netwerken. AI-bedrijf Anthropic claimde eerder deze maand dat een model dat het testte, duizenden kritieke kwetsbaarheden vond in elk groot besturingssysteem en webbrowser. Het gevolg is dat de drempel voor aanvallers lager wordt: het is sneller, goedkoper en makkelijker geworden om een doelwit te infiltreren.
 
 ## Wat dit betekent
-De impact is dat de drempel voor potentiële aanvallers wordt verlaagd. AI biedt hen een steeds evoluerend arsenaal aan nieuwe mogelijkheden en maakt het sneller, goedkoper en gemakkelijker dan ooit om hun doelen te infiltreren. Omdat deze aanvallen op enorme schaal kunnen worden uitgevoerd, hoeven ze niet erg geavanceerd te zijn om effect te hebben; ze moeten alleen maar geluk hebben om een onbeschermde machine of een nietsvermoedend slachtoffer op het juiste moment te bereiken. Veel organisaties hebben nu al moeite met de enorme hoeveelheid cyberaanvallen die op hen gericht zijn, en het probleem zal naar verwachting aanzienlijk erger worden naarmate meer criminelen hun geluk proberen en de mogelijkheden van openbaar beschikbare AI-systemen blijven verbeteren.
+Voor ondernemers en professionals betekent dit dat de dreiging niet langer alleen van geavanceerde, gerichte aanvallen komt. Doordat AI 'scattergun'-aanvallen op kolossale schaal mogelijk maakt, hoeven deze niet erg geavanceerd te zijn om effect te hebben; ze moeten alleen maar geluk hebben om een onbeschermde machine of een argeloos slachtoffer te bereiken. Veel organisaties hebben nu al moeite met het volume aan cyberaanvallen, en dit probleem zal waarschijnlijk erger worden naarmate meer criminelen hun kans wagen en de publiek beschikbare AI-systemen blijven verbeteren. Voor het MKB is dit een reëel risico, omdat zij vaak over minder gespecialiseerde beveiligingscapaciteiten beschikken dan grote bedrijven, maar wel hetzelfde soort aanvallen te verduren krijgen.
 
 ## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie, maar bewustwording en basisprotocollen zijn nu belangrijker dan ooit. Overweeg de volgende benaderingen om het risico te beperken.
+De praktische aanpak draait om bewustwording en het versterken van menselijke verdedigingslinies, aangezien AI-aanvallen vaak via mensen binnenkomen.
 
-**Als je een klein team aanstuurt...** organiseer dan regelmatig, korte trainingen over het herkennen van phishing. Richt je niet op technische details, maar op praktische signalen: ongebruikelijke afzenders, een gevoel van urgentie in het bericht of een verzoek om in te loggen op een onbekende link. Maak een simpel protocol: bij twijfel, bel de vermeende afzender op een bekend nummer.
+**Als je een klein team aanstuurt...** organiseer dan korte, frequente awareness-sessies. Bespreek niet alleen traditionele phishing, maar ook de opkomst van AI-gestuurde aanvallen zoals deepfake-audio die mogelijk voor CEO-fraude wordt gebruikt. Oefen met het herkennen van subtiele taalfouten die AI soms nog maakt, of juist met het wantrouwen van berichten die té perfect en persoonlijk lijken.
 
-**Als je financiële transacties of gevoelige data verwerkt...** voer dan een extra controlelaag in voor betalingen of het delen van informatie. Dit kan een tweede goedkeuringsronde zijn of een verplichte telefonische bevestiging bij verzoeken om wijzigingen in betalingsgegevens. AI-gestuurde aanvallen kunnen zeer overtuigende e-mails of zelfs deepfake-audio genereren, dus vertrouw niet alleen op digitale communicatie.
+**Als je verantwoordelijk bent voor financiële transacties...** implementeer strikte procedures voor geldelijke overboekingen. Zorg dat geen enkele betaling, hoe klein ook, op basis van een enkele e-mail of telefoontje wordt uitgevoerd. Gebruik een multi-factor authenticatieproces waarbij een tweede, onafhankelijk communicatiekanaal (zoals een bekende interne chat-app of een terugbelprocedure) wordt gebruikt om opdrachten te verifiëren, vooral bij verzoeken om afwijkingen van standaardprocessen.
 
-**Als je externe partijen of freelancers inschakelt...** evalueer hun digitale veiligheidsprotocollen. Vraag naar hun beleid voor wachtwoordbeheer, tweefactorauthenticatie en hoe ze omgaan met gevoelige data die jij deelt. Een zwakke schakel in de keten kan het hele systeem kwetsbaar maken voor geautomatiseerde aanvallen die op zoek zijn naar toegang.
+**Als je klantgegevens of gevoelige informatie beheert...** ga na of je data-opslag is gesegmenteerd. Het doel is 'least privilege access': medewerkers hebben alleen toegang tot de data die ze voor hun werk nodig hebben. Dit beperkt de schade als een account wordt gecompromitteerd via een geslaagde phishing-aanval. Overweeg ook om regelmatig te controleren welke data er eigenlijk wordt opgeslagen en of dit allemaal nog nodig is.
 
-**Als je zelf actief bent op social media of in de publiciteit...** wees je bewust van de informatie die je deelt. Criminelen gebruiken AI om gestolen data te analyseren en doelgerichte aanvallen op te zetten. Details over je bedrijfsstructuur, collega's of lopende projecten kunnen worden gebruikt om zeer geloofwaardige, gepersonaliseerde phishing-pogingen in elkaar te zetten.
+**Als je externe partners of freelancers inschakelt...** betrek cybersecurity expliciet in je contracten en due diligence. Vraag naar hun basisbeveiligingsmaatregelen en hoe zij omgaan met toegang tot jouw systemen. Beperk hun netwerktoegang tot alleen wat strikt noodzakelijk is en schakel toegang uit zodra een project is afgerond.
+
+**Als je algemene bedrijfsvoering wilt versterken...** zorg allereerst voor de basis op orde: multi-factor authenticatie (MFA) op alle kritieke accounts, regelmatige updates van alle software, en betrouwbare, geteste back-ups. Dit zijn geen glimmende AI-tools, maar ze vormen de essentie van cyberhygiëne die veel geautomatiseerde, op kans gerichte aanvallen zal tegenhouden.
 
 Bron: [Technologyreview](https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/)
