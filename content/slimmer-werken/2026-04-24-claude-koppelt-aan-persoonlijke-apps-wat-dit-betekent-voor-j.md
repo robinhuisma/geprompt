@@ -1,31 +1,36 @@
 ---
-title: "Claude koppelt aan persoonlijke apps: wat dit betekent voor jouw onderneming"
-date: 2026-04-24T02:11:23.042Z
-tags: ["anthropic", "claude", "app-koppelingen", "automatisering"]
+title: "Claude koppelt aan persoonlijke apps: wat dit betekent voor je reis- en inkoopbeheer"
+date: 2026-04-24T22:11:06.978Z
+tags: ["claude", "anthropic", "app-koppelingen", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "Koppel Claude aan Spotify, Uber Eats en TurboTax voor slimmere planning en klantinzichten."
+summary: "Anthropic breidt Claude uit met koppelingen naar apps zoals Uber en TripAdvisor, bruikbaar voor zakelijke processen."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
 ---
 
-Het antwoord is dat Anthropic, het bedrijf achter AI-assistent Claude, nieuwe koppelingen heeft toegevoegd naar persoonlijke apps zoals Spotify, Uber Eats, AllTrails, TripAdvisor, Instacart en TurboTax. Dit betekent dat je Claude niet alleen kunt gebruiken voor werkgerelateerde taken, maar ook voor het beheren van persoonlijke diensten, wat directe voordelen biedt voor ondernemers die efficiënter willen plannen of klantinzichten willen verbeteren.
+Het antwoord
 
-## Wat er aan de hand is
-Anthropic heeft de mogelijkheden van Claude uitgebreid met connectoren naar persoonlijke apps. Waar Claude eerder al koppelingen ondersteunde voor zakelijke tools zoals Microsoft-apps, richt deze nieuwe uitbreiding zich op diensten die je in je dagelijks leven gebruikt. Denk aan Spotify voor muziek, Uber voor vervoer, AllTrails voor wandelroutes, TripAdvisor voor reisadvies, Instacart voor boodschappen en TurboTax voor belastingaangifte. Zodra een app is gekoppeld, kan Claude tijdens een gesprek suggesties doen om relevante apps te gebruiken, zoals AllTrails voor een wandelroute. Volgens Anthropic’s aankondiging is dit een stap om AI nuttiger te maken in alledaagse contexten. Sommige apps, zoals Spotify, hebben vergelijkbare koppelingen in OpenAI’s ChatGPT.
+Anthropic heeft de AI-assistent Claude uitgebreid met koppelingen naar persoonlijke apps zoals Uber, TripAdvisor en TurboTax. Voor Nederlandse ondernemers betekent dit dat je Claude direct taken kunt laten uitvoeren in deze apps, zoals het boeken van een rit of het opvragen van reisinformatie, zonder dat je zelf tussen de apps hoeft te schakelen.
 
-## Wat dit betekent
-Voor ondernemers betekent dit dat Claude een bredere rol kan spelen in zowel zakelijke als persoonlijke processen. De koppelingen maken het mogelijk om gegevens uit persoonlijke apps te combineren met werkgerelateerde taken. Bijvoorbeeld: als je een webshop runt, kun je via Claude inzichten uit Uber Eats of Instacart gebruiken om bezorglogistiek te analyseren. Of je kunt reisgegevens uit TripAdvisor koppelen aan je planning voor klantbezoeken. De impact is het grootst voor ondernemers die al meerdere apps gebruiken en tijd willen besparen door alles via één AI-assistent te laten lopen. Het opent de deur naar geautomatiseerde processen, zoals het genereren van rapporten op basis van je Spotify-luistergedrag voor een marketingcampagne of het koppelen van TurboTax-gegevens aan je boekhouding.
+Wat er aan de hand is
 
-## Hoe je dit kunt toepassen
-De praktische toepassing hangt af van jouw situatie, maar hier zijn een paar scenario’s.
+Anthropic, het bedrijf achter Claude, heeft nieuwe connectors aangekondigd waarmee de AI-assistent direct kan communiceren met een reeks persoonlijke apps. Het gaat onder meer om Uber, Spotify, Audible, AllTrails, TripAdvisor, Instacart en TurboTax. Eerder ondersteunde Claude al koppelingen met zakelijke apps zoals Microsoft 365, maar deze uitbreiding richt zich specifiek op diensten die zowel privé als zakelijk worden gebruikt. Volgens The Verge zal Claude na het koppelen van een app automatisch suggesties doen om die app in gesprekken te gebruiken. Zo kan Claude bijvoorbeeld een wandelroute voorstellen via AllTrails of een rit boeken via Uber. De functionaliteit is vergelijkbaar met wat OpenAI’s ChatGPT al biedt voor sommige van deze apps.
 
-**Als je een webshop runt en bezorging regelt via Uber Eats of Instacart**, overweeg om Claude te koppelen aan deze apps. Je zou Claude kunnen vragen om een overzicht te maken van de meest bezochte bezorglocaties of piektijden, zodat je je voorraad of personeelsplanning kunt aanpassen. Een mogelijkheid is om wekelijkse samenvattingen te genereren die je helpen bij het optimaliseren van je logistiek.
+Wat dit betekent
 
-**Als je een team aanstuurt en reizen plant voor klantbezoeken**, kun je Claude koppelen aan TripAdvisor en Uber. Je zou Claude kunnen vragen om de beste routes of accommodaties voor te stellen op basis van eerdere reizen, of om automatisch een reisschema te maken dat rekening houdt met vergaderingen. Dit bespaart tijd bij het handmatig vergelijken van opties.
+Voor ondernemers en professionals in het MKB opent dit nieuwe mogelijkheden om dagelijkse processen te stroomlijnen. Denk aan het regelen van zakelijk vervoer, het beheren van reiskosten of het plannen van klantafspraken. Omdat Claude de context van een gesprek begrijpt, kan de AI zelfstandig de juiste app kiezen en acties uitvoeren. Dit bespaart tijd omdat je niet meer handmatig tussen verschillende apps hoeft te schakelen. Vooral voor ondernemers die veel onderweg zijn of regelmatig zaken doen met externe partijen, kan dit een efficiëntieslag betekenen. Het is wel belangrijk om te weten dat het om een Amerikaanse uitrol gaat; de beschikbaarheid in Nederland en de ondersteuning van lokale varianten van deze apps is nog niet bevestigd.
 
-**Als je in de dienstverlening werkt, zoals een belastingadviseur**, overweeg om Claude te koppelen aan TurboTax. Je zou Claude kunnen vragen om een samenvatting te maken van belastinggegevens uit meerdere jaren, of om trends te identificeren in uitgaven. Dit kan helpen bij het voorbereiden van advies voor klanten, zonder dat je handmatig door bestanden hoeft te scrollen.
+Hoe je dit kunt toepassen
 
-**Als je een marketingcampagne voorbereidt**, kun je Claude koppelen aan Spotify of Audible. Je zou Claude kunnen vragen om inzichten te geven in populaire muziekgenres of audioboeken onder jouw doelgroep, op basis van openbare data. Dit kan inspiratie bieden voor content of advertenties die aansluiten bij de interesses van je klanten.
+**Als je regelmatig zakelijke ritten boekt voor jezelf of je team**, overweeg om Claude te koppelen aan Uber. Je kunt dan in een gesprek met Claude aangeven dat je een rit nodig hebt naar een bepaalde locatie, waarna de AI de boeking voor je regelt. Dit werkt ook voor het plannen van ritten voor meerdere medewerkers, bijvoorbeeld naar een beurs of klantbezoek. Een mogelijkheid is om Claude te vragen een overzicht te maken van alle ritten van de afgelopen maand, zodat je direct een kostenoverzicht hebt voor de administratie.
 
-Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+**Als je reizen boekt voor klantbezoeken of netwerkevenementen**, kun je Claude koppelen aan TripAdvisor. Je zou Claude kunnen vragen om hotels of restaurants te zoeken in de buurt van een afspraak, op basis van je voorkeuren. De AI kan dan direct resultaten tonen en je doorverwijzen naar de boekingspagina. Dit bespaart je het zelf doorzoeken van meerdere sites en geeft je sneller een compleet beeld van de mogelijkheden.
+
+**Als je de belastingaangifte of jaarrekening voorbereidt**, overweeg om Claude te koppelen aan TurboTax of een vergelijkbare boekhoudapp. Je kunt Claude vragen om een overzicht te maken van aftrekbare kosten op basis van je reis- en inkoopgegevens. Let wel: de Nederlandse variant van TurboTax wordt mogelijk niet ondersteund, maar het principe is hetzelfde voor andere boekhoudkoppelingen die Claude mogelijk in de toekomst krijgt. Een optie is om Claude te vragen een samenvatting te maken van alle zakelijke uitgaven in een bepaalde periode, zodat je die direct kunt gebruiken voor je administratie.
+
+**Als je een team aanstuurt dat veel onderweg is**, kun je Claude gebruiken om reislogistiek te centraliseren. Je zou Claude kunnen vragen om voor elk teamlid een reisschema te maken op basis van hun afspraken in de agenda, en daarbij automatisch Uber-ritten of TripAdvisor-hotels voor te stellen. Dit vermindert de administratieve last voor zowel jou als je medewerkers. Een mogelijkheid is om Claude wekelijks een overzicht te laten maken van alle gemaakte reiskosten, zodat je direct ziet waar je kunt besparen.
+
+De praktische toepassing hangt af van jouw situatie en de beschikbaarheid van de koppelingen in Nederland. Het is verstandig om de instellingen van Claude te controleren en te kijken welke apps op dit moment worden ondersteund voor jouw regio.
+
+Bron: The Verge (https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
