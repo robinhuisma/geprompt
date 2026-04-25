@@ -1,32 +1,32 @@
 ---
-title: "ChatGPT-advertenties kosten $3 tot $5 per klik: wat dat betekent voor jouw budget"
-date: 2026-04-25T14:08:21.846Z
-tags: ["chatgpt ads", "cpc", "openai", "marketing"]
+title: "ChatGPT-advertenties kosten $3 tot $5 per klik: wat dat betekent voor jouw marketingbudget"
+date: 2026-04-25T18:07:35.562Z
+tags: ["chatgpt ads", "cpc", "marketing", "openai"]
 categorieen: ["marketing-groei"]
-summary: "ChatGPT-advertenties kosten $3 tot $5 per klik. Vergelijk dat met Google en Meta en bepaal of het rendabel is."
+summary: "ChatGPT-advertenties zijn in opkomst met een CPC van $3 tot $5. Voor Nederlandse MKB’ers is dat duurder dan Google of Meta, maar mogelijk waardevol voor niche-doelgroepen."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/"
 ---
 
-Het antwoord: ChatGPT-advertenties kosten nu tussen de $3 en $5 per klik, volgens een rapport van Digiday. Voor Nederlandse ondernemers betekent dit dat je een relatief hoge prijs betaalt per bezoeker, maar dat de doelgroep mogelijk relevanter is dan bij traditionele advertentieplatforms.
+Het antwoord: ChatGPT-advertenties kosten nu tussen de $3 en $5 per klik voor pilot-adverteerders, blijkt uit een rapport van Digiday. Voor Nederlandse MKB’ers is dat aanzienlijk duurder dan de gemiddelde CPC op Google Ads of Meta Ads, maar de hoge prijs kan gerechtvaardigd zijn als je een zeer specifieke, hoogwaardige doelgroep wilt bereiken die actief is in de AI-zoekomgeving.
 
 ## Wat er aan de hand is
 
-OpenAI breidt zijn advertentietools uit voor ChatGPT. Volgens een rapport van Digiday zien vroege pilot-adverteerders een biedingsoptie van $3 tot $5 per klik (CPC) in de advertentiebeheerder. Dit is een vroege versie van het systeem, dat nog niet breed beschikbaar is. De prijzen liggen aanzienlijk hoger dan wat gebruikelijk is bij Google Ads (gemiddeld $1 tot $2 per klik voor veel sectoren) en Meta Ads (vaak onder de $1). Het hoge bedrag weerspiegelt de premiumpositionering van ChatGPT als platform, maar ook de onzekerheid over de effectiviteit van de advertenties in een nog jong ecosysteem.
+OpenAI breidt zijn advertentietools uit. Volgens een rapport van Digiday zien vroege gebruikers van een ChatGPT-adsmanager-build nu biedingen van $3 tot $5 per klik. Dit is een vroege indicatie van de prijsstelling voor wat OpenAI’s advertentieplatform wordt. Het platform is nog in ontwikkeling, maar de eerste cijfers geven een beeld van waar de kosten liggen. Ter vergelijking: de gemiddelde CPC op Google Ads in Nederland ligt rond de €1 tot €2, en op Meta Ads (Facebook/Instagram) vaak onder de €1. De vraag is of de hogere prijs van ChatGPT-advertenties opweegt tegen de potentieel hogere kwaliteit van het verkeer.
 
 ## Wat dit betekent
 
-Voor het Nederlandse mkb is de vraag niet of ChatGPT-advertenties goedkoop zijn – dat zijn ze niet – maar of de kwaliteit van de bezoekers de hogere kosten rechtvaardigt. Een CPC van $3 tot $5 betekent dat je per 100 klikken al snel $300 tot $500 kwijt bent, exclusief btw. Ter vergelijking: bij Google Ads kun je voor datzelfde bedrag soms 200 tot 300 klikken krijgen, afhankelijk van je sector. De meerwaarde van ChatGPT-advertenties zit mogelijk in de context: gebruikers die via ChatGPT op een advertentie klikken, zijn vaak actief op zoek naar informatie of een oplossing, wat kan leiden tot hogere conversieratio’s. Maar dat is nog niet bewezen. Voor kleine bedrijven met een beperkt budget is dit risicovol, tenzij je een product of dienst hebt met een hoge marge of een lange klantwaarde.
+Voor Nederlandse ondernemers betekent dit dat ChatGPT-advertenties voorlopig een premiumkanaal zijn. De $3 tot $5 per klik is ruwweg twee tot vijf keer duurder dan wat je gewend bent van Google of Meta. Dit is niet per se een nadeel: hogere CPC’s kunnen wijzen op een kleinere, maar meer betrokken doelgroep. Denk aan professionals die actief op zoek zijn naar specifieke oplossingen en bereid zijn om door te klikken. Voor een lokale bakker in Amsterdam is dit waarschijnlijk te duur. Maar voor een B2B-softwarebedrijf dat een nicheproduct verkoopt aan IT-managers, kan het juist een kans zijn. De impact is het grootst voor sectoren waar de klantreis begint met een vraag in een AI-chatbot, zoals consultancy, juridisch advies of high-end dienstverlening.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt met producten tussen de €50 en €150.** Een CPC van $3 tot $5 is alleen rendabel als je conversieratio hoog genoeg is. Stel dat je marge €30 per verkoop is, dan heb je bij $4 CPC een conversieratio van minimaal 13% nodig om break-even te draaien. Dat is extreem hoog. Overweeg om alleen te testen met een klein budget, bijvoorbeeld €100, en meet niet alleen klikken maar ook daadwerkelijke aankopen. Gebruik een unieke kortingscode om de herkomst te traceren.
+**Als je een B2B-dienstverlener bent die hoogwaardige leads zoekt**, overweeg dan om een klein testbudget vrij te maken voor ChatGPT-advertenties. De hoge CPC van $3 tot $5 kan lonen als je klantwaarde hoog is. Stel dat je een IT-consultancy runt en een gemiddelde klant €10.000 oplevert. Dan is een CPC van $5 acceptabel als 1 op de 200 klikken leidt tot een klant. Je zou kunnen beginnen met een campagne gericht op vragen als ‘hoe implementeer ik AI in mijn bedrijf’ en kijken of de conversieratio dit rechtvaardigt.
 
-**Als je een dienstverlener bent met een hoge klantwaarde, zoals een advocaat of consultant.** Een enkele klant kan duizenden euro’s opleveren. In dat geval is een CPC van $5 acceptabel, mits de conversieratio naar een afspraak of offerteaanvraag boven de 5% ligt. Je zou kunnen experimenteren met een advertentie die direct doorverwijst naar een kalender voor een gratis kennismakingsgesprek. Houd de kosten per lead bij en vergelijk met je huidige kanalen.
+**Als je een webshop hebt met marges onder de 30%**, is dit waarschijnlijk niet de juiste plek om te adverteren. De kosten per klik zijn simpelweg te hoog voor producten met lage prijzen. Een mogelijkheid is om ChatGPT-advertenties alleen in te zetten voor producten met een hoge gemiddelde orderwaarde, zoals meubels of elektronica, waar een enkele verkoop de advertentiekosten dekt. Maar wees voorzichtig: test eerst met een klein budget van €100 om te zien of het verkeer converteert.
 
-**Als je een B2B-bedrijf runt dat software of abonnementen verkoopt.** De gemiddelde klantwaarde is vaak hoog, maar de verkoopcyclus lang. Een CPC van $3 tot $5 kan werken als je een sterk leadmagnet hebt, zoals een whitepaper of een gratis demo. Overweeg om de advertentie te richten op een specifiek probleem dat jouw oplossing adresseert, en meet niet alleen klikken maar ook het aantal ingevulde formulieren. Test met een campagne van minimaal €200 om voldoende data te verzamelen.
+**Als je een marketingteam aanstuurt**, gebruik deze cijfers om realistische verwachtingen te scheppen. De CPC van $3 tot $5 is een richtlijn, geen vaststaand feit. Het kan zijn dat de prijzen dalen naarmate meer adverteerders instappen, of stijgen bij hoge vraag. Overweeg om een aparte budgetlijn te creëren voor experimentele kanalen zoals ChatGPT-advertenties, los van je vaste Google- en Meta-budgetten. Zo kun je de resultaten zuiver meten zonder risico voor je kerncampagnes.
 
-**Als je een lokaal bedrijf hebt, zoals een restaurant of kapper.** De kans is groot dat ChatGPT-advertenties niet rendabel zijn voor jou. De CPC is te hoog voor een lokale dienst met een lage klantwaarde. Een mogelijkheid is om te wachten tot OpenAI locatiegerichte targeting introduceert, maar voor nu kun je beter je budget in Google Ads of Meta Ads steken, waar je voor een fractie van de prijs lokale klanten bereikt.
+**Als je in de zorg of het onderwijs werkt** en specifieke diensten aanbiedt, zoals bijles of medische consulten, kan ChatGPT-advertenties interessant zijn. De doelgroep die via ChatGPT zoekt, is vaak al in een onderzoeksfase en heeft een duidelijke vraag. Een optie is om een advertentie te maken die direct antwoord geeft op veelgestelde vragen, zoals ‘hoe kies ik de juiste zorgverzekering’. De hoge CPC wordt dan gecompenseerd door een hoge intentie van de bezoeker.
 
-Bron: [Search Engine Journal](https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/)
+Bron: Search Engine Journal (https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/)
