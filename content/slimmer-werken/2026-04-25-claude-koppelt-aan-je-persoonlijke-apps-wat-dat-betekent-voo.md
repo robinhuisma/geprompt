@@ -1,29 +1,34 @@
 ---
 title: "Claude koppelt aan je persoonlijke apps: wat dat betekent voor je onderneming"
-date: 2026-04-25T06:12:00.009Z
-tags: ["claude", "anthropic", "app-koppelingen", "ondernemers"]
+date: 2026-04-25T10:12:03.185Z
+tags: ["anthropic", "claude", "ai-integraties", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "Anthropic breidt Claude uit met koppelingen naar apps zoals Uber, Spotify en TurboTax."
+summary: "Koppel reis-, belasting- en bezorgapps aan Claude voor een geïntegreerde workflow."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
 ---
 
-Anthropic heeft Claude uitgebreid met koppelingen naar persoonlijke apps zoals Spotify, Uber, AllTrails, Instacart, TurboTax en TripAdvisor. Waar Claude eerder vooral toegang had tot zakelijke apps zoals Microsoft-producten, kun je nu ook alledaagse diensten aan het gesprek toevoegen. Zodra een app is gekoppeld, stelt Claude zelf voor om relevante apps te gebruiken, bijvoorbeeld AllTrails voor wandelroutes of Uber voor een rit. De functie is vergelijkbaar met wat OpenAI al met ChatGPT doet voor Spotify.
+Claude van Anthropic kan nu rechtstreeks koppelen met persoonlijke apps zoals Spotify, Uber Eats, Instacart, TripAdvisor en TurboTax. Dit opent de mogelijkheid om zakelijke processen zoals reisplanning, bonnenregistratie en belastingaangifte te combineren in één AI-gestuurde workflow, zonder dat je handmatig tussen apps hoeft te schakelen.
 
 ## Wat er aan de hand is
-Anthropic heeft de connectorfunctie van Claude uitgebreid naar een reeks persoonlijke apps. Het gaat om diensten als Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart en TurboTax. Eerder ondersteunde Claude al koppelingen met zakelijke apps zoals Microsoft 365. Het verschil is dat deze nieuwe koppelingen gericht zijn op dagelijks gebruik: muziek, reizen, boodschappen en belastingen. Volgens Anthropic zal Claude in gesprekken zelf suggesties doen om een relevante app te gebruiken, zoals het ophalen van een wandelroute via AllTrails of het checken van je Uber-geschiedenis. De aankondiging past in een bredere trend waarbij AI-assistenten steeds meer toegang krijgen tot persoonlijke data, niet alleen tot werkdocumenten.
+
+Anthropic heeft de integratiemogelijkheden van Claude uitgebreid met een reeks persoonlijke apps. Waar Claude eerder vooral samenwerkte met zakelijke tools zoals Microsoft-apps, kunnen gebruikers nu ook diensten als Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart en TurboTax aan de AI koppelen. Zodra een app is verbonden, zal Claude tijdens een gesprek suggesties doen voor relevante apps. Vraag je bijvoorbeeld om een wandelroute, dan stelt Claude voor om AllTrails te gebruiken. Sommige van deze apps, zoals Spotify, hadden al vergelijkbare koppelingen in OpenAI’s ChatGPT. De uitbreiding is aangekondigd in een blogpost van Anthropic.
 
 ## Wat dit betekent
-Voor ondernemers betekent deze uitbreiding dat Claude niet alleen een zakelijke assistent is, maar ook een tool die persoonlijke en zakelijke data kan combineren. Stel dat je een reis plant voor een klantbezoek: Claude kan dan zowel je Uber-ritten als je TripAdvisor-recensies raadplegen om een compleet reisadvies te geven. Of je kunt je Spotify-geschiedenis gebruiken om de sfeer in je winkel of kantoor af te stemmen op klantbezoeken. Voor zzp'ers en kleine ondernemers die zelf hun administratie doen, is de koppeling met TurboTax interessant: Claude kan belastinggegevens ophalen en verwerken in een breder financieel overzicht. De impact zit hem in het wegnemen van schakelen tussen apps: je hoeft niet meer handmatig gegevens over te zetten, Claude doet dat voor je.
+
+Voor ondernemers betekent deze uitbreiding dat Claude niet langer alleen een productiviteitstool is voor interne processen, maar ook een centrale hub kan worden voor persoonlijke en zakelijke data die normaal gesproken verspreid staat over verschillende apps. Denk aan een zzp’er die reiskosten declareert: die kan nu in één gesprek met Claude zijn Uber-ritten ophalen, de bon van een zakelijke lunch via Uber Eets koppelen en de gegevens direct in TurboTax verwerken. Voor kleine bedrijven zonder aparte boekhoudafdeling kan dit de administratieve last aanzienlijk verlichten. De integratie maakt het mogelijk om data uit uiteenlopende bronnen te combineren zonder dat je handmatig gegevens hoeft over te typen of te uploaden.
 
 ## Hoe je dit kunt toepassen
-**Als je regelmatig zakelijke reizen maakt**, kun je Claude koppelen aan Uber en TripAdvisor. Vraag Claude om een reisvoorstel voor een klantbezoek: het haalt je Uber-ritten op, combineert die met TripAdvisor-beoordelingen van hotels in de buurt, en stelt een route voor. Je zou kunnen beginnen met het koppelen van Uber en TripAdvisor, en dan een gesprek starten met 'Plan een reis naar Amsterdam voor een klantbezoek volgende week'.
 
-**Als je een winkel of horecazaak runt**, overweeg om Spotify en Instacart te koppelen. Claude kan op basis van je Spotify-geschiedenis een afspeellijst voorstellen die past bij de sfeer die je wilt creëren. Of vraag Claude om een boodschappenlijst te maken voor een catering, gebaseerd op eerdere Instacart-bestellingen. Een mogelijkheid is om Claude te vragen: 'Maak een boodschappenlijst voor een lunch voor 10 personen, gebaseerd op wat ik eerder bestelde.'
+**Als je regelmatig zakelijke reizen boekt**, kun je overwegen om Claude te koppelen aan TripAdvisor en Uber. Wanneer je een reis plant, vraag Claude om een overzicht van je eerdere Uber-ritten naar het vliegveld en combineer dat met hotelbeoordelingen van TripAdvisor. Je zou Claude kunnen vragen om een reisvoorstel te maken met geschatte kosten, zodat je direct een offerte voor een klant kunt opstellen.
 
-**Als je als zzp'er je eigen belastingen regelt**, koppel dan TurboTax aan Claude. Je kunt Claude vragen om een overzicht van je aftrekposten op basis van je TurboTax-gegevens, of om een schatting van je belastingaanslag te geven. Een optie is om te starten met: 'Laat me zien welke zakelijke uitgaven ik dit jaar heb gedaan, op basis van mijn TurboTax-gegevens.' Let wel: controleer altijd de uitkomsten, want AI kan fouten maken.
+**Als je als eenpitter of klein bedrijf je belastingaangifte voorbereidt**, is het een optie om TurboTax aan Claude te koppelen. Je zou Claude kunnen vragen om alle zakelijke uitgaven uit je gekoppelde Uber- en Instacart-accounts te verzamelen en deze te structureren per maand of project. Vervolgens kun je die gegevens direct in TurboTax importeren, wat het invullen van je aangifte versnelt.
 
-**Als je een team aanstuurt en klantbeleving wilt verbeteren**, kun je Claude gebruiken om inzichten uit meerdere apps te combineren. Koppel bijvoorbeeld Uber, TripAdvisor en Spotify. Vraag Claude: 'Geef me een profiel van een typische klant op basis van reisgedrag en muziekvoorkeuren.' Dit kan helpen bij het personaliseren van aanbiedingen of het inrichten van een winkelervaring. Overweeg om eerst één app te koppelen en te experimenteren met vragen, voordat je meerdere apps tegelijk gebruikt.
+**Als je een team aanstuurt dat regelmatig bestellingen plaatst voor kantoor of catering**, kun je Instacart en Uber Eats aan Claude koppelen. Vraag Claude om een overzicht te maken van de meest bestelde producten of maaltijden van de afgelopen maand. Op basis daarvan kun je een standaardbestelling samenstellen die je wekelijks herhaalt, zonder dat je elke keer opnieuw door de apps hoeft te navigeren.
 
-Bron: [The Verge](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+**Als je in de creatieve sector werkt en inspiratie nodig hebt voor projecten**, overweeg om Spotify en Audible aan Claude te koppelen. Je zou Claude kunnen vragen om een afspeellijst samen te stellen op basis van de audioboeken die je hebt geluisterd, of om een moodboard te genereren op basis van de muziekgenres die je vaak gebruikt. Dit kan helpen om een consistente sfeer te creëren voor een campagne of presentatie.
+
+De praktische toepassing hangt af van jouw situatie, maar de kracht zit in het combineren van gegevens uit meerdere bronnen in één gesprek. Door apps te koppelen die je toch al gebruikt, bespaar je tijd en verminder je de kans op fouten bij het overzetten van informatie.
+
+Bron: The Verge (https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
