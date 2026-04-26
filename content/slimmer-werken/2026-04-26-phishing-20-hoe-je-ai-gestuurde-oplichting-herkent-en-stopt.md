@@ -1,38 +1,32 @@
 ---
 title: "Phishing 2.0: hoe je AI-gestuurde oplichting herkent en stopt"
-date: 2026-04-26T06:12:24.692Z
+date: 2026-04-26T14:15:14.107Z
 tags: ["phishing", "AI", "cybersecurity", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "AI maakt phishing sneller, goedkoper en overtuiggender. Dit kun jij als ondernemer ertegen doen."
+summary: "AI maakt phishing sneller, goedkoper en persoonlijker. Dit zijn de signalen waar je op moet letten."
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/"
 ---
 
-Het antwoord: AI maakt phishingmails overtuigender, persoonlijker en moeilijker te herkennen. Maar met een paar eenvoudige maatregelen kun je je bedrijf beschermen zonder dat je een tech-expert hoeft te zijn.
+Phishingmails worden steeds overtuigender door AI. Waar je vroeger kon vertrouwen op slechte grammatica of vreemde formuleringen om oplichting te herkennen, is dat nu niet meer genoeg. Generatieve AI produceert moeiteloos menselijk klinkende teksten, waardoor criminelen in hoog tempo overtuigende mails kunnen maken. Het gevolg: meer aanvallen, geraffineerdere trucs en een grotere kans dat ook jij of je medewerkers erin trappen.
 
 ## Wat er aan de hand is
 
-Sinds de lancering van ChatGPT in 2022 gebruiken cybercriminelen AI om hun aanvallen op te schalen. Ze zetten grote taalmodellen in voor het schrijven van phishingmails, het maken van realistische deepfake-video’s en het aanpassen van malware zodat die moeilijker te detecteren is. Ook automatiseren ze het zoeken naar kwetsbaarheden in netwerken en computersystemen, genereren ze razendsnel losgeldnota’s en analyseren ze gestolen data om te bepalen wat het meest waardevol is.
-
-Volgens Interpol gebruiken scamcentra in Zuidoost-Azië goedkope AI-tools om steeds meer potentiële slachtoffers te bereiken en snel naar nieuwe locaties te verplaatsen. De Verenigde Arabische Emiraten claimden onlangs een reeks AI-gesteunde aanvallen op vitale sectoren te hebben verijdeld. Het probleem wordt alleen maar groter naarmate AI-systemen beter worden en meer criminelen hun geluk beproeven.
+Sinds de lancering van ChatGPT eind 2022 gebruiken cybercriminelen AI om hun operaties op te schalen. Ze zetten de technologie in voor het schrijven van phishingmails, het maken van hyperrealistische deepfake-video’s en het aanpassen van malware zodat die moeilijker te detecteren is. Ook automatiseren ze het zoeken naar kwetsbaarheden in netwerken en systemen, genereren ze razendsnel losgeldnotities en analyseren ze gestolen data om te bepalen wat het meest waardevol is. Interpol waarschuwt dat bijvoorbeeld scamcentra in Zuidoost-Azië goedkope AI-tools omarmen om meer slachtoffers te bereiken en snel van locatie te wisselen. De Verenigde Arabische Emiraten meldden onlangs een reeks AI-gesteunde aanvallen op vitale sectoren te hebben verijdeld. Omdat deze aanvallen op enorme schaal worden uitgevoerd, hoeven ze niet eens heel geavanceerd te zijn: het is voldoende als ze een onbeschermd systeem of een onoplettende ontvanger treffen.
 
 ## Wat dit betekent
 
-Voor het mkb is de impact groot. Waar phishing vroeger vaak te herkennen was aan slecht Nederlands, vreemde zinsconstructies of algemene aanhef, zijn AI-gegenereerde mails nu vloeiend, persoonlijk en op maat gemaakt. Criminelen kunnen met minimale inspanning duizenden overtuigende mails per uur produceren. Omdat deze aanvallen op enorme schaal worden uitgerold, hoeven ze niet eens heel geavanceerd te zijn. Het volstaat dat één mail in een onbeschermde mailbox belandt of bij een medewerker op het juiste moment.
-
-Veel organisaties hebben nu al moeite met het aantal cyberaanvallen. Door AI wordt dat aantal alleen maar groter, terwijl de drempel voor criminelen lager wordt.
+Voor het mkb is de dreiging concreet en urgent. Waar phishing vroeger vaak te herkennen was aan foutjes, zijn AI-gegenereerde berichten vrijwel foutloos en kunnen ze persoonlijke details bevatten die uit eerdere datalekken komen. De drempel voor criminelen is lager: met minimale investeringen kunnen ze grootschalige campagnes opzetten. Veel organisaties hebben nu al moeite met het volume aan cyberaanvallen. Doordat AI de productie versnelt en de kwaliteit verhoogt, wordt het probleem alleen maar groter. Het is niet langer een kwestie van of je doelwit wordt, maar wanneer.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt en regelmatig klantvragen krijgt via e-mail.** Overweeg om een vast protocol in te stellen voor het verifiëren van betalingsverzoeken of adreswijzigingen. Bel de klant terug op een bekend nummer voordat je gevoelige gegevens wijzigt. AI kan een overtuigende mail schrijven, maar kan niet zomaar een telefoongesprek voeren alsof het de echte klant is.
+**Als je een webshop runt en regelmatig betalingsverzoeken ontvangt van leveranciers.** Controleer altijd het afzenderadres, ook als de mail er professioneel uitziet. AI kan een bestaande factuur namaken met net iets andere bankgegevens. Een optie is om een vaste procedure af te spreken: bel bij twijfel altijd de leverancier op het nummer dat je al hebt, niet het nummer in de mail.
 
-**Als je een team aanstuurt dat werkt met vertrouwelijke klantdata.** Je zou kunnen overwegen om een eenvoudige regel in te voeren: nooit op een link klikken in een onverwachte mail, ook niet als die er professioneel uitziet. Laat medewerkers in plaats daarvan handmatig het adres van de afzender intoetsen in de browser. Dit klinkt omslachtig, maar het is een van de effectiefste manieren om phishing te voorkomen.
+**Als je een team aanstuurt en medewerkers toegang hebben tot bedrijfsgegevens.** Overweeg om een eenvoudige regel in te voeren: geen enkele link in een mail wordt aangeklikt zonder dat iemand eerst het webadres controleert door met de muis over de link te gaan. AI kan links verbergen achter overtuigende tekst, maar het echte adres wijkt vaak af. Train je team om dit te doen, ook bij mails die van ‘de directie’ lijken te komen.
 
-**Als je in de zorg werkt en te maken hebt met gevoelige patiëntgegevens.** Een optie is om een dubbele controle in te bouwen voor elk verzoek om informatie of betaling. Vraag altijd om bevestiging via een ander kanaal, bijvoorbeeld telefonisch of via een beveiligd portaal. AI kan een overtuigende mail produceren, maar kan niet zomaar twee verschillende communicatielijnen tegelijk manipuleren.
+**Als je in de zorg werkt en vertrouwelijke patiëntgegevens beheert.** Wees extra alert op mails die vragen om inloggegevens of om een bijlage te openen. AI kan een overtuigende kopie maken van een interne communicatie. Een mogelijkheid is om een tweede controle in te bouwen: vraag altijd bevestiging via een ander kanaal, bijvoorbeeld een appje of telefoontje, voordat je gevoelige informatie deelt.
 
-**Als je een klein team hebt zonder IT-afdeling.** Overweeg om een gratis of goedkope phishing-simulatietool te gebruiken. Hiermee kun je medewerkers trainen in het herkennen van verdachte mails zonder dat het veel tijd kost. Veel van deze tools sturen nep-phishingmails en geven direct feedback als iemand erin trapt.
-
-**Als je veel facturen verwerkt van verschillende leveranciers.** Stel een vaste procedure in waarbij betalingsgegevens alleen worden gewijzigd na schriftelijke bevestiging op een vooraf afgesproken manier, bijvoorbeeld via een beveiligd portaal of een telefoontje naar een vast contactpersoon. AI kan een factuur perfect namaken, maar kan niet zomaar twee aparte verificatiestappen doorlopen.
+**Als je als zzp’er werkt en veel via e-mail factureert.** Criminelen kunnen AI gebruiken om jouw factuur op te maken en het rekeningnummer te wijzigen. Een simpele controle is om betalingen altijd te verifiëren via de betaalomgeving van je bank, niet via de link in de mail. Overweeg ook om een vaste betaalafspraak met vaste klanten te maken, zodat afwijkingen direct opvallen.
 
 Bron: Technologyreview
