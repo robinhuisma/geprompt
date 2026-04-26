@@ -1,32 +1,32 @@
 ---
 title: "Mozilla Thunderbolt: eigen AI-infrastructuur zonder cloudafhankelijkheid"
-date: 2026-04-26T10:04:23.460Z
-tags: ["mozilla", "ai", "self-hosted", "mkb"]
+date: 2026-04-26T18:04:38.257Z
+tags: ["mozilla", "ai-infrastructuur", "zelf-hostend", "mkb"]
 categorieen: ["nieuws-tools"]
-summary: "Mozilla lanceert Thunderbolt, een client om eigen AI te draaien op zelfbeheerde servers."
+summary: "Mozilla lanceert Thunderbolt, een client voor zelfbeheerde AI, ideaal voor MKB dat data wil beschermen."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/"
 ---
 
-Mozilla Thunderbolt is een nieuwe client waarmee je AI-toepassingen kunt draaien op je eigen infrastructuur, zonder afhankelijk te zijn van clouddiensten van derden. Het is geen los AI-model, maar een front-end die je koppelt aan zelfgekozen componenten.
+Mozilla Thunderbolt is een nieuwe client waarmee je als ondernemer AI-toepassingen kunt draaien op je eigen infrastructuur, zonder afhankelijk te zijn van externe clouddiensten. Dit betekent dat je de controle houdt over je data en processen, wat vooral belangrijk is als je werkt met gevoelige klant- of bedrijfsinformatie.
 
 ## Wat er aan de hand is
 
-Mozilla, bekend van Firefox en Thunderbird, heeft Thunderbolt aangekondigd. Het is een client die draait op het open source AI-framework Haystack. Hiermee kun je zelf modulaire AI-pijplijnen bouwen uit door jou gekozen componenten. Thunderbolt fungeert als een 'soevereine AI-client' die kan worden aangesloten op ACP-compatibele agents of OpenAI-compatibele API's, waaronder Claude, Codex, DeepSeek en OpenCode. Het systeem kan ook integreren met lokaal opgeslagen bedrijfsgegevens via open protocollen en gebruikt een offline SQLite-database als lokale 'bron van waarheid'. Mozilla benadrukt dat dit bedrijven helpt die zich zorgen maken over het lekken van data naar externe providers. Daarnaast biedt Thunderbolt optionele end-to-end encryptie en toegangscontroles op apparaatniveau. Let op: er is nog geen releasedatum of prijs bekendgemaakt.
+Mozilla, bekend van Firefox en Thunderbird, heeft Thunderbolt aangekondigd. Dit is geen eigen AI-model of browser, maar een front-end client die draait op Haystack, een bestaand open source AI-framework. Thunderbolt fungeert als een “soevereine AI-client” waarmee je zelf samengestelde AI-pijplijnen kunt bouwen uit componenten naar keuze. Het systeem kan verbinding maken met elke ACP-compatibele agent of OpenAI-compatibele API, waaronder Claude, Codex, DeepSeek en OpenCode. Daarnaast integreert het met lokaal opgeslagen bedrijfsdata via open protocollen en gebruikt het een offline SQLite-database als lokale “bron van waarheid” voor het model. Mozilla benadrukt dat Thunderbolt optionele end-to-end encryptie en toegangscontroles op apparaatniveau biedt voor extra veiligheid. Dit is een direct antwoord op de groeiende zorgen over datalekken bij het gebruik van cloud-gebaseerde AI-diensten.
 
 ## Wat dit betekent
 
-Voor ondernemers en professionals in het MKB betekent dit dat er een nieuwe optie is om AI-toepassingen volledig in eigen beheer te draaien. Dit is vooral relevant als je werkt met gevoelige klantdata, bedrijfsgeheimen of andere informatie die je niet aan cloudproviders wilt toevertrouwen. Waar veel AI-oplossingen afhankelijk zijn van externe servers, geeft Thunderbolt je de controle over de hele keten: van het model tot de data. Dit kan een belangrijke overweging zijn voor bedrijven die voldoen aan strenge privacywetgeving of simpelweg geen afhankelijkheid van derden willen. De combinatie met open standaarden betekent ook dat je niet vastzit aan één leverancier.
+Voor het MKB betekent Thunderbolt dat je AI kunt inzetten zonder je data te delen met externe partijen zoals OpenAI of Google. Dit is cruciaal voor bedrijven die werken met vertrouwelijke klantgegevens, zoals zorginstellingen, advocatenkantoren of financiële dienstverleners. Waar je voorheen afhankelijk was van clouddiensten met onduidelijke databeveiliging, kun je nu een eigen AI-infrastructuur opzetten die volledig onder jouw controle staat. Dit verlaagt de drempel voor bedrijven die AI willen gebruiken maar huiverig zijn voor de privacyrisico’s. Het betekent ook dat je niet gebonden bent aan één leverancier; je kunt zelf kiezen welke AI-modellen en componenten je gebruikt, wat flexibiliteit en toekomstbestendigheid biedt.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een adviesbureau runt met vertrouwelijke klantdossiers.** Je zou Thunderbolt kunnen inzetten om een AI-assistent te bouwen die alleen toegang heeft tot lokaal opgeslagen documenten. Omdat de data niet naar een cloudprovider gaat, blijf je volledig compliant met privacyregels. Een mogelijkheid is om een lokale SQLite-database te gebruiken als bron van waarheid, zodat de AI altijd het laatste adviesrapport paraat heeft zonder dat informatie het kantoor verlaat.
+**Als je een administratiekantoor runt met meerdere klanten** die elk hun eigen vertrouwelijke gegevens aanleveren, kun je Thunderbolt gebruiken om een AI-assistent te bouwen die alleen werkt met lokaal opgeslagen data. Je zou bijvoorbeeld een pipeline kunnen opzetten die automatisch jaarrekeningen analyseert en samenvattingen genereert, zonder dat de data ooit je eigen server verlaat. Overweeg om te starten met een kleine testomgeving waarin je een lokaal model draait en de SQLite-database gebruikt als bron voor een specifieke klant.
 
-**Als je een productiebedrijf bent met eigen procesdata.** Overweeg om Thunderbolt te koppelen aan een lokaal draaiend model zoals DeepSeek of Codex. Je kunt dan een AI-pijplijn bouwen die productiegegevens analyseert zonder dat die data naar externe servers gaat. Dit is interessant als je werkt met bedrijfseigen recepturen, ontwerpen of logistieke gegevens die je niet wilt delen.
+**Als je een webshop runt** die klantgegevens verwerkt voor gepersonaliseerde aanbevelingen, kun je met Thunderbolt een AI-systeem bouwen dat alleen werkt met je eigen database. Je zou een model kunnen koppelen aan je lokale productcatalogus en klantgeschiedenis, zodat aanbevelingen op maat worden gegenereerd zonder dat gevoelige data naar de cloud gaat. Een mogelijke aanpak is om te beginnen met een eenvoudige pipeline die productbeschrijvingen optimaliseert op basis van lokale verkoopdata.
 
-**Als je een zorginstelling of juridische praktijk hebt.** De optionele end-to-end encryptie en apparaatniveau toegangscontroles maken Thunderbolt geschikt voor sectoren waar databeveiliging cruciaal is. Je zou een AI-client kunnen opzetten die alleen op beveiligde werkstations draait en medische dossiers of juridische stukken verwerkt zonder cloudinteractie. De praktische toepassing hangt af van jouw specifieke compliance-eisen.
+**Als je een team aanstuurt** dat werkt met bedrijfsgeheimen of intellectueel eigendom, kun je Thunderbolt inzetten voor interne kennismanagement. Je zou een AI-assistent kunnen maken die antwoorden geeft op basis van je eigen documentatie, handleidingen en projectbestanden, allemaal lokaal opgeslagen. Overweeg om een pilot te draaien met een klein team, waarbij je een lokaal model koppelt aan een gedeelde SQLite-database met projectinformatie.
 
-**Als je een IT-dienstverlener bent die klanten bedient.** Je kunt Thunderbolt gebruiken om voor elke klant een aparte, geïsoleerde AI-omgeving op te zetten op hun eigen infrastructuur. Dit geeft hen de voordelen van AI zonder dat jij of zij afhankelijk worden van een externe cloudprovider. Een optie is om te starten met een pilot voor een klant die al een eigen server heeft staan.
+**Als je in de zorg werkt** en te maken hebt met medische dossiers, is Thunderbolt een manier om AI te gebruiken zonder de strenge privacyregels te overtreden. Je zou een systeem kunnen opzetten dat artsen helpt bij het samenvatten van patiëntendossiers, waarbij alle data lokaal blijft en voldoet aan de AVG. Een optie is om te starten met een testomgeving waarin je een model traint op geanonimiseerde data voordat je het inzet voor echte dossiers.
 
-Bron: [Arstechnica](https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/)
+Bron: Arstechnica(https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/)
