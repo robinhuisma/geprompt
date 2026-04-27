@@ -1,34 +1,34 @@
 ---
 title: "Google Vids wordt gratis: maak professionele video’s zonder budget"
-date: 2026-04-27T14:12:59.016Z
-tags: ["google vids", "ai video", "ondernemers"]
+date: 2026-04-27T18:10:47.576Z
+tags: ["google vids", "ai video", "mkb", "videomarketing"]
 categorieen: ["creatief"]
-summary: "Google Vids is gratis geworden en biedt AI-videogeneratie voor social media, demo’s en klantcommunicatie."
+summary: "Google Vids biedt gratis AI-videotools voor MKB’ers, ideaal voor social media en klantcommunicatie."
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
 ---
 
-Google Vids is vanaf nu gratis te gebruiken voor iedereen met een Google-account. Het stelt je in staat om met AI-ondersteuning snel video’s te maken voor social media, productdemo’s of klantcommunicatie, zonder dat je een dure videobewerkingssuite nodig hebt.
+Het antwoord: Google Vids wordt vanaf nu gratis voor iedereen met een Google-account, waardoor MKB’ers zonder budget of technische kennis professionele video’s kunnen maken voor social media en klantcommunicatie. De tool gebruikt nieuwe AI-modellen, Lyria 3 en Veo 3.1, om hoogwaardige videocontent te genereren zonder dat je een dure videobewerkingssuite nodig hebt.
 
 ## Wat er aan de hand is
 
-Google heeft aangekondigd dat Google Vids, de AI-gestuurde videotool binnen Workspace, vanaf nu zonder extra kosten beschikbaar is. Waar het eerder alleen toegankelijk was voor betalende Workspace-gebruikers, kan nu iedereen met een persoonlijk Google-account aan de slag. De tool wordt aangedreven door Lyria 3 en Veo 3.1, twee AI-modellen van Google DeepMind die hoogwaardige videogeneratie mogelijk maken. Volgens Google kun je hiermee video’s creëren, bewerken en delen zonder dat je ervaring nodig hebt met traditionele videobewerking. De aankondiging past in een bredere trend waarin AI-tools voor contentcreatie steeds toegankelijker worden voor kleine bedrijven en zelfstandigen.
+Google heeft aangekondigd dat Google Vids, de AI-gestuurde videotool binnen Workspace, gratis beschikbaar komt. Waar het eerder alleen toegankelijk was voor betalende Workspace-gebruikers, kan nu iedereen met een Google-account video’s maken, bewerken en delen. De tool wordt aangedreven door twee nieuwe AI-modellen: Lyria 3 voor muziek- en audio-generatie en Veo 3.1 voor videogeneratie. Volgens Google kunnen gebruikers hiermee hoogwaardige video’s maken zonder dat ze ervaring hebben met videobewerking. De aankondiging past in een bredere trend waarbij techbedrijven AI-tools toegankelijker maken voor kleine bedrijven die geen budget hebben voor dure software of externe videoproductie.
 
 ## Wat dit betekent
 
-Voor Nederlandse ondernemers in het mkb betekent dit dat je een professioneel ogende video kunt maken zonder te investeren in dure software of externe videografen. Denk aan een korte productvideo voor je webshop, een uitlegfilmpje voor een nieuwe dienst, of een social media-post die meer aandacht trekt dan een statische afbeelding. Omdat de tool gratis is, vervalt de drempel om te experimenteren. Je kunt nu snel testen of video werkt voor jouw doelgroep, zonder dat het meteen geld kost. Vooral voor ondernemers die actief zijn op platforms als Instagram, LinkedIn of TikTok kan dit een verschil maken, omdat video daar steeds vaker de voorkeur krijgt van algoritmes.
+Voor MKB’ers betekent dit dat je nu zonder extra kosten video’s kunt maken voor social media, klantcommunicatie of interne trainingen. Waar je eerder afhankelijk was van tools zoals Canva, Adobe Premiere of externe videografen, biedt Google Vids een geïntegreerde oplossing die direct werkt vanuit je browser. De impact is het grootst voor bedrijven die regelmatig content moeten produceren, zoals webshops, dienstverleners of lokale ondernemers. Het verlaagt de drempel om video in te zetten als communicatiemiddel, iets wat steeds belangrijker wordt nu algoritmes van social media-platforms video zwaarder belonen dan tekst of afbeeldingen.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt en producten wilt laten zien.** Je zou een korte videodemo kunnen maken van een nieuw product, zonder dat je een videograaf hoeft in te huren. Google Vids genereert op basis van een paar zinnen tekst een video die je direct kunt delen op je productpagina of in een nieuwsbrief. Een mogelijkheid is om wekelijks een ‘product in de spotlight’-video te maken en die te testen op social media.
+**Als je een webshop runt en productvideo’s wilt maken zonder dure apparatuur.** Je kunt met Google Vids een korte video genereren van een product, bijvoorbeeld door een tekstuele beschrijving in te voeren. De AI maakt dan een videoclip met beelden, muziek en voice-over. Overweeg om dit te gebruiken voor productpagina’s of voor social media posts op Instagram of TikTok. Het bespaart je tijd en geld, omdat je geen videograaf hoeft in te huren.
 
-**Als je een dienstverlener bent en je aanbod wilt uitleggen.** Denk aan een boekhouder, coach of consultant die een uitlegfilmpje wil maken over een veelgestelde vraag. Je zou kunnen beginnen met een script van drie zinnen en Vids de beelden laten genereren. Het resultaat kun je gebruiken op je website of in een e-mailcampagne. Overweeg om zo’n video te plaatsen op je LinkedIn-profiel om je zichtbaarheid te vergroten.
+**Als je een team aanstuurt en interne instructievideo’s nodig hebt.** Denk aan uitleg over hoe je een bepaalde taak uitvoert, zoals het invullen van een formulier of het bedienen van een machine. Je zou een script kunnen schrijven en Google Vids de video laten genereren. Een optie is om dit te combineren met bestaande bedrijfsprocessen, zoals het delen van de video via Google Drive of een interne nieuwsbrief.
 
-**Als je een team aanstuurt en interne communicatie wilt verbeteren.** In plaats van een lange e-mail of een vergadering, kun je een korte videoupdate maken voor je team. Google Vids maakt het eenvoudig om een boodschap visueel te maken, bijvoorbeeld over een nieuwe werkwijze of een projectupdate. Een optie is om wekelijks een korte ‘stand-up’ video te delen, die teamleden op elk moment kunnen bekijken.
+**Als je in de dienstverlening zit en klantcommunicatie wilt verbeteren.** Stel dat je een makelaar bent en een woning wilt presenteren. Je kunt met Google Vids een korte videotour maken op basis van een beschrijving en foto’s. Of je bent een consultant en wilt een gepersonaliseerde video sturen naar een klant als samenvatting van een adviesgesprek. De mogelijkheid om snel en gratis video’s te maken, kan je onderscheiden van concurrenten die alleen tekst of statische afbeeldingen gebruiken.
 
-**Als je actief bent in de zorg of het onderwijs en informatie toegankelijk wilt maken.** Je zou een instructievideo kunnen maken voor patiënten of studenten, zonder dat je technische kennis nodig hebt. De AI genereert beelden die aansluiten bij jouw uitleg. Overweeg om een reeks korte video’s te maken over veelgestelde vragen en die te delen via je website of een besloten omgeving.
+**Als je social media beheert voor een lokaal bedrijf.** Denk aan een restaurant dat wekelijks een video wil posten van het gerecht van de dag. Je zou een korte clip kunnen genereren met de AI, voorzien van muziek en tekst. Overweeg om dit te integreren in je contentkalender, zodat je elke week een nieuwe video hebt zonder dat het veel tijd kost.
 
-De praktische toepassing hangt af van jouw situatie, maar de kern is dat je met Google Vids snel en zonder kosten kunt experimenteren met video. Het enige wat je nodig hebt is een Google-account en een idee.
+**Als je een training of workshop geeft en visueel materiaal nodig hebt.** Je kunt met Google Vids een uitlegvideo maken van een concept, bijvoorbeeld hoe een bepaald proces werkt. Dit is vooral handig als je geen tijd hebt om zelf te editen of als je geen ervaren videomaker in huis hebt. Een optie is om de video te gebruiken als onderdeel van een online cursus of als instructiemateriaal voor nieuwe medewerkers.
 
 Bron: Blog Google

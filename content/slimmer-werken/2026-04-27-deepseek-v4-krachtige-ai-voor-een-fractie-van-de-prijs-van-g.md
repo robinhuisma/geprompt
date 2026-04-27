@@ -1,30 +1,29 @@
 ---
-title: "DeepSeek V4: krachtige AI voor een fractie van de prijs van GPT-5.5"
-date: 2026-04-27T14:13:33.032Z
-tags: ["deepseek", "ai-prijzen", "open-source", "nederlandse-ondernemers"]
+title: "DeepSeek V4: Krachtige AI voor een fractie van de prijs van GPT-5.5"
+date: 2026-04-27T18:11:18.683Z
+tags: ["deepseek", "ai-kosten", "open-source", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "DeepSeek V4 Pro is tot 10x goedkoper dan GPT-5.5 en geschikt voor klantenservice en data-analyse."
+summary: "Nieuw open-source AI-model van DeepSeek is extreem goedkoop en presteert bijna op topniveau. Wat betekent dit voor jouw bedrijf?"
 draft: false
 source_name: "Therundown"
 source_url: "https://www.therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4"
 ---
 
-DeepSeek V4 Pro is een nieuw open-source AI-model dat tot tien keer goedkoper is dan GPT-5.5 en geschikt is voor taken zoals klantenservice en data-analyse. Het model kost $1,74 per miljoen input-tokens en $3,48 per miljoen output-tokens, tegenover $5 en $30 voor GPT-5.5.
+**DeepSeek V4 is een nieuw open-source AI-model dat qua prestaties bijna op het niveau van GPT-5.5 zit, maar meer dan tien keer goedkoper is. Voor ondernemers betekent dit dat hoogwaardige AI voor taken zoals klantenservice en contentcreatie opeens betaalbaar wordt, zonder dat je vastzit aan dure abonnementen van Amerikaanse techreuzen.**
 
 ## Wat er aan de hand is
-
-Het Chinese AI-lab DeepSeek heeft previewversies van zijn langverwachte V4-model uitgebracht. Het gaat om open-source AI-modellen met een contextvenster van 1 miljoen tokens, ondersteuning voor Huawei-chips en prijzen die aanzienlijk lager liggen dan die van toonaangevende concurrenten. Volgens DeepSeek presteert V4 Pro in eigen evaluaties bijna op het niveau van GPT-5.4 en Gemini 3.1-Pro op het gebied van redeneren. Op de Vibe Code Bench van Vals AI staat V4 Pro bovenaan, maar op de Intelligence Index van AA valt het in een vierde laag, samen met Meta’s Muse Spark. De Chinese chipmaker Huawei heeft bevestigd dat zijn Ascend-chips V4 ondersteunen, wat een werkend voorbeeld is van AI-infrastructuur buiten Nvidia’s ecosysteem.
+Het Chinese AI-lab DeepSeek heeft previewversies uitgebracht van zijn langverwachte V4-model. Het gaat om open-source AI-modellen met een contextvenster van 1 miljoen tokens, ondersteuning voor Huawei-chips, en een prijs die ver onder die van concurrenten ligt. Volgens DeepSeek zelf presteert V4 Pro in redeneren bijna op het niveau van GPT-5.4 en Gemini 3.1-Pro. Op de Vibe Code Bench van Vals AI staat V4 Pro bovenaan. De prijs is opvallend laag: $1,74 per 1 miljoen input-tokens en $3,48 per 1 miljoen output-tokens. Ter vergelijking: GPT-5.5 kost $5 per 1 miljoen input-tokens en $30 per 1 miljoen output-tokens, en Opus 4.7 kost $5 per 1 miljoen input-tokens en $25 per 1 miljoen output-tokens. Daarnaast maakte de Chinese chipmaker Huawei bekend dat zijn Ascend-chips V4 ondersteunen, wat een werkend alternatief biedt voor de Nvidia-stack die door exportbeperkingen moeilijk verkrijgbaar is in China.
 
 ## Wat dit betekent
-
-Voor Nederlandse ondernemers betekent dit dat er nu een serieus alternatief is voor dure AI-modellen van Amerikaanse aanbieders. De prijsverschillen zijn groot: V4 Pro kost $1,74 per miljoen input-tokens en $3,48 per miljoen output-tokens, terwijl GPT-5.5 $5 en $30 rekent. Dat is een besparing van ongeveer 65% op input en 88% op output. Ook ten opzichte van Opus 4.7, dat $5 per miljoen input- en $25 per miljoen output-tokens kost, is V4 Pro fors goedkoper. De ondersteuning voor Huawei-chips is daarnaast een signaal dat AI-infrastructuur minder afhankelijk wordt van Nvidia, wat op termijn de markt kan veranderen.
+Deze ontwikkeling maakt de AI-race niet alleen een kwestie van intelligentie, maar ook van prijs. Voor het MKB is dat goed nieuws. Waar je voorheen diep in de buidel moest tasten voor een model dat écht goed kan redeneren of code schrijven, is er nu een open-source alternatief dat voor een fractie van de kosten bijna evenveel kan. De ondersteuning voor Huawei-chips is een signaal dat AI-infrastructuur minder afhankelijk wordt van één leverancier (Nvidia), wat op termijn de prijzen verder kan drukken en de keuzevrijheid vergroot. Voor Nederlandse ondernemers die afhankelijk zijn van Amerikaanse clouddiensten, biedt dit een extra optie om kosten te besparen en leveranciersrisico’s te spreiden.
 
 ## Hoe je dit kunt toepassen
+**Als je een webshop runt en AI gebruikt voor klantenservice...** Dan kun je overwegen om DeepSeek V4 in te zetten voor het beantwoorden van klantvragen via een chatbot. De lage prijs per token maakt het financieel haalbaar om ook complexe vragen te laten verwerken, zonder dat de kosten oplopen zoals bij GPT-5.5. Een mogelijkheid is om een testomgeving op te zetten waarin je V4 Pro vergelijkt met je huidige oplossing op het gebied van antwoordkwaliteit en snelheid.
 
-**Als je een webshop runt en klantenservice wilt automatiseren**, dan kun je overwegen om V4 Pro in te zetten voor het beantwoorden van klantvragen. Het grote contextvenster van 1 miljoen tokens maakt het mogelijk om hele productcatalogi of klantgeschiedenissen in één keer mee te geven. De lage prijs per token betekent dat je voor een fractie van de kosten van GPT-5.5 een chatbot kunt draaien die complexe vragen begrijpt. Een mogelijkheid is om V4 Pro via een API te koppelen aan je klantenserviceplatform en te testen met een beperkt aantal gesprekken.
+**Als je een team aanstuurt dat content produceert voor marketing of communicatie...** DeepSeek V4 kan worden gebruikt voor het genereren van teksten, van productbeschrijvingen tot nieuwsbrieven. Omdat het model open-source is, kun je het mogelijk lokaal draaien of via een goedkopere API. Overweeg om een pilot te doen waarbij je V4 Pro inzet voor het schrijven van eerste concepten, die je team vervolgens redigeert. De besparing op API-kosten kan oplopen tot tientallen procenten.
 
-**Als je een team aanstuurt en data-analyse doet**, dan kun je V4 Pro gebruiken om grote datasets te doorzoeken of samenvattingen te genereren. Het open-source karakter betekent dat je het model lokaal kunt draaien of in een eigen cloudomgeving, wat privacygevoelige data beschermt. Je zou kunnen beginnen met het analyseren van klantfeedback of verkooprapporten, waarbij de lage tokenprijs het mogelijk maakt om veel data te verwerken zonder hoge kosten. Overweeg om een proefproject op te zetten met een klein team om de prestaties te vergelijken met je huidige AI-tool.
+**Als je in de financiële sector werkt en data-analyse doet...** De combinatie van een groot contextvenster (1 miljoen tokens) en lage kosten maakt V4 geschikt voor het analyseren van lange documenten, zoals jaarverslagen of contracten. Je zou kunnen experimenteren met het samenvatten van grote hoeveelheden tekst of het extraheren van specifieke data. Omdat het model open-source is, kun je het mogelijk aanpassen aan jouw specifieke domein, al vergt dat wel technische kennis.
 
-**Als je in de zorg of financiële dienstverlening werkt**, dan is de ondersteuning voor Huawei-chips interessant omdat het een alternatief biedt voor Nvidia-hardware. Dit kan relevant zijn als je te maken hebt met exportbeperkingen of leveringsproblemen. Een optie is om V4 Pro te testen op een eigen server met Ascend-chips voor taken zoals het samenvatten van medische dossiers of het controleren van transacties. De open-source licentie geeft je de vrijheid om het model aan te passen aan specifieke regelgeving, al moet je wel zelf de implementatie en beveiliging regelen.
+**Als je een klein team hebt en experimenteert met AI-tools...** De lage instapdrempel van DeepSeek V4 maakt het interessant om te testen zonder groot budget. Een optie is om via een platform dat V4 aanbiedt een paar taken uit te proberen die je normaal aan een duurder model zou vragen, zoals het genereren van code of het opstellen van een marketingplan. De praktische toepassing hangt af van jouw situatie, maar de prijs-kwaliteitverhouding is nu zodanig dat experimenteren financieel laagdrempelig is.
 
 Bron: Therundown (https://www.therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4)
