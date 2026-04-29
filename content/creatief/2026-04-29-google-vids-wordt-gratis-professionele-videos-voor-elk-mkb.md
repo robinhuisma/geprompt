@@ -1,31 +1,34 @@
 ---
 title: "Google Vids wordt gratis: professionele video’s voor elk MKB"
-date: 2026-04-29T10:11:05.256Z
+date: 2026-04-29T14:11:45.168Z
 tags: ["google vids", "ai video", "mkb marketing"]
 categorieen: ["creatief"]
-summary: "Google Vids is nu gratis en maakt met AI professionele video’s voor social media en productdemo’s."
+summary: "Google Vids wordt gratis, met AI-videogeneratie voor social media en klantcommunicatie."
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
 ---
 
-Het antwoord: Google Vids is een gratis AI-tool waarmee je zonder technische kennis professionele video’s maakt voor social media, productdemo’s of interne communicatie. De tool is onderdeel van Google Workspace en gebruikt de nieuwe AI-modellen Lyria 3 en Veo 3.1 voor het genereren van hoogwaardige videobeelden.
+Google Vids wordt gratis voor alle Google Workspace-gebruikers, met AI-mogelijkheden die het maken van professionele video’s toegankelijk maken voor kleine bedrijven. De nieuwe functies, aangedreven door Lyria 3 en Veo 3.1, stellen je in staat om zonder extra kosten video’s te genereren, bewerken en delen voor social media en klantcommunicatie.
 
 ## Wat er aan de hand is
-Google heeft nieuwe AI-mogelijkheden toegevoegd aan Google Vids, een tool die eerder alleen beschikbaar was voor betalende Workspace-gebruikers. De tool is nu voor iedereen gratis te gebruiken. De nieuwe functionaliteit wordt aangedreven door Lyria 3 en Veo 3.1, twee AI-modellen van Google DeepMind. Lyria 3 richt zich op het genereren van audio en muziek, terwijl Veo 3.1 zorgt voor videogeneratie. Volgens Google kun je met deze combinatie video’s maken, bewerken en delen zonder dat je ervaring hebt met videobewerking. De aankondiging past in een bredere trend waarin AI-videotools toegankelijker worden voor kleine bedrijven die geen budget hebben voor dure productieapparatuur of specialisten.
+
+Google heeft aangekondigd dat Google Vids, de AI-videotool binnen Workspace, vanaf nu gratis beschikbaar is. Waar voorheen een betalend abonnement nodig was, kunnen alle Workspace-gebruikers nu zonder extra kosten video’s maken. De tool wordt aangedreven door twee nieuwe AI-modellen: Lyria 3 voor audiogeneratie en Veo 3.1 voor videogeneratie. Dit betekent dat je vanuit een prompt of een bestaand document een video kunt laten maken, compleet met voice-over, muziek en beeldmateriaal. De update maakt deel uit van een bredere trend waarin AI-videotools steeds toegankelijker worden voor niet-techneuten.
 
 ## Wat dit betekent
-Voor ondernemers in het MKB betekent dit dat je nu zelfstandig video’s kunt maken die er professioneel uitzien, zonder dat je een videograaf hoeft in te huren of dure software hoeft aan te schaffen. Vooral voor bedrijven die actief zijn op social media, zoals Instagram, TikTok of LinkedIn, is dit een kans om snel en goedkoop content te produceren. Denk aan productdemo’s, klantgetuigenissen, uitlegvideo’s of promoties. Ook voor interne communicatie, zoals bedrijfsupdates of trainingen, biedt het mogelijkheden. De drempel om te beginnen is laag: je hebt alleen een Google-account nodig. Het feit dat de tool gratis is, maakt het extra aantrekkelijk voor ondernemers die hun marketingbudget willen spreiden.
+
+Voor MKB’ers betekent dit een directe verlaging van de drempel om video in te zetten voor marketing en communicatie. Waar je eerder een videograaf, dure software of uren bewerkingstijd nodig had, kun je nu binnen Google Workspace een video maken in enkele minuten. Dit is vooral relevant voor bedrijven die actief zijn op social media, waar video steeds belangrijker wordt voor bereik en betrokkenheid. Ook voor interne communicatie, zoals uitlegvideo’s voor medewerkers of klantupdates, biedt dit een snelle en kosteloze oplossing. De integratie met Workspace betekent dat je direct vanuit Google Docs of Slides een video kunt genereren, zonder dat je aparte tools hoeft te leren.
 
 ## Hoe je dit kunt toepassen
-**Als je een webshop runt** kun je met Google Vids eenvoudig productdemo’s maken. Je zou bijvoorbeeld een korte video kunnen maken waarin je de belangrijkste kenmerken van een nieuw product laat zien. Gebruik de AI om beelden te genereren die passen bij jouw productcategorie, zoals close-ups van materialen of sfeerbeelden. Overweeg om de video’s te plaatsen op productpagina’s of in nieuwsbrieven.
 
-**Als je een team aanstuurt** kun je interne video’s maken voor uitleg over processen of aankondigingen. Een mogelijkheid is om een korte instructievideo te maken over hoe je een nieuw softwarepakket gebruikt. De AI kan helpen om de beelden te genereren die de stappen verduidelijken, zonder dat je zelf hoeft te filmen. Dit bespaart tijd en zorgt voor consistente communicatie.
+**Als je een webshop runt en productvideo’s wilt maken voor social media.** Je kunt Google Vids gebruiken om vanuit een productbeschrijving of een Google Doc een korte promotievideo te genereren. Voeg een voice-over toe met Lyria 3 en laat Veo 3.1 beeldmateriaal genereren dat past bij je product. Overweeg om wekelijks een video te maken voor Instagram of LinkedIn, zonder dat je een videograaf hoeft in te schakelen.
 
-**Als je in de zorg werkt** kun je patiëntenvoorlichting verbeteren. Je zou een video kunnen maken die uitlegt hoe een behandeling werkt of wat de voorbereiding is voor een afspraak. Overweeg om de AI te gebruiken om rustige, duidelijke beelden te genereren die de uitleg ondersteunen. Dit kan de begrijpelijkheid vergroten en vragen verminderen.
+**Als je een team aanstuurt en interne uitlegvideo’s nodig hebt.** In plaats van lange e-mails of handleidingen kun je een video maken die een nieuw proces uitlegt. Je zou kunnen beginnen met een Google Doc waarin je de stappen beschrijft, en die vervolgens door Google Vids laten omzetten in een video met voice-over. Dit bespaart tijd en zorgt dat iedereen dezelfde uitleg krijgt.
 
-**Als je een dienstverlener bent** zoals een consultant of coach, kun je korte teasers maken voor je diensten. Een optie is om een video te maken waarin je een tip geeft of een veelgestelde vraag beantwoordt. Gebruik de AI om een professionele achtergrond of sfeerbeeld te genereren die past bij jouw merk. Plaats deze video’s op je website of social media om vertrouwen op te bouwen.
+**Als je in de dienstverlening zit en klantcommunicatie wilt verbeteren.** Denk aan een korte video waarin je een offerte toelicht of een nieuwe dienst aankondigt. Je zou een bestaande e-mail of document kunnen gebruiken als basis, en Google Vids er een professionele video van laten maken. Een mogelijkheid is om maandelijks een updatevideo te maken voor je klanten, zonder dat dit extra kosten met zich meebrengt.
 
-**Als je een evenement organiseert** kun je aankondigingsvideo’s maken. Je zou een korte trailer kunnen genereren met beelden die de sfeer van het evenement weergeven. Overweeg om de AI te gebruiken om dynamische overgangen en muziek toe te voegen. Dit werkt goed voor uitnodigingen of social media posts.
+**Als je een fysieke winkel hebt en evenementen of acties wilt promoten.** Maak een video van een aankomende sale of een nieuw product in de schappen. Je kunt Google Vids gebruiken om snel een aankondiging te genereren die je deelt op je website of social media. Overweeg om de video te voorzien van een call-to-action, zoals een link naar je webshop.
 
-Bron: Google Blog
+**Als je een freelancer bent en je portfolio wilt versterken.** Gebruik Google Vids om een korte showreel te maken van je werk. Je kunt een document met je projecten en resultaten importeren, en de tool laat er een video van maken. Dit is een laagdrempelige manier om je diensten te presenteren zonder dat je hoeft te investeren in dure videoproductie.
+
+Bron: Blog Google
