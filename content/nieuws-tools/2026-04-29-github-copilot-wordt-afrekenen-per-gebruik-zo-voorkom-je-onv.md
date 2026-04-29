@@ -1,34 +1,30 @@
 ---
 title: "GitHub Copilot wordt afrekenen per gebruik: zo voorkom je onverwachte kosten"
-date: 2026-04-29T06:04:43.007Z
-tags: ["github copilot", "ai tools", "kosten beheren", "mkb"]
+date: 2026-04-29T10:05:38.573Z
+tags: ["github copilot", "ai-kosten", "mkb", "ontwikkeltools"]
 categorieen: ["nieuws-tools"]
-summary: "GitHub Copilot schakelt over op betalen per gebruik. Dit artikel helpt je kosten te beheersen."
+summary: "GitHub Copilot stapt over op betalen per daadwerkelijk AI-gebruik. Dit vraagt om een nieuwe aanpak van je ontwikkelkosten."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/"
 ---
 
-GitHub Copilot stopt met vaste abonnementen en gaat vanaf 1 juni over op betalen per gebruik. Dit betekent dat je niet langer één vast bedrag betaalt voor onbeperkt gebruik, maar dat de kosten afhangen van hoe vaak en hoe intensief je de AI-code-assistent inzet. Voor MKB-ondernemers die Copilot gebruiken, wordt het beheren van die kosten een nieuwe prioriteit.
+GitHub Copilot gaat vanaf 1 juni over op een betalingsmodel waarbij je betaalt voor het daadwerkelijke AI-gebruik, niet meer voor een vast aantal ‘verzoeken’. Dit betekent dat een simpele chatvraag en een urenlange coderingssessie straks heel anders worden beprijsd, met mogelijke kostenpieken voor bedrijven die Copilot intensief gebruiken.
 
 ## Wat er aan de hand is
 
-GitHub, onderdeel van Microsoft, heeft aangekondigd dat het de prijsstructuur van Copilot ingrijpend verandert. Waar gebruikers nu een vast maandbedrag betalen voor een bepaald aantal ‘verzoeken’ en ‘premium verzoeken’, wordt dat straks afgerekend op basis van het daadwerkelijke verbruik. De reden is volgens GitHub dat de kosten voor AI-rekenkracht sterk variëren per taak. Een kort chatgesprek met de AI kost veel minder rekenkracht dan een autonome coderingssessie van een paar uur. Tot nu toe absorbeerde GitHub die verschillen, maar dat is volgens het bedrijf ‘niet langer houdbaar’. De nieuwe prijzen gaan in op 1 juni. De exacte tarieven per verzoek of rekeneenheid zijn nog niet bekendgemaakt, maar GitHub belooft ‘transparante’ prijzen.
+GitHub, onderdeel van Microsoft, heeft aangekondigd dat het zijn Copilot AI-dienst vanaf 1 juni overzet op een usage-based billing model. Tot nu toe kregen abonnees een maandelijkse toewijzing van ‘requests’ en ‘premium requests’, ongeacht hoe zwaar die verzoeken waren voor de backend. Volgens GitHub kost een snel chatvraagje evenveel als een meerdaagse autonome coderingssessie, wat ‘niet langer duurzaam is’ vanwege de sterk gestegen rekenkosten achter AI-modellen. Het bedrijf zegt dat het die kosten tot nu toe heeft opgevangen, maar dat het samenvoegen van alle ‘premium requests’ in één prijscategorie niet langer houdbaar is.
 
 ## Wat dit betekent
 
-Voor MKB-bedrijven die Copilot gebruiken, betekent deze wijziging dat de maandelijkse IT-kosten minder voorspelbaar worden. Waar je voorheen een vast bedrag in je begroting kon opnemen, krijg je nu te maken met variabele kosten die kunnen pieken als ontwikkelaars intensief gebruikmaken van de AI. Dit raakt niet alleen de portemonnee, maar ook de manier waarop je de inzet van Copilot beheert. Teams die veel experimenteren of complexe taken door de AI laten uitvoeren, kunnen ineens flink meer kwijt zijn. Voor bedrijven die Copilot gebruiken voor eenvoudige code-aanvullingen, blijven de kosten waarschijnlijk laag. De verschuiving past in een bredere trend: AI-diensten stappen steeds vaker over van vaste abonnementen naar verbruiksmodellen, zoals ook bij clouddiensten gebruikelijk is.
+Voor ondernemers en professionals die Copilot gebruiken in hun bedrijf, verandert de kostenstructuur fundamenteel. Waar je voorheen een vast bedrag betaalde voor een vast aantal verzoeken, wordt de rekening nu gekoppeld aan de intensiteit en duur van het AI-gebruik. Dit kan leiden tot onverwachte kostenpieken, vooral in teams die Copilot gebruiken voor complexe, langdurige taken zoals het herstructureren van codebases of het genereren van uitgebreide documentatie. Voor kleine bedrijven met een beperkt IT-budget kan dit betekenen dat ze hun gebruik moeten monitoren en bijsturen om binnen de begroting te blijven. Grotere teams met een hoge ontwikkelintensiteit moeten mogelijk hun workflow aanpassen om dure pieken te voorkomen.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een klein developmentteam aanstuurt**, kun je overwegen om het gebruik van Copilot te monitoren. Vraag je team om bij te houden hoe vaak ze de AI inzetten voor eenvoudige vragen versus complexe taken. Je zou kunnen afspreken dat ze voor grotere, autonome coderingssessies eerst overleggen of het echt nodig is. Een mogelijkheid is om een wekelijkse ‘AI-kostencheck’ in te plannen, waarbij je het verbruik van de afgelopen dagen bekijkt. Zo voorkom je dat een paar intensieve sessies aan het einde van de maand voor een onaangename verrassing zorgen.
+**Als je een klein team ontwikkelaars aanstuurt**, kun je overwegen om een intern monitoringssysteem in te richten. Vraag je teamleden om bij te houden hoe vaak en hoe lang ze Copilot gebruiken voor complexe taken versus eenvoudige vragen. Zo krijg je inzicht in welke activiteiten de meeste kosten veroorzaken. Een mogelijkheid is om een wekelijkse ‘Copilot-kostencheck’ in te plannen, waarbij je het gebruik bespreekt en afspraken maakt over wanneer je het wel en niet inzet. Overweeg om voor eenvoudige hulpvragen eerst een snelle zoekopdracht in de documentatie te doen, voordat je Copilot inschakelt.
 
-**Als je als zelfstandig ontwikkelaar werkt**, is het verstandig om je eigen gebruikspatronen in kaart te brengen. Gebruik je Copilot vooral voor code-aanvullingen of laat je het ook hele functies schrijven? Overweeg om voor de dure, intensieve taken een aparte ‘budgetlimiet’ in te stellen, bijvoorbeeld door een maximum aantal premium verzoeken per dag af te spreken met jezelf. Je zou ook kunnen experimenteren met het uitschakelen van de AI voor bepaalde projecten waar je de code liever helemaal zelf schrijft.
+**Als je een webshop of SaaS-product bouwt**, kun je de impact van het nieuwe model testen door een proefperiode in te stellen. Vraag een ontwikkelaar om een week lang alle Copilot-verzoeken te loggen en te categoriseren in ‘licht’ en ‘zwaar’. Zo kun je een schatting maken van de toekomstige kosten onder het nieuwe model. Een optie is om voor de zware taken, zoals het herschrijven van complete modules, een aparte ‘offline’ sessie in te plannen waarin je Copilot alleen gebruikt voor de meest kritieke stappen. Dit helpt om de kosten te spreiden en te voorkomen dat een enkele taak de maandelijkse rekening opdrijft.
 
-**Als je een MKB-bedrijf runt met meerdere Copilot-licenties**, kun je nu alvast inventariseren wie in je team de grootste verbruikers zijn. Vraag je ontwikkelaars om een schatting van hun wekelijkse gebruik. Op basis daarvan kun je een inschatting maken van de nieuwe kosten zodra de tarieven bekend zijn. Een optie is om een intern ‘AI-budget’ per teamlid in te stellen, zodat niemand ongemerkt te veel verbruikt. Houd ook alternatieven in de gaten, zoals andere AI-code-assistenten die mogelijk nog een vast tarief hanteren.
-
-**Als je Copilot gebruikt voor niet-code taken, zoals documentatie of het genereren van testscripts**, wees je er dan van bewust dat ook die verzoeken meetellen. Het is verleidelijk om de AI voor allerlei kleine taken in te zetten, maar elk verzoek kost straks geld. Overweeg om een aparte, goedkopere AI-tool te gebruiken voor simpele tekstuele taken, en Copilot alleen in te zetten voor daadwerkelijke code-gerelateerde vragen. Zo houd je de kosten laag zonder in te leveren op productiviteit.
-
-De praktische toepassing hangt af van jouw specifieke situatie, maar het belangrijkste is dat je nu al nadenkt over hoe je het gebruik gaat monitoren en budgetteren. Wacht niet tot 1 juni om te ontdekken dat je kosten zijn verdubbeld.
+**Als je een team van freelancers of externe ontwikkelaars inhuurt**, kun je in je contracten opnemen dat Copilot-gebruik wordt gedeclareerd op basis van daadwerkelijke verzoeken. Spreek vooraf af welk budget er is voor AI-ondersteuning en hoe je overschrijdingen voorkomt. Een mogelijkheid is om een maximum aantal ‘zware’ verzoeken per project af te spreken, of om een aparte kostenpost voor AI-gebruik op te nemen. Dit voorkomt verrassingen aan het einde van de maand en geeft je grip op de totale ontwikkelkosten.
 
 Bron: [Arstechnica](https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/)
