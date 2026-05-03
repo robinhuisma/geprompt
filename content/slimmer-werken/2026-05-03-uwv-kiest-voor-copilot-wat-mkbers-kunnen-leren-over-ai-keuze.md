@@ -1,0 +1,29 @@
+---
+title: "UWV kiest voor Copilot: wat MKB’ers kunnen leren over AI-keuzes"
+date: 2026-05-03T10:06:46.220Z
+tags: ["AI-selectie", "datasoevereiniteit", "microsoft-copilot"]
+categorieen: ["slimmer-werken"]
+summary: "UWV stopt met Europese AI Le Chat en start proef met Microsoft Copilot. Dit zijn de lessen voor jouw bedrijf."
+draft: false
+source_name: "Computable"
+source_url: "https://www.computable.nl/2026/05/01/uwv-stopt-met-le-chat-start-proef-met-copilot/"
+---
+
+Het antwoord op de vraag wat je als ondernemer kunt leren van UWV’s overstap van Le Chat naar Copilot is: kies een AI-tool die naadloos integreert met je bestaande systemen, ook al betekent dat dat je een Amerikaanse leverancier verkiest boven een Europese. UWV ruilde het Franse Mistral AI’s Le Chat in voor Microsoft Copilot, niet omdat de ene technisch beter is dan de andere, maar omdat de aansluiting op de bestaande Microsoft-omgeving meer controle en beveiliging biedt. Dat is een les die voor elk MKB geldt: de beste AI is niet per definitie de meest soevereine of de hipste, maar degene die het beste past in jouw digitale infrastructuur.
+
+## Wat er aan de hand is
+Het Uitvoeringsinstituut Werknemersverzekeringen (UWV) stopt met het gebruik van Le Chat, de AI-assistent van het Franse bedrijf Mistral AI. Sinds juni 2025 was Le Chat actief binnen de organisatie, maar vanaf half mei 2026 start een pilot met Microsoft Copilot Chat Web. Deze proef loopt tot het einde van het jaar. Volgens een woordvoerder van UWV was Le Chat bedoeld als een tijdelijke oplossing, totdat een gecontracteerde AI-toepassing beschikbaar kwam. De keuze voor Copilot is ingegeven door de bestaande Microsoft-omgeving van UWV. Daardoor kunnen meer instellingen centraal worden beheerd en kan de beveiliging beter worden afgestemd op de eisen van de organisatie. De verwachting is dat Copilot betere resultaten oplevert, meer gebruiksgemak biedt en het gebruik van niet-goedgekeurde AI-tools (shadow-AI) tegengaat. Opvallend is dat UWV hiermee een Europese tool inruilt voor een Amerikaanse, in een tijd waarin datasoevereiniteit en digitale autonomie hoog op de agenda staan. UWV zegt desgevraagd dat het ondertussen ook naar andere betrouwbare, soevereine alternatieven kijkt.
+
+## Wat dit betekent
+Voor jou als MKB-ondernemer is deze casus een praktijkvoorbeeld van een afweging die je zelf ook zult moeten maken. De keuze tussen een Europese AI-tool met een sterke focus op datasoevereiniteit en een Amerikaanse tool die beter integreert met je bestaande systemen is niet zwart-wit. UWV’s overstap laat zien dat integratie en beheerbaarheid zwaarder kunnen wegen dan het principe van Europese autonomie. Voor bedrijven die al werken met Microsoft 365, Teams of Azure, kan Copilot een logischere keuze zijn dan een losstaande tool als Le Chat of ChatGPT. Het betekent ook dat je niet blind moet varen op de belofte van datasoevereiniteit alleen. De praktische voordelen van een geïntegreerd ecosysteem – zoals centraal beheer, betere beveiliging en minder shadow-AI – kunnen opwegen tegen het risico van afhankelijkheid van een Amerikaanse leverancier. Vooral voor kleinere bedrijven zonder eigen IT-afdeling is dat een belangrijk punt.
+
+## Hoe je dit kunt toepassen
+**Als je een eenmanszaak of klein bedrijf runt zonder IT-afdeling**, kun je leren van UWV’s aanpak door eerst te kijken naar de tools die je al gebruikt. Werk je met Microsoft 365? Overweeg dan om Copilot uit te proberen via de gratis of betaalde versie, voordat je een aparte AI-tool als Le Chat of ChatGPT implementeert. Het voordeel is dat je geen nieuwe aanmeldingen, wachtwoorden of beveiligingsinstellingen hoeft te beheren. Je zou kunnen starten met een kleine pilot, bijvoorbeeld met één medewerker, om te zien of de integratie met je bestaande e-mail, agenda en documenten daadwerkelijk tijd bespaart.
+
+**Als je een team aanstuurt en worstelt met shadow-AI**, is UWV’s motivatie om Copilot te gebruiken direct relevant. Medewerkers gebruiken vaak eigen AI-tools zonder dat jij weet welke data erin gaan. Door een goedgekeurde tool aan te bieden die binnen je eigen omgeving draait, kun je dat tegengaan. Een mogelijkheid is om een inventarisatie te maken van welke AI-tools je team nu gebruikt, en vervolgens te bepalen of één geïntegreerde oplossing – zoals Copilot of een andere tool die aansluit op jullie systemen – die behoefte kan dekken. Je zou kunnen afspreken dat iedereen eerst een maand met dezelfde tool werkt, voordat je een definitieve keuze maakt.
+
+**Als je werkt met gevoelige klantdata of persoonsgegevens**, is de afweging tussen soevereiniteit en integratie extra belangrijk. UWV kiest voor Copilot omdat de beveiliging beter kan worden afgestemd op de eigen eisen. Voor jou betekent dit dat je niet alleen moet kijken naar waar de data wordt opgeslagen (Europa of VS), maar ook naar hoe de tool is ingericht binnen jouw omgeving. Overweeg om een dataschema te maken: welke data mag wel en niet in een AI-tool? Bespreek dit met je leverancier. Een optie is om te vragen of de tool data alleen in de EU verwerkt, zoals Copilot dat in sommige configuraties kan. Laat je niet verleiden door alleen het Europese label; de praktische inrichting is minstens zo belangrijk.
+
+**Als je een webshop runt en AI wilt inzetten voor klantenservice of productbeschrijvingen**, kun je de les van UWV toepassen door te kiezen voor een tool die direct koppelt met je e-commerceplatform. Gebruik je Shopify, WooCommerce of Magento? Kijk dan of de AI-tool die je overweegt een plug-in of API heeft die naadloos aansluit. Een mogelijkheid is om eerst een gratis proefversie van Copilot of een andere tool te testen binnen je bestaande omgeving, voordat je een langdurig contract aangaat. Zo voorkom je dat je een tool implementeert die weliswaar soeverein is, maar niet werkt met je dagelijkse systemen.
+
+Bron: [Computable](https://www.computable.nl/2026/05/01/uwv-stopt-met-le-chat-start-proef-met-copilot/)
