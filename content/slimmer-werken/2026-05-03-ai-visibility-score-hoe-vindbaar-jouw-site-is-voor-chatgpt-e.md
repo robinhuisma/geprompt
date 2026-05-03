@@ -1,32 +1,32 @@
 ---
 title: "AI Visibility Score: hoe vindbaar jouw site is voor ChatGPT en Gemini"
-date: 2026-05-03T02:05:16.688Z
-tags: ["ai visibility", "seo", "geo", "mkb"]
+date: 2026-05-03T14:06:08.080Z
+tags: ["ai zichtbaarheid", "seo", "content optimalisatie"]
 categorieen: ["slimmer-werken"]
-summary: "Ontdek hoe AI-bots jouw website lezen en wat je kunt doen om gevonden te worden in antwoorden van ChatGPT en Perplexity."
+summary: "Ontdek hoe AI-bots jouw website lezen en wat je kunt doen om vaker geciteerd te worden in antwoorden."
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/17330615/what-is-your-sites-ai-visibility-score"
 ---
 
-Je website wordt niet meer alleen beoordeeld door Google, maar ook door AI-bots zoals die van ChatGPT, Perplexity en Gemini. De AI Visibility Score meet hoe goed jouw pagina door deze bots wordt begrepen en geciteerd in directe antwoorden. Als je deze score negeert, loop je kans dat klanten jouw informatie niet meer zien, omdat AI-assistenten kiezen voor een concurrent die beter leesbaar is voor machines.
+Je website wordt niet alleen door mensen gelezen, maar ook door AI-bots zoals ChatGPT, Perplexity en Gemini. Deze zogenoemde 'answer engines' geven direct antwoorden in plaats van door te verwijzen naar een URL. Hoe beter jouw site door deze bots te begrijpen is, hoe groter de kans dat jouw bedrijf wordt genoemd in de antwoorden die steeds vaker de traditionele zoekresultaten vervangen. Dit wordt gemeten met een AI Visibility Score.
 
 ## Wat er aan de hand is
 
-De manier waarop mensen informatie vinden verandert. Waar jarenlang SEO (Search Engine Optimization) de standaard was, komt daar nu GEO (Generative Engine Optimization) bij. Dat is het optimaliseren van je website voor zogenoemde 'answer engines': AI-tools die niet alleen een link tonen, maar direct een antwoord geven op een vraag. Volgens Martech meten deze tools nu hoe 'machine-readable' jouw site is. Een AI Visibility Score geeft aan of een AI-bot de primaire onderwerpen van jouw pagina kan herkennen, de autoriteit van de auteur kan verifiëren en specifieke gegevens zoals prijzen of specificaties kan extraheren zonder te hallucineren. Als een AI jouw site niet kan parsen, wordt je merk niet genoemd in de antwoorden die de traditionele zoekresultaten steeds vaker vervangen.
+Waar jarenlang Search Engine Optimization (SEO) de standaard was voor online vindbaarheid, komt daar nu een nieuwe laag bij: AI Visibility. Dit is de mate waarin jouw website machine-readable is. Het gaat er niet alleen om dat je goede content hebt, maar ook dat die content technisch zo is ingericht dat een AI-bot het onderwerp kan identificeren, de autoriteit van de auteur kan verifiëren en datapunten zoals prijzen of specificaties kan extraheren zonder te hallucineren of context te verliezen. Volgens Martech kun je met een gratis tool een AI Visibility Score opvragen voor elke openbare URL. De tool controleert onder andere of AI-bots zoals GPTBot of CCBot worden geblokkeerd in je robots.txt, of je sitemap goed is ingesteld, en of je metatags zoals de title-tag en canonical URLs helder zijn.
 
 ## Wat dit betekent
 
-Voor jou als ondernemer betekent dit dat je niet alleen voor mensen moet schrijven, maar ook voor machines. De technische laag van je website wordt minstens zo belangrijk als de inhoud. Een AI Visibility Score is een concrete meting die je kunt gebruiken om te zien waar je staat. De impact is het grootst voor bedrijven die afhankelijk zijn van online vindbaarheid: webshops, dienstverleners, lokale ondernemers en kennisintensieve bedrijven. Als een AI jouw prijzen, openingstijden of productkenmerken niet kan vinden, kiest hij een concurrent die dat wel goed heeft geregeld. Dit is geen toekomstmuziek; dit gebeurt nu al in de antwoorden van ChatGPT en Perplexity.
+Voor ondernemers betekent dit dat de manier waarop klanten jou vinden aan het veranderen is. Steeds meer mensen gebruiken AI-chatbots voor hun vragen, in plaats van een traditionele zoekmachine. Als jouw website niet goed leesbaar is voor deze bots, mis je kansen om gevonden te worden. Dit geldt voor elke sector, van webshops tot dienstverleners. Een AI Visibility Score geeft je inzicht in hoe goed jouw site scoort op technische aspecten zoals crawlability, metatags en sociale grafieken (Open Graph en X Cards). Deze elementen bepalen of een AI jouw content als betrouwbaar en relevant beschouwt.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt en merkt dat je producten niet worden genoemd in AI-antwoorden.** Je zou kunnen beginnen met het controleren van je robots.txt-bestand. Sommige sites blokkeren per ongeluk AI-bots zoals GPTBot of CCBot. Overweeg om deze bots toegang te geven tot je productpagina's, zodat ze de informatie kunnen gebruiken voor real-time antwoorden. Een eenvoudige check via een AI Visibility tool kan je vertellen of je site toegankelijk is.
+**Als je een webshop runt**, kun je direct controleren of AI-bots toegang hebben tot je productpagina's. Gebruik de gratis AI Visibility Score tool door je URL in te voeren. Kijk in het rapport of je robots.txt geen AI-bots blokkeert. Als dat wel het geval is, overweeg om die blokkade aan te passen, zodat bijvoorbeeld ChatGPT je productinformatie kan gebruiken in realtime antwoorden. Zorg er ook voor dat je sitemap up-to-date is en dat elke productpagina interne links heeft, zodat AI-bots de pagina kunnen vinden.
 
-**Als je een dienstverlenend bedrijf hebt en wilt dat ChatGPT jouw contactgegevens en diensten correct weergeeft.** Een optie is om gestructureerde data (schema markup) toe te voegen aan je contact- en dienstpagina's. Denk aan LocalBusiness-schema voor je adres en telefoonnummer, of Service-schema voor je aanbod. Dit helpt AI-bots om de juiste data te extraheren zonder fouten. Begin met de pagina's die het meeste verkeer genereren.
+**Als je content schrijft voor je bedrijfsblog**, let dan extra op je title-tag. Dit is het belangrijkste signaal voor een AI om het onderwerp van je pagina te begrijpen. Een vage of te korte titel zorgt ervoor dat de AI de context mist. Een optie is om je titels specifiek en beschrijvend te maken, zoals 'Hoe kies je de juiste boekhoudsoftware voor een zzp'er' in plaats van 'Boekhoudsoftware tips'. Controleer ook of je canonical URL correct is ingesteld, zodat AI niet in de war raakt door dubbele content.
 
-**Als je een kennisintensieve site beheert, zoals een blog of adviesplatform.** Overweeg om je meta-tags te optimaliseren. De title-tag is het belangrijkste signaal voor AI om een pagina te categoriseren. Zorg dat deze tag precies beschrijft waar de pagina over gaat, zonder vage termen. Ook een duidelijke canonical URL voorkomt dat AI-bots in de war raken door dubbele content. Test dit op je belangrijkste artikelen.
+**Als je een team aanstuurt dat verantwoordelijk is voor online vindbaarheid**, kun je de AI Visibility Score gebruiken als een vast onderdeel van je contentoptimalisatie. Laat elk nieuw blogbericht of elke nieuwe landingspagina door de tool scannen voordat je het publiceert. Het rapport geeft aan of de pagina goed leesbaar is voor AI-bots. Een mogelijkheid is om een checklist te maken op basis van de rapportonderdelen: crawlability, metatags, sociale grafieken en datastructuur. Zo weet je zeker dat elke pagina klaar is voor de nieuwe manier van zoeken.
 
-**Als je een lokale ondernemer bent, zoals een restaurant of winkel.** Je zou kunnen beginnen met het aanmaken van een FAQ-pagina met veelgestelde vragen en antwoorden in duidelijke, korte zinnen. AI-bots halen hier graag informatie uit. Zorg dat de vragen en antwoorden exact overeenkomen met wat klanten typisch vragen, zoals openingstijden, allergenen of parkeermogelijkheden. Dit vergroot de kans dat jouw antwoord wordt geciteerd.
+**Als je in een technische sector werkt**, zoals software of consultancy, kun je extra letten op de sociale grafiek (Open Graph en X Cards). Veel AI-chatbots en apps zoals Slack of Discord gebruiken deze tags om informatie uit je site te halen. Zorg dat je deze tags correct invult met een duidelijke titel, beschrijving en afbeelding. Dit vergroot de kans dat jouw content wordt gebruikt in antwoorden binnen zakelijke communicatietools.
 
 Bron: Martech
