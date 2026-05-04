@@ -1,32 +1,29 @@
 ---
-title: "Google’s AI-modus in Chrome: zwakke SEO wordt afgestraft, niet de zoekmachine"
-date: 2026-05-04T10:03:27.317Z
-tags: ["seo", "ai", "contentstrategie", "google chrome"]
+title: "Google’s AI-modus in Chrome: zwakke SEO wordt afgestraft, niet beloond"
+date: 2026-05-04T14:04:04.195Z
+tags: ["seo", "google", "ai", "contentstrategie"]
 categorieen: ["marketing-groei"]
-summary: "Google’s AI-modus beloont originele, gestructureerde content. Zwakke SEO-strategieën worden zichtbaar afgestraft."
+summary: "Google’s AI-modus in Chrome beloont originele, gestructureerde content en straft dunne SEO af."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-ai-mode-in-chrome-isnt-killing-seo-its-exposing-weak-seo/573366/"
 ---
 
-Google’s AI-modus in Chrome maakt geen einde aan SEO, maar maakt wel pijnlijk zichtbaar welke strategieën niet werken. Content die origineel, goed gestructureerd en geloofwaardig is, wordt beloond. Zwakke SEO – zoals dunne content, overmatig keyword-stuffing of het napraten van concurrenten – wordt door de AI-modus simpelweg genegeerd.
+De AI-modus in Google Chrome maakt geen einde aan SEO, maar maakt wel zichtbaar welke websites een zwakke strategie hebben. Wie investeert in originele, gestructureerde en geloofwaardige content, wordt juist beloond.
 
 ## Wat er aan de hand is
-
-Google heeft een AI-modus geïntroduceerd in Chrome die zoekresultaten anders presenteert. In plaats van een traditionele lijst met links, geeft de AI-modus direct antwoorden op vragen, gebaseerd op een selectie van bronnen. Volgens Search Engine Journal laat deze update zien dat Google niet zozeer SEO doodt, maar wel zwakke SEO-strategieën blootlegt. De AI-modus selecteert content op basis van originaliteit, structuur en autoriteit. Websites die deze eigenschappen missen, worden minder zichtbaar, ongeacht hoeveel ze investeren in traditionele optimalisatie.
+Google heeft een AI-modus in Chrome geïntroduceerd die zoekresultaten anders presenteert dan de traditionele lijst met links. Volgens Search Engine Journal laat deze update zien dat SEO niet dood is, maar dat oude trucs niet meer werken. De AI-modus selecteert content op basis van originaliteit, structuur en betrouwbaarheid. Websites die dunne, samengestelde of gekopieerde content gebruiken, zakken weg. Dit is geen incidentele aanpassing, maar een structurele verschuiving in hoe Google waarde toekent aan informatie. De boodschap is helder: content die geen echte meerwaarde biedt, wordt niet langer getolereerd.
 
 ## Wat dit betekent
-
-Voor ondernemers en marketeers betekent dit dat de spelregels veranderen. Waar je eerder met slimme technische trucs of veel backlinks nog een plek in de top 10 kon bemachtigen, kijkt de AI-modus nu naar de inhoudelijke kwaliteit. Vooral MKB-bedrijven die afhankelijk zijn van organisch verkeer, merken dit direct. Sectoren zoals e-commerce, lokale dienstverlening en niche-informatiewebsites lopen risico als hun content niet onderscheidend is. De AI-modus beloont niet wie het meeste schrijft, maar wie het beste antwoord geeft.
+Voor MKB-ondernemers en professionals betekent dit dat de tijd van quick wins in SEO voorbij is. Wie jarenlang vertrouwde op het stapelen van zoekwoorden, het inhuren van goedkope tekstschrijvers of het nabootsen van concurrenten, ziet zijn zichtbaarheid dalen. De AI-modus is ontworpen om gebruikers direct antwoord te geven, en daarvoor put hij uit bronnen die als gezaghebbend worden beoordeeld. Dat raakt met name sectoren waarin veel generieke content wordt geproduceerd, zoals e-commerce, lokale dienstverlening en zakelijke blogs. Bedrijven die investeren in unieke inzichten, duidelijke structuur en transparante bronvermelding, krijgen een voorsprong.
 
 ## Hoe je dit kunt toepassen
+**Als je een webshop runt en merkt dat productpagina’s minder scoren**, overweeg dan om elke productbeschrijving te voorzien van een unieke, praktische toelichting. In plaats van de standaard specificaties te herhalen, zou je kunnen uitleggen waarom een product in een specifieke situatie beter werkt. Een mogelijkheid is om klantcases of toepassingsvoorbeelden toe te voegen die nergens anders staan.
 
-**Als je een webshop runt** en productbeschrijvingen gebruikt die zijn overgenomen van de leverancier, dan is de kans groot dat de AI-modus jouw pagina’s overslaat. Overweeg om per product een unieke, beschrijvende tekst te schrijven die ingaat op veelgestelde vragen van klanten. Je zou kunnen beginnen met de top vijf vragen die je klantenservice ontvangt en die verwerken in de productpagina’s.
+**Als je een blog beheert voor je bedrijf**, is het zinvol om te stoppen met het samenvatten van andermans nieuws. Google’s AI-modus heeft geen behoefte aan een vijfde samenvatting van hetzelfde persbericht. Een optie is om te schrijven vanuit eigen ervaring, met data of observaties die alleen jij hebt. Denk aan een maandelijkse analyse van klantvragen of een terugblik op een project met concrete lessen.
 
-**Als je een blog beheert** voor een lokaal bedrijf, zoals een tandartspraktijk of een installatiebedrijf, dan is het verstandig om te controleren of jouw artikelen een duidelijke structuur hebben. Gebruik tussenkopjes die de lezer én de AI helpen begrijpen waar een alinea over gaat. Een mogelijkheid is om per artikel één duidelijke vraag te beantwoorden, in plaats van een algemeen verhaal te schrijven. De AI-modus selecteert namelijk fragmenten die direct antwoord geven.
+**Als je een team aanstuurt dat content produceert**, kun je overwegen om een redactionele standaard in te voeren die originaliteit en structuur centraal stelt. Een mogelijkheid is om voor elk artikel een verplichte ‘eigen invalshoek’ te eisen, ondersteund door een heldere kopstructuur en bronverwijzingen. Zo dwing je kwaliteit af die de AI-modus herkent.
 
-**Als je content schrijft voor een zakelijke dienstverlening**, zoals een advocatenkantoor of een consultancy, dan is originaliteit essentieel. De AI-modus vergelijkt bronnen en kiest de meest gezaghebbende. Je zou kunnen overwegen om eigen data, casestudy’s of unieke inzichten toe te voegen aan je artikelen. Een checklist voor het herkennen van zwakke SEO kan je helpen: als je tekst voornamelijk bestaat uit algemene beweringen zonder bronvermelding of voorbeelden, dan is de kans groot dat de AI-modus hem overslaat.
-
-**Als je een team aanstuurt** dat content produceert, kun je een eenvoudige kwaliteitscheck invoeren. Vraag bij elk nieuw artikel: ‘Zou een AI deze informatie als uniek en betrouwbaar beoordelen?’ Als het antwoord twijfelachtig is, pas dan de structuur aan of voeg originele elementen toe. Een optie is om een interne richtlijn te maken met minimaal drie unieke punten per artikel, zoals een eigen ervaring, een klantvoorbeeld of een citaat van een expert.
+**Als je in een lokale markt werkt, zoals een advocatenkantoor of fysiotherapiepraktijk**, is het verstandig om te investeren in diepgaande pagina’s over specifieke behandelingen of juridische procedures. In plaats van een algemene dienstenpagina, zou je per onderwerp een aparte, goed onderbouwde gids kunnen maken. De AI-modus waardeert gespecialiseerde, gedetailleerde content boven brede, vage beschrijvingen.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/google-ai-mode-in-chrome-isnt-killing-seo-its-exposing-weak-seo/573366/)
