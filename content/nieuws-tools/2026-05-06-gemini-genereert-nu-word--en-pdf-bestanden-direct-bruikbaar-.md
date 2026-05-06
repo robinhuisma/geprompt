@@ -1,31 +1,30 @@
 ---
-title: "Gemini genereert nu Word- en PDF-bestanden: direct bruikbaar voor facturen en offertes"
-date: 2026-05-06T06:03:29.040Z
-tags: ["gemini", "google ai", "documentgeneratie", "ondernemers"]
+title: "Gemini genereert nu Word- en PDF-bestanden: direct bruikbaar voor offertes en facturen"
+date: 2026-05-06T22:01:27.496Z
+tags: ["gemini", "google", "ai-tools", "documentgeneratie"]
 categorieen: ["nieuws-tools"]
-summary: "Google’s AI maakt direct facturen, offertes en rapporten in Word of PDF, zonder extra software."
+summary: "Google’s AI Gemini kan nu Word- en PDF-bestanden maken. Dit bespaart je handmatig opmaakwerk."
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2083649/gemini-kan-nu-bestanden-genereren-dit-is-er-mogelijk.html"
 ---
 
-Gemini, de AI-assistent van Google, kan nu direct bestanden genereren zoals Word-documenten (docx) en PDF’s. Dit betekent dat je met een simpele prompt een factuur, offerte of rapport krijgt dat je meteen kunt gebruiken of delen, zonder dat je daarvoor aparte software hoeft te openen.
+Het antwoord: Google’s AI-assistent Gemini kan sinds kort zelfstandig Word-documenten en PDF-bestanden genereren. Dit betekent dat je een offerte, factuur of rapport in een paar zinnen kunt laten maken, zonder dat je zelf een template hoeft op te zetten of handmatig opmaakwerk hoeft te doen.
 
 ## Wat er aan de hand is
-Google heeft een nieuwe functie toegevoegd aan Gemini: het genereren van bestanden in gangbare formaten zoals docx en pdf. Waar Gemini eerder alleen tekst of afbeeldingen produceerde, kun je nu een compleet document laten maken dat voldoet aan de standaardindelingen van kantoorsoftware. Dit is onderdeel van een bredere trend waarin AI niet alleen antwoorden geeft, maar ook direct bruikbare output levert. De functie is beschikbaar voor gebruikers van Gemini Advanced, de betaalde versie van de AI-assistent.
+
+Google heeft een nieuwe functie toegevoegd aan Gemini, zijn AI-assistent die beschikbaar is via de browser en de app. Waar Gemini eerder alleen tekst kon produceren in het chatvenster, kan het nu ook bestanden aanmaken in gangbare formaten zoals .docx (Word) en .pdf. Volgens Google kun je de AI een opdracht geven zoals ‘maak een offerte voor een webdesignproject van 2500 euro’ of ‘genereer een factuur voor maart 2024’, en Gemini levert een kant-en-klaar bestand. De functie is onderdeel van de bredere uitrol van generatieve AI in Google Workspace, maar is nu ook toegankelijk voor gebruikers zonder betaald abonnement. Het is een direct antwoord op concurrenten zoals ChatGPT, die al langer bestanden kunnen genereren, maar Google mikt op naadloze integratie met zijn eigen kantoorsoftware.
 
 ## Wat dit betekent
-Voor ondernemers en professionals in het mkb betekent dit een flinke tijdsbesparing. Je hoeft niet langer handmatig een Word-document of PDF op te maken voor standaarddocumenten. Denk aan het maken van een offerte voor een klant, een factuur na een afgeronde klus, of een kort rapport voor een opdrachtgever. Vooral voor zzp’ers en kleine teams zonder aparte administratieve ondersteuning kan dit het verschil maken tussen een half uur prutsen en een minuut werk. De functie is ook relevant voor sectoren waar veel documenten worden uitgewisseld, zoals consultancy, freelancers in creatieve beroepen, en dienstverleners.
+
+Voor ondernemers en professionals in het MKB is dit een concrete tijdsbesparing. Het opstellen van een offerte of factuur kost normaal gesproken minuten tot een halfuur, afhankelijk van hoe strak je template is. Met Gemini kun je dat terugbrengen naar enkele seconden. Vooral voor eenmanszaken en kleine teams zonder aparte administratieve ondersteuning is dit relevant: je hoeft geen dure software aan te schaffen of ingewikkelde sjablonen te onderhouden. De functie werkt in elke browser en vereist geen technische kennis. Het betekent ook dat je minder fouten maakt in opmaak of berekeningen, omdat de AI de structuur voor je regelt. Let wel: de output is gebaseerd op wat jij invoert, dus controleer altijd of bedragen en voorwaarden kloppen.
 
 ## Hoe je dit kunt toepassen
-**Als je een webshop runt en regelmatig facturen stuurt** kun je Gemini vragen een PDF-factuur te genereren met de juiste bedragen, btw en jouw bedrijfsgegevens. Je zou kunnen beginnen met een prompt als ‘Maak een factuur in PDF voor een klant, met bedrag 250 euro exclusief btw, betaaltermijn 14 dagen, en mijn bedrijfsnaam erboven.’ Het document is dan direct klaar om te versturen.
 
-**Als je als consultant of coach offertes maakt voor nieuwe klanten** kun je Gemini een Word-document laten opstellen met een gestandaardiseerde offerte. Een mogelijkheid is om een prompt te geven zoals ‘Genereer een offerte in Word voor een project van 10 uur, met uurtarief 95 euro, inclusief een korte omschrijving van de diensten.’ Je kunt het resultaat daarna nog aanpassen in Word, maar de basis staat er in seconden.
+**Als je een webshop runt en regelmatig offertes stuurt voor maatwerkbestellingen.** Je zou Gemini kunnen vragen: ‘Maak een offerte in Word voor een klant die 50 gepersonaliseerde mokken bestelt, totaal 750 euro exclusief btw, levering binnen twee weken.’ De AI genereert een document met jouw bedrijfsnaam, de specificaties en een betalingstermijn. Je hoeft alleen nog je logo toe te voegen en de klantgegevens in te vullen. Een optie is om een standaardzin in je prompt op te nemen, zoals ‘gebruik een professionele layout met twee kolommen’, om de opmaak direct goed te krijgen.
 
-**Als je een team aanstuurt en wekelijks een statusrapport moet maken** kun je Gemini vragen een PDF-rapport te genereren op basis van een paar steekwoorden. Overweeg om een prompt te gebruiken zoals ‘Maak een beknopt rapport in PDF over de voortgang van project X, met de resultaten van deze week en de planning voor volgende week.’ Het bespaart je het handmatig opmaken van een document.
+**Als je een team aanstuurt en maandelijks rapporten moet maken voor je opdrachtgevers.** Overweeg om Gemini een PDF te laten genereren met een samenvatting van de resultaten. Bijvoorbeeld: ‘Maak een PDF-rapport met de titel “Kwartaalupdate Q1 2025”, met secties voor omzet, klanttevredenheid en nieuwe projecten.’ Je kunt de AI vragen om bullet points en een tabel toe te voegen. Het voordeel is dat je niet telkens opnieuw een Word-document hoeft op te maken; je past alleen de cijfers aan in je prompt.
 
-**Als je in de zorg of het onderwijs werkt en informatieve documenten moet delen** kun je Gemini een overzichtelijk PDF-bestand laten maken voor patiënten of studenten. Je zou kunnen proberen: ‘Genereer een PDF met een stappenplan voor het indienen van een declaratie, in duidelijke taal en met bullet points.’ Het document is direct te printen of te mailen.
-
-De praktische toepassing hangt af van jouw situatie, maar de kern is dat je met een heldere prompt een document krijgt dat je normaal gesproken handmatig zou moeten opmaken. Het werkt het beste als je specifiek bent over het formaat (docx of pdf) en de inhoud die je nodig hebt.
+**Als je in de zakelijke dienstverlening werkt, bijvoorbeeld als consultant of boekhouder.** Je zou Gemini kunnen inzetten om een factuur te genereren op basis van een korte omschrijving. Probeer: ‘Genereer een PDF-factuur voor 10 uur advieswerk tegen 150 euro per uur, factuurnummer 2025-014, betaling binnen 14 dagen.’ De AI zet dit om in een gestructureerd document dat je direct kunt versturen. Een mogelijkheid is om een reeks facturen in één sessie te maken door steeds de variabelen aan te passen. Let erop dat je de btw-berekening altijd controleert, want die kan per land verschillen.
 
 Bron: [Bright](https://www.bright.nl/nieuws/2083649/gemini-kan-nu-bestanden-genereren-dit-is-er-mogelijk.html)
