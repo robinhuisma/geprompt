@@ -1,34 +1,31 @@
 ---
 title: "Gemini-functies in Nederland: wat je er vandaag mee kunt doen"
-date: 2026-05-07T02:03:46.809Z
-tags: ["gemini", "ai", "google", "mkb"]
+date: 2026-05-07T10:05:05.365Z
+tags: ["gemini", "google", "ai-tools", "nederland"]
 categorieen: ["nieuws-tools"]
-summary: "Twee nieuwe Gemini-functies zijn nu in Nederland beschikbaar. Dit artikel laat zien hoe je ze direct kunt inzetten."
+summary: "Twee Gemini-functies nu beschikbaar in Nederland. Lees hoe je ze direct inzet."
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2083322/deze-twee-gemini-functies-zijn-nu-ook-in-nederland-beschikbaar.html"
 ---
 
-De twee nieuwe Gemini-functies die nu in Nederland beschikbaar zijn, helpen je om sneller informatie te verwerken en taken uit te voeren zonder steeds van app te wisselen. Het gaat om de mogelijkheid om Gemini te vragen een video te bekijken en vragen te beantwoorden over de inhoud, en om de functie ‘Gemini Live’, waarmee je gesproken vragen kunt stellen en antwoorden krijgt zonder je telefoon vast te houden.
+Google heeft twee functies van zijn AI-assistent Gemini beschikbaar gemaakt in Nederland. Het gaat om ‘Gemini Live’ en ‘Google Workspace-integratie’, waarmee je gesprekken kunt voeren met de AI en documenten, e-mails en spreadsheets kunt laten genereren of samenvatten. Voor ondernemers betekent dit dat je zonder technische kennis een slimme assistent in je dagelijkse tools kunt zetten.
 
 ## Wat er aan de hand is
-
-Google heeft twee functies van zijn AI-assistent Gemini uitgerold in Nederland, die eerder alleen buiten de Europese Unie beschikbaar waren. De eerste functie is videoverwerking: je kunt Gemini een video laten zien, waarna de AI vragen kan beantwoorden over wat er in die video gebeurt. De tweede functie is Gemini Live, een spraakgestuurde modus waarmee je een doorlopend gesprek kunt voeren met de AI, zonder dat je steeds hoeft te typen of het scherm hoeft aan te raken. Beide functies zijn bedoeld om de interactie met AI natuurlijker en efficiënter te maken, vooral voor taken waarbij je je handen vrij wilt hebben of visuele informatie snel wilt analyseren.
+Volgens Bright zijn twee Gemini-functies die eerder alleen buiten de Europese Unie beschikbaar waren, nu ook in Nederland gelanceerd. Gemini Live laat je een vloeiend gesprek voeren met de AI, vergelijkbaar met een telefoongesprek. De Google Workspace-integratie koppelt Gemini aan Gmail, Google Docs, Sheets en Slides. Je kunt bijvoorbeeld een e-mail laten schrijven op basis van een paar steekwoorden, een samenvatting van een lange documentenketen krijgen of een spreadsheet laten vullen met data uit een ander bestand. De functies zijn onderdeel van Google’s bredere strategie om AI direct in bestaande producten te integreren, zonder dat gebruikers aparte apps hoeven te installeren.
 
 ## Wat dit betekent
-
-Voor ondernemers en professionals in het mkb betekent dit dat je AI nu kunt inzetten op momenten dat je geen toetsenbord bij de hand hebt of juist visuele content wilt laten analyseren. Denk aan situaties waarin je een instructievideo bekijkt en direct vragen wilt stellen over specifieke stappen, of waarin je tijdens het rijden of koken een gesprek wilt voeren met Gemini over je planning. De functies verlagen de drempel om AI te gebruiken in dagelijkse werkprocessen, omdat ze minder afhankelijk zijn van typen en schermwerk. Voor bedrijven die veel met beeldmateriaal werken, zoals montagebedrijven, logistieke dienstverleners of retailers die productvideo’s maken, biedt de videofunctie een directe manier om snel informatie uit bewegend beeld te halen.
+Voor Nederlandse ondernemers en professionals betekent dit dat AI niet langer een losstaand experiment is, maar een direct inzetbare tool in software die ze al gebruiken. Waar je eerder naar een aparte AI-app moest of via een browser een model moest openen, kun je nu binnen je vertrouwde werkomgeving taken uitbesteden. Dit verlaagt de drempel om AI te gebruiken voor dagelijkse administratie, communicatie en planning. Voor een klein bedrijf zonder aparte IT-afdeling is dit een manier om tijd te besparen zonder nieuwe systemen te leren. De impact is het grootst voor functies waarin veel tekstwerk zit: klantcontact, offertes, notulen, rapportages en interne communicatie.
 
 ## Hoe je dit kunt toepassen
+**Als je veel e-mails moet beantwoorden van klanten of leveranciers.** Je kunt in Gmail een concept laten schrijven door Gemini. Geef een korte omschrijving van de situatie, bijvoorbeeld ‘bevestig de afspraak van volgende week dinsdag om 10 uur en voeg de offerte toe’. Gemini genereert een concept dat je nog kunt aanpassen. Een optie is om dit te gebruiken voor standaardreacties, zoals orderbevestigingen of afspraakherinneringen, zodat je die niet steeds opnieuw hoeft te typen.
 
-**Als je een webshop runt en productvideo’s maakt van nieuwe voorraad.** Je kunt Gemini de video laten zien en vragen stellen als: ‘welke kleuren zie ik in deze video?’ of ‘welke accessoires worden getoond?’ Zo kun je snel productbeschrijvingen aanvullen zonder de video zelf helemaal te hoeven analyseren. Overweeg om dit te doen direct nadat je een video hebt opgenomen, terwijl de beelden nog vers in je geheugen liggen.
+**Als je wekelijks notulen moet maken van teamoverleggen.** Je zou Gemini kunnen vragen om een samenvatting van een lang document of een transcript. Laat de AI de belangrijkste actiepunten eruit halen en zet die direct in een Google Doc. Overweeg om dit te combineren met een opname-app die je gesprekken omzet in tekst, zodat Gemini de samenvatting kan maken zonder dat je zelf aantekeningen hoeft bij te houden.
 
-**Als je een team aanstuurt en vaak onderweg bent.** Met Gemini Live kun je tijdens het reizen gesproken vragen stellen over je agenda, takenlijst of eerdere gesprekken. Je zou bijvoorbeeld kunnen zeggen: ‘wat stond er ook alweer in de notulen van de vergadering van gisteren?’ en een samenvatting krijgen zonder je telefoon vast te houden. Een mogelijkheid is om dit te gebruiken tijdens het woon-werkverkeer om je dag voor te bereiden.
+**Als je offertes of voorstellen moet opstellen.** In Google Docs kun je Gemini vragen om een eerste versie te schrijven op basis van een paar steekwoorden. Bijvoorbeeld: ‘schrijf een offerte voor een website-ontwerp, inclusief hosting en onderhoud voor een jaar’. De AI vult een basisstructuur in die je vervolgens verfijnt. Een mogelijkheid is om dit te gebruiken als startpunt, zodat je niet telkens vanaf nul begint.
 
-**Als je in de logistiek werkt en instructievideo’s gebruikt voor medewerkers.** Laat Gemini een trainingsvideo bekijken en vraag: ‘welke veiligheidsstappen worden genoemd in het tweede deel?’ Zo kun je snel controleren of alle procedures aan bod komen, zonder de hele video te hoeven terugkijken. Dit bespaart tijd bij het maken van checklists of het voorbereiden van kennistoetsen.
+**Als je spreadsheets moet vullen met data uit e-mails of documenten.** In Google Sheets kun je Gemini vragen om gegevens uit een bijlage of een ander bestand te halen en in de juiste cellen te plaatsen. Dit werkt vooral goed voor terugkerende taken, zoals het bijwerken van een klantenlijst of het verwerken van bestellingen. Overweeg om een vaste template te maken waarin Gemini de data invult, zodat je handmatig overtypen voorkomt.
 
-**Als je een consultancy- of adviesbureau hebt en klantpresentaties voorbereidt.** Je kunt Gemini een opname van een klantgesprek laten zien (als video) en vragen: ‘welke drie belangrijkste punten noemt de klant?’ of ‘welke bezwaren worden geuit?’ Dit helpt je om sneller de essentie te destilleren en je advies daarop aan te passen. Overweeg om dit te doen direct na een gesprek, terwijl de details nog vers zijn.
-
-**Als je in de zorg werkt en instructiemateriaal beoordeelt.** Laat Gemini een video zien van een nieuwe behandelprocedure en vraag: ‘welke stappen worden getoond en in welke volgorde?’ Zo kun je snel controleren of de video overeenkomt met het protocol, zonder dat je de video meerdere keren hoeft te bekijken. Een optie is om dit te gebruiken bij het maken van samenvattingen voor collega’s die de training nog moeten volgen.
+**Als je presentaties moet voorbereiden voor een klant of team.** In Google Slides kun je Gemini vragen om een presentatie te maken op basis van een document of een korte beschrijving. Je zou bijvoorbeeld een slide-deck kunnen laten genereren voor een productlancering, met de belangrijkste punten uit een eerder geschreven plan. Een optie is om dit te gebruiken als basis en daarna de slides visueel aan te passen aan je huisstijl.
 
 Bron: [Bright](https://www.bright.nl/nieuws/2083322/deze-twee-gemini-functies-zijn-nu-ook-in-nederland-beschikbaar.html)
