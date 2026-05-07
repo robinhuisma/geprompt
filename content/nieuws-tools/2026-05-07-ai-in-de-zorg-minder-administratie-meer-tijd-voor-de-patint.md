@@ -1,32 +1,34 @@
 ---
 title: "AI in de zorg: minder administratie, meer tijd voor de patiënt"
-date: 2026-05-07T02:04:21.488Z
+date: 2026-05-07T14:06:44.301Z
 tags: ["AI", "zorg", "administratie", "productiviteit"]
 categorieen: ["nieuws-tools"]
-summary: "AI helpt zorgverleners administratieve lasten te verlichten, zodat zij meer tijd en aandacht aan patiënten kunnen besteden."
+summary: "AI-tools nemen administratieve taken over, zodat zorgprofessionals zich weer kunnen richten op hun patiënten."
 draft: false
 source_name: "Fastcompany"
-source_url: "https://www.fastcompany.com/91537794/the-future-of-healthcare-is-about-giving-back-attention?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=3&amp;partner=newsletter&amp;campaign_date=05072026"
+source_url: "https://www.fastcompany.com/91537794/the-future-of-healthcare-is-about-giving-back-attention?utm_source=postup&amp;utm_medium=email&amp;utm_campaign=artificial-intelligence&amp;position=7&amp;partner=newsletter&amp;campaign_date=05072026"
 ---
 
-Het antwoord is simpel: AI kan zorgverleners helpen om minder tijd kwijt te zijn aan administratie en meer tijd over te houden voor waar het echt om draait: de patiënt. Volgens een analyse van Fastcompany ligt de toekomst van de zorg in het teruggeven van aandacht aan zorgverleners, en AI is daarbij de sleutel.
+Het antwoord
 
-## Wat er aan de hand is
+AI-tools kunnen zorgprofessionals helpen om administratieve lasten te verlichten, zodat ze meer tijd en aandacht overhouden voor hun patiënten. Dit is de kern van een visie die steeds meer vorm krijgt in de praktijk: technologie die niet de dokter vervangt, maar de balie, het dossier en de formulieren.
 
-De zorgsector kampt met een groeiend tekort aan personeel en een toenemende administratieve last. Uit het artikel blijkt dat AI-systemen, zoals spraakherkenning en automatische samenvattingen van consulten, kunnen helpen om deze last te verlichten. Het gaat niet om het vervangen van artsen, maar om het ondersteunen van hun werk. Door routinetaken zoals het invullen van formulieren en het bijwerken van dossiers te automatiseren, krijgen zorgverleners meer ruimte voor menselijk contact en klinische besluitvorming. Dit is geen toekomstmuziek; verschillende zorginstellingen experimenteren er al mee.
+Wat er aan de hand is
 
-## Wat dit betekent
+Volgens een analyse van Fastcompany staat de zorgsector voor een fundamentele verschuiving. De afgelopen decennia is de administratieve druk op artsen, verpleegkundigen en andere zorgverleners alleen maar toegenomen. Tijd die eigenlijk naar patiënten zou moeten gaan, gaat nu naar dossiers bijwerken, declaraties invoeren en formulieren invullen. AI kan hier een rol spelen door deze taken over te nemen of te versimpelen. Het gaat niet om het vervangen van menselijk contact, maar om het teruggeven van aandacht aan de zorgrelatie. Het artikel noemt dit 'giving back attention' – een herwaardering van het gesprek tussen zorgverlener en patiënt.
 
-Voor Nederlandse zorg-MKB'ers, zoals huisartsenpraktijken, fysiotherapiecentra of kleine klinieken, betekent dit een directe kans om de werkdruk te verlagen. De impact is het grootst in settings waar veel administratie komt kijken bij elk consult. Denk aan het uitschrijven van verwijzingen, het noteren van diagnoses en het verwerken van declaraties. Door AI in te zetten voor deze taken, kan een zorgverlener per dag een aanzienlijk aantal minuten terugwinnen. Dat vertaalt zich niet alleen in meer tevreden patiënten, maar ook in minder burn-out onder personeel. Voor een praktijk met drie artsen kan dit al snel neerkomen op een halve dag extra per week aan beschikbare tijd.
+Wat dit betekent
 
-## Hoe je dit kunt toepassen
+Voor zorgprofessionals betekent dit concreet dat ze minder tijd kwijt zijn aan repetitief en voorspelbaar werk. Denk aan het automatisch uitschrijven van consultverslagen, het voorstellen van diagnoses op basis van symptomen, of het genereren van declaratiecodes. Voor patiënten betekent het dat er meer ruimte ontstaat voor echte aandacht: een arts die niet naar een scherm staart, maar oogcontact maakt. Voor zorginstellingen kan dit leiden tot hogere efficiëntie, minder burn-outs onder personeel en een betere kwaliteit van zorg. De impact is het grootst in sectoren waar administratie een onevenredig groot deel van de tijd opslokt, zoals de huisartsenpraktijk, de geestelijke gezondheidszorg en de thuiszorg.
 
-**Als je een huisartsenpraktijk runt met meerdere artsen,** overweeg dan om een AI-gedreven spraakherkenningssysteem te introduceren tijdens consulten. In plaats van dat de arts achteraf aantekeningen maakt, kan het systeem het gesprek omzetten in een gestructureerd dossier. Je zou kunnen beginnen met een pilot voor één dag per week om te ervaren hoeveel tijd het scheelt. Een mogelijkheid is om dit te combineren met een automatische verwijsbriefgenerator, zodat de arts alleen nog hoeft te controleren.
+Hoe je dit kunt toepassen
 
-**Als je een fysiotherapiepraktijk hebt,** kun je AI gebruiken om oefenschema's en voortgangsrapportages automatisch te laten genereren op basis van de aantekeningen van de therapeut. In plaats van dat de therapeut na elke sessie een rapport moet typen, kan het systeem een samenvatting maken. Dit geeft de therapeut meer tijd om tijdens de sessie echt te focussen op de bewegingen en feedback van de patiënt. Een optie is om te kijken naar tools die specifiek zijn ontwikkeld voor paramedische zorg.
+**Als je een huisartsenpraktijk runt**, kun je overwegen om een AI-tool in te zetten die spraak omzet in gestructureerde consultverslagen. Tijdens een gesprek neemt de tool de notities over, zodat jij je kunt concentreren op de patiënt. Na afloop kun je het verslag controleren en aanvullen. Een mogelijkheid is om te beginnen met een proefperiode van een maand, waarbij je de tool alleen gebruikt voor een vast aantal consulten per dag.
 
-**Als je een kleine kliniek leidt met een gespecialiseerde behandeling,** zoals een oogheelkundige of dermatologische praktijk, kun je AI inzetten voor het automatisch verwerken van meetgegevens en het genereren van standaardbrieven. Denk aan het omzetten van meetresultaten naar een begrijpelijke uitleg voor de patiënt. Dit bespaart niet alleen tijd, maar vermindert ook de kans op typefouten. Je zou kunnen overwegen om een proefperiode aan te gaan met een aanbieder van medische AI-software om te zien of het past bij jouw werkwijze.
+**Als je in de geestelijke gezondheidszorg werkt**, kun je AI gebruiken om samenvattingen te maken van therapiesessies. De tool kan patronen herkennen in wat er besproken is, zonder dat je zelf aantekeningen hoeft te maken. Dit geeft je meer ruimte om tijdens de sessie echt te luisteren. Overweeg om de tool alleen in te zetten voor sessies waarin de patiënt hier toestemming voor geeft.
 
-**Als je een zorgteam aanstuurt in een verpleeghuis of thuiszorg,** kun je AI gebruiken om de rapportage van zorgmomenten te stroomlijnen. In plaats van dat elke medewerker handmatig een dagrapport invult, kan een spraakgestuurd systeem de belangrijkste observaties vastleggen. Dit geeft het team meer tijd voor directe zorg en onderlinge afstemming. Een mogelijkheid is om te starten met één afdeling of team om de impact te meten voordat je het uitrolt.
+**Als je een zorgteam aanstuurt**, kun je AI inzetten voor het plannen en prioriteren van administratieve taken. Een dashboard kan laten zien welke dossiers nog openstaan, welke declaraties moeten worden ingediend en welke afspraken moeten worden voorbereid. Dit scheelt coördinatietijd en voorkomt dat zorgverleners zelf moeten bijhouden wat er moet gebeuren. Een optie is om dit dashboard wekelijks te bespreken tijdens het teamoverleg.
 
-Bron: Fastcompany(https://www.fastcompany.com/91537794/the-future-of-healthcare-is-about-giving-back-attention?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=3&partner=newsletter&campaign_date=05072026)
+**Als je in de thuiszorg werkt**, kun je een AI-tool gebruiken die automatisch rapportages genereert op basis van spraaknotities die je direct na een bezoek inspreekt. In plaats van thuis achter de computer te zitten, kun je de notities ter plekke maken terwijl je nog in de auto zit. Dit bespaart tijd en zorgt dat de informatie vers blijft. Het is verstandig om te controleren of de tool voldoet aan de privacyrichtlijnen voor zorgdata.
+
+Bron: Fastcompany(https://www.fastcompany.com/91537794/the-future-of-healthcare-is-about-giving-back-attention?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=7&partner=newsletter&campaign_date=05072026)

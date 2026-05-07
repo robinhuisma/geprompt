@@ -1,32 +1,34 @@
 ---
 title: "LinkedIn AI-zoekopdracht: vind kandidaten zonder zoektermen"
-date: 2026-05-07T02:03:08.078Z
-tags: ["linkedin", "ai", "recruitment", "mkb"]
+date: 2026-05-07T14:05:05.747Z
+tags: ["linkedin", "AI-zoekopdracht", "werving", "mkb"]
 categorieen: ["nieuws-tools"]
-summary: "LinkedIn vervangt trefwoordzoeken door AI die natuurlijke taal begrijpt."
+summary: "LinkedIn vervangt trefwoorden door AI die natuurlijke taal begrijpt. Zo vind je sneller kandidaten."
 draft: false
 source_name: "Aibusiness"
 source_url: "https://aibusiness.com/generative-ai/a-new-way-of-searching-jobs-with-linkedin"
 ---
 
-LinkedIn heeft zijn zoekfunctionaliteit voor vacatures en kandidaten omgezet van trefwoordzoeken naar AI-gestuurd semantisch zoeken. Dit betekent dat je niet langer exacte termen hoeft te gebruiken, maar gewoon in natuurlijke taal kunt vragen wat je zoekt.
+LinkedIn heeft de manier waarop je zoekt naar vacatures en kandidaten ingrijpend veranderd. Waar je eerst precies de juiste trefwoorden moest weten, kun je nu in gewone taal vragen wat je zoekt. De AI begrijpt wat je bedoelt, niet alleen wat je typt.
 
 ## Wat er aan de hand is
 
-LinkedIn heeft een nieuwe manier van zoeken geïntroduceerd die gebruikmaakt van AI om de bedoeling achter je zoekopdracht te begrijpen, in plaats van alleen op losse trefwoorden te matchen. Waar je eerder een zoekopdracht als ‘marketingmanager B2B SaaS Amsterdam’ moest intypen, kun je nu bijvoorbeeld vragen: ‘Iemand die ervaring heeft met het opzetten van een marketingteam voor een tech-startup in de regio Amsterdam.’ De AI begrijpt de context en vindt relevante profielen die anders mogelijk niet naar boven waren gekomen. Deze verandering is onderdeel van een bredere trend waarin platforms zoals LinkedIn steeds meer AI inzetten om gebruikerservaringen te personaliseren en efficiënter te maken.
+LinkedIn is overgestapt van een traditionele, op trefwoorden gebaseerde zoekmachine naar een AI-gestuurde semantische zoekfunctie. Dat betekent dat je niet langer exacte termen hoeft te gebruiken zoals ‘marketingmanager B2B SaaS’. Je kunt nu een vraag stellen in natuurlijke taal, bijvoorbeeld: ‘Ik zoek een ervaren marketeer die campagnes draait voor techbedrijven.’ De AI begrijpt de context en intentie achter je vraag en levert relevantere resultaten op. Volgens LinkedIn is dit een fundamentele verschuiving in hoe de zoekfunctionaliteit werkt, gebaseerd op semantische technologie in plaats van exacte woordmatches.
 
 ## Wat dit betekent
 
-Voor MKB-ondernemers die regelmatig personeel werven, verandert dit de manier waarop je kandidaten kunt vinden. De drempel om effectief te zoeken wordt lager: je hoeft geen expert meer te zijn in het bedenken van de perfecte combinatie van zoektermen en filters. De AI vult de gaten in. Dit is vooral relevant voor kleinere bedrijven die geen dedicated recruiter hebben en zelf de werving doen. Het betekent ook dat je minder tijd kwijt bent aan het verfijnen van zoekopdrachten en meer tijd overhoudt voor het daadwerkelijk beoordelen van kandidaten. Daarnaast kan de AI profielen vinden die je op basis van trefwoorden over het hoofd zou zien, bijvoorbeeld omdat iemand een andere functietitel gebruikt dan jij in gedachten had.
+Voor ondernemers en professionals in het MKB betekent dit een aanzienlijke tijdsbesparing. Voorheen moest je precies weten welke functietitels, vaardigheden en branches in de markt gebruikelijk waren om een goede zoekopdracht te formuleren. Een foutje in de spelling of een andere benaming voor dezelfde functie leverde vaak geen of verkeerde resultaten op. Met de nieuwe AI-zoekopdracht kun je in je eigen woorden omschrijven wat je nodig hebt. Dit verlaagt de drempel om LinkedIn effectief te gebruiken voor werving, zeker voor ondernemers die niet dagelijks met HR-bezig zijn. Het maakt de zoekmachine toegankelijker voor iedereen, niet alleen voor recruiters met jarenlange ervaring.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een vacature hebt voor een specialistische functie.** Stel dat je een ‘mechatronica engineer’ zoekt, maar in de praktijk gebruiken kandidaten termen als ‘automatiseringsingenieur’ of ‘robotica specialist’. In plaats van al die varianten zelf te bedenken, typ je in natuurlijke taal: ‘Iemand die ervaring heeft met het ontwerpen van geautomatiseerde productielijnen in de maakindustrie.’ De AI zoekt op basis van de betekenis, niet alleen op de woorden. Je zou kunnen beginnen met het formuleren van een korte omschrijving van de ideale kandidaat, zoals je die aan een collega zou geven, en die letterlijk in de zoekbalk plakken.
+**Als je een klein team hebt en snel een nieuwe medewerker zoekt.** Je kunt nu eenvoudig typen: ‘Ik heb iemand nodig die verstand heeft van boekhouden en ook affiniteit heeft met online marketing.’ De AI begrijpt dat je een combinatie van vaardigheden zoekt, ook al staat die combinatie niet letterlijk in iemands profiel. Overweeg om je zoekopdracht te beginnen met een korte omschrijving van de functie in plaats van een lijst met trefwoorden. Je zult merken dat de resultaten beter aansluiten bij wat je echt bedoelt.
 
-**Als je een team wilt uitbreiden met een bepaalde cultuur of werkstijl.** Zoek niet alleen op vaardigheden, maar ook op zachte factoren. Een mogelijkheid is om te zoeken naar ‘iemand die graag in een platte organisatie werkt en ervaring heeft met het begeleiden van stagiaires’. De AI kan profielen vinden waaruit blijkt dat iemand in eerdere functies in kleine teams heeft gewerkt of verantwoordelijk was voor begeleiding, ook als die termen niet expliciet in het profiel staan. Overweeg om je zoekopdracht te beginnen met een beschrijving van de werksfeer in jouw bedrijf en te vragen naar vergelijkbare ervaring.
+**Als je op zoek bent naar opdrachten of freelance werk.** Je kunt als zzp’er of ondernemer ook je eigen zoekopdracht aanpassen. In plaats van te zoeken op ‘projectmanager tijdelijk’, kun je vragen: ‘Welke bedrijven in de regio Utrecht zoeken een projectmanager voor een halfjaar?’ De AI interpreteert de locatie en de tijdsduur, zonder dat je die apart hoeft in te stellen. Een mogelijkheid is om je zoekopdracht te formuleren alsof je het aan een collega vertelt, in plaats van aan een zoekmachine.
 
-**Als je snel een lijst met potentiële kandidaten nodig hebt voor een nieuwe functie.** In plaats van eerst een half uur te besteden aan het instellen van filters, kun je direct een brede vraag stellen zoals: ‘Wie hebben er de afgelopen twee jaar gewerkt als projectleider in de bouw en zijn woonachtig in de regio Utrecht?’ De AI geeft een eerste selectie, die je vervolgens handmatig kunt verfijnen. Dit scheelt tijd in de verkennende fase. Een optie is om deze aanpak te gebruiken voor het maken van een longlist voordat je dieper in profielen duikt.
+**Als je een nichepositie moet invullen.** Voor specialistische functies, zoals ‘een engineer die ervaring heeft met duurzame energie en ook in teamverband kan werken’, was het vroeger lastig om de juiste kandidaten te vinden. Nu kun je die exacte omschrijving gebruiken. De AI herkent dat ‘duurzame energie’ een sector is en ‘teamverband’ een zachte vaardigheid, en combineert die inzichten. Je zou kunnen experimenteren met het toevoegen van context zoals bedrijfscultuur of groeimogelijkheden in je zoekopdracht, om te zien of dat de resultaten verder verfijnt.
 
-**Als je moeite hebt om de juiste zoektermen te vinden voor een functie die nieuw is in jouw bedrijf.** Bijvoorbeeld een ‘duurzaamheidsmanager’ – een rol die nog niet overal dezelfde naam heeft. Je kunt zoeken op ‘iemand die verantwoordelijk was voor het verminderen van de CO2-uitstoot in een productiebedrijf’. De AI herkent synoniemen en gerelateerde functies. Je zou kunnen experimenteren door dezelfde functie op meerdere manieren te beschrijven en te kijken of de resultaten verschillen.
+**Als je concurrenten of marktontwikkelingen in de gaten houdt.** Je kunt ook zoeken naar profielen van mensen die bij bepaalde bedrijven werken of in een bepaalde rol actief zijn. Bijvoorbeeld: ‘Wie zijn de belangrijkste marketeers in de Nederlandse techscene?’ De AI begrijpt dat je niet één specifiek persoon zoekt, maar een overzicht van relevante profielen. Dit kan je helpen om inzicht te krijgen in talentstromen of om netwerkgesprekken voor te bereiden.
 
-Bron: AI Business (https://aibusiness.com/generative-ai/a-new-way-of-searching-jobs-with-linkedin)
+De praktische toepassing hangt af van jouw situatie, maar de kern is simpel: formuleer je vraag in gewone taal en laat de AI het vertaalwerk doen.
+
+Bron: AI Business
