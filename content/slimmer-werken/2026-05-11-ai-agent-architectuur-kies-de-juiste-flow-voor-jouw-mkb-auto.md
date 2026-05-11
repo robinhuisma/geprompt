@@ -1,0 +1,29 @@
+---
+title: "AI-agent architectuur: kies de juiste flow voor jouw MKB-automatisering"
+date: 2026-05-11T22:12:52.025Z
+tags: ["ai-agenten", "automatisering", "no-code", "architectuur"]
+categorieen: ["slimmer-werken"]
+summary: "Van prototype naar productie: welke AI-agent structuur past bij jouw bedrijfsproces en hoe voorkom je valkuilen."
+draft: false
+source_name: "Blog"
+source_url: "https://blog.n8n.io/ai-agent-architecture-patterns/"
+---
+
+Het antwoord op de vraag of je een eenvoudige sequentiële flow of een complexer systeem met foutafhandeling nodig hebt, hangt af van de stabiliteit van je input en de gevolgen van een fout. Voor een MKB’er met voorspelbare taken zoals het bijwerken van een CRM-rij volstaat een simpele tool-use flow. Maar zodra je te maken krijgt met onvoorspelbare data of meerdere systemen die moeten samenwerken, is een patroon met expliciete foutafhandeling en controle over de dataflow essentieel om te voorkomen dat één hallucinatie of API-timeout je hele automatisering platlegt.
+
+## Wat er aan de hand is
+In een blogpost op n8n.io worden de belangrijkste architectuurpatronen voor AI-agents uitgelegd, van prototype tot productie. De kern is dat er twee lagen zijn: gedragspatronen (hoe een individuele agent denkt en beslist) en topologische patronen (hoe meerdere agents samenwerken). De meest eenvoudige gedragspatroon is ‘tool use’: de agent krijgt gestructureerde functies mee en roept deze aan op basis van de prompt. Dit is snel en direct, maar faalt als het model hallucineert over parameters of een niet-bestaande tool aanroept. De blog benadrukt dat het verkeerd toepassen van patronen faalmodi introduceert die geen enkele prompt engineering kan oplossen. De keuze voor een autonome loop waar een stapsgewijze sequentie nodig is, kan een workflow laten vastlopen, en centraliseren van controle in een omgeving met hoge latentie vertraagt elke overdracht.
+
+## Wat dit betekent
+Voor ondernemers en professionals in het MKB betekent dit dat de keuze voor een AI-agent niet alleen draait om de tool of het model, maar om de onderliggende structuur. Als je een eenvoudige taak automatiseert, zoals het checken van een voorraadniveau of het toevoegen van een lead aan een CRM, dan is het tool-use patroon de snelste en goedkoopste optie. Maar zodra je meerdere stappen aan elkaar knoopt – bijvoorbeeld een klantvraag analyseren, een offerte genereren en die naar een boekhoudpakket sturen – dan heb je een patroon nodig dat fouten kan opvangen. De blog waarschuwt dat een enkele hallucinatie of API-timeout de hele automatisering kan laten crashen als je geen fail-safe inbouwt. Dit is vooral relevant voor bedrijven die afhankelijk zijn van realtime data of die processen draaien met meerdere systemen (CRM, e-commerce, facturatie). De impact is dat je niet zomaar een prototype in productie kunt zetten; je moet nadenken over hoe data stroomt en waar beslissingen vallen.
+
+## Hoe je dit kunt toepassen
+**Als je een webshop runt met eenvoudige orderverwerking.** Je ontvangt bestellingen via een formulier en wilt automatisch een klantprofiel aanmaken in je CRM en een bevestigingsmail sturen. Dit is een sequentiële flow met voorspelbare input. Het tool-use patroon volstaat: de agent roept twee functies aan (CRM-update en e-mail) op basis van de formulierdata. Je zou kunnen overwegen om geen extra foutafhandeling in te bouwen, omdat de input gestructureerd is en de kans op hallucinatie klein is. Als de API van je CRM uitvalt, kun je een simpele retry-logica toevoegen in je no-code tool, zoals n8n of Zapier.
+
+**Als je een team aanstuurt dat offertes genereert op basis van vrije-tekstvragen van klanten.** Hier is de input onvoorspelbaar: een klant kan een vage vraag stellen over maatwerk. Een simpele tool-use flow faalt snel, omdat de agent verkeerde parameters kan hallucineren. Een mogelijkheid is om een patroon te kiezen met een aparte validatiestap: eerst laat je een agent de vraag parsen en structureren, daarna controleert een tweede agent of de output klopt, en pas dan voer je de offerte-actie uit. Dit kost meer tijd, maar voorkomt dat je een offerte stuurt met verkeerde specificaties. Overweeg om in je no-code tool een ‘human-in-the-loop’ stap in te bouwen voor offertes boven een bepaald bedrag.
+
+**Als je in de zorg werkt met het verwerken van patiëntgegevens uit meerdere bronnen.** Stel dat je afspraken, labuitslagen en medicatiegegevens uit verschillende systemen moet combineren in één dossier. Dit is een complexe, multi-stap flow met hoge eisen aan betrouwbaarheid. Het tool-use patroon is hier riskant, omdat een hallucinatie over een medicatiedosis ernstige gevolgen kan hebben. Je zou kunnen kiezen voor een topologisch patroon met een centrale orchestrator die elke stap apart valideert voordat de volgende wordt uitgevoerd. Een optie is om per systeem een aparte agent te gebruiken die alleen die data ophaalt, en een centrale agent die de resultaten samenvoegt en controleert op consistentie. Dit vereist een no-code tool die branching en foutafhandeling ondersteunt, zoals n8n of Make.
+
+**Als je een marketingteam hebt dat gepersonaliseerde e-mailcampagnes maakt.** Je wilt op basis van klantgedrag (websitebezoek, aankoopgeschiedenis) automatisch een e-mail samenstellen met productaanbevelingen. Dit is een flow met matige complexiteit: de input is gestructureerd (data uit je analytics-tool), maar de output (de e-mailtekst) wordt gegenereerd door een LLM. Het tool-use patroon werkt hier goed, maar je moet een fallback inbouwen voor het geval de LLM een onzin-antwoord geeft. Een mogelijkheid is om een tweede agent de gegenereerde e-mail te laten controleren op relevantie voordat hij wordt verzonden. Overweeg om een maximum aantal karakters in te stellen voor de e-mail om te voorkomen dat de agent te lange teksten produceert.
+
+Bron: Blog n8n (https://blog.n8n.io/ai-agent-architecture-patterns/)
