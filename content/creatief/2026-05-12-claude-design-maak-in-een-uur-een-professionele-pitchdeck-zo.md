@@ -1,32 +1,32 @@
 ---
 title: "Claude Design: maak in een uur een professionele pitchdeck zonder designer"
-date: 2026-05-12T18:14:12.425Z
-tags: ["claude design", "ai design", "pitchdeck", "mkb"]
+date: 2026-05-12T22:10:55.582Z
+tags: ["ai design", "pitchdeck", "claude", "zapier"]
 categorieen: ["creatief"]
-summary: "Met Claude Design maak je zelf een pitchdeck of landingspagina, zonder ontwerper."
+summary: "Claude Design laat je met AI in een uur een professionele pitchdeck of landingspagina maken."
 draft: false
 source_name: "Zapier"
 source_url: "https://zapier.com/blog/claude-design"
 ---
 
-Goed design herken je meteen: de lay-out en gebruikersstroom vertellen je brein wat je kunt doen, zonder uitleg. Maar goed design zelf maken is lastig. Je kunt dagen naar een nieuw ontwerp staren en nog steeds het gevoel hebben dat een pagina er saai uitziet, de navigatie verwarrend is of dat belangrijke informatie niet opvalt. Claude Design maakt het speelveld gelijk voor designbeginners, zodat je zelf designs, prototypes en slide decks kunt maken met AI.
+Je kunt nu in een uur een professionele pitchdeck of landingspagina maken zonder dure designers of ingewikkelde tools. Claude Design, een nieuwe AI-functie van Anthropic, helpt ontwerpbeginners om visueel aantrekkelijke prototypes, slide decks en webpagina’s te maken.
 
 ## Wat er aan de hand is
 
-Zapier heeft Claude Design gelanceerd, een AI-tool die in de populaire automatiseringsdienst is geïntegreerd. Claude Design helpt gebruikers bij het maken van visuele ontwerpen, prototypes en presentaties, zonder dat daar ontwerpkennis voor nodig is. Het is een direct antwoord op de groeiende vraag van MKB'ers die professionele uitstraling willen zonder een designer in dienst te nemen. Waar je eerder afhankelijk was van dure software of externe ontwerpers, kun je nu met een paar prompts een compleet ontwerp genereren.
+Anthropic heeft Claude Design gelanceerd, een AI-tool die ontwerpwerk toegankelijk maakt voor mensen zonder designervaring. Volgens Zapier, die de tool integreert, kun je met Claude Design ontwerpen, prototypes en presentaties maken die er professioneel uitzien. De tool is ontworpen om de drempel voor goed design te verlagen. Waar je normaal dagen kunt worstelen met een saai ogende pagina of verwarrende navigatie, belooft Claude Design dat je sneller tot een resultaat komt dat visueel klopt en gebruiksvriendelijk aanvoelt.
 
 ## Wat dit betekent
 
-Voor ondernemers en professionals in het MKB betekent dit dat de drempel naar professionele visuele communicatie fors lager wordt. Denk aan het maken van een pitchdeck voor een investeerder, een landingspagina voor een nieuwe dienst, of een prototype van een app-idee. Waar je voorheen uren of dagen kwijt was aan het zelf knutselen in Canva of het inhuren van een freelancer, kun je nu in een uur een eerste versie hebben. Het is geen vervanging van een ervaren designer, maar wel een manier om snel en goedkoop een professionele basis neer te zetten.
+Voor ondernemers en professionals in het mkb betekent dit dat je niet langer afhankelijk bent van een externe designer voor elk visueel project. Een pitchdeck voor een investeerder, een landingspagina voor een nieuwe dienst, of een prototype voor een app: het zijn allemaal dingen die je nu zelf kunt maken. De impact is het grootst voor kleine teams zonder eigen designer, freelancers die snel iets moeten opleveren, en startups die hun eerste presentaties in elkaar zetten. Je bespaart niet alleen geld, maar ook tijd: waar je eerder dagen uittrok voor een ontwerp, kun je nu in een uur een eerste versie klaar hebben.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een pitchdeck moet maken voor een investeerder.** Je hebt een idee voor een nieuwe dienst, maar geen tijd om een complete presentatie in elkaar te zetten. Je zou Claude Design kunnen gebruiken om een eerste versie te genereren op basis van een korte beschrijving van je bedrijf, je doelgroep en je propositie. Een mogelijkheid is om de tool te vragen een slide deck te maken met een duidelijke structuur: probleem, oplossing, markt, team en financiën. Vervolgens kun je de gegenereerde slides aanpassen met je eigen cijfers en afbeeldingen.
+**Als je een pitchdeck moet maken voor een investeerder of klant.** Je hebt waarschijnlijk een verhaal dat je wilt vertellen, maar geen idee hoe je dat visueel aantrekkelijk maakt. Overweeg om Claude Design te gebruiken om de slides op te zetten. Je kunt beginnen met een ruwe tekstschets van je verhaal en de tool vragen om er een strakke presentatie van te maken. Een mogelijkheid is om per slide aan te geven welke boodschap centraal moet staan, zodat de AI de lay-out en volgorde voor je bepaalt. Je zou kunnen experimenteren met verschillende kleurenschema’s en lettertypen tot het geheel professioneel oogt.
 
-**Als je een landingspagina voor een nieuwe dienst wilt testen.** Je lanceert binnenkort een nieuwe dienst, maar je weet nog niet of de boodschap aankomt. Overweeg om Claude Design te gebruiken om een prototype van een landingspagina te maken. Je zou de tool kunnen vragen om een eenvoudige pagina te ontwerpen met een heldere call-to-action, een korte uitleg van je dienst en een paar testimonials. Dit prototype kun je vervolgens aan een paar klanten laten zien om te testen of de boodschap werkt, voordat je een echte website laat bouwen.
+**Als je een landingspagina voor een nieuwe dienst of product wilt maken.** Je hebt waarschijnlijk een domeinnaam en een idee, maar geen tijd om een hele website te bouwen. Een optie is om Claude Design te vragen een prototype van je landingspagina te maken. Je kunt de AI vertellen wat je aanbiedt, wie je doelgroep is en welke actie bezoekers moeten nemen. De tool genereert dan een visueel ontwerp met een duidelijke hiërarchie. Je zou dit prototype kunnen gebruiken om feedback te verzamelen van klanten of collega’s voordat je het laat bouwen door een developer.
 
-**Als je een app-idee visueel wilt maken voor een ontwikkelaar.** Je hebt een idee voor een app, maar kunt het moeilijk uitleggen aan een ontwikkelaar. Een optie is om Claude Design te gebruiken om een klikbaar prototype te maken. Je zou de tool kunnen vragen om een aantal schermen te genereren die de belangrijkste functionaliteiten laten zien, zoals een inlogscherm, een dashboard en een instellingenpagina. Dit prototype kun je vervolgens aan een ontwikkelaar laten zien, zodat die precies begrijpt wat je bedoelt.
+**Als je een app of tool ontwerpt en een prototype nodig hebt voor gebruikerstests.** Je hebt waarschijnlijk een idee voor een functionaliteit, maar geen idee hoe de gebruiker erdoorheen navigeert. Overweeg om Claude Design te gebruiken om een klikbaar prototype te maken. Je kunt de AI vragen om de belangrijkste schermen te ontwerpen en de navigatiestroom uit te stippelen. Een mogelijkheid is om het prototype aan een paar gebruikers te laten zien en te kijken of ze de juiste stappen zetten. Zo ontdek je knelpunten voordat je code gaat schrijven.
 
-**Als je een interne presentatie moet geven over een nieuw project.** Je moet je team overtuigen van een nieuw project, maar je hebt geen tijd om een mooie presentatie te maken. Je zou Claude Design kunnen gebruiken om een slide deck te genereren op basis van een korte samenvatting van het project. Een mogelijkheid is om de tool te vragen om een overzichtelijke presentatie te maken met de belangrijkste doelen, de planning en de verwachte resultaten. Vervolgens kun je de slides aanvullen met specifieke details voor jouw team.
+**Als je een team aanstuurt en snel een visuele briefing wilt maken.** Je hebt waarschijnlijk een strategie of plan dat je aan je team moet uitleggen, maar geen tijd om er een mooie presentatie van te maken. Een optie is om Claude Design te vragen om je notities om te zetten in een visueel overzicht. Je kunt de AI vragen om de belangrijkste punten te highlighten en een duidelijke structuur aan te brengen. Je zou dit kunnen gebruiken als startpunt voor een teamoverleg, zodat iedereen direct ziet waar het naartoe gaat.
 
 Bron: Zapier
