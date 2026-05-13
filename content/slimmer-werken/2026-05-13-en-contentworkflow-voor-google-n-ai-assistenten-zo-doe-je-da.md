@@ -1,36 +1,32 @@
 ---
 title: "Eén contentworkflow voor Google én AI-assistenten: zo doe je dat"
-date: 2026-05-13T02:15:33.646Z
-tags: ["seo", "ai-optimalisatie", "contentstrategie", "mkb"]
+date: 2026-05-13T10:12:30.340Z
+tags: ["contentstrategie", "seo", "ai-assistenten", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "Optimaliseer content voor zowel Google als ChatGPT, Gemini en Perplexity zonder dubbel werk."
+summary: "Eén workflow voor zichtbaarheid in Google en AI-assistenten, zonder dubbele inzet."
 draft: false
 source_name: "Martech"
 source_url: "https://feed.martech.zone/link/8998/16263631/surfer-ai-driven-seo-platform-and-content-writer"
 ---
 
-Het antwoord: Je kunt één contentworkflow opzetten die zowel in Google als in AI-assistenten zoals ChatGPT, Gemini en Perplexity scoort. De truc is dat je niet aparte teksten maakt voor zoekmachines en AI, maar één versie die beide systemen begrijpt. Dat scheelt tijd en zorgt dat je zichtbaar blijft waar klanten ook zoeken.
+Het antwoord
 
-## Wat er aan de hand is
+Je kunt één contentworkflow opzetten die zowel in Google als in AI-assistenten zoals ChatGPT, Gemini en Perplexity scoort, zonder dat je twee aparte strategieën hoeft te onderhouden. De kern is dat je content optimaliseert voor zowel traditionele zoekmachines als voor de manier waarop grote taalmodellen informatie extraheren en presenteren.
 
-Mensen zoeken niet meer alleen via Google. Ze vragen ook ChatGPT, Gemini of Perplexity om een aanbeveling en slaan de resultatenpagina van Google daarbij over. Dat betekent dat jouw content op twee fronten zichtbaar moet zijn: pagina’s die hoog ranken in Google worden niet automatisch geciteerd in een AI-antwoord. En omgekeerd: content die AI-assistenten gebruiken, verschijnt misschien niet in traditionele zoekresultaten.
+Wat er aan de hand is
 
-Volgens Martech biedt het platform Surfer een oplossing. Het is een optimalisatietool die contentmakers één workflow geeft voor zowel Google als AI-assistenten. Het platform identificeert hiaten tussen jouw tekst en wat er al presteert voor een bepaalde zoekvraag, en begeleidt aanpassingen in realtime. Je schrijft dan tegelijk voor de signalen die Google’s crawlers nodig hebben en voor de context die AI-modellen eruit halen. Surfer werkt in acht talen en biedt onder andere automatische interne links, een Content Score die meeleest, en tracking van hoe jouw merk wordt genoemd in AI-antwoorden.
+De manier waarop mensen antwoorden zoeken, versplintert. Een potentiële klant typt nog steeds een zoekopdracht in Google, maar stelt dezelfde vraag net zo makkelijk aan ChatGPT, Gemini of Perplexity en slaat de resultatenpagina over. Voor contentteams ontstaat daardoor een zichtbaarheidsprobleem met twee fronten: pagina’s die organisch ranken, worden misschien nooit geciteerd in een AI-antwoord, en content die AI-assistenten vrijelijk citeren, verschijnt mogelijk niet in traditionele zoekresultaten. Het oude stappenplan van keyword targeting en crawler-gerichte on-page optimalisatie is nog steeds relevant, maar niet meer voldoende. Zonder duidelijke signalen over de entiteiten en onderwerpen die voor grote taalmodellen belangrijk zijn, blijft je content onzichtbaar in de gesprekken waar kopers daadwerkelijk beslissingen nemen.
 
-## Wat dit betekent
+Wat dit betekent
 
-Voor ondernemers en professionals in het MKB betekent dit dat je niet langer hoeft te kiezen tussen optimaliseren voor Google of voor AI. De oude aanpak van alleen zoekwoorden en technische SEO is niet meer genoeg. Zonder duidelijke signalen over de onderwerpen en entiteiten die voor AI-modellen belangrijk zijn, blijf je onzichtbaar in de gesprekken waar kopers beslissingen nemen.
+Voor MKB-ondernemers betekent dit dat je niet langer kunt kiezen tussen optimaliseren voor Google of voor AI-assistenten. Je moet beide doen, maar dat hoeft niet te betekenen dat je twee keer zoveel werk hebt. Platforms zoals Surfer bieden een geïntegreerde workflow die content optimaliseert voor beide omgevingen. Het platform identificeert hiaten tussen jouw content en wat daadwerkelijk presteert voor een bepaalde zoekopdracht, en begeleidt vervolgens realtime aanpassingen. Je schrijft dan in één keer voor zowel crawlersignalen als de topische context die AI-tools extraheren. Het resultaat is een Content Score die tijdens het schrijven bijwerkt, ondersteuning voor acht talen, automatische interne links die zowel Google als AI-assistenten helpen begrijpen hoe jouw onderwerpen samenhangen, en zichtbaarheidstracking die laat zien hoe jouw merk wordt genoemd (of gemist) in AI-antwoorden.
 
-Het platform Surfer bundelt stappen die normaal over vijf verschillende tools verspreid zijn: van onderzoek en outline genereren tot optimalisatie, plagiaatdetectie en authenticiteitscontroles. Of je nu één artikel per week publiceert of honderden over meerdere domeinen, de workflow blijft hetzelfde. Dat bespaart tijd en voorkomt dat je dubbel werk doet.
+Hoe je dit kunt toepassen
 
-## Hoe je dit kunt toepassen
+**Als je een webshop runt en productpagina’s schrijft.** Je zou kunnen beginnen met het analyseren van een bestaande productpagina via een platform zoals Surfer. Het platform toont direct welke topische elementen ontbreken ten opzichte van concurrerende pagina’s die zowel in Google als in AI-assistenten scoren. Een mogelijkheid is om de realtime editor te gebruiken terwijl je de pagina herschrijft, zodat je in één sessie zowel de SEO-kwaliteit als de AI-zichtbaarheid verbetert. Overweeg om daarna de interne linkstructuur te controleren: automatische interne links helpen beide systemen om de relatie tussen productcategorieën te begrijpen.
 
-**Als je een webshop runt en productpagina’s schrijft.** Je zou kunnen beginnen met het analyseren van één productpagina die nu niet scoort. Kijk welke zoekvragen klanten stellen in Google én welke vragen ze aan AI-assistenten voorleggen. Overweeg om dezelfde pagina zo te herschrijven dat hij beide systemen bedient: gebruik duidelijke koppen, vermeld specifieke kenmerken en zorg dat de context rond het product compleet is. Een tool als Surfer kan je daarbij begeleiden door realtime suggesties te geven terwijl je schrijft.
+**Als je een team aanstuurt dat wekelijks meerdere artikelen publiceert.** Je zou de workflow kunnen centraliseren door één platform te gebruiken voor outline-generatie, optimalisatie, plagiaatdetectie en authenticiteitscontroles. Een optie is om de AI Content Humanizer in te zetten voor concepten die door AI zijn gegenereerd, zodat ze natuurlijker klinken zonder dat je redacteuren handmatig alles hoeven te herschrijven. Overweeg om de AI Search Guidelines te gebruiken voor een eenmalige optimalisatie van bestaande content, zodat al je oude artikelen ook voor AI-assistenten zichtbaar worden.
 
-**Als je een team aanstuurt dat wekelijks blogs publiceert.** Een mogelijkheid is om de bestaande workflow te herzien. In plaats van eerst een SEO-tekst te schrijven en later aanpassingen te doen voor AI, kun je één sjabloon maken dat beide doelen dient. Laat je team in één omgeving werken waar ze outlines genereren, optimaliseren en controleren op authenticiteit. Dat voorkomt dat je achteraf nog een aparte ronde moet doen voor AI-zichtbaarheid.
+**Als je in de zakelijke dienstverlening werkt en thought leadership-artikelen schrijft.** Je zou kunnen experimenteren met het schrijven van een artikel dat zowel een specifiek keyword target als een breder topisch cluster bestrijkt. Een mogelijkheid is om de zichtbaarheidstracking in te schakelen, zodat je ziet of jouw merk wordt genoemd in AI-antwoorden op vragen uit jouw vakgebied. Overweeg om de content in meerdere talen te optimaliseren als je internationaal actief bent, want het platform ondersteunt acht talen.
 
-**Als je in de zakelijke dienstverlening werkt en denkt dat AI-assistenten jouw expertise niet oppakken.** Overweeg om een bestaand artikel over een veelgestelde vraag te herzien. Controleer of de tekst de belangrijkste entiteiten en onderwerpen benoemt die een AI nodig heeft om jouw bedrijf te citeren. Je zou kunnen testen of dezelfde tekst, na optimalisatie, zowel in Google als in ChatGPT een antwoord geeft. Gebruik de visibility tracking van een platform om te zien of je gemist wordt in AI-responses.
-
-**Als je content schrijft voor meerdere talen.** Een optie is om te onderzoeken of jouw internationale teksten ook in andere talen door AI-assistenten worden opgepikt. Je kunt één workflow gebruiken die in acht talen werkt, zodat je niet per taal aparte optimalisaties hoeft te doen. Dat scheelt tijd en zorgt voor consistentie.
-
-Bron: [Martech](https://feed.martech.zone/link/8998/16263631/surfer-ai-driven-seo-platform-and-content-writer)
+Bron: Martech
