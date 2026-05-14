@@ -1,34 +1,29 @@
 ---
 title: "AI-chatbots lekken telefoonnummers: zo bescherm jij je gegevens"
-date: 2026-05-14T14:16:05.924Z
+date: 2026-05-14T18:11:54.279Z
 tags: ["privacy", "ai-veiligheid", "klantgegevens"]
 categorieen: ["slimmer-werken"]
-summary: "AI-chatbots geven steeds vaker echte telefoonnummers prijs. Dit kun je er nu aan doen."
+summary: "AI-chatbots delen per ongeluk echte telefoonnummers. Dit betekent dat jouw klantgegevens ook risico lopen."
 draft: false
 source_name: "Technologyreview"
 source_url: "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
 ---
 
-Het antwoord: AI-chatbots zoals Gemini, ChatGPT en Claude geven steeds vaker echte telefoonnummers van mensen prijs in hun antwoorden. Voor ondernemers betekent dit een direct risico: jouw zakelijke telefoonnummer of dat van je klanten kan zomaar in een chatbot-antwoord verschijnen, met een stroom aan verkeerde telefoontjes en privacyschendingen tot gevolg.
+AI-chatbots zoals ChatGPT, Gemini en Claude kunnen per ongeluk echte telefoonnummers van mensen weergeven in hun antwoorden. Dit gebeurt vaker dan gemeld wordt en vormt een direct risico voor ondernemers die klantgegevens beheren of zelf hun nummer online hebben staan.
 
 ## Wat er aan de hand is
-
-Uit meldingen van gebruikers en onderzoek van MIT Technology Review blijkt dat AI-chatbots regelmatig persoonlijke telefoonnummers weergeven. Een Reddit-gebruiker kreeg wekenlang telefoontjes van vreemden die een advocaat, productontwerper of slotenmaker zochten, omdat Google's AI zijn nummer had verspreid. Een softwareontwikkelaar in Israël werd via WhatsApp benaderd nadat Gemini een foutief klantenservicenummer gaf dat naar hem leidde. En een promovendus aan de University of Washington kreeg Gemini zover dat het het privénummer van een collega onthulde.
-
-Het bedrijf DeleteMe, dat helpt bij het verwijderen van persoonlijke data van internet, ziet een toename van 400% in AI-gerelateerde privacyverzoeken in de afgelopen zeven maanden. Van die verzoeken verwijst 55% naar ChatGPT, 20% naar Gemini, 15% naar Claude en 10% naar andere AI-tools. Experts vermoeden dat de oorzaak ligt in persoonsgegevens die in trainingsdata zijn gebruikt, maar het exacte mechanisme is nog onduidelijk.
+Uit meldingen blijkt dat gebruikers van AI-chatbots onbedoeld privételefoonnummers te zien krijgen. Zo kreeg een softwareontwikkelaar in Israël onverwachte WhatsApp-berichten nadat Google's chatbot Gemini een verkeerd klantenservicenummer had gegeven, dat toevallig zijn eigen nummer was. Een promovendus aan de Universiteit van Washington wist via Gemini het mobiele nummer van een collega op te vragen. Op Reddit meldde een gebruiker dat zijn telefoon wekenlang werd platgebeld door vreemden die een advocaat, productontwerper of slotenmaker zochten, waarschijnlijk door fouten in de AI van Google. Volgens DeleteMe, een bedrijf dat helpt bij het verwijderen van persoonlijke gegevens, is het aantal vragen over AI-privacy met 400 procent gestegen in de afgelopen zeven maanden. Van die vragen gaat 55 procent over ChatGPT, 20 procent over Gemini, 15 procent over Claude en 10 procent over andere AI-tools. Experts denken dat de problemen ontstaan doordat persoonlijke gegevens in de trainingsdata van de AI zitten, maar het is onduidelijk hoe de chatbots precies aan de nummers komen.
 
 ## Wat dit betekent
-
-Voor ondernemers is dit geen ver-van-je-bed-show. Als jouw telefoonnummer op een bedrijfssite, in een KVK-register of in een online directory staat, kan een chatbot dat oppikken en in een antwoord verwerken. Het gevolg: klanten of prospects die jou per ongeluk bellen voor een ander bedrijf, of erger: kwaadwillenden die jouw nummer misbruiken. Ook als je klantgegevens beheert, loop je risico dat die via een chatbot uitlekken. De impact is direct: tijdverlies, reputatieschade en mogelijke juridische problemen als klantdata op straat komen te liggen.
+Voor ondernemers betekent dit dat niet alleen hun eigen telefoonnummer risico loopt, maar ook de gegevens van klanten, medewerkers of zakenrelaties die ergens online staan. Als een AI-chatbot per ongeluk een klantnummer weergeeft, kan dat leiden tot een stroom aan verkeerde telefoontjes, reputatieschade en in het ergste geval privacyschendingen. Vooral kleine bedrijven die afhankelijk zijn van één telefoonnummer voor hun bereikbaarheid zijn kwetsbaar. Het probleem is lastig te stoppen, omdat het niet duidelijk is hoe de chatbots aan de nummers komen en er geen eenvoudige knop is om dit te voorkomen. De toename van 400 procent in privacyvragen laat zien dat dit geen incident is, maar een groeiend probleem.
 
 ## Hoe je dit kunt toepassen
+**Als je een webshop runt en klantgegevens opslaat**, overweeg dan om telefoonnummers niet standaard in openbare systemen te zetten. Zorg dat klantgegevens alleen via beveiligde omgevingen worden gedeeld, niet via open chatbots of zoekmachines. Je zou kunnen controleren of je eigen bedrijfsgegevens, zoals een klantenservicenummer, per ongeluk in AI-trainingdata terecht zijn gekomen door zelf een chatbot te vragen naar jouw bedrijf.
 
-**Als je een webshop runt en klantgegevens opslaat,** overweeg dan om telefoonnummers niet standaard in je CRM of orderbeheer te koppelen aan openbare profielen. Een mogelijkheid is om een apart, niet-openbaar nummer te gebruiken voor klantcontact, zodat het privénummer van je medewerkers niet in trainingsdata terechtkomt. Je zou ook kunnen controleren of je contactgegevens op je site via een formulier gaan in plaats van als platte tekst, zodat AI-chatbots ze minder makkelijk kunnen scrapen.
+**Als je een team aanstuurt en medewerkersgegevens beheert**, is het verstandig om telefoonnummers van medewerkers niet zomaar op bedrijfswebsites of in openbare documenten te zetten. Een optie is om een apart algemeen nummer te gebruiken voor klantcontact en privénummers privé te houden. Overweeg om medewerkers te waarschuwen voor dit risico, zodat zij zelf ook voorzichtig zijn met het delen van hun nummer.
 
-**Als je een team aanstuurt en medewerkers hun eigen telefoon gebruiken voor zakelijke doeleinden,** is het verstandig om duidelijke afspraken te maken over welke nummers openbaar mogen zijn. Een optie is om een centraal zakelijk nummer in te stellen dat doorstuurt, zodat persoonlijke nummers van medewerkers niet in databases belanden die chatbots kunnen gebruiken. Je zou ook kunnen overwegen om een VoIP-dienst te gebruiken die nummers dynamisch toewijst.
+**Als je in de zorg of een andere vertrouwelijke sector werkt**, is het extra belangrijk om te voorkomen dat cliëntgegevens via AI worden gelekt. Je zou kunnen onderzoeken of je systemen zo zijn ingericht dat persoonlijke gegevens niet in openbare AI-modellen terechtkomen. Een mogelijkheid is om een privacy-audit uit te voeren en te kijken waar telefoonnummers onbedoeld zichtbaar zijn.
 
-**Als je zelf actief bent op platforms zoals Google Bedrijfsprofiel of LinkedIn,** controleer dan of je telefoonnummer niet onbedoeld openbaar staat. Een mogelijkheid is om een apart nummer te gebruiken voor online vermeldingen, dat je makkelijk kunt wijzigen als het toch in een chatbot belandt. Je zou ook periodiek kunnen testen of chatbots zoals Gemini of ChatGPT jouw nummer weergeven door een simpele zoekopdracht naar je bedrijfsnaam te doen.
+**Als je zelf ondernemer bent en je telefoonnummer online staat**, overweeg dan om een apart nummer aan te schaffen voor zakelijk gebruik, bijvoorbeeld via een VoIP-dienst. Dit nummer kun je makkelijk wijzigen als het wordt misbruikt. Je zou ook kunnen controleren of je nummer voorkomt in AI-antwoorden door een chatbot te vragen naar jouw contactgegevens.
 
-**Als je klantensoftware gebruikt met AI-functionaliteit,** vraag dan bij je leverancier na hoe zij omgaan met persoonsgegevens in trainingsdata. Een optie is om te kiezen voor een tool die belooft geen data te gebruiken voor modeltraining, of om een opt-out aan te vragen. Overweeg ook om telefoonnummers in je systemen te maskeren of te hashen, zodat ze niet als leesbare tekst in logs of API-verzoeken verschijnen.
-
-Bron: MIT Technology Review (https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)
+Bron: Technologyreview (https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)
