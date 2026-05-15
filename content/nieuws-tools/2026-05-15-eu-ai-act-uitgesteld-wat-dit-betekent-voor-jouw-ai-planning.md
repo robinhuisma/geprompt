@@ -1,31 +1,44 @@
 ---
 title: "EU AI Act uitgesteld: wat dit betekent voor jouw AI-planning"
-date: 2026-05-15T02:07:19.607Z
-tags: ["eu ai act", "compliance", "ai-roadmap", "ondernemer"]
+date: 2026-05-15T06:08:25.583Z
+tags: ["eu ai act", "compliance", "ai-roadmap"]
 categorieen: ["nieuws-tools"]
-summary: "Uitstel van hoog-risico AI-regels tot eind 2027; nu al stappen zetten voor compliance."
+summary: "Hoog-risico AI-regels worden uitgesteld tot december 2026, maar voorbereiding kan nu al beginnen."
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/05/08/afzwakking-en-uitstel-delen-eu-ai-act/"
 ---
 
-Het uitstel van delen van de EU AI Act geeft ondernemers meer tijd om zich voor te bereiden, maar het is geen reden om stil te zitten. De regels voor hoog-risico AI-toepassingen zijn verschoven naar december volgend jaar, en voor AI in producten naar 2 augustus 2028. Dit betekent dat je nu kunt beginnen met het in kaart brengen van je AI-gebruik zonder dat de deadline direct boven je hoofd hangt.
+De EU AI Act wordt op belangrijke punten afgezwakt en uitgesteld. De regels voor hoog-risico AI-toepassingen gaan pas in december 2026 in, en voor AI in producten zelfs pas in augustus 2028. Dit geeft ondernemers meer tijd om zich voor te bereiden, maar het is geen reden om stil te zitten.
 
 ## Wat er aan de hand is
-De EU-lidstaten en het Europarlement hebben overeenstemming bereikt over aanpassingen in de EU AI Act, die oorspronkelijk in augustus 2024 werd aangenomen. De regels voor hoog-risico AI-toepassingen, zoals kritieke infrastructuur, worden uitgesteld tot december 2027. Voor AI-systemen die in een product zijn geïntegreerd, geldt de nieuwe deadline van 2 augustus 2028. Aanvankelijk zouden deze regels al in augustus 2025 van kracht worden. De standaarden en richtlijnen voor naleving zijn nog niet klaar, en het is onduidelijk welke toepassingen precies onder de categorie ‘hoog risico’ vallen. Op aandringen van Duitsland en industriële concerns zoals Siemens en Bosch komen er minder regels voor AI in industriële applicaties. Nieuwe eisen voor het watermerken van AI-gegenereerde afbeeldingen en video gaan per 2 december 2025 gelden, drie maanden later dan gepland. De tech-lobby wordt door burgerrechtenorganisatie Bits of Freedom als grote winnaar gezien.
+
+De EU-lidstaten en het Europarlement hebben overeenstemming bereikt over aanpassingen in de EU AI Act, die oorspronkelijk in augustus 2024 werd aangenomen. De regels voor hoog-risico AI-toepassingen, zoals kritieke infrastructuur, worden zestien maanden uitgesteld tot december 2026. Voor AI-systemen die in een product zijn geïntegreerd, geldt de deadline van 2 augustus 2028. Aanvankelijk zouden deze regels al in augustus 2025 van kracht worden.
+
+De reden voor het uitstel is dat de benodigde standaarden en richtlijnen voor naleving nog niet klaar zijn. Het is zelfs nog niet duidelijk welke toepassingen en bouwdelen precies onder de categorie ‘hoog risico’ vallen. Op aandringen van Duitsland en industriële concerns als Siemens en Bosch komen er minder regels voor AI in industriële applicaties, vooral waar overlap is met andere AI-regelgeving voor machinebouwers. Medische apparatuur blijft wel onder de AI-wet vallen.
+
+Nieuwe eisen voor het detecteren en watermerken van AI-gegenereerde afbeeldingen en video gaan per 2 december 2025 gelden, drie maanden later dan gepland. Ook komt er een bredere scope voor het verwerken van gevoelige persoonsgegevens bij het opsporen van vooroordelen, maar dit moet nog steeds ‘strikt noodzakelijk’ zijn.
+
+Volgens digitale-burgerrechtenorganisatie Bits of Freedom is de tech-lobby de grote winnaar bij dit uitstel.
 
 ## Wat dit betekent
-Voor ondernemers betekent dit uitstel dat de druk om direct te voldoen aan complexe regels even afneemt, maar de richting is duidelijk: AI-regulering komt eraan. Met name bedrijven die AI inzetten voor kritieke processen of producten moeten rekening houden met strengere eisen, maar hebben nu meer tijd om hun systemen aan te passen. Voor kleinere MKB-bedrijven zonder eigen compliance-afdeling is dit een kans om rustig te inventariseren welke AI-toepassingen ze gebruiken en of die mogelijk als hoog-risico worden geclassificeerd. De bredere scope voor het verwerken van gevoelige persoonsgegevens bij het opsporen van vooroordelen biedt ruimte, maar alleen onder strikte voorwaarden. De verschuiving laat ook zien dat de EU worstelt met de balans tussen innovatie en regulering, wat onzekerheid geeft over de uiteindelijke invulling.
+
+Voor ondernemers betekent dit uitstel dat de druk om per direct aan alle AI-regels te voldoen tijdelijk is afgenomen. Maar dat is schijnveiligheid. De regels komen eraan, en de voorbereidingstijd is bedoeld om nu al stappen te zetten. Vooral als je werkt met AI in kritieke processen, klantdata of productveiligheid, kun je niet wachten tot de definitieve regels er zijn.
+
+Het uitstel raakt verschillende sectoren anders. Voor industriële bedrijven die AI in machines of productielijnen gebruiken, is er meer ruimte gekomen. Voor bedrijven in medische technologie, financiële dienstverlening of infrastructuur blijft de urgentie hoog. En voor iedereen die AI gebruikt voor het genereren van content, zoals afbeeldingen of video, gelden de watermerkregels al over een half jaar.
+
+De onduidelijkheid over wat precies ‘hoog risico’ is, maakt het lastig om te bepalen of jouw AI-toepassing onder de strenge regels valt. Maar dat is geen excuus om niets te doen. Je kunt nu al inventariseren welke AI-systemen je gebruikt en welke risico’s ze met zich meebrengen.
 
 ## Hoe je dit kunt toepassen
-**Als je een webshop runt met AI-gestuurde klantenservice of aanbevelingen**, kun je nu al beginnen met het documenteren van hoe je AI-systemen werken. Overweeg om een eenvoudige lijst te maken van welke data je gebruikt, hoe beslissingen worden genomen, en of er sprake is van profilering. Dit helpt niet alleen bij toekomstige compliance, maar geeft ook inzicht in mogelijke risico’s.
 
-**Als je een team aanstuurt dat AI-tools inzet voor werving of beoordeling**, is het verstandig om nu al te controleren of deze tools mogelijk vooroordelen bevatten. Je zou kunnen starten met een interne audit van de gebruikte datasets en beslissingscriteria. De nieuwe regels staan verwerking van gevoelige gegevens toe om vooroordelen te corrigeren, maar alleen als het strikt noodzakelijk is. Door nu al te inventariseren, voorkom je later haastwerk.
+**Als je AI gebruikt in productie of logistiek**, bijvoorbeeld voor kwaliteitscontrole of voorraadbeheer, dan val je mogelijk onder de regels voor AI in producten. Overweeg om nu al een inventarisatie te maken van alle AI-systemen die in jouw machines of processen zitten. Documenteer wat ze doen, welke data ze gebruiken en of er veiligheidsrisico’s zijn. Dit is de basis voor latere compliance.
 
-**Als je in de productie of industrie werkt met AI in machines of processen**, profiteer je van het uitstel tot 2028. Maar je kunt de tijd gebruiken om te overleggen met je leveranciers over hoe hun AI-componenten voldoen aan de toekomstige regels. Een mogelijkheid is om een compliance-checklist op te stellen voor nieuwe aankopen van machines met AI-functionaliteit.
+**Als je een webshop of dienstverlening runt met AI-klantenservice**, zoals chatbots of gepersonaliseerde aanbevelingen, dan is de kans groot dat jouw toepassing niet onder ‘hoog risico’ valt. Maar de watermerkregels voor AI-content kunnen wel relevant zijn als je automatisch productbeschrijvingen of afbeeldingen genereert. Je zou kunnen onderzoeken of jouw AI-tools al watermerken ondersteunen, of dat je een aparte stap moet inbouwen om AI-gegenereerde content te markeren.
 
-**Als je AI gebruikt voor het genereren van content, zoals afbeeldingen of video’s**, moet je rekening houden met de watermerkverplichting die per december 2025 ingaat. Je zou nu al kunnen onderzoeken welke tools watermerken ondersteunen of hoe je handmatig kunt aangeven dat content door AI is gegenereerd. Dit voorkomt dat je straks voor verrassingen komt te staan.
+**Als je in de zorg werkt met AI-ondersteunde diagnostiek of patiëntdata**, dan val je vrijwel zeker onder de strenge regels. Medische apparatuur blijft onder de AI-wet vallen, ook na het uitstel. Een mogelijke aanpak is om nu al een impactassessment te doen: welke AI-systemen gebruik je, welke data verwerken ze, en welke vooroordelen kunnen er ontstaan? Dit assessment is straks verplicht, maar je kunt er nu al mee beginnen om verrassingen te voorkomen.
 
-**Als je als adviseur of consultant werkt met AI-roadmaps voor klanten**, kun je het uitstel gebruiken om een stappenplan te ontwikkelen dat rekening houdt met de onzekerheid over de definitieve regels. Overweeg om klanten te adviseren om een risico-inventarisatie te doen van hun AI-gebruik, zonder al te veel te investeren in specifieke compliance-oplossingen die mogelijk veranderen.
+**Als je een team aanstuurt dat AI-tools inzet voor marketing of contentcreatie**, dan kun je nu al processen inrichten voor transparantie. Denk aan het labelen van AI-gegenereerde beelden of teksten, ook al is watermerken pas over een half jaar verplicht. Dit bouwt vertrouwen op bij klanten en voorkomt dat je straks moet haasten.
+
+**Als je overweegt om AI te integreren in een nieuw product of dienst**, dan is dit het moment om compliance mee te ontwerpen in plaats van achteraf. Kies AI-leveranciers die transparant zijn over hun modellen en data. Vraag naar documentatie over risico’s en bias. Dit scheelt later veel tijd en kosten.
 
 Bron: [Computable](https://www.computable.nl/2026/05/08/afzwakking-en-uitstel-delen-eu-ai-act/)
