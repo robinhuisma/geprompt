@@ -1,34 +1,34 @@
 ---
 title: "ChatGPT in PowerPoint: geen excuus meer voor rommelige slides"
-date: 2026-05-25T06:04:01.905Z
-tags: ["chatgpt", "powerpoint", "add-in", "presentaties"]
+date: 2026-05-25T10:05:47.741Z
+tags: ["chatgpt", "powerpoint", "presentaties", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "OpenAI’s nieuwe add-in laat je presentaties maken zonder PowerPoint te verlaten."
+summary: "Maak direct in PowerPoint professionele presentaties met de nieuwe ChatGPT-add-in."
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2092244/chatgpt-duikt-op-in-powerpoint-geen-excuus-meer-voor-lelijke-presentaties.html"
 ---
 
-ChatGPT is vanaf nu direct in PowerPoint te gebruiken via een nieuwe add-in van OpenAI. Je kunt presentaties maken, aanpassen en verbeteren zonder het programma te verlaten. Dat bespaart tijd en haalt drempels weg voor ondernemers die geen ontwerper in huis hebben.
+Het antwoord op de vraag of je nu zelf professionele presentaties kunt maken zonder design-skills is ja, dankzij de nieuwe ChatGPT-add-in voor PowerPoint. Je kunt vanaf nu direct in de vertrouwde software een complete presentatie laten genereren, zonder dat je aparte tools of templates nodig hebt.
 
 ## Wat er aan de hand is
 
-OpenAI heeft een officiële add-in uitgebracht waarmee ChatGPT binnen Microsoft PowerPoint werkt. Waar je eerder handmatig teksten uit ChatGPT naar PowerPoint moest kopiëren, kun je nu in één venster prompts geven en de resultaten direct in je slides zien. De add-in is beschikbaar voor gebruikers met een ChatGPT Plus-abonnement of een zakelijk account. Volgens OpenAI kun je met de tool niet alleen tekst genereren, maar ook slides opmaken, afbeeldingen toevoegen en de lay-out aanpassen. Het is een van de eerste diepe integraties van ChatGPT in een Microsoft Office-programma.
+OpenAI heeft een officiële add-in uitgebracht waarmee ChatGPT direct binnen PowerPoint werkt. Dat betekent dat je niet meer hoeft te schakelen tussen een chatbot en je presentatiesoftware. Je geeft een opdracht in het ChatGPT-venster dat in PowerPoint verschijnt, en het model genereert slides met tekst, opmaak en structuur. De add-in is beschikbaar voor gebruikers met een ChatGPT Plus-abonnement of een zakelijk account. Volgens Bright is dit een directe reactie op de groeiende vraag naar AI-ondersteuning in kantoorsoftware, waarbij gebruikers niet langer genoegen nemen met standaard templates.
 
 ## Wat dit betekent
 
-Voor ondernemers en professionals betekent dit dat het maken van een professionele presentatie minder tijd kost en minder technische kennis vereist. Vooral kleine bedrijven zonder eigen marketing- of designafdeling kunnen hiermee sneller een consistente, verzorgde uitstraling neerzetten. De add-in werkt op basis van natuurlijke taal: je beschrijft wat je wilt, en ChatGPT bouwt de slide. Dat verlaagt de drempel voor mensen die worstelen met opmaak, lettertypes of beeldkeuze. Wel blijft de kwaliteit afhankelijk van hoe goed je je wensen kunt verwoorden. Een vage prompt levert nog steeds vage slides.
+Voor ondernemers en professionals in het MKB betekent dit dat het maken van een presentatie niet langer uren kost. Waar je eerder handmatig slides moest vullen, opmaken en herschikken, kun je nu in een paar minuten een basis neerzetten. Dit is vooral relevant voor wie regelmatig pitches, klantpresentaties of interne updates maakt, maar geen tijd of budget heeft voor een designer. De add-in verlaagt de drempel om snel een professionele uitstraling te creëren, zonder dat je diep in de software hoeft te duiken. Wel blijft het belangrijk om de output te controleren op feitelijke juistheid en toon, want AI genereert niet altijd wat jij precies bedoelt.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een pitch of offerte moet maken voor een nieuwe klant.** Je kunt de add-in vragen om een slide met een duidelijke propositie, een tijdlijn en een kostenoverzicht. In plaats van zelf te slepen met tekstvakken, geef je een prompt als: 'Maak een slide met drie kolommen: probleem, oplossing, resultaat. Gebruik een strak blauw thema.' De add-in vult de slide en je past alleen nog de details aan. Overweeg om eerst een paar varianten te genereren en de beste te kiezen.
+**Als je een pitch voor een nieuwe klant moet voorbereiden.** Je opent PowerPoint, activeert de ChatGPT-add-in en typt iets als: 'Maak een presentatie van 10 slides over onze nieuwe software voor logistiek, gericht op MKB-ondernemers.' Binnen enkele seconden krijg je een eerste versie met titels, bullet points en een logische opbouw. Je kunt daarna per slide aanpassingen vragen, zoals 'maak slide 3 korter' of 'voeg een voorbeeld toe van kostenbesparing'. Overweeg om de gegenereerde tekst altijd na te lopen op jargon dat niet past bij jouw bedrijf.
 
-**Als je een interne training of uitleg moet geven aan je team.** Je kunt ChatGPT vragen om complexe informatie te vertalen naar eenvoudige slides. Een mogelijkheid is om een prompt te geven als: 'Leg in vier slides uit hoe ons nieuwe CRM-systeem werkt. Begin met het probleem, dan de functies, dan de voordelen, en eindig met een stappenplan.' De add-in maakt de slides en jij controleert of de inhoud klopt. Dit werkt ook goed voor het standaardiseren van terugkerende presentaties, zoals maandelijkse updates.
+**Als je een interne training of teamupdate moet geven.** Je vraagt de add-in om een presentatie over een onderwerp als 'nieuwe werkwijze voor klantcontact'. ChatGPT levert een structuur met inleiding, kernpunten en afsluiting. Een mogelijkheid is om daarna per slide te vragen om een voorbeeld uit de praktijk of een korte quizvraag. Zo maak je in een half uur een interactieve sessie die anders een dag zou kosten.
 
-**Als je een presentatie hebt die er saai uitziet en je wilt hem snel oppoetsen.** Je kunt de add-in vragen om de opmaak van bestaande slides te verbeteren. Een optie is om een slide te selecteren en te zeggen: 'Maak deze slide visueel aantrekkelijker met iconen en een ander kleurenschema.' De add-in past de lay-out aan zonder dat je zelf hoeft te ontwerpen. Let wel op: de tool kan soms te veel elementen toevoegen. Houd het doel van de slide in gedachten en schrap wat afleidt.
+**Als je een offerte of voorstel visueel wilt ondersteunen.** Je begint met een korte tekst over je aanbod en laat ChatGPT er een presentatie van maken met een duidelijke indeling: probleem, oplossing, voordelen, prijs. Daarna kun je de add-in vragen om grafieken of tabellen toe te voegen op basis van cijfers die je aanlevert. Let op: de add-in werkt het beste met duidelijke instructies, dus wees specifiek over wat je per slide wilt zien.
 
-**Als je een reeks presentaties moet maken voor verschillende doelgroepen.** Je kunt een basissjabloon maken en dat per keer laten aanpassen. Stel, je hebt een algemene bedrijfspresentatie. Je geeft de prompt: 'Pas deze presentatie aan voor een publiek van investeerders. Leg de nadruk op groeicijfers en marktkansen.' De add-in herschikt de inhoud en past de toon aan. Dit scheelt uren werk, maar controleer altijd of de cijfers en claims kloppen.
+**Als je een presentatie moet hergebruiken voor een andere doelgroep.** Je hebt een bestaande presentatie over je diensten, maar die is gericht op grote bedrijven. Je opent de add-in en vraagt: 'Herschrijf deze presentatie voor kleine ondernemers, met nadruk op eenvoud en lage kosten.' ChatGPT past de toon en inhoud aan zonder dat je handmatig alles hoeft te herschrijven. Een optie is om daarna de lay-out te laten aanpassen naar een strakker ontwerp.
 
-**Een valkuil om te vermijden.** De add-in werkt met dezelfde beperkingen als ChatGPT: hij kan feiten verzinnen of verouderde informatie gebruiken. Gebruik de tool vooral voor opmaak en structuur, niet voor inhoudelijke claims die je niet zelf hebt gecheckt. Ook is het verstandig om niet te veel slides in één prompt te vragen. Bouw de presentatie stap voor stap op, slide voor slide, zodat je de controle houdt.
+**Als je snel een reeks slides nodig hebt voor een beurs of webinar.** Je typt een onderwerp en een gewenst aantal slides, bijvoorbeeld '10 slides over trends in duurzaam ondernemen'. De add-in genereert een complete set die je direct kunt gebruiken of als basis kunt bewerken. Overweeg om de eerste en laatste slide zelf aan te passen met je logo en contactgegevens, zodat de presentatie persoonlijk blijft.
 
 Bron: [Bright](https://www.bright.nl/nieuws/2092244/chatgpt-duikt-op-in-powerpoint-geen-excuus-meer-voor-lelijke-presentaties.html)
