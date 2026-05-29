@@ -1,34 +1,36 @@
 ---
 title: "Vibe Editing: maak zelf professionele video’s zonder dure editor"
-date: 2026-05-29T06:07:26.761Z
-tags: ["ai-video", "vibe-editing", "videomarketing", "mkb"]
+date: 2026-05-29T22:09:14.296Z
+tags: ["AI", "videobewerking", "vibe editing", "mkb"]
 categorieen: ["creatief"]
-summary: "AI-gestuurde Vibe Editing laat ondernemers zelf video’s maken, zonder dure editors of uren montagewerk."
+summary: "AI-tools zoals Runway en Descript nemen videobewerking over. Dit bespaart tijd en geld voor MKB."
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/plusplus/2093095/bright-kan-videoteam-wel-ontslaan-vibe-editing-is-de-toekomst.html"
 ---
 
-Vibe Editing maakt het mogelijk om met een paar tekstinstructies een complete video te genereren, zonder dat je een dure editor of uren montagewerk nodig hebt. Voor ondernemers die regelmatig video’s inzetten voor marketing, uitleg of social media, kan dit een aanzienlijke kosten- en tijdsbesparing betekenen.
+Het antwoord: Vibe Editing maakt het mogelijk om met AI-tools zoals Runway en Descript zelf professionele video’s te maken, zonder dat je een dure video-editor nodig hebt. Dit betekent dat je als ondernemer sneller en goedkoper content kunt produceren, maar ook dat de rol van de traditionele editor verandert.
 
 ## Wat er aan de hand is
-
-Vibe Editing is een nieuwe manier van videobewerking waarbij AI de montage grotendeels overneemt. In plaats van handmatig clips knippen, effecten toevoegen en kleurcorrecties uitvoeren, geef je de AI een beschrijving van de gewenste ‘vibe’ of stijl. Tools zoals Runway en Descript kunnen op basis van die input zelfstandig een video samenstellen, inclusief overgangen, muziek en tekst. Volgens Bright is de technologie inmiddels zo ver dat het videoteam van een medium als Bright in theorie overbodig zou kunnen worden. De AI leert van bestaande video’s en kan steeds beter aanvoelen welke montage bij welke boodschap past. Dit is geen toekomstmuziek meer; de tools zijn nu al beschikbaar voor iedereen met een internetverbinding.
+Bright, een Nederlands techplatform, onderzoekt of het zijn eigen videoteam kan vervangen door AI-tools die ‘vibe editing’ mogelijk maken. Vibe Editing is een nieuwe manier van videobewerking waarbij je niet langer handmatig knipt en plakt, maar met een paar zinnen of een ‘vibe’ de AI vertelt wat voor video je wilt. Tools zoals Runway en Descript zijn hier de voorlopers. Ze kunnen ruwe beelden analyseren, automatisch de beste fragmenten selecteren, ondertiteling toevoegen en zelfs de montage aanpassen aan een bepaalde stijl. Bright stelt de vraag of de banen van video-editors hierdoor in gevaar komen.
 
 ## Wat dit betekent
-
-Voor ondernemers betekent Vibe Editing dat de drempel om professionele video’s te maken drastisch lager wordt. Waar je voorheen een videograaf of editor moest inhuren voor honderden euro’s per video, kun je nu met een paar tientjes per maand zelf aan de slag. Vooral voor MKB-bedrijven die regelmatig content plaatsen op sociale media of hun website, kan dit een gamechanger zijn. Denk aan productdemo’s, klantcases, uitlegvideo’s of bedrijfspresentaties. De kwaliteit is nog niet altijd gelijk aan die van een ervaren editor, maar voor de meeste toepassingen is het meer dan voldoende. Het betekent ook dat je minder afhankelijk bent van externe specialisten en sneller kunt schakelen. Wel blijft het belangrijk om de output te controleren op consistentie en merkuitstraling.
+Voor MKB-ondernemers betekent dit een verschuiving in de toegang tot videoproductie. Waar je eerder een editor moest inhuren voor honderden euro’s per video, kun je nu met een abonnement van enkele tientjes per maand zelf aan de slag. De kwaliteit is nog niet altijd gelijk aan die van een ervaren editor, maar voor social media, uitlegvideo’s of interne communicatie is het vaak al meer dan voldoende. Vooral voor bedrijven die regelmatig video’s maken, zoals webshops, trainers of vastgoedmakelaars, kan dit een aanzienlijke kostenbesparing opleveren. Aan de andere kant betekent het dat de vraag naar traditionele videobewerkers kan afnemen, tenzij zij zich specialiseren in complexere of strategischere producties.
 
 ## Hoe je dit kunt toepassen
+**Als je een webshop runt en productvideo’s maakt**  
+Je zou kunnen overwegen om een tool als Descript te gebruiken om van je bestaande productfoto’s en korte clips automatisch een promotievideo te laten genereren. Upload je beelden, geef een korte omschrijving van de sfeer die je wilt, en de AI stelt een montage samen met muziek en tekst. Dit bespaart je uren werk per week.
 
-**Als je een webshop runt en productvideo’s wilt maken.** Je kunt met Vibe Editing eenvoudig een reeks productfoto’s omzetten in een dynamische video. Upload de beelden, geef de AI een beschrijving van de sfeer die je wilt overbrengen, zoals ‘modern en strak’ of ‘warm en uitnodigend’, en de tool genereert een montage met passende muziek en overgangen. Overweeg om te starten met een gratis proefversie van een tool als Runway om te zien of de output bij je merk past.
+**Als je een team aanstuurt en interne trainingen wilt opnemen**  
+Een mogelijkheid is om met Runway een opname van een teamoverleg of training te bewerken. De AI kan lange gesprekken inkorten tot de kern, automatisch ondertiteling toevoegen en de video opmaken in de stijl van jullie bedrijf. Je kunt dit delen via je intranet of een leerplatform.
 
-**Als je een team aanstuurt en interne uitlegvideo’s nodig hebt.** In plaats van een externe editor in te huren voor een instructievideo, kun je zelf een schermopname maken en die door Descript laten bewerken. De AI verwijdert stiltes, voegt ondertiteling toe en zorgt voor een vloeiende montage. Een optie is om één medewerker een half uur te laten oefenen met de tool, zodat je daarna zelfstandig video’s kunt produceren.
+**Als je in de zorg werkt en voorlichtingsvideo’s wilt maken**  
+Overweeg om met een vibe editing tool een reeks korte uitlegvideo’s te maken voor patiënten. Neem eenvoudig met je telefoon op, upload de beelden en laat de AI de beste fragmenten selecteren en van tekst voorzien. Dit is een stuk sneller dan het inhuren van een externe editor.
 
-**Als je in de zakelijke dienstverlening werkt en klantcases wilt delen.** Je kunt een interview met een tevreden klant opnemen met je smartphone en de audio en video door een Vibe Editing-tool laten verwerken. De AI kan het gesprek inkorten, de belangrijkste punten markeren en er een aantrekkelijke video van maken voor je website of LinkedIn. Overweeg om eerst een korte proefvideo te maken met een bestaand interview om de kwaliteit te beoordelen.
+**Als je een coach of consultant bent en je online zichtbaarheid wilt vergroten**  
+Je zou kunnen experimenteren met het maken van wekelijkse videoblogs. Gebruik een tool als Descript om je opnames te bewerken: verwijder stiltes, voeg automatisch hoofdstukken toe en genereer een transcript voor je blog. Dit maakt het publiceren van video’s een stuk laagdrempeliger.
 
-**Als je een klein marketingteam hebt en wekelijks social media-video’s plaatst.** In plaats van elke keer een editor in te schakelen, kun je met Vibe Editing een sjabloon maken voor terugkerende content, zoals wekelijkse tips of aankondigingen. Je past alleen de tekst en beelden aan, de AI zorgt voor de rest. Een mogelijkheid is om te experimenteren met verschillende stijlen om te zien welke het beste presteert bij je doelgroep.
-
-**Als je een fysiek product verkoopt en beurzen of evenementen bezoekt.** Je kunt snel een aftermovie maken van een beursbezoek door de ruwe beelden in een Vibe Editing-tool te laden. De AI selecteert de beste fragmenten, voegt muziek toe en produceert binnen enkele minuten een video die je direct kunt delen op social media of in een nieuwsbrief. Overweeg om dit te testen tijdens een klein evenement om de workflow te ervaren.
+**Als je een evenement organiseert en aftermovies wilt maken**  
+Een optie is om alle ruwe beelden van een evenement in Runway te laden en de AI een compilatie te laten maken op basis van een door jou gekozen ‘vibe’, zoals energiek of informatief. Dit levert binnen een paar minuten een eerste versie op die je daarna nog handmatig kunt verfijnen.
 
 Bron: [Bright](https://www.bright.nl/plusplus/2093095/bright-kan-videoteam-wel-ontslaan-vibe-editing-is-de-toekomst.html)
