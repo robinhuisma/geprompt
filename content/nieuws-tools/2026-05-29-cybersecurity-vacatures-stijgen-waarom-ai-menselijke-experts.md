@@ -1,32 +1,36 @@
 ---
-title: "Cybersecurity-vacatures stijgen: waarom AI menselijke experts niet vervangt"
-date: 2026-05-29T06:01:26.823Z
-tags: ["cybersecurity", "AI", "personeel", "mkb"]
+title: "Cybersecurity vacatures stijgen: waarom AI menselijke experts niet vervangt"
+date: 2026-05-29T18:04:20.493Z
+tags: ["cybersecurity", "ai", "mkb", "vacatures"]
 categorieen: ["nieuws-tools"]
-summary: "AI-tools worden beter in hacken, maar de vraag naar menselijke cybersecurity-experts groeit juist."
+summary: "AI-tools zoals Mythos vinden kwetsbaarheden, maar menselijke experts blijven onmisbaar voor MKB-cybersecurity."
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2093677/dit-beroep-hoeft-zich-geen-zorgen-te-maken-om-ai-vacatures-nemen-juist-toe.html"
 ---
 
-Het nieuws dat AI banen kost, gaat niet op voor cybersecurity. Waar AI-modellen zoals Mythos van Anthropic steeds beter worden in het opsporen van kwetsbaarheden, neemt het aantal vacatures voor menselijke cybersecurity-experts juist toe. Voor ondernemers betekent dit: investeren in menselijke beveiligingsexperts is nu belangrijker dan ooit.
+Het aantal vacatures in cybersecurity neemt toe, ondanks de opkomst van AI. Voor MKB-ondernemers betekent dit dat investeren in menselijke expertise naast AI-tools een strategische keuze is die directe voordelen oplevert voor de beveiliging van hun bedrijf.
 
 ## Wat er aan de hand is
 
-AI-modellen zoals Mythos van Anthropic kunnen inmiddels zelfstandig kwetsbaarheden in software opsporen. Dat klinkt alsof de menselijke hacker overbodig wordt. Maar het tegenovergestelde gebeurt. Het aantal vacatures in de cybersecurity-sector stijgt, meldt Bright. De reden: AI-tools creëren nieuwe dreigingen én nieuwe complexiteit. Een AI kan een zwakke plek vinden, maar het begrijpen van de context, het inschatten van risico’s voor een specifiek bedrijf en het nemen van beslissingen over hoe te reageren, blijft mensenwerk.
+Waar veel sectoren banen zien verdwijnen door AI, gebeurt het tegenovergestelde in cybersecurity. Volgens Bright nemen vacatures in deze sector juist toe. AI-modellen zoals Mythos van Anthropic zijn weliswaar steeds beter in het opsporen van kwetsbaarheden, maar dat maakt menselijke experts niet overbodig. Sterker nog, de combinatie van AI en menselijke kennis blijkt effectiever dan elk van beide apart.
+
+De reden is simpel: AI kan patronen herkennen en snel grote hoeveelheden data doorzoeken, maar mist context en creativiteit. Een menselijke expert begrijpt de bedrijfsprocessen, kan prioriteiten stellen en weet welke risico’s echt urgent zijn. Vooral voor het MKB, waar budgetten beperkt zijn, is het vinden van de juiste balans tussen automatisering en menselijke inzet cruciaal.
 
 ## Wat dit betekent
 
-Voor het MKB is dit een belangrijk signaal. Veel kleine ondernemers denken dat AI-tools hun beveiliging wel regelen. Maar de realiteit is dat cybercriminelen ook AI gebruiken, en wel sneller dan veel bedrijven. Een AI-tool kan een standaard kwetsbaarheid vinden, maar een menselijke expert ziet het grotere plaatje: hoe een aanval past bij jouw bedrijfsprocessen, welke data echt gevoelig is, en hoe je prioriteiten stelt bij een beperkt budget. De stijging in vacatures laat zien dat bedrijven dit inzien: ze hebben mensen nodig die AI kunnen inzetten, niet alleen AI-tools.
+Voor ondernemers in het MKB betekent deze trend dat cybersecurity geen kwestie is van ‘AI erop zetten en klaar’. De stijging van vacatures wijst op een groeiende vraag naar mensen die AI-tools kunnen interpreteren, configureren en inzetten in de dagelijkse praktijk. Dit heeft directe impact op drie vlakken.
+
+Ten eerste de kosten. Waar een volledig menselijk securityteam voor een klein bedrijf onbetaalbaar is, wordt de combinatie van een AI-tool (vaak vanaf een paar honderd euro per maand) met een parttime consultant (vanaf ongeveer duizend euro per maand) steeds haalbaarder. Ten tweede de effectiviteit. Uit de praktijk blijkt dat AI alleen vaak valse alarmen genereert of subtiele aanvallen mist die een mens wel ziet. Ten derde de wendbaarheid. Een expert kan snel schakelen bij nieuwe dreigingen, terwijl AI-modellen getraind moeten worden op nieuwe data.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een MKB-bedrijf runt met een beperkt IT-budget** is het verleidelijk om alleen op AI-beveiligingstools te vertrouwen. Overweeg om in plaats daarvan een deel van je budget te reserveren voor een externe cybersecurity-consultant of een parttime security officer. Die persoon kan de output van AI-tools interpreteren en vertalen naar acties die passen bij jouw specifieke risico’s, zoals het beveiligen van klantgegevens of het updaten van verouderde software.
+**Als je een webshop runt met klantgegevens en betaalgegevens**, overweeg dan om een AI-tool in te zetten voor het continu scannen van je systemen op bekende kwetsbaarheden. Combineer dit met een maandelijkse check door een externe security-expert. Die expert kan de AI-rapporten beoordelen, prioriteiten stellen en je helpen met het dichten van de belangrijkste gaten. Een mogelijkheid is om een klein retentiebudget vrij te maken, bijvoorbeeld 1500 euro per maand, voor een parttime consultant die ook incidenten kan afhandelen.
 
-**Als je een team aanstuurt dat met gevoelige data werkt** kun je overwegen om een van je IT-medewerkers te laten omscholen naar cybersecurity. De vacaturemarkt vraagt om mensen die zowel technisch als strategisch kunnen denken. Een cursus of certificering in cybersecurity kan een bestaande medewerker omvormen tot een expert die AI-tools beheert, in plaats van dat je een dure specialist van buitenaf moet inhuren.
+**Als je een team van vijf tot twintig medewerkers aanstuurt**, kun je overwegen om een van je IT-medewerkers te laten bijscholen in cybersecurity. Die persoon kan dan de AI-tool beheren en de eerste lijn van verdediging vormen. Een optie is om een online cursus van een paar maanden te volgen, zoals die van SANS of Coursera, voor een paar honderd euro. De medewerker leert dan niet alleen de tool bedienen, maar ook hoe hij of zij valse alarmen herkent en rapportages opstelt voor het management.
 
-**Als je in de zorg, financiële dienstverlening of advocatuur werkt** heb je te maken met strenge regels rond privacy en beveiliging. AI-tools kunnen helpen bij het monitoren van netwerkverkeer, maar een menselijke expert is nodig om te beoordelen of een melding echt een datalek is, en om de juiste meldplicht na te leven. Overweeg om een extern bureau in te schakelen dat zowel AI-gebaseerde monitoring als menselijke beoordeling biedt.
+**Als je in de zorg of een andere sector met strenge privacyregels werkt**, is het verstandig om een gespecialiseerd bureau in te huren voor een risicoanalyse. AI-tools kunnen helpen bij het monitoren van netwerkverkeer, maar de interpretatie van privacywetgeving zoals de AVG blijft mensenwerk. Een mogelijkheid is om een bureau te vragen een halfjaarlijkse audit uit te voeren, waarbij ze de AI-rapporten combineren met een praktijkcheck van je processen. De kosten hiervoor liggen vaak tussen de 2000 en 5000 euro per audit, afhankelijk van de complexiteit.
 
-**Als je een webshop of e-commerce platform runt** ben je een aantrekkelijk doelwit voor geautomatiseerde aanvallen. AI-tools kunnen bijvoorbeeld verdachte inlogpogingen blokkeren, maar een menselijke expert kan de onderliggende oorzaak aanpakken, zoals een zwakke API-koppeling met je betaalprovider. Een mogelijke aanpak is om een security-audit te laten uitvoeren door een menselijke expert, die vervolgens de juiste AI-tools configureert voor jouw specifieke opzet.
+**Als je een klein team hebt zonder IT-afdeling**, kun je overwegen om een managed security service provider (MSSP) in te schakelen. Die partij combineert AI-tools met menselijke experts en biedt een totaalpakket aan. Een optie is om te starten met een basispakket voor 500 tot 1000 euro per maand, dat 24/7 monitoring en incident response omvat. Je hoeft dan zelf geen specialist in huis te halen, maar profiteert wel van de combinatie van AI en menselijke kennis.
 
 Bron: [Bright](https://www.bright.nl/nieuws/2093677/dit-beroep-hoeft-zich-geen-zorgen-te-maken-om-ai-vacatures-nemen-juist-toe.html)
