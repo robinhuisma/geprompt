@@ -1,32 +1,32 @@
 ---
-title: "Versoepelde staatssteun voor startups: wat het betekent voor jouw investering"
-date: 2026-05-30T02:08:58.228Z
-tags: ["staatssteun", "startups", "financiering", "mkb"]
+title: "Versoepelde staatssteun voor startups: wat het betekent voor MKB-leveranciers"
+date: 2026-05-30T06:09:04.345Z
+tags: ["staatssteun", "startups", "mkb", "innovatie"]
 categorieen: ["slimmer-werken"]
-summary: "Nederland wil dat EU-regels voor staatssteun worden versoepeld om startups beter te financieren. Dit kan kansen bieden voor MKB-ondernemers."
+summary: "Nederland wil EU-regels versoepelen voor startups. Dit kan kansen bieden voor MKB’ers die aan hen leveren."
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/staatssteun-eu-startups"
 ---
 
-Nederland wil samen met Duitsland en zes andere EU-landen dat de regels voor staatssteun worden versoepeld, zodat startups meer financiële steun kunnen krijgen. Voor ondernemers die een AI-startup willen financieren of zelf een innovatief bedrijf runnen, kan dit betekenen dat er meer geld beschikbaar komt voor de vroege fase van technologieontwikkeling. De huidige regels worden door minister Heleen Herbert van Economische Zaken als een 'sta-in-de-weg' gezien, omdat ze Europese startups zouden belemmeren in de concurrentie met de VS.
+Nederland, Duitsland en zes andere EU-landen willen de regels voor staatssteun aan startups versoepelen. Dat kan betekenen dat MKB’ers die producten of diensten leveren aan jonge techbedrijven, meer en stabielere opdrachten krijgen.
 
 ## Wat er aan de hand is
 
-Nederland, Duitsland en zes andere EU-landen hebben donderdag tijdens een vergadering van EU-ministers van Economische Zaken in Brussel gepleit voor versoepeling van de staatssteunregels voor startups. De landen willen dat deeptech scaleups langer gebruik kunnen maken van een uitzondering op het verbod op staatssteun. Ook startups die werken aan het oplossen van milieuproblemen zouden onder die uitzondering moeten vallen. Minister Herbert stelt tegenover De Telegraaf dat Europa qua technologische ontwikkelingen nu al te veel achterloopt op de VS en dat regels die eerder schaden dan helpen, moeten worden aangepast. Het pleidooi komt op een moment dat de financiering voor de vroegste fase van startups terugloopt, terwijl er wel miljarden aan deals worden gesloten voor latere fases.
+Tijdens een vergadering van EU-ministers van Economische Zaken in Brussel pleiten acht landen, waaronder Nederland, voor meer ruimte om startups te ondersteunen. Minister van Economische Zaken Heleen Herbert zegt tegen De Telegraaf dat de huidige regels te weinig mogelijkheden bieden en dat Europa achterloopt op de VS. De landen willen dat deeptech scaleups langer gebruik kunnen maken van een uitzondering op het verbod op staatssteun. Ook startups die werken aan milieuoplossingen moeten onder die uitzondering vallen. Het pleidooi komt op een moment dat de financiering voor vroege fase startups terugloopt, terwijl er vorig jaar nog voor 1 miljard euro aan deals werd gesloten met grotere scaleups.
 
 ## Wat dit betekent
 
-Voor ondernemers die een AI-startup willen opzetten of financieren, kan een versoepeling van de staatssteunregels directe gevolgen hebben. Als de regels worden aangepast, kunnen overheden meer geld steken in jonge technologiebedrijven zonder dat dit als ongeoorloofde staatssteun wordt gezien. Dat is vooral relevant voor deeptech-startups, die vaak jaren nodig hebben om een product marktklaar te maken en in die periode afhankelijk zijn van externe financiering. Voor MKB-ondernemers die investeren in of samenwerken met startups, betekent dit mogelijk een grotere pool van kapitaal en minder risico dat een veelbelovend project strandt door gebrek aan financiering. Tegelijkertijd kan het voor Amerikaanse investeerders, die zich zorgen maken over de blokkade van de Solvinity-deal, een signaal zijn dat Europa zijn eigen technologiebedrijven wil beschermen en ondersteunen.
+Voor MKB’ers die leveren aan startups – denk aan softwareontwikkelaars, logistieke dienstverleners, juridische adviseurs of productiebedrijven – kan versoepelde staatssteun twee dingen betekenen. Ten meer: startups krijgen meer financiële ruimte om te investeren in inkoop en samenwerking. Ten tweede: de kans op continuïteit neemt toe, omdat startups langer overeind blijven in de ontwikkelfase. Vooral in deeptech (bijvoorbeeld AI, quantumcomputing of nieuwe materialen) en cleantech (milieuoplossingen) kunnen MKB’ers profiteren van langere en grotere contracten. Het risico op faillissementen, zoals recent bij thuisbatterijleverancier Accuselect, blijft echter bestaan. De versoepeling is nog een voorstel en moet door de EU worden goedgekeurd.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een AI-startup overweegt te starten of al in een vroeg stadium zit**, kun je je oriënteren op de mogelijkheden van staatssteun zodra de regels zijn versoepeld. Het is verstandig om contact op te nemen met je regionale ontwikkelingsmaatschappij of het ministerie van Economische Zaken om te vragen of er al voorbereidingen worden getroffen voor nieuwe steunprogramma's. Je zou kunnen overwegen om je businessplan alvast aan te passen aan de criteria die waarschijnlijk gaan gelden, zoals een focus op deeptech of milieu-oplossingen.
+**Als je als MKB’er producten of diensten levert aan techstartups**, overweeg om je propositie te richten op deeptech- of cleantechbedrijven. Deze segmenten krijgen mogelijk extra staatssteun, waardoor ze meer budget hebben voor inkoop. Je zou kunnen inventariseren welke startups in jouw regio actief zijn in deze sectoren en hen actief benaderen met een aanbod dat past bij hun groeifase.
 
-**Als je als MKB-ondernemer overweegt te investeren in een startup**, kun je de ontwikkelingen rond staatssteun gebruiken als een extra argument om te investeren. Wanneer overheden meer geld in startups pompen, kan dat de waardering van die bedrijven verhogen en het risico voor private investeerders verlagen. Een mogelijkheid is om te kijken of je kunt co-investeren met een overheidsfonds, zodat je kapitaal verder reikt.
+**Als je een MKB-bedrijf runt dat afhankelijk is van één of enkele startup-klanten**, is het verstandig om de financiële gezondheid van die klanten goed te monitoren. De versoepeling van staatssteun kan een positief signaal zijn, maar biedt geen garantie. Een optie is om met je startup-klant in gesprek te gaan over hun financieringsplanning en of zij gebruik kunnen maken van de nieuwe regels zodra die ingaan.
 
-**Als je een bestaand bedrijf runt dat samenwerkt met startups**, kun je anticiperen op een grotere stroom van innovatieve producten en diensten. Wanneer startups meer financiële ruimte krijgen, kunnen ze sneller doorontwikkelen. Je zou kunnen overwegen om strategische partnerschappen aan te gaan met startups die in aanmerking komen voor staatssteun, zodat je als eerste toegang hebt tot nieuwe technologieën.
+**Als je overweegt om zelf een startup te starten of een spin-off te creëren**, kun je nu alvast verkennen of jouw idee onder de voorgestelde uitzonderingen valt. Deeptech en milieuoplossingen krijgen prioriteit. Een mogelijkheid is om contact op te nemen met je regionale ontwikkelingsmaatschappij of de Rijksdienst voor Ondernemend Nederland (RVO) voor informatie over toekomstige steunmogelijkheden.
 
-**Als je actief bent in de deeptech- of milieusector**, kun je je positie versterken door je bedrijf te profileren als een kandidaat voor toekomstige steunprogramma's. Het is een goed idee om je netwerk in Brussel en Den Haag te versterken en je op de hoogte te stellen van de formele voorstellen die de komende maanden worden ingediend. Je zou kunnen overwegen om samen met andere ondernemers een gezamenlijke lobby te starten om de specifieke behoeften van jouw sector onder de aandacht te brengen.
+**Als je in de maakindustrie of logistiek werkt en levert aan scaleups**, kun je anticiperen op een mogelijke toename van orders. Scaleups die langer van staatssteun gebruik kunnen maken, hebben meer kans om door te groeien. Overweeg om flexibele productiecapaciteit of langere betalingstermijnen aan te bieden in ruil voor meerjarige contracten.
 
-Bron: [Sprout](https://mtsprout.nl/nieuws/staatssteun-eu-startups)
+Bron: Sprout (https://mtsprout.nl/nieuws/staatssteun-eu-startups)
