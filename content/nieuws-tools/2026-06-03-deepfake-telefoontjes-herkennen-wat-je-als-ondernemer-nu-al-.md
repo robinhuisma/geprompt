@@ -1,34 +1,34 @@
 ---
 title: "Deepfake-telefoontjes herkennen: wat je als ondernemer nu al kunt doen"
-date: 2026-06-03T05:59:34.529Z
-tags: ["deepfake", "telefoonfraude", "cybersecurity", "ondernemer"]
+date: 2026-06-03T14:00:59.051Z
+tags: ["deepfake", "telefoonfraude", "google", "veiligheid"]
 categorieen: ["nieuws-tools"]
-summary: "Google rolt fake call detection uit, maar jij kunt nu al maatregelen nemen tegen AI-nabootsingen."
+summary: "Google rolt detectie uit tegen AI-nabootsing in telefoongesprekken. Zo herken je deepfakes."
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
 ---
 
-Het antwoord: Google rolt een functie uit die deepfake-telefoontjes detecteert, maar als ondernemer kun je nú al stappen zetten om jezelf en je bedrijf te beschermen tegen AI-nabootsingen. De technologie achter deze oplichting wordt steeds geavanceerder, en wachten op een update van je provider is geen optie.
+Telefoonfraudeurs gebruiken AI om de stem van een collega, familielid of zakenrelatie na te bootsen. Google rolt een functie uit die deze deepfake-oproepen tijdens het gesprek detecteert. Tot die functie in Nederland beschikbaar is, kun je zelf maatregelen nemen om oplichting te voorkomen.
 
 ## Wat er aan de hand is
 
-Google heeft een nieuwe functie aangekondigd, genaamd 'fake call detection', die gebruikers moet beschermen tegen oplichters die AI deepfake-technologie gebruiken om te klinken als bekende stemmen. Volgens TechCrunch maken scammers steeds vaker gebruik van spoofing van vertrouwde telefoonnummers en AI-gestuurde stemnabootsingen om zich voor te doen als autoriteitsfiguren, familieleden of werkgevers. De functie is ontworpen om deze frauduleuze oproepen in real-time te herkennen en gebruikers te waarschuwen. Dit nieuws komt op een moment dat steeds meer mensen weigeren oproepen van onbekende nummers te beantwoorden, waardoor oplichters hun tactieken aanpassen.
+Google heeft een 'fake call detection'-functie aangekondigd die tijdens een telefoongesprek kan herkennen of de stem aan de andere kant van de lijn door AI is gegenereerd. De functie is ontworpen om oplichters te stoppen die vertrouwde telefoonnummers spoofen en met deepfake-technologie klinken als een autoriteit, familielid of werkgever. Volgens TechCrunch speelt Google hiermee in op de trend dat mensen steeds vaker oproepen van onbekende nummers niet beantwoorden, waardoor oplichters hun tactiek aanpassen. De functie is nog niet wereldwijd uitgerold en het is onduidelijk wanneer deze in Nederland beschikbaar komt.
 
 ## Wat dit betekent
 
-Voor ondernemers is deze ontwikkeling direct relevant. Deepfake-telefoontjes zijn niet langer een theoretisch risico, maar een concrete bedreiging. Stel je voor dat je een telefoontje krijgt van iemand die klinkt als je CFO, die dringend vraagt om een betaling over te maken naar een nieuwe rekening. Of een oproep van een 'medewerker' van je IT-leverancier die om inloggegevens vraagt. De impact kan groot zijn: financiële verliezen, datalekken en reputatieschade. Google's functie is een stap vooruit, maar is nog niet overal beschikbaar en biedt geen volledige dekking. Het is daarom zaak dat je als ondernemer zelf maatregelen neemt, ongeacht of deze functie in jouw regio actief is.
+Voor ondernemers betekent deze ontwikkeling dat de dreiging van deepfake-telefoontjes serieus genoeg is voor een techgigant als Google om er een specifieke detectiefunctie voor te bouwen. Het risico is het grootst in situaties waarin snel beslissingen worden genomen op basis van een telefoongesprek: spoedbetalingen, het vrijgeven van vertrouwelijke informatie, of het doorgeven van inloggegevens. Oplichters kunnen met een deepfake-stem van een directeur of financieel medewerker een medewerker overhalen om een betaling te doen naar een frauduleuze rekening. De impact kan direct financieel zijn, maar ook reputatieschade veroorzaken als vertrouwelijke informatie uitlekt.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een team aanstuurt dat regelmatig betalingen verwerkt**, is het verstandig om een vast protocol in te voeren voor het verifiëren van financiële verzoeken. Je zou kunnen afspreken dat elk verzoek om een betaling boven een bepaald bedrag altijd via een tweede kanaal moet worden bevestigd, bijvoorbeeld via een e-mail naar een vast adres of een terugbelverzoek naar een bekend nummer. Overweeg om dit protocol te oefenen met je team, zodat het een automatisme wordt.
+**Als je een team aanstuurt dat regelmatig telefonisch instructies krijgt van leidinggevenden.** Overweeg om een vast protocol in te voeren voor gevoelige verzoeken die via de telefoon binnenkomen. Spreek af dat elk verzoek om een betaling, wachtwoordwijziging of het delen van vertrouwelijke gegevens altijd wordt bevestigd via een tweede kanaal, bijvoorbeeld een app-bericht of e-mail. Je kunt een medewerker trainen om bij twijfel te vragen naar een vooraf afgesproken codewoord of een detail dat alleen de echte beller kan weten.
 
-**Als je klantcontact hebt via de telefoon**, kun je een systeem van geheime vragen of codes overwegen voor gevoelige transacties. Een optie is om met vaste klanten een uniek woord of cijfer af te spreken dat alleen jullie beiden weten. Als een beller dat niet kan geven, weet je dat er iets niet klopt. Dit werkt ook intern voor medewerkers die met vertrouwelijke informatie werken.
+**Als je in een sector werkt waar veel telefonisch contact is met externe partijen, zoals in de logistiek of inkoop.** Een mogelijkheid is om een lijst te maken van vaste contactpersonen en hun kenmerkende spraakpatronen of zinswendingen. Als een beller afwijkt van dat patroon, kan dat een waarschuwing zijn. Je zou ook kunnen overwegen om bij elk eerste contact van de dag een bevestigingsmail te sturen, zodat je een schriftelijk spoor hebt.
 
-**Als je afhankelijk bent van externe leveranciers of partners**, is het een goed idee om een lijst te maken van vaste contactpersonen en hun officiële telefoonnummers. Wanneer je een onverwacht verzoek krijgt, kun je het gesprek onderbreken en zelf terugbellen naar het nummer dat je in je eigen administratie hebt staan. Dit voorkomt dat je wordt misleid door een gespoofd nummer.
+**Als je als zelfstandige of kleine ondernemer werkt zonder uitgebreide beveiligingsprotocollen.** Het is verstandig om bij elk onverwacht telefoontje dat om actie vraagt, even een paar seconden stilte te laten vallen. Deepfake-stemmen hebben soms moeite met natuurlijke pauzes of reageren vreemd op onverwachte stiltes. Vraag ook naar iets dat niet in openbare bronnen staat, zoals een recente gebeurtenis in jullie samenwerking. Als de beller aarzelt of een vaag antwoord geeft, verbreek dan het gesprek en bel terug via het officiële nummer dat je zelf hebt.
 
-**Als je IT-beveiliging serieus neemt**, kun je overwegen om je medewerkers te trainen in het herkennen van deepfake-technologie. Een mogelijkheid is om een korte workshop te organiseren waarin je voorbeelden laat horen van AI-gestuurde stemmen en bespreekt hoe je kritisch kunt blijven bij onverwachte verzoeken. Dit vergroot het bewustzijn in je hele organisatie.
+**Als je klantcontact hebt waarbij je medewerkers gevoelige informatie delen.** Overweeg om een tweestapsverificatie in te bouwen voor telefonische transacties. Dat kan zo simpel zijn als het terugbellen van de klant op een bekend nummer voordat een bestelling wordt verwerkt. Je kunt ook een systeem opzetten waarbij medewerkers bij twijfel een collega laten meeluisteren. Twee paar oren horen eerder of iets niet klopt.
 
-**Als je zelf veel telefoontjes ontvangt van onbekende nummers**, kun je een standaardvraag introduceren die je stelt voordat je gevoelige informatie deelt. Vraag bijvoorbeeld naar een specifiek detail dat alleen de echte beller kan weten, zoals een factuurnummer of de datum van een vorig gesprek. Dit kost weinig tijd maar kan veel ellende voorkomen.
+De praktische toepassing hangt af van jouw situatie, maar de kern is: vertrouw niet blind op wat je hoort, ook niet als het nummer op je scherm klopt.
 
 Bron: TechCrunch (https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)

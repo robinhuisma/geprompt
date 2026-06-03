@@ -1,34 +1,32 @@
 ---
-title: "Google moet AI-uitschakeling toestaan: wat dit betekent voor jouw websiteverkeer"
-date: 2026-06-03T09:59:53.513Z
-tags: ["google", "ai-overviews", "zoekmachine", "uitgevers"]
+title: "Google moet AI-uitschakeling toestaan: wat dit betekent voor jouw website"
+date: 2026-06-03T14:00:27.243Z
+tags: ["google", "ai overviews", "opt-out", "publiceren"]
 categorieen: ["nieuws-tools"]
-summary: "Britse toezichthouder dwingt Google tot opt-out voor AI Overviews. Dit geeft uitgevers meer controle."
+summary: "Britse toezichthouder dwingt Google tot opt-out voor AI Overviews. Wat dit voor Nederlandse ondernemers betekent."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
 ---
 
-Google moet website-eigenaren de mogelijkheid geven om hun content te weren uit AI-gestuurde zoekfuncties zoals AI Overviews. Dit is het gevolg van een bindende uitspraak van de Britse mededingingsautoriteit CMA, die Google verplicht om uitgevers een opt-out te bieden. Voor Nederlandse ondernemers met een website kan dit betekenen dat zij straks meer controle krijgen over hoe hun content wordt gebruikt in de zoekmachine.
+De Britse mededingingsautoriteit CMA heeft Google gedwongen om website-eigenaren de mogelijkheid te geven hun content uit AI Search-functies te weren. Dit betekent dat je als ondernemer straks kunt voorkomen dat Google jouw teksten gebruikt voor AI Overviews of voor het trainen van AI-modellen.
 
 ## Wat er aan de hand is
 
-De Britse Competition and Markets Authority (CMA) heeft een nieuwe gedragsregel opgelegd aan Google. De regeling verplicht Google om online uitgevers de mogelijkheid te geven hun content uit te sluiten van AI-functies in de zoekmachine, waaronder AI Overviews. Ook mogen websites niet langer worden gebruikt voor het ‘fine-tunen’ van Google’s AI-modellen zonder expliciete toestemming. Volgens de CMA is dit een wereldprimeur: ‘Uitgevers zullen nu effectieve tools hebben om te voorkomen dat hun content wordt gebruikt om AI-functies in zoekopdrachten aan te sturen, zoals AI Overviews.’ Dit plaatst uitgevers, zoals nieuwsorganisaties, in een sterkere onderhandelingspositie.
+De Competition and Markets Authority (CMA) heeft een nieuwe gedragsregel opgelegd aan Google. Die regel verplicht het bedrijf om uitgevers en website-eigenaren controle te geven over of hun content verschijnt in AI-functies van Google Search, zoals AI Overviews. Ook mogen websites hun content weren tegen gebruik voor het 'fine-tunen' van Google's AI-modellen. Volgens de CMA is dit een wereldprimeur: 'Uitgevers zullen nu effectieve tools hebben om te voorkomen dat hun content wordt gebruikt voor AI-functies in zoekopdrachten.' Dit plaatst uitgevers, zoals nieuwsorganisaties, in een sterkere onderhandelingspositie. De uitspraak is een direct gevolg van onderzoek naar Google's marktmacht in de zoek- en advertentiemarkt.
 
 ## Wat dit betekent
 
-De uitspraak heeft directe gevolgen voor de relatie tussen Google en website-eigenaren. AI Overviews zijn samenvattingen die bovenaan de zoekresultaten verschijnen, gegenereerd door kunstmatige intelligentie. Voor veel websites betekende dit dat bezoekers het antwoord al in de samenvatting vonden en niet meer doorklikten naar de bron. Dat leidde tot minder verkeer voor uitgevers. De nieuwe regel geeft hen de keuze: meedoen met AI Overviews en mogelijk minder bezoekers, of uitschakelen en hopen dat bezoekers alsnog via de traditionele zoekresultaten komen. Voor Nederlandse MKB’ers is dit relevant omdat veel van hen afhankelijk zijn van organisch zoekverkeer voor leads of verkopen. De uitspraak geldt voorlopig alleen in het Verenigd Koninkrijk, maar kan precedentwerking hebben voor andere markten, waaronder de Europese Unie.
+Voor Nederlandse ondernemers die een website beheren, is dit relevant omdat Google's AI Overviews steeds vaker antwoorden geven zonder dat bezoekers doorklikken naar de bron. Dat kost websites verkeer en daarmee inkomsten uit advertenties of leads. De CMA-regel geldt formeel alleen voor de Britse markt, maar Google past dergelijke functionaliteiten vaak wereldwijd aan. De kans is groot dat dezelfde opt-outmogelijkheden ook buiten het VK beschikbaar komen. Vooral voor bedrijven die afhankelijk zijn van organisch zoekverkeer, zoals webshops, blogs, nieuwssites en zakelijke dienstverleners, kan dit een belangrijk instrument worden om hun zichtbaarheid en onderhandelingspositie te beschermen.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt en afhankelijk bent van Google-verkeer.** Je zou kunnen overwegen om je content uit AI Overviews te weren zodra de optie beschikbaar komt. Dit kan helpen om bezoekers weer naar je productpagina’s te leiden in plaats van dat ze het antwoord in een samenvatting lezen. Een mogelijkheid is om je website zo in te richten dat je per pagina kunt kiezen of deze wel of niet in AI Overviews mag verschijnen. Overweeg om een technisch specialist te vragen hoe je de juiste meta-tags of robots.txt-instellingen kunt toepassen zodra Google de tool uitrolt.
+**Als je een website beheert met unieke content**, zoals een blog of een kennisbank, overweeg om de instellingen van Google Search Console in de gaten te houden zodra de opt-out beschikbaar komt. Je zou dan kunnen aangeven dat Google jouw pagina's niet mag gebruiken voor AI Overviews. Dit kan helpen om bezoekers direct naar jouw site te leiden in plaats van dat ze het antwoord in een AI-blokje boven de zoekresultaten zien.
 
-**Als je een blog of nieuwssite beheert en inkomsten genereert uit advertenties.** Het uitschakelen van AI Overviews kan je advertentie-inkomsten beschermen, omdat bezoekers dan weer op je site komen in plaats van dat ze het antwoord in Google zien. Je zou kunnen experimenteren door een aantal van je best presterende artikelen uit te sluiten van AI Overviews en het effect op je verkeer te meten. Een optie is om dit stapsgewijs te doen, bijvoorbeeld eerst alleen je unieke of diepgravende content.
+**Als je een webshop runt**, is het verstandig om te onderzoeken of Google AI Overviews jouw productbeschrijvingen of reviews gebruikt om antwoorden te genereren. Een opt-out kan voorkomen dat potentiële klanten alle informatie al in de zoekresultaten zien zonder door te klikken. Overweeg om een melding aan te maken in je team wanneer de functionaliteit live gaat, zodat je snel kunt schakelen.
 
-**Als je een dienstverlener bent en vertrouwt op lokale vindbaarheid.** Voor lokale bedrijven zoals advocaten, tandartsen of consultants kunnen AI Overviews antwoorden geven op veelgestelde vragen, waardoor potentiële klanten niet doorklikken. Overweeg om, zodra de optie beschikbaar is, je contactpagina’s en dienstenpagina’s uit te sluiten van AI Overviews. Een mogelijkheid is om dit te combineren met het verbeteren van je Google Bedrijfsprofiel, zodat je zichtbaar blijft in de lokale zoekresultaten.
+**Als je in de contentmarketing werkt**, kun je deze ontwikkeling gebruiken in gesprekken met opdrachtgevers. Het feit dat uitgevers meer controle krijgen, betekent dat je strategie rondom zichtbaarheid in Google mogelijk moet worden bijgesteld. Een opt-out kan onderdeel worden van een bredere afweging: wil je dat AI jouw content samenvat, of wil je dat gebruikers naar jouw site komen voor het volledige verhaal?
 
-**Als je content schrijft die veel wordt samengevat door AI.** Denk aan handleidingen, recepten of uitlegartikelen. Deze worden vaak letterlijk overgenomen in AI Overviews. Je zou kunnen overwegen om een deel van je content uit te schakelen en te kijken of het aantal doorklikken stijgt. Een optie is om een A/B-test uit te voeren: schakel AI Overviews uit voor een selectie pagina’s en vergelijk het verkeer met pagina’s waar de functie actief blijft.
+**Als je een nieuws- of vakpublicatie hebt**, is dit een directe kans om je onderhandelingspositie te versterken. De CMA stelt expliciet dat deze maatregel uitgevers in een sterkere positie brengt om te onderhandelen over vergoedingen voor het gebruik van hun content. Overweeg om juridisch advies in te winnen over hoe je deze opt-out kunt inzetten in gesprekken met Google of andere partijen die AI-modellen trainen.
 
-**Als je werkt met een contentmanagementsysteem zoals WordPress.** Zodra Google de tool beschikbaar stelt, kun je mogelijk een plugin gebruiken om de instellingen per pagina te regelen. Overweeg om nu alvast te inventariseren welke pagina’s het meest kwetsbaar zijn voor verkeersverlies door AI Overviews. Een mogelijkheid is om een lijst te maken van pagina’s met hoge posities in Google en veel verkeer, zodat je snel kunt schakelen wanneer de optie er is.
-
-Bron: [The Verge](https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out)
+Bron: The Verge (https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out)

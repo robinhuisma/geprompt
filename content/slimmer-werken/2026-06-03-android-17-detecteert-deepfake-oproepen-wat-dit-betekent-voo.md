@@ -1,32 +1,34 @@
 ---
-title: "Android 17 detecteert deepfake-oproepen: wat dit betekent voor jouw bedrijf"
-date: 2026-06-03T10:06:20.198Z
-tags: ["android", "deepfake", "fraude", "beveiliging"]
+title: "Android 17 detecteert deepfake-oproepen: wat dit betekent voor je bedrijfsveiligheid"
+date: 2026-06-03T14:07:23.878Z
+tags: ["android", "deepfake", "beveiliging", "telefoon"]
 categorieen: ["slimmer-werken"]
-summary: "Android 17 krijgt een functie die spoofed calls herkent en waarschuwt, een direct antwoord op de groeiende golf van AI-stemfraude."
+summary: "Android 17 krijgt een functie die deepfake-oproepen herkent en blokkeert, specifiek gericht op spoofing van contactpersonen."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/"
 ---
 
-Android 17, dat naar verwachting later deze maand uitrolt, krijgt een ingebouwde functie die deepfake-oproepen en spoofed calls detecteert. Dit systeem waarschuwt je wanneer een binnenkomend gesprek mogelijk een imitatie is van iemand uit je contactenlijst, een van de meest gebruikte trucs bij financiële fraude.
+Het antwoord
 
-## Wat er aan de hand is
+Android 17 krijgt een ingebouwde functie die deepfake-oproepen en spoofing-aanvallen detecteert, specifiek gericht op oplichting waarbij criminelen de stem van een bekende nabootsen. Dit betekent dat je telefoon straks zelf kan herkennen of een oproep van een contactpersoon echt is of een nagemaakte versie.
 
-Google breidt de beveiliging uit die het vorige maand introduceerde voor geverifieerde financiële gesprekken. De nieuwe functie werkt nu ook voor iedereen in je contactenlijst. Volgens Google is 'identiteitsfraude via telefoon' een van de meest voorkomende vormen van financiële oplichting. De Amerikaanse toezichthouder FTC registreerde in 2024 bijna 3 miljard dollar aan verliezen door dit type fraude. De verbetering van AI-stemklonen maakt het steeds moeilijker om een nepgesprek te herkennen, zelfs als de stem klinkt als iemand die je dagelijks spreekt. De truc werkt vaak zo: criminelen vervalsen het nummer van een contactpersoon, zodat het gesprek legitiem lijkt, en gebruiken dan een nagemaakte stem om een dringend verzoek om geld te doen.
+Wat er aan de hand is
 
-## Wat dit betekent
+Google heeft aangekondigd dat Android 17 een uitbreiding krijgt van het systeem dat vorige maand werd geïntroduceerd voor geverifieerde financiële oproepen. De nieuwe functie werkt met iedereen in je contactenlijst. Volgens Google is 'identiteitsfraude' een van de meest voorkomende vormen van financiële oplichting. De Amerikaanse toezichthouder FTC registreerde in 2024 bijna 3 miljard dollar aan verliezen door dit type fraude. De verbeteringen in AI-stemklonen maken het steeds makkelijker om een overtuigende nepstem te maken, zelfs van iemand die je dagelijks spreekt. Veel van deze oplichtingstrucs beginnen met het spoofen van een telefoonnummer uit je contacten, waardoor de oproep legitiem lijkt. Het slachtoffer krijgt dan een nagemaakte stem die een dringend verhaal vertelt en om geld vraagt.
 
-Voor MKB-ondernemers is dit een directe bedreiging. Stel dat iemand belt met de stem van je boekhouder, je belangrijkste leverancier of een vaste klant, en zegt dat er een spoedbetaling nodig is. De kans dat je trapt is groot, omdat zowel het nummer als de stem kloppen. De nieuwe Android-functie kan dit onderscheppen door tijdens het gesprek te analyseren of de stem overeenkomt met bekende kenmerken van de echte persoon. Als het systeem twijfelt, krijg je een waarschuwing. Dit is geen garantie, maar het verhoogt de drempel voor fraudeurs aanzienlijk. De functie is onderdeel van Android 17, dus je hebt een recente telefoon nodig om er gebruik van te kunnen maken.
+Wat dit betekent
 
-## Hoe je dit kunt toepassen
+Voor ondernemers en professionals is dit een directe versterking van de beveiliging tegen een groeiend type cyberaanval. Deepfake-oproepen worden steeds geloofwaardiger, en traditionele waarschuwingen zoals 'vertrouw niet blindelings op een bekende stem' zijn niet meer afdoende. De functie werkt op Android-telefoons die de update naar versie 17 krijgen. Het is geen aparte app, maar een ingebouwde systeemfunctie. De effectiviteit hangt af van hoe goed Google de stemmodellen kan onderscheiden van echte stemmen. Het systeem is een uitbreiding van de bestaande verificatie voor financiële oproepen, wat suggereert dat de technologie al getest is in een specifieke context. Voor bedrijven die veel telefonisch contact hebben met klanten, leveranciers of medewerkers, kan dit een belangrijke extra laag zijn in het voorkomen van fraude.
 
-**Als je een team aanstuurt dat veel telefonisch contact heeft met klanten of leveranciers.** Overweeg om de update naar Android 17 prioriteit te geven zodra deze beschikbaar is. Je kunt een korte interne richtlijn opstellen: waarschuw medewerkers dat ze bij twijfel over een gesprek altijd een tweede verificatiestap moeten doen, bijvoorbeeld via een bekend e-mailadres of een terugbelverzoek naar het officiële nummer. De Android-waarschuwing is een extra hulpmiddel, niet de enige verdediging.
+Hoe je dit kunt toepassen
 
-**Als je zelf nog geen Android 17 hebt of een toestel gebruikt dat de update niet krijgt.** Een praktische tussenoplossing is het instellen van een bedrijfsbeleid waarbij financiële verzoeken nooit telefonisch worden afgehandeld. Spreek af dat betalingsopdrachten altijd schriftelijk moeten worden bevestigd, bijvoorbeeld via een gedeeld document of een beveiligde chat. Dit sluit aan bij de waarschuwing van Google dat juist de combinatie van een bekend nummer en een nagemaakte stem zo effectief is.
+**Als je een MKB-bedrijf runt met meerdere medewerkers die telefoontjes afhandelen**, overweeg om de functie standaard in te schakelen op alle Android-toestellen zodra de update beschikbaar is. Je zou een korte instructie kunnen opstellen voor je team over hoe de melding werkt: als de telefoon waarschuwt voor een mogelijke spoofed oproep, hang dan op en bel de persoon terug via een bekend nummer. Dit voorkomt dat iemand in een opwelling reageert op een dringend verzoek.
 
-**Als je werkt met gevoelige klantgegevens of regelmatig grote bedragen overmaakt.** Overweeg om een extra verificatiestap in te bouwen voor telefonische verzoeken. Dit kan een eenmalige code zijn die je via een andere weg verstuurt, of een vaste procedure waarbij je altijd terugbelt naar een bekend nummer. De nieuwe Android-functie kan hierbij helpen, maar je kunt ook nu al stappen zetten zonder dat je op de update hoeft te wachten.
+**Als je een team aanstuurt dat werkt met gevoelige klantgegevens**, zoals in de financiële dienstverlening of de zorg, dan is het verstandig om de functie te combineren met een vast protocol voor telefonische verificatie. De Android-functie is een hulpmiddel, maar geen garantie. Je zou kunnen afspreken dat bij elk verzoek om geld of gegevens via de telefoon, de medewerker altijd een tweede verificatiestap uitvoert, zoals een terugbelverzoek of een bevestiging via een ander kanaal.
 
-**Als je een webshop runt of facturen verstuurt.** Wees alert op telefoontjes van mensen die zich voordoen als een bekende leverancier en vragen om een spoedbetaling op een nieuw rekeningnummer. De Android-detectie kan dit signaleren, maar je kunt ook preventief werken door vaste betaalgegevens te delen via een beveiligd portaal in plaats van telefonisch.
+**Als je zelf veel telefoontjes ontvangt van onbekende nummers**, bijvoorbeeld als zzp'er of freelancer, dan kun je de functie gebruiken om te voorkomen dat je wordt misleid door een spoofed nummer dat lijkt op dat van een opdrachtgever. De functie werkt met contactpersonen, dus zorg dat je belangrijke nummers in je adresboek hebt staan. Zodra de functie een verdachte oproep detecteert, kun je de melding serieus nemen en niet reageren op het verzoek.
+
+**Als je een webshop runt en telefonische klantenservice hebt**, dan is een mogelijkheid om de functie te gebruiken als extra beveiliging voor het afhandelen van betalingsverzoeken. Stel dat een medewerker een telefoontje krijgt van iemand die zich voordoet als een vaste klant met een spoedbestelling. De Android-functie kan helpen om te detecteren of het nummer daadwerkelijk van die klant is. Overweeg om de functie te combineren met een check op het bestelnummer of een eerdere e-mailcorrespondentie.
 
 Bron: Arstechnica(https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/)
