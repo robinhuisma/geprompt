@@ -1,32 +1,32 @@
 ---
 title: "GitHub Copilot verandert prijzen: zo voorkom je onverwachte AI-kosten"
-date: 2026-06-03T01:59:39.078Z
-tags: ["github copilot", "ai-kosten", "mkb", "optimalisatie"]
+date: 2026-06-03T10:00:49.240Z
+tags: ["github copilot", "ai-kosten", "optimalisatie"]
 categorieen: ["nieuws-tools"]
-summary: "GitHub Copilot rekent nu per gebruik. Dit artikel helpt je credits te beheren en kosten te beheersen."
+summary: "GitHub Copilot rekent nu per gebruik. Dit artikel helpt je credits te beheren en kosten te verlagen."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
 ---
 
-GitHub Copilot is overgestapt van een vast aantal verzoeken per maand naar een systeem waarbij je betaalt voor het daadwerkelijke gebruik. Gebruikers melden dat hun maandelijkse tegoed in minder dan een dag op is, terwijl ze onder het oude systeem dezelfde hoeveelheid werk zonder problemen deden. Voor ondernemers die afhankelijk zijn van AI-assistentie betekent dit dat de kosten ineens flink kunnen oplopen.
+GitHub Copilot is overgestapt van een vast aantal verzoeken per maand naar een verbruiksmodel met credits. Dit betekent dat je betaalt voor wat je daadwerkelijk gebruikt, en dat kan flink oplopen. Sommige gebruikers merken dat ze binnen een dag hun maandelijkse limiet verbruiken, wat leidt tot onverwachte kosten. Voor ondernemers en professionals die Copilot gebruiken voor code-ondersteuning, is het nu essentieel om inzicht te krijgen in je verbruik en manieren te vinden om credits te besparen.
 
 ## Wat er aan de hand is
 
-Sinds april kondigde GitHub aan dat het zijn Copilot-abonnementen omzet naar een op credits gebaseerd model. Die wijziging gaat nu in. Waar gebruikers voorheen een vast aantal ‘requests’ en ‘premium requests’ kregen op basis van hun betalingsniveau, wordt nu elke interactie afgerekend. Volgens GitHub was het oude systeem oneerlijk omdat een kort vraagje en een urenlange coderingssessie hetzelfde kostten. Het bedrijf stelt dat het de stijgende rekenkosten van AI anders niet kon dragen. Gebruikers delen op sociale media en forums schattingen van GitHub’s eigen tool, waaruit blijkt dat hun oude maandelijkse gebruik onder het nieuwe plan duizenden dollars zou kosten. Sommigen melden dat ze hun maandelijkse quotum in minder dan een dag hebben verbruikt.
+Sinds april 2026 voert GitHub een nieuw prijssysteem in voor Copilot, waarbij abonnees niet langer betalen voor een vast aantal 'verzoeken', maar voor het daadwerkelijke gebruik in credits. Volgens Ars Technica melden veel gebruikers op sociale media en forums dat hun normale gebruik onder het oude systeem nu veel duurder uitvalt. Waar een snelle chatvraag en een meerdaagse coderingssessie voorheen hetzelfde kostten, worden zware taken nu zwaarder belast. GitHub geeft aan dat het oude model niet duurzaam was, omdat het bedrijf de stijgende rekenkosten zelf moest opvangen. Sommige gebruikers delen schattingen van GitHub's eigen tool waaruit blijkt dat hun eerdere maandelijkse gebruik onder het nieuwe tarief duizenden dollars zou kosten.
 
 ## Wat dit betekent
 
-Voor ondernemers die Copilot gebruiken voor dagelijkse taken, zoals het schrijven van code, het genereren van documentatie of het automatiseren van repetitief werk, kan de overstap naar gebruikskosten een directe impact hebben op de maandelijkse uitgaven. Waar je voorheen een vast bedrag betaalde en onbeperkt kon vragen, moet je nu nadenken over elke prompt. Dit raakt met name bedrijven die Copilot intensief inzetten, bijvoorbeeld voor het onderhouden van meerdere projecten of voor teams die de tool de hele dag gebruiken. De onvoorspelbaarheid van de kosten maakt budgetteren lastiger. Het is niet langer een vast abonnementsbedrag, maar een variabele post die kan oplopen.
+Voor MKB-ondernemers en professionals die Copilot gebruiken, betekent dit dat je niet meer blindelings kunt aannemen dat je maandelijkse abonnementskosten gelijk blijven. Het nieuwe creditsysteem maakt de kosten variabel en afhankelijk van hoe intensief je de AI inzet. Een paar uur intensief gebruik kan nu al een groot deel van je maandelijkse toewijzing opsouperen. Dit raakt met name ontwikkelteams die Copilot gebruiken voor complexe taken, zoals het genereren van hele functies of het herstructureren van code. Ook voor freelancers die meerdere projecten draaien, kan de rekening snel oplopen. Het is niet langer een kwestie van 'onbeperkt gebruik binnen je abonnement', maar van bewust omgaan met een schaars goed: credits.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een klein team aanstuurt dat dagelijks met Copilot werkt**, overweeg dan om het gebruik te monitoren met de ingebouwde statistieken van GitHub. Je kunt per ontwikkelaar zien hoeveel credits er worden verbruikt. Een mogelijkheid is om wekelijkse limieten in te stellen, zodat niemand ongemerkt het maandbudget opmaakt. Bespreek met je team welke taken echt AI-ondersteuning nodig hebben en welke je handmatig kunt doen.
+**Als je een klein developmentteam aanstuurt**, overweeg dan om een dashboard of monitoringssysteem in te richten dat het creditverbruik per ontwikkelaar bijhoudt. Je kunt wekelijkse of dagelijkse limieten instellen binnen de Copilot-instellingen, zodat niemand ongemerkt een maandbudget verbruikt. Een mogelijkheid is om een korte wekelijkse check-in te doen waarin het team bespreekt welke taken veel credits kosten en of er alternatieven zijn, zoals het gebruik van een lokaal model voor eenvoudige vragen.
 
-**Als je zelfstandig ondernemer bent en Copilot gebruikt voor meerdere projecten**, kun je het beste je werkpatroon analyseren. Gebruik GitHub’s eigen schattingstool om te zien wat je oude gebruik zou kosten onder het nieuwe plan. Op basis daarvan kun je beslissen of je een hoger abonnement neemt of juist bewuster omgaat met je credits. Een optie is om zware taken, zoals het herschrijven van hele codeblokken, te plannen op momenten dat je nog voldoende tegoed hebt.
+**Als je zelfstandig ontwikkelaar bent**, kun je je workflow aanpassen om credits te sparen. Gebruik Copilot bijvoorbeeld alleen voor complexe codeblokken of lastige algoritmes, en schrijf eenvoudige herhalingen zelf. Een optie is om de chatfunctie te beperken tot situaties waarin je echt vastloopt, in plaats van voor elke kleine vraag. Je zou ook kunnen experimenteren met het uitschakelen van automatische suggesties voor bepaalde bestandstypen die je minder vaak gebruikt.
 
-**Als je een webshop of SaaS-product beheert waarbij Copilot helpt met updates en bugfixes**, overweeg dan om prioriteit te geven aan taken die echt AI nodig hebben. Simpele vragen of kleine aanpassingen kun je misschien zonder Copilot doen. Je zou ook kunnen experimenteren met het uitschakelen van Copilot voor niet-essentiële onderdelen van je project, zoals het genereren van testdata of het schrijven van documentatie. Houd bij hoeveel credits je bespaart en pas je werkwijze daarop aan.
+**Als je een bedrijf runt dat Copilot inzet voor meerdere projecten**, is het verstandig om de kosten per project te analyseren. GitHub biedt mogelijk inzichten in welk project of welke repository de meeste credits verbruikt. Op basis daarvan kun je besluiten om voor projecten met een hoog verbruik een apart, duurder abonnement te nemen, of juist te kiezen voor een lager tarief voor projecten die minder intensief gebruik maken. Een andere suggestie is om een 'credits-budget' per sprint of per maand vast te stellen, zodat het team weet wat de speelruimte is.
 
-**Als je overweegt om over te stappen naar een andere AI-assistent**, vergelijk dan niet alleen de prijs per maand, maar ook het verbruiksmodel. Sommige alternatieven werken nog met een vast aantal verzoeken. Een mogelijkheid is om een proefperiode te nemen met een andere tool en je werkelijke gebruik te meten. Zo kun je een weloverwogen keuze maken die past bij jouw manier van werken.
+**Als je in een organisatie werkt waar meerdere teams Copilot gebruiken**, overweeg dan om een centrale beheerder aan te stellen die het totale creditverbruik bewaakt. Deze persoon kan richtlijnen opstellen, zoals het beperken van het gebruik van premium-functies tot kritieke taken. Je zou ook kunnen overwegen om een interne kennissessie te organiseren waarin teamleden leren hoe ze efficiënter met Copilot kunnen werken, bijvoorbeeld door prompts specifieker te maken om onnodige heen-en-weer chatgesprekken te voorkomen.
 
-Bron: Arstechnica (https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/)
+Bron: [Arstechnica](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/)
