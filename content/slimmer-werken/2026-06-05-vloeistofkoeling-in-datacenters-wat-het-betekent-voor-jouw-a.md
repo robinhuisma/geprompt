@@ -1,34 +1,32 @@
 ---
-title: "Vloeistofkoeling in datacenters: wat het betekent voor jouw AI-kosten"
-date: 2026-06-05T02:10:59.544Z
-tags: ["ai", "datacenters", "vloeistofkoeling", "mkb"]
+title: "Vloeistofkoeling in datacenters: wat het betekent voor jouw AI-projecten"
+date: 2026-06-05T10:12:43.398Z
+tags: ["datacenters", "vloeistofkoeling", "ai-infrastructuur", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "AI-workloads dwingen datacenters naar vloeistofkoeling, wat de beschikbaarheid en prijs van AI-diensten voor het MKB beïnvloedt."
+summary: "AI-workloads dwingen datacenters naar vloeistofkoeling. Dit raakt beschikbaarheid, kosten en betrouwbaarheid van rekenkracht."
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/06/04/van-ventilator-naar-vloeistof/"
 ---
 
-Het antwoord: De opkomst van vloeistofkoeling in Nederlandse datacenters is geen technisch detail, maar een strategische factor die indirect de rekening en snelheid van AI-diensten voor het MKB bepaalt. Omdat moderne AI-workloads twintig tot vijftig keer meer warmte produceren dan traditionele servers, kunnen luchtgekoelde datacenters de vraag naar rekenkracht steeds moeilijker bijbenen, wat leidt tot hogere kosten en langere wachttijden voor AI-toepassingen die jij als ondernemer gebruikt.
+AI-workloads produceren zoveel warmte dat traditionele luchtkoeling in datacenters zijn grens bereikt. De overstap naar vloeistofkoeling wordt daardoor een strategische keuze die direct invloed heeft op de beschikbaarheid, kosten en betrouwbaarheid van AI-rekenkracht in Nederland. Voor ondernemers die AI willen inzetten, betekent dit dat de locatie en koeltechniek van een datacenter steeds belangrijker worden voor de prestaties en prijs van hun projecten.
 
 ## Wat er aan de hand is
 
-Tijdens een persevenement van Schneider Electric in Buffalo, New York, stond de opmars van liquid cooling centraal. Volgens het bedrijf produceren moderne AI-workloads twintig tot vijftig keer meer warmte dan traditionele serveromgevingen. De klassieke luchtgekoelde serverruimte komt daardoor steeds verder onder druk te staan. Vooral in Nederland, waar ruimte en netcapaciteit schaars zijn, heeft vloeistofkoeling de potentie om van nichetechnologie uit te groeien tot een strategische bouwsteen voor nieuwe datacenters.
-
-Moderne AI-chips, zoals Nvidia H100- en Blackwell-gpu’s, kunnen honderden tot meer dan duizend watt per chip verbruiken. Een AI-server met meerdere gpu’s komt daardoor gemakkelijk boven de tien tot twintig kilowatt uit, terwijl complete racks inmiddels richting 150 tot 250 kilowatt bewegen. Volgens Schneider Electric ligt de praktische grens van luchtkoeling inmiddels rond tachtig kilowatt per rack. Daarboven wordt vloeistofkoeling feitelijk noodzakelijk.
+Moderne AI-chips, zoals Nvidia’s H100- en Blackwell-GPU’s, verbruiken honderden tot meer dan duizend watt per chip. Een AI-server met meerdere GPU’s komt daardoor gemakkelijk boven de tien tot twintig kilowatt uit, terwijl complete racks inmiddels richting 150 tot 250 kilowatt bewegen. Ter vergelijking: traditionele CPU-servers blijven vaak onder de tien kilowatt per rack. Volgens Schneider Electric, een grote speler in datacenterinfrastructuur, produceren moderne AI-workloads twintig tot vijftig keer meer warmte dan traditionele serveromgevingen. De praktische grens van luchtkoeling ligt volgens het bedrijf rond tachtig kilowatt per rack. Daarboven wordt vloeistofkoeling feitelijk noodzakelijk. Dit vraagstuk speelt tijdens een internationaal persevenement van Schneider Electric in Buffalo, New York, waar de opmars van vloeistofkoeling centraal stond.
 
 ## Wat dit betekent
 
-Deze ontwikkeling raakt direct aan de groei van datacenters, de energietransitie, netcongestie en de ambitie van Nederland om een rol te blijven spelen in de Europese AI-infrastructuur. Voor het MKB betekent dit dat de beschikbaarheid en prijs van AI-diensten steeds meer afhankelijk worden van de koelingsinfrastructuur van datacenters. Als datacenters moeten overstappen op duurdere vloeistofkoeling, zullen de kosten voor AI-rekenkracht stijgen. Tegelijkertijd kan een gebrek aan geschikte koeling leiden tot schaarste in rekenkracht, wat de snelheid van AI-toepassingen kan beperken.
+Voor Nederland is dit geen louter technisch vraagstuk. Ruimte en netcapaciteit zijn hier schaars. Datacenters die AI-rekenkracht leveren, moeten efficiënter koelen om binnen hun energiebudget en fysieke ruimte te blijven. Vloeistofkoeling kan de vermogensdichtheid per vierkante meter verhogen, waardoor meer rekenkracht op dezelfde oppervlakte mogelijk is. Dat is cruciaal omdat netcongestie de aanleg van nieuwe datacenters beperkt. Voor ondernemers betekent dit dat datacenters die vloeistofkoeling toepassen, mogelijk betere beschikbaarheid en lagere operationele kosten kunnen bieden voor AI-workloads. Tegelijkertijd kan de overstap leiden tot hogere investeringskosten voor datacenters, die mogelijk worden doorberekend aan klanten. De keuze voor een datacenter wordt daarmee niet alleen een kwestie van locatie, maar ook van koeltechniek.
 
 ## Hoe je dit kunt toepassen
 
-**Als je AI-tools gebruikt voor tekstgeneratie, beeldbewerking of data-analyse:** De beschikbaarheid van rekenkracht in Nederlandse datacenters kan invloed hebben op de snelheid en prijs van deze diensten. Je zou kunnen overwegen om contracten met AI-leveranciers te herzien en te vragen naar hun datacenterstrategie. Een mogelijkheid is om te kiezen voor aanbieders die investeren in moderne koelingsinfrastructuur, omdat zij mogelijk stabielere prijzen en prestaties kunnen bieden.
+**Als je AI-projecten draait of overweegt in een bestaand datacenter:** Vraag je hostingprovider of datacenter welke koeltechniek ze gebruiken voor AI-workloads. Als ze nog uitsluitend luchtkoeling inzetten, kan de prestaties van jouw GPU’s beperkt worden door oververhitting. Overweeg om te vragen naar de maximale vermogensdichtheid per rack die ze aankunnen. Als die onder de tachtig kilowatt ligt, loop je mogelijk tegen grenzen aan bij zwaardere AI-toepassingen.
 
-**Als je een eigen AI-model traint of fine-tunet:** Dit proces is extreem rekenintensief en vereist veel gpu-kracht. De overstap naar vloeistofkoeling in datacenters kan de beschikbaarheid van deze gpu’s beïnvloeden. Overweeg om je trainingen te plannen in periodes dat de vraag naar rekenkracht lager is, of onderzoek of je gebruik kunt maken van datacenters die al zijn overgestapt op vloeistofkoeling voor betere prestaties.
+**Als je een eigen serverruimte beheert voor AI-berekeningen:** Houd rekening met de warmteproductie van moderne GPU’s. Een enkele AI-server kan al meer dan twintig kilowatt verbruiken. Luchtkoeling alleen is dan vaak niet meer toereikend. Je zou kunnen onderzoeken of een direct-to-chip vloeistofkoeling of een immersiekoeling haalbaar is in jouw ruimte. Dit vergt een investering, maar kan de levensduur van je hardware verlengen en stroomuitval door oververhitting voorkomen.
 
-**Als je een webshop runt met AI-gestuurde aanbevelingen of chatbots:** Deze toepassingen draaien op inferencing, wat minder rekenkracht vraagt dan training, maar nog steeds afhankelijk is van beschikbare gpu-capaciteit. Een optie is om met je hostingprovider te bespreken of zij gebruikmaken van datacenters die vloeistofkoeling toepassen, omdat dit kan leiden tot stabielere responstijden voor jouw klanten.
+**Als je een AI-dienstverlener selecteert voor een project:** Vraag expliciet naar de koelinfrastructuur van hun datacenter. Een provider die vloeistofkoeling gebruikt, kan waarschijnlijk hogere rekendichtheid en stabielere prestaties leveren voor trainingsworkloads. Dit is vooral relevant als je grote modellen traint of realtime inferencing nodig hebt. Een mogelijkheid is om een proefperiode af te spreken waarin je de prestaties onder belasting meet.
 
-**Als je als ondernemer nadenkt over de inzet van AI in de komende jaren:** De koelingsinfrastructuur van datacenters is een onderbelichte factor in de beschikbaarheid en prijs van AI-diensten. Je zou kunnen overwegen om AI-projecten die veel rekenkracht vereisen niet uit te stellen, omdat de kosten mogelijk gaan stijgen naarmate meer datacenters moeten overschakelen op duurdere koelingsmethoden.
+**Als je een nieuw datacenter overweegt voor AI-workloads:** Kies bij voorkeur een locatie die vloeistofkoeling ondersteunt of kan implementeren. Dit kan op termijn lagere operationele kosten opleveren, omdat vloeistofkoeling energiezuiniger is dan luchtkoeling bij hoge vermogensdichtheden. Overweeg om een contract af te sluiten met een datacenter dat flexibel kan opschalen in koelcapaciteit naarmate jouw AI-behoefte groeit.
 
 Bron: [Computable](https://www.computable.nl/2026/06/04/van-ventilator-naar-vloeistof/)
