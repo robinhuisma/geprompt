@@ -1,34 +1,32 @@
 ---
 title: "Gebruikers mijden AI-zoekmachines: wat dat betekent voor jouw SEO"
-date: 2026-06-05T02:04:52.809Z
-tags: ["seo", "zoekmachines", "ai", "marketing"]
+date: 2026-06-05T14:05:30.827Z
+tags: ["seo", "zoekmachines", "marketing", "ai"]
 categorieen: ["marketing-groei"]
-summary: "Gebruikers keren terug naar traditioneel zoeken. Optimaliseer nu je website voor Google, niet voor AI-chatbots."
+summary: "Traditioneel zoeken wint terrein. Pas je SEO-strategie aan op gebruikers die AI vermijden."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/"
 ---
 
-Gebruikers verlaten AI-zoekmachines en keren terug naar traditionele zoekmachines zoals Google. Dat betekent dat je als ondernemer je website niet moet optimaliseren voor AI-chatbots, maar voor de klassieke zoekresultaten die gebruikers nog steeds vertrouwen.
+Gebruikers kiezen steeds vaker voor AI-vrije zoekmachines, wat betekent dat traditionele SEO weer aan belang wint. Voor MKB-ondernemers is het zaak om niet blind te varen op AI-gedreven zoekresultaten, maar juist te investeren in klassieke vindbaarheid.
 
 ## Wat er aan de hand is
 
-Uit een analyse van Search Engine Journal blijkt dat de adoptie van AI-zoekmachines gefragmenteerd is. De meeste gebruikers geven nog steeds de voorkeur aan traditionele zoekmethoden. Ondanks alle aandacht voor AI-tools zoals ChatGPT en Bing Chat, blijven bezoekers terugkeren naar de vertrouwde zoekbalk van Google. Dit is opvallend, omdat veel SEO-specialisten de afgelopen maanden waarschuwden dat AI de zoekmarkt zou overnemen. De realiteit is anders: gebruikers ervaren AI-zoekopdrachten vaak als onbetrouwbaar of te traag, en kiezen bewust voor de overzichtelijke lijst met links die ze gewend zijn.
+Ondanks alle aandacht voor AI in de zoekwereld, blijkt uit recente data dat de adoptie van AI-zoekmachines gefragmenteerd blijft. De meeste gebruikers geven nog steeds de voorkeur aan traditionele zoekmethoden. Dit is opvallend, omdat veel SEO-specialisten de afgelopen maanden juist inspeelden op een snelle verschuiving naar AI-zoekmachines zoals ChatGPT Search of Google's SGE. De realiteit is echter dat een aanzienlijk deel van de gebruikers actief AI-vrije zoekopties opzoekt. Dit gedrag wordt gedreven door zorgen over privacy, de betrouwbaarheid van AI-antwoorden en een voorkeur voor overzichtelijke, menselijke resultaten. De trend is geen tijdelijke opleving, maar een structurele verschuiving die vraagt om een herbezinning op SEO-strategieën.
 
 ## Wat dit betekent
 
-Voor MKB-ondernemers is dit goed nieuws. Je hoeft niet te investeren in dure optimalisaties voor AI-chatbots of te gokken op onbekende algoritmes. De focus blijft liggen op wat werkt: een sterke positie in de reguliere Google-resultaten. Dit betekent dat klassieke SEO-technieken zoals kwalitatieve content, snelle laadtijden en goede meta-omschrijvingen nog steeds de basis vormen. Vooral voor lokale bedrijven en niche-markten is dit een voordeel, omdat Google nog altijd de grootste bron van verkeer is. Als je nu al goed scoort in traditioneel zoeken, hoef je niet te vrezen voor een plotselinge daling door AI.
+Voor ondernemers betekent dit dat je niet kunt vertrouwen op één zoekstrategie. Als jouw vindbaarheid volledig leunt op optimalisatie voor AI-zoekmachines, loop je het risico een grote groep gebruikers te missen. Vooral in sectoren waar vertrouwen en autoriteit cruciaal zijn – zoals juridisch, medisch, financieel en lokaal MKB – blijkt traditioneel zoeken dominant. Gebruikers in deze branches willen vaak zelf bronnen beoordelen in plaats van een AI-samenvatting te accepteren. Ook voor webshops en dienstverleners met een lokale focus is het belangrijk om niet alleen op AI te focussen, omdat lokale zoekopdrachten nog sterk leunen op klassieke resultaten.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt en afhankelijk bent van organisch verkeer,** overweeg om je productpagina’s te optimaliseren voor zoekintentie in plaats van voor AI-modellen. Dat betekent: schrijf duidelijke, beknopte productbeschrijvingen met relevante zoekwoorden, en zorg dat je pagina’s snel laden. Een mogelijke aanpak is om te kijken welke zoektermen jouw klanten gebruiken en die te verwerken in titels en meta-omschrijvingen. Je zou ook kunnen experimenteren met gestructureerde data (schema markup) om je producten beter zichtbaar te maken in rich snippets.
+**Als je een lokale dienstverlener bent, zoals een loodgieter of advocaat.** Je merkt misschien dat klanten je vinden via Google Maps of lokale zoekopdrachten. Overweeg om je Google Mijn Bedrijf-profiel up-to-date te houden met actuele openingstijden, foto's en reviews. Een mogelijkheid is om ook te investeren in lokale backlinks van regionale nieuwssites of brancheverenigingen. Dit versterkt je positie in traditionele zoekresultaten, waar gebruikers nog steeds op vertrouwen.
 
-**Als je een team aanstuurt en verantwoordelijk bent voor de online zichtbaarheid van je bedrijf,** kun je je SEO-inspanningen richten op het verbeteren van de gebruikerservaring. Denk aan mobiele optimalisatie, het verminderen van bounce rates en het creëren van content die antwoord geeft op veelgestelde vragen. Een optie is om een contentkalender op te stellen met onderwerpen die aansluiten bij wat jouw doelgroep zoekt, zonder je te laten afleiden door AI-hypes. Je team kan zich dan richten op meetbare resultaten zoals posities in Google en klikfrequenties.
+**Als je een webshop runt in een concurrerende markt.** Je zou kunnen onderzoeken hoe jouw productpagina's scoren op klassieke SEO-factoren zoals laadsnelheid, duidelijke meta-omschrijvingen en gestructureerde data. Een optie is om te starten met het optimaliseren van je producttitels en beschrijvingen voor menselijke lezers, niet alleen voor AI-bots. Overweeg om een blog te starten met koopgidsen of vergelijkingen, omdat dit type content vaak hoog scoort in traditionele zoekresultaten.
 
-**Als je in de dienstverlening werkt, zoals een advocatenkantoor of een adviesbureau,** kun je je website optimaliseren voor lokale zoekopdrachten. Zorg dat je Google Mijn Bedrijf-profiel up-to-date is, verzamel reviews en vermeld je adres en telefoonnummer op elke pagina. Een suggestie is om blogartikelen te schrijven over actuele juridische of zakelijke onderwerpen, zodat je gevonden wordt op specifieke vragen. Omdat gebruikers AI-zoekmachines mijden, is de kans groot dat ze via Google bij jouw diensten uitkomen.
+**Als je een B2B-dienstverlener bent met lange verkoopcycli.** Je merkt dat prospects grondig onderzoek doen voordat ze contact opnemen. Een mogelijkheid is om diepgaande whitepapers of casestudy's te publiceren die antwoord geven op specifieke vragen uit jouw vakgebied. Dit type content wordt vaak gedeeld en gelinkt, wat je positie in traditionele zoekmachines versterkt. Overweeg om ook te investeren in gastblogs op gezaghebbende vakwebsites, omdat backlinks van hoge kwaliteit nog steeds een van de belangrijkste rankingfactoren zijn.
 
-**Als je een contentmarketeer bent die blogs en artikelen produceert,** kun je je richten op lange, diepgravende stukken die autoriteit uitstralen. Google beloont nog steeds uitgebreide content die echte waarde biedt, in tegenstelling tot AI-gegenereerde samenvattingen die vaak oppervlakkig blijven. Overweeg om interviews, casestudy’s of origineel onderzoek toe te voegen aan je artikelen. Dit onderscheidt je van concurrenten die alleen AI-tools gebruiken om snel content te produceren.
-
-**Als je een start-up hebt met beperkt budget,** kun je prioriteit geven aan technische SEO boven dure AI-tools. Controleer of je website geen gebroken links heeft, of de laadsnelheid acceptabel is en of je sitemap correct is ingesteld. Een eenvoudige stap is om Google Search Console te gebruiken om te zien welke pagina’s goed presteren en waar verbetering nodig is. Je hoeft geen dure AI-oplossingen aan te schaffen om zichtbaar te blijven in de zoekresultaten.
+**Als je een contentmarketeer bent die afhankelijk is van AI-tools.** Het is verleidelijk om volledig te vertrouwen op AI-gegenereerde content, maar gebruikers die AI-vrije zoekmachines gebruiken, herkennen vaak oppervlakkige teksten. Je zou kunnen overwegen om een deel van je contentproductie weer handmatig te doen, met focus op unieke inzichten, interviews of eigen data. Een optie is om een redactionele kalender te maken waarin je wekelijks een diepgravend artikel plaatst dat niet door AI is gegenereerd.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/)
