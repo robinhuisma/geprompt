@@ -1,34 +1,32 @@
 ---
-title: "EU verdrievoudigt datacentercapaciteit: wat dat betekent voor jouw IT-kosten"
-date: 2026-06-06T18:11:18.036Z
-tags: ["datacenters", "EU", "IT-kosten", "digitalisering"]
+title: "EU verdrievoudigt datacentercapaciteit: wat dat betekent voor jouw cloudkosten"
+date: 2026-06-06T22:09:26.721Z
+tags: ["datacenters", "cloudkosten", "eu-beleid", "mkb"]
 categorieen: ["slimmer-werken"]
-summary: "EU investeert 200 miljard in datacenters. Versnelde vergunningen moeten capaciteit verdrievoudigen."
+summary: "EU investeert 200 miljard in datacenters, versnelt vergunningen. Dit kan clouddiensten goedkoper en stabieler maken voor het MKB."
 draft: false
 source_name: "Sprout"
 source_url: "https://mtsprout.nl/nieuws/eu-wil-3-keer-meer-datacenters-picnic-start-met-maaltijden"
 ---
 
-De Europese Unie wil de capaciteit van datacenters in Europa de komende jaren verdrievoudigen en trekt daar 200 miljard euro voor uit. Voor Nederlandse ondernemers betekent dit dat de beschikbaarheid van clouddiensten en rekenkracht flink toeneemt, wat op termijn kan leiden tot lagere IT-kosten en meer keuzevrijheid.
+De Europese Unie wil de capaciteit van datacenters in Europa de komende jaren verdrievoudigen en trekt daar 200 miljard euro voor uit. Voor het Nederlandse MKB betekent dit dat clouddiensten mogelijk goedkoper, sneller en betrouwbaarder worden, omdat de afhankelijkheid van datacenters buiten Europa afneemt.
 
 ## Wat er aan de hand is
 
-De EU heeft een omvangrijk investeringspakket aangekondigd om de digitale infrastructuur van Europa te versterken. Centraal staat de verdrievoudiging van de datacentercapaciteit. Om dit te realiseren, worden lidstaten via een nieuwe wet verplicht om zogeheten data centre acceleration zones aan te wijzen. In deze zones mag het vergunningstraject voor de bouw van nieuwe datacenters maximaal twaalf maanden duren. Daarnaast is er een vernieuwde Chips Act opgenomen in het pakket, die de Europese productie van halfgeleiders moet stimuleren. De totale investering bedraagt 200 miljard euro, meldt Sprout op basis van de EU-plannen.
+De EU heeft een pakket maatregelen aangekondigd om de digitale infrastructuur in Europa te versterken. Het belangrijkste onderdeel is de verplichting voor lidstaten om zogeheten data centre acceleration zones aan te wijzen. In deze zones mag het vergunningstraject voor de bouw van nieuwe datacenters maximaal twaalf maanden duren. Daarnaast is er een vernieuwde Chips Act opgenomen, die de Europese productie van halfgeleiders moet stimuleren. Volgens de EU moet de totale datacentercapaciteit in Europa verdrievoudigen. De investering van 200 miljard euro moet dit mogelijk maken.
 
 ## Wat dit betekent
 
-Voor het Nederlandse MKB is dit nieuws relevant omdat de beschikbaarheid van rekenkracht en clouddiensten direct van invloed is op de bedrijfsvoering. Nu de capaciteit verdrievoudigt, neemt de kans op schaarste af. Dat kan leiden tot stabielere prijzen voor cloudopslag, rekenkracht en AI-diensten. Ook de fysieke nabijheid van datacenters speelt een rol: hoe dichterbij de data staat, hoe lager de latentie en hoe sneller applicaties werken. Voor bedrijven die afhankelijk zijn van realtime dataverwerking, zoals webshops of logistieke dienstverleners, is dat een direct voordeel.
-
-Daarnaast zorgt de versnelling van vergunningstrajecten ervoor dat nieuwe datacenters sneller operationeel worden. Waar de bouw nu jaren kan duren, wordt dat teruggebracht naar maximaal twaalf maanden. Dit versnelt de hele keten van digitale dienstverlening. Voor ondernemers betekent dit dat ze minder rekening hoeven te houden met capaciteitsproblemen of wachtlijsten bij cloudproviders.
+Voor ondernemers die afhankelijk zijn van clouddiensten, zoals hosting, SaaS-toepassingen of AI-tools, heeft dit directe gevolgen. Op dit moment draaien veel Europese bedrijven hun dataverwerking in datacenters buiten Europa, bijvoorbeeld in de Verenigde Staten of Azië. Dat brengt risico’s met zich mee: hogere latentie, afhankelijkheid van niet-Europese wetgeving en soms hogere kosten door schaarste aan Europese capaciteit. Met een verdrievoudiging van de Europese capaciteit neemt de beschikbaarheid van lokale rekenkracht toe. Dat kan leiden tot lagere prijzen voor clouddiensten, omdat aanbod en concurrentie toenemen. Ook wordt de dienstverlening stabieler, omdat data fysiek dichter bij de gebruiker staat. Voor sectoren zoals logistiek, financiële dienstverlening en online retail, waar realtime dataverwerking cruciaal is, kan dit een merkbaar verschil maken.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt die afhankelijk is van snelle laadtijden en piekbelasting**, dan kun je overwegen om je hostingstrategie te herzien. De toename van datacentercapaciteit in Europa betekent dat er meer keuze komt in regionale hostingproviders. Je zou kunnen kijken of je data dichter bij je klanten kunt opslaan, wat de laadtijd van je site kan verbeteren. Overweeg om contracten met je huidige hostingpartij te evalueren zodra de nieuwe capaciteit beschikbaar komt, mogelijk kun je betere voorwaarden bedingen.
+**Als je een webshop runt die afhankelijk is van snelle laadtijden**, kun je overwegen om je hosting of cloudinfrastructuur de komende jaren te verplaatsen naar een Europese aanbieder die gebruikmaakt van nieuwe datacenters in acceleration zones. Dit kan de laadtijd voor Europese klanten verbeteren en je voldoen aan strengere privacyregels, zoals de AVG. Je zou kunnen informeren bij je huidige hostingpartij of zij plannen hebben om capaciteit in deze zones uit te breiden.
 
-**Als je een team aanstuurt dat werkt met AI-tools of data-analyse**, dan is het zinvol om de ontwikkelingen rondom de Chips Act en datacentercapaciteit te volgen. De combinatie van meer rekenkracht en een sterkere halfgeleiderindustrie kan ervoor zorgen dat AI-diensten goedkoper worden. Een mogelijkheid is om nu al te inventariseren welke processen in je bedrijf baat hebben bij AI-ondersteuning, zodat je klaar bent wanneer de prijzen dalen.
+**Als je een team aanstuurt dat werkt met AI-tools of data-analyse**, kun je anticiperen op lagere rekenkosten. De toename van Europese datacentercapaciteit betekent dat cloudproviders zoals Microsoft Azure, Amazon Web Services of Google Cloud mogelijk hun prijzen in Europa kunnen verlagen. Een optie is om nu al een inventarisatie te maken van je maandelijkse cloudkosten en over zes tot twaalf maanden te vergelijken met nieuwe aanbiedingen.
 
-**Als je in de logistiek of supply chain werkt**, dan kun je profiteren van de lagere latentie die dichterbij gelegen datacenters bieden. Real-time tracking, voorraadbeheer en routeoptimalisatie worden sneller en betrouwbaarder. Overweeg om met je IT-leverancier te bespreken of er mogelijkheden zijn om over te stappen naar een Europese cloudomgeving die gebruikmaakt van de nieuwe datacentercapaciteit.
+**Als je in de zorg of financiële dienstverlening werkt**, waar data lokaal moet blijven vanwege wetgeving, biedt de uitbreiding kansen. Je zou kunnen verkennen of er in jouw regio een acceleration zone komt. Als dat het geval is, kun je overwegen om een dedicated server of private cloud in die zone te huren. Dit verkleint de kans op datalekken door grensoverschrijdend verkeer en versnelt de verwerking van gevoelige gegevens.
 
-**Als je een klein kantoor runt zonder eigen IT-afdeling**, dan is het goed om te weten dat de concurrentie tussen cloudaanbieders waarschijnlijk toeneemt. Meer datacenters betekent meer aanbod, wat kan leiden tot scherpere prijzen voor standaard diensten zoals opslag en back-up. Je zou kunnen overwegen om over een jaar, wanneer de eerste versnelde projecten operationeel zijn, je huidige abonnementen te vergelijken met nieuwe aanbieders.
+**Als je een klein bedrijf bent dat nu geen clouddiensten gebruikt vanwege de kosten**, kan de prijsdaling een drempel wegnemen. Overweeg om over een jaar opnieuw naar de markt te kijken. De verwachting is dat instapdiensten zoals basis hosting of SaaS-abonnementen goedkoper worden naarmate er meer Europese rekenkracht beschikbaar komt.
 
-Bron: [Sprout](https://mtsprout.nl/nieuws/eu-wil-3-keer-meer-datacenters-picnic-start-met-maaltijden)
+Bron: Sprout (https://mtsprout.nl/nieuws/eu-wil-3-keer-meer-datacenters-picnic-start-met-maaltijden)

@@ -1,32 +1,32 @@
 ---
 title: "Google’s nieuwe AI-model draait op je laptop: geen cloudkosten meer"
-date: 2026-06-06T10:03:08.196Z
-tags: ["ai", "google", "gemma", "offline"]
+date: 2026-06-06T22:01:47.854Z
+tags: ["ai", "google", "laptop", "mkb"]
 categorieen: ["nieuws-tools"]
-summary: "Google’s Gemma 4 12B draait lokaal op een laptop met 16GB RAM, zonder cloudkosten."
+summary: "Gemma 4 12B draait lokaal op een laptop met 16GB RAM, ideaal voor veilige, cloudvrije AI-taken."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/"
 ---
 
-Google heeft een nieuw AI-model uitgebracht dat klein en efficiënt genoeg is om te draaien op een gewone laptop met 16GB RAM. Dat betekent dat je taken als tekstanalyse, samenvattingen en data-extractie lokaal kunt uitvoeren, zonder dat je clouddiensten hoeft te betalen of je data naar een externe server hoeft te sturen.
+Google heeft een nieuw AI-model uitgebracht dat klein en efficiënt genoeg is om op een gemiddelde consumentenlaptop te draaien. Dit betekent dat je als ondernemer AI-taken zoals samenvatten en e-mails opstellen lokaal kunt uitvoeren, zonder cloudkosten en met volledige controle over je data.
 
 ## Wat er aan de hand is
 
-Google heeft de Gemma 4 12B aangekondigd, een nieuw model in de open-source Gemma 4-familie. Waar de eerdere modellen uit april dit jaar ofwel te klein waren voor serieus werk (de mobiele E2B en E4B) of juist een dure AI-versneller vereisten (de 26B en 31B modellen), vult de 12B het gat daartussen. Het model heeft 12 miljard parameters en heeft ongeveer de helft van het geheugen nodig van de grotere 26B-variant. Volgens Google is de 12B bijna net zo capabel, althans op basis van benchmarks. Het model draait op elke laptop met 16GB systeemgeheugen of VRAM. De Gemma-modellen vallen onder een Apache 2.0-licentie, wat betekent dat je ze vrij kunt gebruiken en aanpassen.
+Google heeft de Gemma 4 12B aangekondigd, een nieuw model in de open-source Gemma 4-familie. Waar de eerdere modellen varieerden van mobiele versies (E2B en E4B) tot zware varianten voor servers (26B en 31B), vult deze 12B-versie een gat in het midden. Volgens Google draait het model op elke laptop met 16GB aan systeem-RAM of VRAM. Dat is ongeveer de helft van het geheugengebruik van de 26B-variant, terwijl de prestaties volgens de benchmarks bijna gelijkwaardig zijn. De modellen worden uitgebracht onder de open Apache 2.0-licentie, wat betekent dat je ze vrij kunt gebruiken en aanpassen.
 
 ## Wat dit betekent
 
-Voor ondernemers betekent dit dat AI-toepassingen die voorheen alleen in de cloud of op dure hardware mogelijk waren, nu op een gewone laptop beschikbaar komen. Denk aan het verwerken van vertrouwelijke klantdata, het genereren van rapporten of het analyseren van contracten. Omdat alles lokaal gebeurt, zijn er geen maandelijkse cloudkosten en blijft je data op je eigen apparaat. Dat is vooral relevant voor bedrijven die werken met gevoelige informatie, zoals juridische, medische of financiële data. Het model is krachtig genoeg voor serieuze taken, maar vraagt geen investering in dure hardware.
+Voor het MKB is dit een belangrijke verschuiving. Tot nu toe waren krachtige AI-modellen vaak alleen toegankelijk via dure clouddiensten of speciale hardware. Met Gemma 4 12B kun je AI lokaal draaien op een laptop die veel ondernemers al hebben. Dat bespaart niet alleen maandelijkse cloudkosten, maar geeft ook meer privacy: je data verlaat je computer niet. Dit is vooral relevant voor sectoren waar vertrouwelijkheid belangrijk is, zoals de juridische, medische of financiële dienstverlening. Het model is geschikt voor taken als tekstsamenvatting, e-mailopstelling en documentanalyse, zonder dat je een dure AI-versneller nodig hebt.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een consultancy- of adviesbureau runt**, kun je overwegen om Gemma 4 12B te gebruiken voor het samenvatten van lange rapporten of het extraheren van kernpunten uit offertes. Omdat het model lokaal draait, blijven alle documenten op je laptop en hoef je geen data naar een clouddienst te uploaden. Je zou kunnen experimenteren met het model om wekelijkse marktanalyses te genereren op basis van een set PDF’s.
+**Als je een juridisch of financieel adviseur bent** en werkt met vertrouwelijke documenten, dan kun je Gemma 4 12B gebruiken om contracten of rapporten samen te vatten zonder dat je data naar een cloudserver gaat. Je zou het model lokaal kunnen draaien op je werklaptop en er eenvoudig teksten aan kunnen voordragen. Een optie is om te experimenteren met het model via een lokale interface zoals Ollama of LM Studio, die het model voor je kunnen laden en beheren.
 
-**Als je een webshop beheert**, kun je het model inzetten voor het genereren van productbeschrijvingen of het beantwoorden van veelgestelde klantvragen. Een mogelijkheid is om een lokale chatbot te bouwen die draait op je eigen laptop, zonder dat je per maand betaalt voor een cloud-API. Je kunt het model trainen op je eigen productdata en het vervolgens offline gebruiken.
+**Als je een eenmanszaak runt en veel e-mails verstuurt**, kun je het model inzetten om concepten te schrijven of antwoorden te formuleren. Omdat het model op je eigen laptop draait, zijn er geen extra kosten per bericht. Je zou kunnen overwegen om een lokale AI-assistent in te richten die je helpt bij standaard correspondentie, zonder dat je afhankelijk bent van een internetverbinding of cloudabonnement.
 
-**Als je in de juridische sector werkt**, is een optie om het model te gebruiken voor het doorzoeken van contracten op specifieke clausules of risico’s. Omdat alles lokaal gebeurt, voldoe je aan strenge privacy-eisen. Je zou kunnen testen of het model in staat is om standaardcontracten te controleren op afwijkingen van je eigen templates.
+**Als je een klein team aanstuurt en werkt met gevoelige klantdata**, biedt lokaal draaiende AI een manier om processen te versnellen zonder privacyrisico’s. Denk aan het samenvatten van lange e-mailthreads of het extraheren van actiepunten uit notulen. Een mogelijkheid is om het model te integreren in een interne tool, bijvoorbeeld via een simpele Python-script, zodat teamleden het kunnen gebruiken zonder dat data het bedrijfsnetwerk verlaat.
 
-**Als je een klein team aanstuurt**, kun je overwegen om Gemma 4 12B te gebruiken voor interne kennisdeling. Het model kan bijvoorbeeld worden ingezet om notulen van vergaderingen samen te vatten of om een lokale zoekmachine te bouwen die door je bedrijfsdocumenten bladert. De praktische toepassing hangt af van jouw situatie, maar de drempel is laag: zolang je laptop 16GB RAM heeft, kun je het model downloaden en direct gebruiken.
+**Als je een contentmaker of marketeer bent**, kun je het model gebruiken om ruwe notities om te zetten in gestructureerde teksten, zoals blogposts of social media-berichten. Omdat het model lokaal draait, kun je onbeperkt experimenteren zonder dat elke prompt geld kost. Overweeg om het model te testen met een paar van je eigen documenten om te zien hoe goed het past bij jouw schrijfstijl en onderwerpen.
 
 Bron: [Arstechnica](https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/)
