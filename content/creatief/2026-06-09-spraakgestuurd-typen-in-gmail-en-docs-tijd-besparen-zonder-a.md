@@ -1,31 +1,33 @@
 ---
 title: "Spraakgestuurd typen in Gmail en Docs: tijd besparen zonder AI-expert te zijn"
-date: 2026-06-09T10:09:35.463Z
-tags: ["google workspace", "spraakgestuurd typen", "gmail", "docs"]
+date: 2026-06-09T18:09:26.329Z
+tags: ["google workspace", "spraakgestuurd typen", "productiviteit", "gmail"]
 categorieen: ["creatief"]
-summary: "Google Workspace krijgt spraakgestuurd typen in Gmail, Docs en Keep. Geen techkennis nodig, direct inzetbaar."
+summary: "Gebruik je stem om e-mails en documenten te typen in Google Workspace, zonder technische kennis."
 draft: false
 source_name: "Blog"
 source_url: "https://blog.google/products-and-platforms/products/workspace/workspace-updates/"
 ---
 
-Spraakgestuurd typen in Gmail, Docs en Keep is vanaf nu beschikbaar in Google Workspace. Je hoeft geen AI-expert te zijn om het te gebruiken. Het werkt direct, zonder installatie of training. Dit betekent dat je e-mails, notities en documenten kunt dicteren in plaats van typen. Voor ondernemers die dagelijks veel tekst produceren, kan dit een aanzienlijke tijdwinst opleveren.
+Spraakgestuurd typen in Gmail, Google Docs en Google Keep wordt uitgebreid. Je kunt nu met je stem e-mails schrijven, documenten maken en notities toevoegen, zonder dat je een AI-expert hoeft te zijn. De functie is direct beschikbaar in Google Workspace en werkt eenvoudig: tik op het microfoonicoon en begin te praten.
 
 ## Wat er aan de hand is
-Google heeft nieuwe spraakmogelijkheden aangekondigd voor Gmail, Docs en Keep. Gebruikers kunnen nu met hun stem tekst invoeren in deze apps. De functie is onderdeel van een bredere reeks updates voor Google Workspace, waaronder een nieuw ontwerptool genaamd Google Pics en aanpassingen aan AI Inbox. De spraakfunctie is direct beschikbaar voor Workspace-gebruikers en vereist geen aparte installatie of configuratie. Het is een uitbreiding van bestaande spraak-naar-tekst functionaliteit, maar nu geïntegreerd in de kernapps die veel ondernemers dagelijks gebruiken.
+Google heeft nieuwe spraakmogelijkheden aangekondigd voor Gmail, Docs en Keep, onderdeel van de Google Workspace-updates. De functie, die al langer bestaat voor spraak-naar-tekst, wordt nu uitgebreid met betere herkenning en ondersteuning voor meer talen. Daarnaast introduceert Google een nieuwe ontwerptool genaamd Google Pics en updates voor AI Inbox, maar de focus ligt op de spraakgestuurde typemogelijkheden. Volgens Google is dit onderdeel van een bredere strategie om productiviteitstools toegankelijker te maken voor iedereen, zonder dat technische kennis vereist is.
 
 ## Wat dit betekent
-Voor MKB-ondernemers betekent dit dat een alledaagse taak zoals het typen van e-mails of het maken van notities sneller en efficiënter kan. In plaats van elke letter in te tikken, kun je nu gewoon praten. De functie is vooral nuttig voor wie veel onderweg is, snel ideeën wil vastleggen of moeite heeft met typen op een klein scherm. Het verlaagt de drempel om productief te zijn, zonder dat je nieuwe software hoeft te leren. Voor sectoren zoals consultancy, sales, logistiek of zorg, waar medewerkers vaak onderweg zijn of hun handen nodig hebben, kan dit een directe impact hebben op de dagelijkse workflow.
+Voor ondernemers en professionals in het MKB betekent dit dat je dagelijkse taken zoals e-mailen, notuleren en documenten opstellen sneller kunt uitvoeren. In plaats van te typen, kun je nu praten, wat vooral handig is tijdens het multitasken of wanneer je even geen handen vrij hebt. De functie is niet alleen voor mensen met een beperking, maar voor iedereen die tijd wil besparen. Het verlaagt de drempel om snel ideeën vast te leggen of een e-mail te beantwoorden terwijl je onderweg bent. Voor sectoren zoals de zorg, horeca of logistiek, waar medewerkers vaak onderweg zijn, kan dit een directe productiviteitswinst opleveren.
 
 ## Hoe je dit kunt toepassen
-**Als je dagelijks veel e-mails verstuurt**, overweeg om spraakgestuurd typen te gebruiken voor het opstellen van standaardantwoorden of het beantwoorden van eenvoudige vragen. Je kunt bijvoorbeeld tijdens het autorijden (parkeer eerst) een e-mail dicteren en deze later controleren voordat je hem verstuurt. Dit bespaart tijd die je anders aan typen zou besteden.
+**Als je een webshop runt en vaak onderweg bent.** Je kunt tijdens het rijden of lopen eenvoudig een e-mail dicteren aan een leverancier of klant. Open Gmail op je telefoon, tik op het microfoonicoon en spreek je bericht in. De spraakherkenning zet het om in tekst, die je nog kunt controleren voordat je verstuurt. Dit bespaart je minuten per e-mail, opgeteld uren per week.
 
-**Als je notities maakt tijdens vergaderingen of brainstormsessies**, kun je Keep gebruiken om ideeën direct in te spreken. In plaats van snel te moeten schrijven of typen, spreek je gewoon in wat je hoort of bedenkt. Later kun je de notities uitwerken of delen met je team. Dit werkt ook goed voor het vastleggen van klantgesprekken of feedback.
+**Als je een team aanstuurt en notulen moet maken.** Tijdens een overleg kun je Google Docs openen en de spraakfunctie gebruiken om direct notities te maken. Spreek de belangrijkste punten in, zonder dat je hoeft te typen. Na het overleg kun je de notities delen met je team. Dit werkt ook voor brainstormsessies: praat je ideeën in en werk ze later uit.
 
-**Als je een team aanstuurt en vaak documenten deelt**, kun je in Docs spraakgestuurd typen gebruiken om concepten, voorstellen of rapporten te schrijven. Je spreekt de hoofdlijnen in en werkt later de details bij. Dit versnelt het schrijfproces aanzienlijk, vooral als je niet snel typt of als je liever denkt terwijl je praat.
+**Als je in de zorg werkt en weinig tijd hebt.** Je kunt snel een patiëntnotitie of een update voor een collega inspreken in Google Keep. Open Keep, tik op het microfoonicoon en dicteer de informatie. Later kun je de notitie kopiëren naar een e-mail of document. Dit vermindert de administratieve last en geeft je meer tijd voor patiënten.
 
-**Als je in de zorg of logistiek werkt** en vaak je handen nodig hebt, is spraakgestuurd typen een uitkomst. Je kunt bijvoorbeeld tijdens het lopen door een magazijn of na een patiëntbezoek snel een notitie dicteren in Keep of een e-mail sturen in Gmail. Dit voorkomt dat je later moet terugdenken aan wat je wilde vastleggen.
+**Als je een freelance consultant bent en offertes maakt.** In plaats van elke offerte handmatig te typen, kun je de basis inspreken in Google Docs. Spreek de producten, prijzen en voorwaarden in, en werk het later bij. Dit versnelt het opstellen van offertes, vooral als je er meerdere per week maakt.
 
-De praktische toepassing hangt af van jouw situatie, maar de kern is simpel: open Gmail, Docs of Keep, tik op het microfoonicoon en begin te praten. Je zult merken dat het in het begin even wennen is, maar na een paar keer gebruik wordt het vanzelfsprekend.
+**Als je een klein team hebt en snel wilt communiceren.** Gebruik spraakgestuurd typen om interne updates te delen via Gmail of Keep. Spreek een korte statusupdate in en stuur die naar je team. Dit is sneller dan typen en moedigt aan om kort en bondig te communiceren.
+
+De praktische toepassing hangt af van jouw situatie, maar de drempel is laag: open de app, tik op het microfoon en begin te praten. Je hebt geen speciale instellingen of training nodig.
 
 Bron: Blog Google Workspace (https://blog.google/products-and-platforms/products/workspace/workspace-updates/)
