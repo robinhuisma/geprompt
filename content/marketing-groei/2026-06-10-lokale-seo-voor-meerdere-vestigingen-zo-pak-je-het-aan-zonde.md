@@ -1,38 +1,34 @@
 ---
-title: "Lokale SEO voor meerdere vestigingen: zo pak je het aan zonder specialist"
-date: 2026-06-10T02:05:04.985Z
-tags: ["lokale seo", "google business profile", "mkb", "meerdere locaties"]
+title: "Lokale SEO voor meerdere vestigingen: zo pak je het aan zonder chaos"
+date: 2026-06-10T10:07:31.296Z
+tags: ["lokale seo", "google business profile", "meerdere vestigingen"]
 categorieen: ["marketing-groei"]
-summary: "Praktische stappen om Google Business Profiles per locatie te optimaliseren, ook zonder SEO-kennis."
+summary: "Praktische stappen om Google Business Profiles per locatie te optimaliseren, inclusief AI-tips."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/the-complete-guide-to-local-seo-for-multiple-locations/578080/"
 ---
 
-IMAGE_PROFIEL: a row of storefronts with different signs on a sunny street, each with a small plant near the door
+Het antwoord: Lokale SEO voor bedrijven met meerdere vestigingen draait om het creëren van aparte, unieke online aanwezigheden per locatie, niet om één centrale strategie. Door elke vestiging een eigen Google Business Profile te geven en die te optimaliseren met locatiespecifieke content, vergroot je de kans dat klanten jouw dichtstbijzijnde punt vinden.
 
-Het antwoord
+## Wat er aan de hand is
 
-Lokale SEO voor meerdere vestigingen draait om het per locatie optimaliseren van je Google Business Profile, niet om één profiel voor al je adressen. Dit voorkomt dat klanten de verkeerde vestiging vinden en verhoogt de kans dat jouw bedrijf in de lokale zoekresultaten verschijnt.
+Search Engine Journal heeft een uitgebreide gids gepubliceerd over lokale SEO voor bedrijven met meerdere vestigingen. De kern van het advies: behandel elke locatie als een aparte entiteit. Dat betekent niet alleen aparte Google Business Profiles, maar ook aparte pagina's op je website, unieke adressen en telefoonnummers, en content die per locatie verschilt. De gids gaat in op technieken zoals entity clustering, waarbij je zoekmachines helpt te begrijpen dat al die locaties bij één bedrijf horen, zonder dat ze elkaar kannibaliseren in de zoekresultaten. Ook AI komt aan bod: tools die helpen bij het schrijven van locatiespecifieke beschrijvingen en het beheren van reviews op schaal.
 
-Wat er aan de hand is
+## Wat dit betekent
 
-Search Engine Journal publiceerde een uitgebreide gids over lokale SEO voor bedrijven met meerdere locaties. De kern van het advies: elke vestiging heeft een eigen Google Business Profile nodig met unieke informatie. Het delen van één profiel of het kopiëren van content tussen profielen werkt averechts. De gids behandelt technieken zoals entity clustering, AI-optimalisatie en geavanceerd beheer van Google Business Profiles. Voor ondernemers zonder SEO-specialist is het belangrijkste inzicht dat consistentie en volledigheid per locatie de basis vormen.
+Voor ondernemers met meerdere fysieke locaties – denk aan een keten van winkels, restaurants, praktijken of dienstverleners – is dit cruciaal. Als je alle vestigingen onder één Google Business Profile zet, of als je op je website alleen één algemene 'over ons'-pagina hebt, mis je kansen. Klanten die zoeken naar 'tandarts in Utrecht' zien dan niet jouw Utrechtse praktijk, maar alleen je hoofdkantoor in Amsterdam. Het gevolg: minder lokale vindbaarheid, minder bezoekers en minder omzet per vestiging. De gids laat zien dat het werk dat je per locatie steekt, zich direct vertaalt in zichtbaarheid in Google Maps en in de lokale zoekresultaten.
 
-Wat dit betekent
+## Hoe je dit kunt toepassen
 
-Voor ondernemers met meerdere winkels, kantoren of filialen betekent dit dat je niet kunt volstaan met één centrale online aanwezigheid. Google beoordeelt elke vestiging apart op relevantie en betrouwbaarheid. Als jouw profielen onvolledig zijn, dubbele informatie bevatten of niet up-to-date zijn, daalt de kans dat klanten jouw vestiging vinden bij lokale zoekopdrachten. Dit raakt met name bedrijven in de detailhandel, horeca, dienstverlening en zorg, waar klanten vaak dicht bij huis zoeken. Het kost tijd om alle profielen goed in te richten, maar het bespaart op termijn advertentiekosten omdat organisch verkeer toeneemt.
+**Als je een keten van winkels of restaurants runt**, begin dan met het aanmaken van een apart Google Business Profile voor elke vestiging. Zorg dat het adres, telefoonnummer en de openingstijden per locatie kloppen. Een mogelijkheid is om per vestiging een unieke beschrijving te schrijven die verwijst naar de buurt, bezienswaardigheden of lokale evenementen. Overweeg om AI-tools in te zetten om deze beschrijvingen te genereren, maar controleer ze altijd op feitelijke juistheid.
 
-Hoe je dit kunt toepassen
+**Als je een dienstverlener bent met meerdere praktijken of kantoren**, zoals een fysiotherapeut of een advocatenkantoor, is het belangrijk om op je website aparte locatiepagina's te maken. Elke pagina moet unieke content bevatten, zoals een kaart, routebeschrijving, foto's van de locatie en testimonials van klanten uit die regio. Je zou kunnen overwegen om per locatie een apart telefoonnummer te gebruiken, zodat Google de koppeling tussen adres en nummer beter begrijpt.
 
-**Als je een webshop runt met meerdere afhaalpunten**, zorg dan dat elk afhaalpunt een eigen Google Business Profile heeft. Vermeld het exacte adres, de openingstijden en of er parkeergelegenheid is. Gebruik per profiel unieke foto's van de locatie, niet dezelfde stockfoto's. Een mogelijkheid is om per kwartaal een korte controle in te plannen: check of telefoonnummers en openingstijden nog kloppen.
+**Als je een franchiseformule hebt**, is het verleidelijk om één centrale aanpak te hanteren, maar dat werkt averechts. Elke franchisenemer moet de vrijheid krijgen om zijn eigen Google Business Profile te beheren, met eigen foto's en eigen reacties op reviews. Een optie is om een sjabloon te maken voor de basisinformatie, maar de invulling per locatie open te laten. Overweeg om maandelijks een check te doen of alle profielen up-to-date zijn, bijvoorbeeld of de openingstijden tijdens feestdagen kloppen.
 
-**Als je een team aanstuurt dat meerdere vestigingen beheert**, overweeg om per locatie een vast aanspreekpunt aan te wijzen. Die persoon is verantwoordelijk voor het up-to-date houden van het Google Business Profile. Je zou een eenvoudige checklist kunnen maken met vaste punten: adres, openingstijden, telefoonnummer, categorie en recente foto's. Dit voorkomt dat profielen verouderen of inconsistent worden.
+**Als je een webshop met afhaalpunten hebt**, kun je elk afhaalpunt als een aparte locatie behandelen. Zorg dat elk punt een eigen Google Business Profile krijgt, met vermelding van de afhaalmogelijkheid. Een mogelijkheid is om in de beschrijving te zetten welke producten er op die locatie op voorraad zijn, zodat klanten gericht kunnen zoeken. Overweeg om per locatie een aparte categorie te kiezen in Google, zoals 'afhaalpunt' of 'pakketdienst'.
 
-**Als je in de zorg werkt met meerdere praktijken**, is het essentieel dat elke praktijk een apart profiel heeft. Patiënten zoeken vaak op locatie en verwachten direct het juiste adres en telefoonnummer te zien. Een optie is om per profiel een korte beschrijving te plaatsen met specifieke diensten die die vestiging biedt, zoals 'fysiotherapie met avondspreekuur' of 'tandarts gespecialiseerd in kindertandheelkunde'. Dit helpt Google om de juiste vestiging te koppelen aan de juiste zoekopdracht.
+De praktische toepassing hangt af van jouw situatie, maar het principe is overal hetzelfde: elke locatie verdient een eigen, unieke online identiteit.
 
-**Als je een restaurantketen hebt**, let dan extra op consistentie in de naamgeving. Gebruik voor elke locatie dezelfde bedrijfsnaam, maar voeg de plaatsnaam toe als dat nodig is om verwarring te voorkomen. Overweeg om per vestiging een aparte Google-pagina te maken met een menu dat past bij die locatie, want aanbiedingen of gerechten kunnen per stad verschillen. Het is ook slim om regelmatig te controleren of er geen dubbele profielen zijn aangemaakt door medewerkers of klanten.
-
-**Als je geen SEO-specialist in dienst hebt**, begin dan met de basis: zorg dat elk profiel volledig is ingevuld. Google geeft de voorkeur aan profielen met een beschrijving, openingstijden, foto's en een categorie. Je zou een vaste dag per maand kunnen inplannen om alle profielen te controleren. Een eenvoudige spreadsheet met de status per locatie helpt om overzicht te houden. De praktische toepassing hangt af van jouw situatie, maar consistentie per locatie is altijd de eerste stap.
-
-Bron: Search Engine Journal
+Bron: [Search Engine Journal](https://www.searchenginejournal.com/the-complete-guide-to-local-seo-for-multiple-locations/578080/)
