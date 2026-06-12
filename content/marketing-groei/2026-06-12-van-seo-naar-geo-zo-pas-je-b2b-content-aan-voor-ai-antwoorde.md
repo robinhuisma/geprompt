@@ -1,34 +1,32 @@
 ---
 title: "Van SEO naar GEO: zo pas je B2B-content aan voor AI-antwoorden"
-date: 2026-06-12T06:06:52.218Z
-tags: ["GEO", "B2B-content", "AI-zoekmachines", "marketingstrategie"]
+date: 2026-06-12T10:07:06.000Z
+tags: ["geo", "b2b-content", "ai-optimalisatie", "marketingstrategie"]
 categorieen: ["marketing-groei"]
-summary: "Praktische gids: welke content scoort in ChatGPT, Google AIO en Perplexity, en hoe je die aanpast."
+summary: "Ontdek hoe je content optimaliseert voor AI-chatbots zoals ChatGPT en Perplexity."
 draft: false
 source_name: "Marketingfacts"
 source_url: "https://www.marketingfacts.nl/berichten/van-seo-naar-geo-welke-b2b-content-scoort-in-chatgpt-google-aio-en-perplexity/"
 ---
 
-Het antwoord op de vraag hoe je B2B-content aanpast voor AI-zoekmachines is: focus op gestructureerde, gezaghebbende en beknopte antwoorden die direct aansluiten op gebruikersvragen. De traditionele SEO-aanpak werkt niet meer in ChatGPT, Google AIO en Perplexity; deze platforms belonen andere contenttypes.
+De manier waarop B2B-content wordt gevonden verandert. Waar je vroeger vooral schreef voor Google, schrijf je nu steeds vaker voor AI-chatbots zoals ChatGPT, Google AI Overviews en Perplexity. Dit heet Generative Engine Optimization (GEO) en het vraagt om een andere aanpak dan traditionele SEO.
 
 ## Wat er aan de hand is
 
-De verschuiving van Search Engine Optimization (SEO) naar Generative Engine Optimization (GEO) is in volle gang. Waar traditionele zoekmachines zoals Google webpagina’s rangschikken op basis van links, trefwoorden en domeinautoriteit, werken AI-gedreven antwoordmachines zoals ChatGPT, Google AI Overviews (AIO) en Perplexity anders. Zij genereren antwoorden door informatie uit meerdere bronnen te combineren en te parafraseren. Volgens Marketingfacts betekent dit dat B2B-content niet langer alleen moet scoren op positie in de zoekresultaten, maar ook moet worden opgenomen in de trainingsdata en context van deze AI-modellen. De kernvraag is niet meer ‘hoe kom ik bovenaan in Google?’, maar ‘hoe word ik geciteerd door een AI?’.
+Marketingfacts bericht over de opkomst van GEO als opvolger van SEO. Waar SEO draait om het rangschikken van webpagina’s in zoekresultaten, gaat GEO over het optimaliseren van content zodat AI-modellen deze gebruiken om antwoorden te genereren. Dit is geen toekomstmuziek: B2B-beslissers gebruiken steeds vaker AI-chatbots voor hun eerste oriëntatie. Volgens het artikel scoren content met duidelijke antwoorden, gestructureerde data en gezaghebbende bronnen beter in deze systemen. Voorbeelden van wat werkt zijn stapsgewijze handleidingen, vergelijkingstabellen en content die direct antwoord geeft op een specifieke vraag.
 
 ## Wat dit betekent
 
-Voor B2B-ondernemers en marketeers heeft deze verschuiving directe gevolgen. Content die vroeger goed scoorde – lange lappen tekst met veel trefwoorden en interne links – wordt door AI-zoekmachines vaak genegeerd of samengevat zonder bronvermelding. In plaats daarvan belonen deze systemen content die duidelijk, gestructureerd en gezaghebbend is. Denk aan sectoren zoals technologie, consultancy, financiële dienstverlening en industriële productie, waar beslissers steeds vaker een AI-tool gebruiken voor hun eerste oriëntatie. Als jouw bedrijf niet in de AI-antwoorden voorkomt, mis je een groeiend deel van de B2B-klantreis. Uit de analyse van Marketingfacts blijkt dat contenttypes zoals FAQ’s, stapsgewijze handleidingen, casestudy’s met concrete data en origineel onderzoek het beste scoren in deze nieuwe omgeving.
+Voor B2B-ondernemers betekent dit dat je contentstrategie niet langer alleen op Google is gericht. AI-chatbots halen informatie uit een breder scala aan bronnen, waaronder blogs, whitepapers, en gestructureerde data. Als jouw content niet is geoptimaliseerd voor deze systemen, loop je het risico dat concurrenten wél worden geciteerd in AI-antwoorden. Dit is vooral relevant voor sectoren waar beslissingen worden genomen op basis van eerste indrukken en snelle oriëntatie, zoals technologie, consultancy en zakelijke dienstverlening.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een B2B-website beheert met technische producten of diensten**, overweeg om een uitgebreide FAQ-pagina te maken met duidelijke, korte antwoorden op veelgestelde vragen. AI-zoekmachines halen hier graag informatie uit. Zorg dat elk antwoord in maximaal drie zinnen de kern raakt, en voeg een link naar een verdiepend artikel toe. Een mogelijkheid is om per productcategorie een aparte FAQ-sectie te maken, zodat de AI per onderwerp een specifiek antwoord kan vinden.
+**Als je een B2B-weblog beheert**, kun je overwegen om artikelen te schrijven die direct antwoord geven op veelgestelde vragen van klanten. In plaats van een algemeen artikel over 'cloudopslag', schrijf je een specifiek stuk met de titel 'Hoe kies je een cloudopslag voor een MKB-bedrijf met 50 medewerkers?' en geef je een stappenplan. AI-chatbots pikken deze specifieke, antwoordgerichte content eerder op.
 
-**Als je regelmatig whitepapers of onderzoeksrapporten publiceert**, kun je die content optimaliseren door een aparte ‘samenvatting voor AI’ toe te voegen. Dit is een kort blok van 100 tot 150 woorden met de belangrijkste conclusies en cijfers, voorzien van een duidelijke bronvermelding. AI-modellen zoals Perplexity en Google AIO gebruiken deze samenvattingen vaak als basis voor hun antwoorden. Je zou kunnen overwegen om elk rapport te beginnen met een ‘key takeaways’-sectie die ook los leesbaar is.
+**Als je whitepapers of rapporten publiceert**, is het een idee om de belangrijkste conclusies en data te structureren in een tabel of een duidelijke lijst. AI-modellen kunnen gestructureerde informatie beter verwerken en gebruiken in hun antwoorden. Overweeg om een samenvatting van je whitepaper te maken die los leesbaar is en de kernvraag beantwoordt.
 
-**Als je een blog beheert met diepgaande artikelen**, pas dan de structuur aan. Gebruik tussenkopjes die vragen beantwoorden, zoals ‘Wat kost implementatie van X?’ of ‘Hoe lang duurt de implementatie van Y?’. AI-zoekmachines scannen op deze vraag-antwoordstructuur. Een optie is om elk blogartikel te beginnen met een korte, duidelijke definitie van het onderwerp, gevolgd door een stappenplan. Vermijd lange inleidingen zonder directe informatie.
+**Als je concurrentieanalyse doet**, kun je eenvoudig testen hoe jouw content scoort in AI-chatbots. Stel een vraag over jouw vakgebied aan ChatGPT of Perplexity en kijk welke bronnen worden genoemd. Staat jouw content er niet tussen? Analyseer dan wat de geciteerde bronnen anders doen: geven ze directer antwoord, gebruiken ze meer voorbeelden of hebben ze een duidelijke structuur? Pas je eigen content daarop aan.
 
-**Als je casestudy’s gebruikt in je marketing**, zorg dan dat ze concrete cijfers en resultaten bevatten, zoals ‘klant X bespaarde 20% op operationele kosten’. AI-modellen hechten waarde aan specifieke data en gebruiken die vaak als bewijs in antwoorden. Overweeg om elke casestudy te voorzien van een aparte ‘resultaten’-sectie die je ook als zelfstandig blok kunt aanbieden, bijvoorbeeld in een aparte PDF of op een speciale landingspagina.
-
-**Als je actief bent in een nichemarkt met weinig concurrentie**, is dit een kans om als eerste gezaghebbende bron te verschijnen. Richt je op het publiceren van origineel onderzoek of unieke data die nergens anders te vinden is. AI-zoekmachines hebben een voorkeur voor unieke, betrouwbare informatie. Je zou kunnen beginnen met een klein klanttevredenheidsonderzoek of een analyse van trends in jouw sector, en de resultaten presenteren in een overzichtelijke tabel of grafiek.
+**Als je een team aanstuurt dat content produceert**, is het zinvol om een korte checklist te maken voor GEO. Denk aan: begint het artikel met een direct antwoord op de hoofdvraag? Bevat het gestructureerde data zoals lijsten of tabellen? Is de bronvermelding duidelijk? Door deze check in te bouwen in het redactieproces, zorg je dat nieuwe content van nature beter scoort in AI-omgevingen.
 
 Bron: [Marketingfacts](https://www.marketingfacts.nl/berichten/van-seo-naar-geo-welke-b2b-content-scoort-in-chatgpt-google-aio-en-perplexity/)
