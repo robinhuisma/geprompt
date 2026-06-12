@@ -1,32 +1,34 @@
 ---
-title: "AI-overnames blokkeren: wat de nieuwe wet betekent voor jouw bedrijf"
-date: 2026-06-12T18:06:30.895Z
-tags: ["wetgeving", "ai-overnames", "nationale veiligheid", "mkb"]
+title: "AI-overnames blokkeren: wat de nieuwe wet betekent voor jouw startup"
+date: 2026-06-12T22:05:13.675Z
+tags: ["wetgeving", "overnames", "ai-startups"]
 categorieen: ["nieuws-tools"]
-summary: "Het kabinet kan straks overnames van AI-bedrijven door niet-bevriende landen verbieden. Dit raakt investeerders en startups."
+summary: "Het kabinet breidt de overnametoets uit naar AI. Dit raakt startups met gevoelige technologie."
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/06/09/kabinet-kan-spoedig-ai-overnames-uit-niet-bevriende-landen-blokkeren/"
 ---
 
-Het kabinet krijgt de bevoegdheid om overnames van Nederlandse AI-bedrijven door partijen uit niet-bevriende landen te blokkeren. Vanaf 1 januari kan de minister van Economische Zaken een verbod opleggen als de nationale veiligheid in het geding is. Dit staat in een uitbreiding van de Wet veiligheidstoets investeringen, fusies en overnames (vifo).
+Het kabinet krijgt de mogelijkheid om overnames van AI-bedrijven door partijen uit niet-bevriende landen, zoals China, te blokkeren als de nationale veiligheid in het geding is. De Wet veiligheidstoets investeringen, fusies en overnames (vifo) wordt uitgebreid met AI en vijf andere technologieën, en de maatregel kan al per 1 januari ingaan.
 
 ## Wat er aan de hand is
 
-Minister Heleen Herbert (Economische Zaken en Klimaat) breidt de reikwijdte van de Wet vifo uit met zes technologieën, waaronder kunstmatige intelligentie. Naast AI gaat het om geavanceerde materialen, nanotechnologie, sensor- en navigatietechnologie, biotechnologie en nucleaire technologie voor medisch gebruik. De wet geldt sinds 2023 al voor defensie, quantum, fotonica, halfgeleiders en dual-use technologie. Ook zorginstellingen en aanbieders van gezondheidsdata en ICT kunnen eronder gaan vallen, zo heeft minister Mirjam Sterk (Langdurige Zorg, Jeugd en Sport) onlangs laten weten. Volgens minister Herbert is Nederland doelwit van cyberoperaties, spionage en sabotage. ‘Daarom moeten we als kabinet kennis, innovaties en bedrijven beschermen en versterken. Het streven blijft een open economie, maar we zijn scherp op risico’s.’ Het aangepaste besluit is aangeboden aan de Tweede en Eerste Kamer.
+Minister Heleen Herbert (Economische Zaken en Klimaat) heeft aangekondigd de Wet vifo uit te breiden met zes technologieën, waaronder kunstmatige intelligentie. De wet, die sinds 2023 van kracht is voor defensie, quantum, fotonica, halfgeleiders en dual-use technologie, wordt nu verbreed. Naast AI vallen ook geavanceerde materialen, nanotechnologie, sensor- en navigatietechnologie, biotechnologie en nucleaire technologie voor medisch gebruik onder de toetsingsplicht. Volgens de minister is Nederland doelwit van cyberoperaties, spionage en sabotage. Het streven blijft een open economie, maar het kabinet wil kennis, innovaties en bedrijven beter beschermen. De aanpassing is aangeboden aan de Tweede en Eerste Kamer.
 
 ## Wat dit betekent
 
-Voor ondernemers in de AI-sector betekent dit dat een overname of investering uit een niet-bevriend land straks vooraf getoetst kan worden. Het kabinet kan de transactie dan verbieden. Dit geldt niet alleen voor volledige overnames, maar ook voor fusies en andere investeringsvormen. De wet is bedoeld om te voorkomen dat gevoelige technologie in handen valt van partijen die een risico vormen voor de nationale veiligheid. Voor Nederlandse AI-startups kan dit betekenen dat bepaalde buitenlandse investeerders afvallen, of dat je als bedrijf extra documentatie moet aanleveren om een overname goedgekeurd te krijgen. De uitbreiding volgt op eerdere signalen van oud-minister Dirk Beljaarts, die in september 2024 al waarschuwde voor een hightech-wapenwedloop waarin AI, autonome wapens en geavanceerde halfgeleiders een belangrijke rol spelen.
+Voor ondernemers in de AI-sector betekent dit dat een overname of investering door een buitenlandse partij uit een niet-bevriende natie straks kan worden tegengehouden. Dat geldt niet alleen voor een volledige verkoop van je bedrijf, maar ook voor fusies en andere vormen van investeringen. De wet is bedoeld om te voorkomen dat gevoelige technologie in handen komt van landen die een risico vormen voor de nationale veiligheid. Voor startups en scale-ups die actief zijn in AI, kan dit gevolgen hebben voor financieringsrondes, strategische partnerschappen of een exit. Het is niet alleen een juridische kwestie, maar ook een strategische: je moet vooraf weten of een potentiële koper of investeerder onder de toetsingsplicht valt.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een AI-startup runt en overnamegesprekken voert met een buitenlandse partij.** Je zou kunnen nagaan of de partij afkomstig is uit een land dat door het kabinet als niet-bevriend wordt beschouwd. Overweeg om in een vroeg stadium juridisch advies in te winnen over de Wet vifo. Een optie is om de due diligence alvast uit te breiden met een veiligheidstoets, zodat je niet voor verrassingen komt te staan als de overname wordt tegengehouden.
+**Als je een AI-startup runt die werkt aan defensie, veiligheid of kritieke infrastructuur.** Je valt waarschijnlijk direct onder de nieuwe regels. Overweeg om een juridisch adviseur in te schakelen die gespecialiseerd is in de Wet vifo. Je kunt alvast een inventarisatie maken van je technologie en bepalen of deze onder de definitie van AI valt zoals de wet die straks hanteert. Dat geeft je houvast bij gesprekken met potentiële investeerders.
 
-**Als je als investeerder in Nederlandse AI-bedrijven wilt stappen.** Een mogelijkheid is om vooraf te checken of jouw investering onder de nieuwe regels valt. Je zou kunnen overwegen om de herkomst van je kapitaal helder te documenteren. Als je via een fonds uit een niet-bevriend land investeert, kan het zijn dat de transactie wordt getoetst. Overweeg om contact op te nemen met het ministerie van Economische Zaken voor een vooroverleg.
+**Als je een scale-up bent die een internationale overname overweegt of een buitenlandse investeerder zoekt.** Je zou kunnen onderzoeken of de partij afkomstig is uit een land dat door het kabinet als niet-bevriend wordt beschouwd. Een mogelijkheid is om in een vroeg stadium een pre-toetsing aan te vragen bij het Bureau Toetsing Investeringen. Dat voorkomt verrassingen later in het proces. Overweeg ook om in je aandeelhoudersovereenkomst clausules op te nemen die een overname door een niet-bevriende partij blokkeren of aan voorwaarden verbinden.
 
-**Als je een samenwerking aangaat met een buitenlands bedrijf op AI-gebied.** De wet geldt niet alleen voor overnames, maar ook voor andere investeringsvormen. Je zou kunnen onderzoeken of jouw samenwerking kwalificeert als een investering die getoetst moet worden. Een optie is om de samenwerking zo in te richten dat er geen sprake is van zeggenschapsoverdracht aan een niet-bevriende partij. Overweeg om een juridisch specialist in te schakelen die de Wet vifo kent.
+**Als je werkt met AI in de zorg of met gezondheidsdata.** Het ministerie van Langdurige Zorg overweegt om ook zorginstellingen en aanbieders van gezondheidsdata onder de Wet vifo te laten vallen. Als jouw AI-oplossing gebruikmaakt van patiëntgegevens of medische data, is het verstandig om de ontwikkelingen rond deze uitbreiding te volgen. Je zou kunnen nagaan of jouw technologie al onder de huidige regels valt, bijvoorbeeld via de toetsing voor vitale sectoren.
 
-**Als je in de zorg of gezondheidsdata werkt en AI toepast.** Minister Sterk heeft aangekondigd dat zorginstellingen en aanbieders van gezondheidsdata en ICT mogelijk ook onder de Wet vifo gaan vallen. Je zou kunnen nagaan of jouw organisatie straks onder de reikwijdte valt. Een mogelijkheid is om nu alvast je aandeelhoudersstructuur en investeringsplannen te inventariseren. Overweeg om een interne procedure op te zetten voor het melden van voorgenomen overnames of investeringen.
+**Als je een AI-bedrijf hebt dat niet direct met defensie of zorg te maken heeft.** De wet is breed geformuleerd. Zelfs als jouw technologie niet direct als gevoelig wordt gezien, kan een overname door een niet-bevriende partij alsnog worden getoetst. Een optie is om proactief contact op te nemen met het Bureau Toetsing Investeringen voor een oriënterend gesprek. Je kunt dan horen of jouw bedrijf onder de reikwijdte valt en wat de procedure inhoudt.
 
-Bron: Computable(https://www.computable.nl/2026/06/09/kabinet-kan-spoedig-ai-overnames-uit-niet-bevriende-landen-blokkeren/)
+**Als je een exit voorbereidt.** Als je van plan bent je bedrijf te verkopen, is het verstandig om de koper te screenen op nationaliteit en herkomst. Je zou kunnen overwegen om in de verkoopdocumentatie al aan te geven dat de transactie onderworpen kan zijn aan een veiligheidstoets. Dat schept duidelijkheid voor beide partijen en voorkomt vertraging.
+
+Bron: Computable
