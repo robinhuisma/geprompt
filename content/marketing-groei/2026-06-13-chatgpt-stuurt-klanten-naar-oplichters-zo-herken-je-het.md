@@ -1,32 +1,36 @@
 ---
 title: "ChatGPT stuurt klanten naar oplichters: zo herken je het"
-date: 2026-06-13T10:07:44.469Z
-tags: ["chatgpt", "oplichting", "databescherming", "mkb"]
+date: 2026-06-13T14:07:41.252Z
+tags: ["chatgpt", "oplichting", "veiligheid", "mkb"]
 categorieen: ["marketing-groei"]
-summary: "Oplichters manipuleren ChatGPT om frauduleuze shops aan te bevelen. Dit raakt ook jouw merk."
+summary: "Oplichters manipuleren ChatGPT om frauduleuze shops aan te bevelen. Zo bescherm jij je bedrijf en klanten."
 draft: false
 source_name: "Bright"
 source_url: "https://www.bright.nl/nieuws/2098887/chatgpt-raadt-nu-ook-producten-aan-van-scammers-die-uit-zijn-op-je-data.html"
 ---
 
-ChatGPT kan je klanten naar frauduleuze shops sturen die erop uit zijn om hun data te stelen. Oplichters manipuleren het algoritme van de chatbot door middel van ‘LLM data poisoning’, waardoor nepshops opeens als betrouwbare aanbevelingen verschijnen. Dit is geen ver-van-je-bed-show: het raakt direct de veiligheid van jouw klanten en het vertrouwen in jouw merk.
+Het antwoord
 
-## Wat er aan de hand is
+Oplichters manipuleren ChatGPT om hun frauduleuze webshops aan te bevelen. Dit betekent dat jouw klanten via AI onbedoeld bij criminelen terecht kunnen komen, met risico op datadiefstal en financiële schade.
 
-Waar oplichters eerder via SEO (zoekmachineoptimalisatie) probeerden mensen naar frauduleuze websites te lokken, richten ze zich nu op taalmodellen zoals ChatGPT. Ze vergiftigen de data waarop deze modellen zijn getraind, zodat de chatbot producten van scammers gaat aanraden. Volgens Bright zijn er al voorbeelden waarbij ChatGPT gebruikers naar shops stuurde die erop uit zijn om persoonlijke gegevens te stelen. Het is een nieuwe, slimmere variant van online fraude die moeilijker te herkennen is voor zowel consumenten als ondernemers.
+Wat er aan de hand is
 
-## Wat dit betekent
+Volgens Bright hebben scammers een nieuwe techniek ontwikkeld: LLM data poisoning. Waar oplichters eerder via SEO (zoekmachineoptimalisatie) hun frauduleuze sites hoog in Google kregen, richten ze zich nu op taalmodellen zoals ChatGPT. Door het algoritme te beïnvloeden, zorgen ze dat ChatGPT hun schadelijke webshops aanraadt aan nietsvermoedende gebruikers. Het gaat om shops die er betrouwbaar uitzien, maar in werkelijkheid zijn opgezet om persoonlijke gegevens en betaalgegevens te stelen. Deze vorm van manipulatie is lastig te detecteren, omdat de aanbeveling van ChatGPT een vals gevoel van veiligheid geeft.
 
-Voor jou als MKB’er betekent dit dat het vertrouwen in online aanbevelingen, ook van AI, onder druk komt te staan. Als ChatGPT jouw klanten naar een nepshop stuurt, kan dat twee gevolgen hebben. Ten eerste lopen jouw klanten het risico dat hun data wordt gestolen, wat jouw relatie met hen kan beschadigen. Ten tweede kan jouw eigen merk onbedoeld in verband worden gebracht met die frauduleuze shops, bijvoorbeeld als een klant denkt dat jij de aanbeveling hebt gedaan. Dit speelt vooral in sectoren met veel productaanbevelingen, zoals e-commerce, reizen en dienstverlening. Het is niet alleen een technisch probleem, maar ook een reputatievraagstuk.
+Wat dit betekent
 
-## Hoe je dit kunt toepassen
+Voor ondernemers betekent dit een nieuw risico in de klantreis. Als jouw klanten ChatGPT gebruiken voor productaanbevelingen, kunnen ze worden doorgestuurd naar nepshops die zich voordoen als legitieme bedrijven. Dit kan leiden tot reputatieschade als klanten denken dat jij hen naar een onveilige site hebt verwezen, of als jouw eigen merk wordt nagemaakt in een frauduleuze winkel. Vooral MKB’ers in de e-commerce, dienstverlening en retail moeten alert zijn. De impact is groter dan bij traditionele phishing, omdat ChatGPT een gezaghebbende bron is die gebruikers snel vertrouwen.
 
-**Als je een webshop runt en klanten via AI-aanbevelingen binnenkrijgt**, is het belangrijk om te controleren of jouw producten of diensten niet per ongeluk worden geassocieerd met frauduleuze links. Je zou een eenvoudige test kunnen doen: vraag ChatGPT zelf om een aanbeveling voor een product in jouw niche en kijk of de links kloppen. Als je verdachte URL’s ziet, kun je overwegen om dit te melden bij OpenAI of de beheerder van het model. Een optie is ook om een waarschuwing op je eigen site te plaatsen, zoals: ‘Let op: AI-chatbots kunnen onbetrouwbare shops aanraden. Controleer altijd de URL.’
+Hoe je dit kunt toepassen
 
-**Als je een team aanstuurt dat klantcontact verzorgt**, kun je je medewerkers trainen om klanten te wijzen op deze nieuwe vorm van oplichting. Leg uit dat ChatGPT niet altijd betrouwbaar is bij productaanbevelingen. Je zou een interne richtlijn kunnen opstellen: als een klant zegt dat hij via ChatGPT bij jouw site is gekomen, vraag dan of hij de link heeft gecontroleerd. Dit helpt om misverstanden te voorkomen en versterkt het vertrouwen.
+**Als je een webshop runt**, overweeg dan om je klanten actief te wijzen op het risico van AI-aanbevelingen. Je zou een korte waarschuwing op je site kunnen plaatsen, bijvoorbeeld: ‘Gebruik je ChatGPT voor productadvies? Controleer altijd of de aanbevolen winkel echt is.’ Dit helpt klanten om kritisch te blijven, ook als ze via AI bij jouw concurrenten uitkomen.
 
-**Als je in de marketing of communicatie werkt**, kun je overwegen om actief te monitoren of jouw merk wordt genoemd in ChatGPT-aanbevelingen. Dit is lastig, maar je kunt een medewerker of een tool inzetten om steekproefsgewijs te checken. Als je ziet dat ChatGPT jouw concurrenten aanbeveelt via frauduleuze links, kun je dat gebruiken in je eigen marketing: ‘Wij garanderen dat onze aanbevelingen altijd veilig zijn, in tegenstelling tot wat AI soms doet.’ Dit kan een onderscheidend vermogen zijn.
+**Als je een team aanstuurt dat klantcontact verzorgt**, is het verstandig om medewerkers te trainen in het herkennen van frauduleuze shops die via AI worden gepusht. Een mogelijkheid is om een checklist te maken met signalen: onrealistisch lage prijzen, geen duidelijke contactgegevens, vreemde URL’s. Zo kunnen zij klanten waarschuwen die vragen hebben over een aanbevolen product.
 
-**Als je een klein bedrijf hebt zonder eigen IT-afdeling**, is de belangrijkste stap om je klanten te informeren. Stuur een nieuwsbrief of plaats een bericht op social media waarin je uitlegt dat AI-chatbots zoals ChatGPT soms onbetrouwbare shops aanraden. Geef een simpele tip: ‘Controleer altijd of de URL klopt en of de webshop een fysiek adres en KVK-nummer heeft.’ Dit kost weinig tijd, maar kan veel ellende voorkomen.
+**Als je in de marketing of sales werkt**, kun je overwegen om zelf je producten of diensten te laten controleren door ChatGPT. Vraag het model om een aanbeveling in jouw branche en kijk of er onbekende of verdachte shops tussen zitten. Dit geeft je een beeld van hoe jouw markt eruitziet in de ogen van AI, en of oplichters actief zijn.
+
+**Als je verantwoordelijk bent voor de online veiligheid van je bedrijf**, is een optie om een monitoringstool in te zetten die verdachte domeinen signaleert die jouw merknaam gebruiken. Veel van deze tools zijn betaalbaar voor MKB’ers en kunnen waarschuwen als er een nepshop opduikt die via AI wordt gepromoot. Zo kun je snel actie ondernemen, bijvoorbeeld door een melding te doen bij de politie of hostingprovider.
+
+**Als je klanten adviseert over online aankopen**, kun je een eenvoudige vuistregel meegeven: vertrouw geen enkele AI-aanbeveling blind, maar check altijd de website zelf. Kijk naar reviews op onafhankelijke platforms, controleer het adres en zoek naar keurmerken. Dit is een kleine stap die veel ellende kan voorkomen.
 
 Bron: [Bright](https://www.bright.nl/nieuws/2098887/chatgpt-raadt-nu-ook-producten-aan-van-scammers-die-uit-zijn-op-je-data.html)
