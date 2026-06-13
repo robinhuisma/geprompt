@@ -1,31 +1,32 @@
 ---
 title: "Vlam-chat voor ambtenaren: wat het betekent voor MKB dat met de overheid werkt"
-date: 2026-06-13T06:11:53.835Z
-tags: ["overheid", "AI-tools", "compliance", "zakendoen"]
+date: 2026-06-13T22:12:39.774Z
+tags: ["overheid", "ai-compliance", "vlam", "datasoevereiniteit"]
 categorieen: ["slimmer-werken"]
-summary: "Rijksambtenaren krijgen een eigen AI-tool. Dit verandert hoe jij als ondernemer met de overheid communiceert."
+summary: "De overheid krijgt een eigen AI-tool. Voor MKB dat met de overheid werkt, verandert de compliance-standaard."
 draft: false
 source_name: "Computable"
 source_url: "https://www.computable.nl/2026/06/10/vlam-in-de-ai-pan-bij-rijksambtenaren/"
 ---
 
-De rijksoverheid bouwt aan een eigen AI-platform genaamd Vlam, dat ambtenaren een veilig, Nederlands alternatief moet bieden voor commerciële tools als ChatGPT. Voor ondernemers die zakendoen met de overheid betekent dit dat processen rond aanbestedingen, subsidieaanvragen en communicatie kunnen veranderen. De verwachting is dat Vlam in de tweede helft van dit jaar breed wordt uitgerold.
+De Nederlandse overheid bouwt met Vlam (Veilige Lokale AI Modellen) een eigen, volledig soeverein AI-platform voor ambtenaren. Dit alternatief voor ChatGPT, Claude en Gemini draait op eigen infrastructuur, onder controle van de AIVD en SSC-ICT. Voor ondernemers die zakendoen met de overheid, betekent dit dat de lat voor AI-compliance en databeveiliging definitief hoger komt te liggen.
 
 ## Wat er aan de hand is
-Vlam staat voor Veilige Lokale AI Modellen en is ontwikkeld door SSC-ICT in samenwerking met de AIVD. Het platform draait volledig binnen de rijksoverheid, waardoor data, modellen en infrastructuur onder Nederlandse controle blijven. Vlam wordt nu al gebruikt bij meerdere ministeries, waaronder Binnenlandse Zaken, VWS, Financiën en OCW, en draait in pilotvorm bij diverse andere rijksorganisaties. De tool wordt ingezet voor tekstbewerking, kwaliteitscontrole, vertalingen, brainstormen en samenvatten. Belangrijk: vertrouwelijke of privacygevoelige informatie mag niet worden verwerkt. Uit een enquête onder 285 gebruikers blijkt dat 77 procent merkbare tijdsbesparing ervaart en 82 procent de tool minimaal wekelijks gebruikt. De gemiddelde tevredenheid is een 7,1.
+
+Vlam is een chat-tool die door SSC-ICT in samenwerking met de AIVD is ontwikkeld en moet uitgroeien tot een rijksbreed AI-platform. Het platform draait volledig binnen de Nederlandse overheid: data, modellen en infrastructuur blijven onder eigen controle. Volgens antwoorden op Kamervragen wordt Vlam nu al geleverd aan de ministeries van VWS, Financiën, Algemene Zaken, OCW, IenW en de Hoge Colleges van Staat. Een brede productie-uitrol volgt naar verwachting in de tweede helft van dit jaar, zodra risicoanalyses en compliance-trajecten zijn afgerond. Uit een enquête onder 285 gebruikers blijkt dat 77 procent merkbare tijdsbesparing ervaart en 82 procent de tool minimaal wekelijks gebruikt. De gemiddelde tevredenheidsscore is een 7,1.
 
 ## Wat dit betekent
-Voor MKB-ondernemers die met de rijksoverheid werken, heeft de komst van Vlam directe gevolgen. Omdat ambtenaren een eigen, veilige AI-omgeving krijgen, zullen zij steeds vaker AI gebruiken bij het beoordelen van offertes, het verwerken van subsidieaanvragen en het opstellen van documenten. Dit betekent dat jouw documenten en communicatie beter leesbaar, gestructureerd en foutloos moeten zijn, omdat een AI-assistent ze sneller kan beoordelen. Daarnaast kan de overheid op termijn eisen stellen aan hoe jij als leverancier met AI omgaat, bijvoorbeeld rond databeveiliging en herkomst van modellen. De focus op soevereiniteit – alles onder Nederlandse controle – betekent dat de overheid waarschijnlijk de voorkeur geeft aan leveranciers die zelf ook met veilige, lokale AI werken.
+
+Voor MKB-ondernemers die leveren aan de overheid of samenwerken met rijksdiensten, verandert er iets fundamenteels. De overheid kiest niet voor een commerciële AI-dienst, maar voor een eigen, soeverein alternatief. Dat betekent dat je als leverancier niet kunt volstaan met 'we gebruiken gewoon ChatGPT'. De overheid zal steeds vaker eisen dat data en AI-toepassingen binnen Nederlandse of Europese grenzen blijven. Ook voor ondernemers die zelf worstelen met AI-compliance en datasoevereiniteit, is Vlam een signaal: de overheid neemt het serieus, en dat gaat doorwerken in aanbestedingen en contractvoorwaarden. De tool wordt ingezet voor tekstbewerking, kwaliteitscontrole, vertalingen, brainstormen en samenvatten, maar uitdrukkelijk niet voor vertrouwelijke of privacygevoelige informatie. Dat geeft aan waar de grenzen liggen, ook voor zakelijke partners.
 
 ## Hoe je dit kunt toepassen
-**Als je offertes indient bij de overheid:** Overweeg om je documenten nog zorgvuldiger te structureren. Gebruik duidelijke kopjes, een logische opbouw en vermijd jargon. Ambtenaren zullen Vlam inzetten om offertes samen te vatten en te controleren op volledigheid. Een goed gestructureerd document scoort beter in zo’n geautomatiseerde beoordeling.
 
-**Als je subsidieaanvragen doet:** Een mogelijkheid is om je aanvragen te laten controleren door een eigen AI-tool voordat je ze indient. Vlam kan inconsistenties of ontbrekende informatie sneller signaleren dan een mens. Door zelf vooraf te controleren, vergroot je de kans op goedkeuring.
+**Als je een dienstverlener bent die offertes of rapporten aan de overheid levert.** Je zou kunnen overwegen om vooraf te checken of jouw AI-gebruik voldoet aan dezelfde standaarden als Vlam. De overheid zal naar verwachting steeds vaker vragen hoe jij AI inzet en waar data worden opgeslagen. Een mogelijkheid is om een korte compliance-verklaring op te stellen waarin je aangeeft dat je geen data deelt met niet-Europese AI-diensten.
 
-**Als je samenwerkt met de overheid aan projecten:** Je zou kunnen overwegen om zelf ook een veilige, lokale AI-omgeving op te zetten voor vertrouwelijke communicatie. De overheid hecht steeds meer waarde aan datasoevereiniteit. Door aan te tonen dat jij ook met een beveiligde AI-omgeving werkt, kun je je onderscheiden van concurrenten.
+**Als je een softwareleverancier bent die AI-functionaliteit aanbiedt aan overheidsklanten.** Overweeg om te onderzoeken of jouw tool kan integreren met of aansluiten op de Vlam-omgeving. De overheid bouwt een eigen ecosysteem, en leveranciers die daarin meegaan, hebben een voorsprong. Een optie is om contact op te nemen met SSC-ICT over mogelijke aansluiting.
 
-**Als je producten of diensten levert die AI bevatten:** Het is verstandig om te inventariseren of jouw AI-oplossingen voldoen aan de eisen die de overheid stelt aan databeveiliging en herkomst. Vlam is een signaal dat de overheid streeft naar onafhankelijkheid van commerciële aanbieders. Jouw propositie wint aan kracht als je kunt aantonen dat data binnen Nederland blijft.
+**Als je als MKB-ondernemer zelf worstelt met AI-compliance en datasoevereiniteit.** De aanpak van de overheid kan als voorbeeld dienen. Je zou kunnen kijken naar lokale of Europese AI-oplossingen die data binnen de EU houden, in plaats van Amerikaanse clouddiensten. Een mogelijkheid is om een eenvoudige risicoanalyse te doen: welke data verwerk je met AI, en waar komen die terecht? Als dat onduidelijk is, kun je overwegen om over te stappen op een soevereine oplossing.
 
-**Als je een team hebt dat met de overheid correspondert:** Een optie is om interne richtlijnen op te stellen voor het gebruik van AI bij het opstellen van documenten. Zorg dat medewerkers weten dat hun werk mogelijk door een overheids-AI wordt gecontroleerd. Dit vraagt om heldere, feitelijke en controleerbare communicatie.
+**Als je in een sector werkt waar privacygevoelige informatie centraal staat, zoals zorg of juridisch.** De overheid geeft met Vlam aan dat AI veilig kan, mits de omgeving beheerd is. Je zou kunnen onderzoeken of er branche-specifieke, beveiligde AI-tools beschikbaar zijn die vergelijkbaar werken. Een optie is om met je branchevereniging te bespreken of een gezamenlijke, soevereine AI-omgeving haalbaar is.
 
 Bron: [Computable](https://www.computable.nl/2026/06/10/vlam-in-de-ai-pan-bij-rijksambtenaren/)
