@@ -1,29 +1,32 @@
 ---
 title: "Gemini 3.5 Live Translate: realtime vertaling zonder dure hardware voor het MKB"
-date: 2026-06-14T06:03:25.958Z
-tags: ["google gemini", "live translate", "realtime vertaling", "mkb"]
+date: 2026-06-14T18:04:43.682Z
+tags: ["google", "gemini", "vertaling", "mkb"]
 categorieen: ["nieuws-tools"]
-summary: "Google’s nieuwe AI vertaalt live spraak naar spraak in 70+ talen, direct bruikbaar voor klantgesprekken."
+summary: "Google brengt spraak-naar-spraak vertaling naar meer apparaten, zonder speciale telefoon of oortjes."
 draft: false
 source_name: "Arstechnica"
 source_url: "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/"
 ---
 
-Google’s nieuwe Gemini 3.5 Live Translate zet gesproken taal in meer dan 70 talen om in realtime, zonder dat je speciale hardware nodig hebt. Dit betekent dat je als ondernemer direct een vloeiend gesprek kunt voeren met een klant die een andere taal spreekt, via een gewone telefoon of computer.
+Google’s nieuwe Gemini 3.5 Live Translate maakt realtime spraakvertaling beschikbaar op meer apparaten, zonder dat je dure Google-hardware nodig hebt. Het model vertaalt gesproken taal in meer dan 70 talen en volgt een gesprek met slechts enkele seconden vertraging, terwijl het de intonatie en het ritme van je stem behoudt.
 
 ## Wat er aan de hand is
-Google heeft Gemini 3.5 Live Translate aangekondigd, een spraak-naar-spraakmodel dat automatisch vertaalt in meer dan 70 talen. Het model is getraind om intonatie, tempo en toonhoogte te behouden, waardoor de vertaalde stem natuurlijker klinkt en meer op de spreker lijkt dan een robotstem. De vertraging is slechts enkele seconden, genoeg om een normaal gesprek te volgen. Dit is een uitbreiding van de realtime vertaling die Google eerder al in de Translate-app introduceerde, maar nu met een specifiek spraakmodel binnen de Gemini 3.5-familie. Het Flash-model is beschikbaar; een Pro-versie wordt in de komende weken verwacht.
+
+Google heeft Gemini 3.5 Live Translate aangekondigd, een spraak-naar-spraak model dat direct vertaalt tijdens een gesprek. Waar eerdere realtime vertaaloplossingen van Google vaak specifieke hardware vereisten, zoals een Google Pixel-telefoon of Google-oortjes, werkt deze nieuwe versie op meer apparaten. Het model maakt deel uit van de Gemini 3.5-familie, die eerder dit jaar werd gelanceerd tijdens Google I/O. Tot nu toe was alleen de Flash-versie beschikbaar; een Pro-model wordt de komende weken verwacht. Google claimt dat de vertaling ‘een paar seconden achterloopt’ op de spreker en dat de stem natuurlijk klinkt, met behoud van toonhoogte en spreekritme.
 
 ## Wat dit betekent
-Voor het MKB opent dit de deur naar internationale klantcontacten zonder dure investeringen in tolken of gespecialiseerde apparatuur. Waar realtime vertaling voorheen vaak beperkt was tot Google’s eigen telefoons of oordopjes, werkt Gemini 3.5 Live Translate nu op standaard apparaten. Dit verlaagt de drempel voor kleine bedrijven om klanten in andere talen te woord te staan, of het nu gaat om een telefonische verkoop, een supportgesprek of een online meeting. De lagere latentie en natuurlijkere stem maken het gesprek vloeiender, wat de klantervaring verbetert. Voor sectoren zoals e-commerce, horeca, consultancy en logistiek kan dit een direct concurrentievoordeel opleveren.
+
+Voor ondernemers betekent dit dat realtime vertaling toegankelijker wordt. Waar je voorheen een dure headset of specifieke telefoon nodig had, kun je nu met een gewone smartphone of laptop een gesprek voeren met iemand die een andere taal spreekt. Dat opent deuren voor internationale klantcontacten, samenwerking met buitenlandse partners en het voeren van verkoopgesprekken zonder tussenkomst van een tolk. De lagere drempel maakt het haalbaar voor kleinere bedrijven die geen budget hebben voor professionele vertaaldiensten of dure apparatuur. Het model ondersteunt meer dan 70 talen, wat de meeste gangbare handelstalen dekt.
 
 ## Hoe je dit kunt toepassen
-**Als je een webshop runt met internationale klanten** kun je Gemini 3.5 Live Translate inzetten voor telefonische ondersteuning. Stel dat een Franse klant belt met een vraag over een bestelling. Je opent de app, de AI vertaalt de vraag in realtime naar het Nederlands, en jouw antwoord wordt direct in het Frans terugvertaald. Je zou kunnen overwegen om dit te integreren in je bestaande telefooncentrale of een apart device naast je werkplek te zetten.
 
-**Als je een team aanstuurt dat veel met buitenlandse leveranciers of partners werkt** kun je het model gebruiken tijdens videovergaderingen. In plaats van te wachten op een tolk, start je eenvoudig een vertaalsessie via een laptop of tablet. Een optie is om een vast moment per week in te plannen voor een meertalige check-in, waarbij je de tool gebruikt om taalbarrières weg te nemen. Overweeg om eerst een testgesprek te doen met een collega die de taal spreekt om de kwaliteit te verifiëren.
+**Als je een webshop runt met internationale klanten.** Je kunt Gemini 3.5 Live Translate inzetten tijdens telefonische klantgesprekken. Een klant uit Frankrijk belt met een vraag over een bestelling. Je opent de app, de klant spreekt Frans, en jij hoort de vertaling in het Nederlands met een natuurlijke stem. Jij antwoordt in het Nederlands, de klant hoort Frans. Zo los je problemen op zonder dat je een tweetalige medewerker nodig hebt.
 
-**Als je in de horeca of dienstverlening werkt** en regelmatig toeristen of expats ontvangt, kun je Gemini 3.5 Live Translate gebruiken voor reserveringen of vragen aan de balie. Stel dat een Spaanse gast belt om een tafel te boeken. Je opent de vertaalfunctie, hoort de vraag in het Nederlands en antwoordt in het Engels, waarna de AI het Spaans terugvertaalt. Je zou kunnen overwegen om een tablet bij de receptie te plaatsen met de app altijd klaar, zodat je zonder dure apparatuur meertalige service biedt.
+**Als je een team aanstuurt met buitenlandse freelancers.** Tijdens een wekelijkse videocall met een ontwikkelaar uit Polen en een designer uit Spanje kun je de live vertaalfunctie gebruiken. Iedereen spreekt zijn eigen taal, de vertaling volgt in realtime. Dat voorkomt misverstanden en versnelt de besluitvorming. Je zou kunnen overwegen om de functie standaard in te schakelen bij internationale overleggen, in plaats van te vertrouwen op geschreven chatvertalingen.
 
-**Als je een consultancy- of adviesbureau runt** en prospectgesprekken voert met internationale leads, kun je de tool inzetten om direct te schakelen tussen talen. In plaats van een tolk in te huren voor een eerste kennismaking, start je een vertaald gesprek via je laptop. Een mogelijkheid is om de tool te gebruiken tijdens de eerste 15 minuten van een call om te peilen of er een match is, voordat je investeert in professionele vertaling. Overweeg om vooraf de gespreksonderwerpen te delen, zodat de AI de context beter begrijpt.
+**Als je in de dienstverlening werkt en buitenlandse ondernemers bedient.** Een accountant of juridisch adviseur die regelmatig met Duitse of Engelse opdrachtgevers spreekt, kan Live Translate gebruiken voor intakegesprekken of tussentijdse updates. De cliënt spreekt in zijn moedertaal, jij hoort de vertaling en kunt direct reageren. Een optie is om de functie te testen met een proefgesprek voordat je hem inzet voor formele zaken, zodat je de nauwkeurigheid in jouw vakgebied kunt beoordelen.
 
-Bron: Arstechnica (https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/)
+**Als je deelneemt aan internationale beurzen of netwerkevents.** Op een beurs in Duitsland of Frankrijk kun je met Live Translate spontane gesprekken voeren met potentiële klanten. Je hoeft geen tolk mee te nemen en je bent niet afhankelijk van Engelstalige gesprekspartners. Overweeg om de app vooraf te installeren en te testen met een collega, zodat je tijdens een gesprek niet hoeft te rommelen met instellingen.
+
+Bron: Arstechnica
