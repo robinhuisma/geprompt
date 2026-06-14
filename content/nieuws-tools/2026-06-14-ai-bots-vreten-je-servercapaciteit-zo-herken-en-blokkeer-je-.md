@@ -1,32 +1,31 @@
 ---
 title: "AI-bots vreten je servercapaciteit: zo herken en blokkeer je ze"
-date: 2026-06-14T14:04:30.127Z
-tags: ["ai-bots", "serverbeheer", "website-optimalisatie", "botblocking"]
+date: 2026-06-14T22:06:54.778Z
+tags: ["ai-bots", "serverbeheer", "website-optimalisatie", "botverkeer"]
 categorieen: ["nieuws-tools"]
-summary: "80% van AI-verkeer belast servers voor modeltraining. Zo bescherm je je site zonder Google-ranking te schaden."
+summary: "Leer hoe je AI-botverkeer herkent en blokkeert zonder je Google-ranking te schaden."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/"
 ---
 
-80 procent van al het AI-verkeer op websites is niet bedoeld om jouw content te lezen, maar om data te schrapen voor het trainen van AI-modellen. Dat kost servercapaciteit, vertraagt je site en drijft hostingkosten op. Het goede nieuws: je kunt deze bots herkennen en blokkeren zonder dat je Google-ranking eronder lijdt.
+Het antwoord is dat AI-bots tot 80 procent van je servercapaciteit kunnen opslokken voor modeltraining, maar dat je dit verkeer kunt blokkeren zonder je positie in Google te verliezen. Het draait om het herkennen van de juiste signalen in je serverlogs en het inzetten van specifieke instellingen.
 
 ## Wat er aan de hand is
-
-Volgens Search Engine Journal wordt een groot deel van het inkomende websiteverkeer gegenereerd door AI-bots die systematisch pagina’s scrapen. Deze bots zijn vaak agressiever dan traditionele crawlers: ze openen tientallen pagina’s per seconde, negeren robots.txt-regels en gebruiken wisselende IP-adressen om detectie te omzeilen. Het probleem is niet nieuw, maar de schaal wel. Waar vroeger vooral zoekmachines je server belastten, zijn het nu tientallen AI-bedrijven die tegelijkertijd data verzamelen. Het gevolg: hogere hostingrekeningen, tragere laadtijden voor echte bezoekers en in het ergste geval downtime.
+Uit een analyse van Search Engine Journal blijkt dat AI-bots steeds vaker websites platleggen door enorme hoeveelheden data te scrapen voor het trainen van taalmodellen. Dit verkeer is niet altijd zichtbaar in standaard analytics, maar wel in serverlogs. Het probleem is dat veel website-eigenaren onnodig betalen voor extra servercapaciteit of dure CDN-diensten, terwijl een deel van dat verkeer eenvoudig te weren is. De bots komen van bedrijven zoals OpenAI, Google en Anthropic, en ze gedragen zich anders dan gewone bezoekers of zoekmachines.
 
 ## Wat dit betekent
-
-Voor ondernemers met een eigen website of webshop betekent dit dat je mogelijk betaalt voor verkeer dat je niets oplevert. Elke keer dat een AI-bot een pagina laadt, verbruikt die bandbreedte en rekencapaciteit. Bij een gemiddelde hostingprovider kan dat oplopen tot tientallen euro’s per maand extra. Vooral als je een dynamische site hebt met veel productpagina’s of blogartikelen, ben je een aantrekkelijk doelwit. Het risico is dat je site trager wordt voor echte klanten, wat direct invloed heeft op conversie en vindbaarheid. Google gebruikt laadtijd namelijk als rankingfactor.
+Voor ondernemers met een eigen website of webshop betekent dit dat je mogelijk geld uitgeeft aan infrastructuur die je niet nodig hebt. Elke keer dat een AI-bot een pagina ophaalt, kost dat rekenkracht en bandbreedte. Bij grote aantallen kan dat leiden tot tragere laadtijden voor echte bezoekers, hogere hostingkosten en in het ergste geval een crash. Het risico is dat je onterecht denkt dat je site populairder is dan hij is, terwijl het grootste deel van het verkeer uit geautomatiseerde scrapers bestaat. Vooral kleinere websites zonder dure beveiligingspakketten zijn kwetsbaar.
 
 ## Hoe je dit kunt toepassen
+**Als je een webshop runt en merkt dat je serverlogs vol staan met onbekende user agents.** Je kunt in je serverlogs zoeken naar user agents die verwijzen naar AI-bedrijven, zoals `GPTBot`, `CCBot`, `Claude-Web` of `Google-Extended`. Voeg deze eenvoudig toe aan je `robots.txt`-bestand met de regel `Disallow: /`. Dit vertelt de bot dat hij niet mag crawlen, zonder dat het je ranking bij Google beïnvloedt. Google heeft namelijk aangegeven dat het blokkeren van AI-bots geen invloed heeft op je positie in de gewone zoekresultaten.
 
-**Als je een webshop runt met veel productpagina’s**, dan is de kans groot dat AI-bots al je URL’s systematisch doorlopen. Je zou kunnen beginnen met het analyseren van je serverlogs. Zoek naar patronen: een IP-adres dat in een paar seconden tientallen pagina’s bezoekt, of user agents die niet lijken op die van Googlebot of Bingbot. Een optie is om een tool als Cloudflare of een server-side firewall te gebruiken om verdachte user agents te blokkeren. Overweeg om een rate limit in te stellen: maximaal 10 pagina’s per minuut per IP-adres. Dat filtert agressieve bots eruit zonder normale bezoekers te hinderen.
+**Als je een blog of nieuwssite beheert en veel onverklaarbaar piekverkeer ziet.** Een mogelijkheid is om een rate limit in te stellen op je webserver, bijvoorbeeld via `.htaccess` of een plugin zoals Wordfence. Hiermee beperk je het aantal verzoeken per seconde van een IP-adres. AI-bots sturen vaak honderden verzoeken per minuut, terwijl een echte bezoeker er hooguit een paar doet. Door een limiet van 10 verzoeken per minuut in te stellen, filter je de meeste bots eruit zonder dat normale gebruikers er last van hebben.
 
-**Als je een blog of nieuwssite beheert**, dan zijn AI-bots extra schadelijk omdat ze je content kopiëren voor modeltraining. Een mogelijkheid is om je robots.txt aan te scherpen. Voeg regels toe die bekende AI-crawlers blokkeren, zoals GPTBot, CCBot of Claude-Web. Let op: niet alle bots respecteren robots.txt, dus dit is een eerste stap, geen volledige oplossing. Je kunt ook een .htaccess-bestand gebruiken om specifieke user agents te blokkeren op server-niveau. Test altijd of je site nog normaal laadt voor Googlebot.
+**Als je een leadgeneratie-site hebt en bang bent dat je Google-ranking lijdt onder het blokkeren van bots.** Overweeg om een aparte `robots.txt`-regel te maken voor AI-bots, maar laat de standaard zoekmachines zoals Googlebot en Bingbot gewoon door. Je kunt ook een `.htaccess`-regel toevoegen die alleen verkeer blokkeert met een user agent die `GPTBot` of `Claude` bevat. Dit is veilig omdat Google zelf aangeeft dat het blokkeren van AI-bots geen invloed heeft op je organische vindbaarheid.
 
-**Als je een team aanstuurt dat verantwoordelijk is voor websitebeheer**, dan is het verstandig om een monitoringtool in te stellen die ongebruikelijk verkeer signaleert. Diensten zoals Matomo of custom scripts in Google Analytics kunnen patronen zichtbaar maken. Overweeg om een wekelijkse rapportage in te stellen die pieken in serverbelasting koppelt aan specifieke IP-reeksen. Zo kun je snel ingrijpen voordat de hostingkosten oplopen. Een optie is om een lijst met bekende AI-bot-IP-reeksen te importeren in je firewall, die je maandelijks bijwerkt.
+**Als je een technische website beheert en zelf wilt zien welke bots langskomen.** Je zou een gratis tool zoals `GoAccess` kunnen installeren om je serverlogs realtime te analyseren. Hiermee zie je direct welke user agents de meeste requests doen. Als je merkt dat een onbekende bot elke dag duizenden pagina's ophaalt, kun je die specifiek blokkeren. Dit werkt ook voor gedeelde hosting zonder root-toegang, zolang je toegang hebt tot de logs.
 
-**Als je in de hostingbranche werkt of meerdere sites beheert**, dan kun je overwegen om een CDN met botmanagement in te schakelen. Diensten zoals Cloudflare’s Bot Management of Sucuri bieden geautomatiseerde detectie van AI-bots. Ze herkennen gedragspatronen in plaats van alleen user agents, wat effectiever is tegen bots die zich voordoen als echte browsers. De praktische toepassing hangt af van jouw situatie, maar het kan de moeite waard zijn om een proefperiode aan te vragen en de impact op je serverbelasting te meten.
+**Als je een webshop met veel productpagina's hebt en last hebt van trage laadtijden.** Een praktische stap is om een caching-plugin in te schakelen die pagina's statisch maakt. AI-bots kunnen dan nog steeds de gecachte versie ophalen, maar dat kost vrijwel geen servercapaciteit. Combineer dit met een `robots.txt`-blokkade voor de bekendste AI-bots, en je ziet direct een daling in serverbelasting.
 
 Bron: [Search Engine Journal](https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/)
