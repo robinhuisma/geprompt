@@ -1,34 +1,34 @@
 ---
 title: "Brits socialmediaverbod voor kinderen: lessen voor Nederlandse ondernemers"
-date: 2026-06-16T14:06:42.299Z
-tags: ["socialmedia", "kindermarketing", "beleid", "ondernemers"]
+date: 2026-06-16T22:05:31.266Z
+tags: ["socialmedia", "wetgeving", "jeugd", "ondernemen"]
 categorieen: ["nieuws-tools"]
-summary: "Engeland verbiedt socialmedia tot 16 jaar. Wat betekent dit voor jouw marketing en klantbereik?"
+summary: "Engeland verbiedt socialmedia voor kinderen tot 16. Wat betekent dit voor jouw bedrijf?"
 draft: false
 source_name: "Emerce"
 source_url: "https://www.emerce.nl/nieuws/engeland-verbiedt-socialmedia-kinderen-tot-16-jaar"
 ---
 
-Het Britse kabinet wil kinderen onder de zestien jaar verbieden om socialmedia en livestreams te gebruiken. De wet, die voor kerst moet worden aangenomen en in het voorjaar van 2027 ingaat, is waarschijnlijk de strengste ter wereld. Voor Nederlandse ondernemers is dit geen ver-van-mijn-bedshow: het signaal is duidelijk dat ook in Europa de druk op socialmediagebruik door jongeren toeneemt.
+Het Verenigd Koninkrijk verbiedt per voorjaar 2027 socialmedia voor kinderen tot zestien jaar. Voor Nederlandse ondernemers is dit geen ver-van-je-bed-show, maar een signaal dat de maatschappelijke en politieke druk op techbedrijven en socialmediagebruik toeneemt. Dit kan directe gevolgen hebben voor je marketingstrategie, productontwikkeling en klantbeleid.
 
 ## Wat er aan de hand is
 
-De Engelse overheid kondigt aan dat kinderen tot zestien jaar geen toegang meer krijgen tot platforms als Snapchat, TikTok, YouTube, Instagram, Facebook, X en gamingsites. Whatsapp en Signal blijven buiten schot. Kinderen tot achttien krijgen dezelfde ban, maar kunnen die zelf deactiveren. Premier Keir Starmer stelt dat kinderen hun jeugd terugkrijgen: minder scrollen, meer spelen. Staatssecretaris Lisa Nandy zegt dat techbedrijven tijd genoeg hebben gehad om in te grijpen, maar niets deden. Toezichthouder Ofcom onderzoekt hoe leeftijden aan de poorten van platforms het beste gecontroleerd kunnen worden. De wet is geïnspireerd op een vergelijkbare wet in Australië, waar kinderen leeftijdscontroles wisten te omzeilen en niet werden begeleid naar alternatieve tijdsbestedingen. Engelse kinderen reageren volgens de BBC teleurgesteld en weten niet wat ze met de vrijgekomen tijd moeten doen.
+De Britse regering kondigt een van de strengste socialmediawetten ter wereld aan. Vanaf het voorjaar van 2027 krijgen kinderen onder de zestien geen toegang meer tot platforms als Snapchat, TikTok, YouTube, Instagram, Facebook, gamingsites en X. Alleen WhatsApp en Signal blijven toegestaan. Kinderen van zestien tot achttien jaar krijgen dezelfde ban opgelegd, maar kunnen deze zelf deactiveren. De wet moet voor kerst 2026 worden aangenomen. Toezichthouder Ofcom start direct een onderzoek naar de beste manier om leeftijden te controleren bij de toegang tot deze platforms. De Britse overheid zegt lessen te trekken uit een vergelijkbare wet in Australië, waar kinderen leeftijdscontroles wisten te omzeilen en niet werden begeleid naar alternatieve tijdsbestedingen.
 
 ## Wat dit betekent
 
-Voor Nederlandse ondernemers is dit geen directe wet, maar wel een sterke aanwijzing. De sentimenten in Europa zijn vergelijkbaar met die in Engeland. Ouders, instanties en politici maken zich zorgen over de invloed van socialmedia op kinderen. Als Engeland deze wet doorvoert, is de kans groot dat ook de Europese Unie of Nederland strengere regels overweegt. Dat raakt ondernemers die jongeren als doelgroep hebben: van webshops in kleding en gadgets tot aanbieders van online cursussen, gamingplatforms of merken die via influencers jongeren bereiken. Ook als je niet direct op kinderen mikt, kan een strenger klimaat betekenen dat socialmediaplatforms hun algoritmes en advertentiemogelijkheden aanpassen. De discussie over leeftijdsverificatie en verantwoordelijkheid van platforms wordt alleen maar groter.
+Voor Nederlandse ondernemers is dit relevant om drie redenen. Ten eerste: de wetgeving in het VK kan een precedent scheppen voor de Europese Unie, die volgens het artikel dezelfde sentimenten kent maar nog niet tot een vergelijkbare maatregel is gekomen. Ten tweede: als je bedrijf actief is op de Britse markt of Britse klanten bedient, moet je rekening houden met een drastische krimp van je bereik onder jongeren. Ten derde: de wet dwingt techbedrijven tot strengere leeftijdscontroles. Dit kan leiden tot hogere kosten voor platformen, die deze mogelijk doorberekenen aan adverteerders of gebruikers. Voor ondernemers die socialmedia inzetten voor marketing of verkoop, betekent dit dat je strategie minder afhankelijk moet worden van jongere doelgroepen op deze platforms.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt die producten verkoopt aan jongeren onder de zestien**, overweeg om je marketingstrategie nu al te verbreden. Vertrouw niet alleen op socialmedia-advertenties op TikTok of Instagram. Bouw een e-maillijst op via nieuwsbrieven of werk samen met scholen en sportclubs voor offline bereik. Zo ben je minder kwetsbaar als de regels strenger worden.
+**Als je een webshop runt die zich richt op jongeren tot zestien jaar**, overweeg om je marketingkanalen te verbreden. De kans is reëel dat je doelgroep over een paar jaar niet meer via Instagram of TikTok te bereiken is. Je zou kunnen investeren in e-mailmarketing, een eigen community of samenwerkingen met scholen en sportclubs. Een optie is om nu al te experimenteren met WhatsApp-marketing, aangezien dit platform in de Britse wet wordt uitgezonderd.
 
-**Als je een merk bent dat via influencers jongeren bereikt**, is het verstandig om te onderzoeken hoe je doelgroep er over een paar jaar uitziet. Influencers die nu populair zijn onder twaalfjarigen, kunnen hun bereik verliezen als die groep niet meer op de platforms zit. Een optie is om te investeren in content die aansluit bij oudere jongeren of bij ouders, die mogelijk meer invloed krijgen op het mediagebruik van hun kinderen.
+**Als je een product of dienst ontwikkelt voor jongeren**, is het verstandig om na te denken over alternatieve distributiekanalen. De wet dwingt je om buiten de grote socialmediaplatforms om te werken. Je zou kunnen onderzoeken of een eigen app of een webgebaseerd platform een oplossing biedt. Overweeg om functionaliteiten te bouwen die aansluiten bij de ‘initiatieven ter verrijking’ die de Britse overheid noemt, zoals jeugdhonken of offline activiteiten.
 
-**Als je een dienst aanbiedt die jongeren helpt bij hun vrijetijdsbesteding**, bijvoorbeeld sport, muziek of creatieve workshops, dan is dit een kans. De Britse overheid spreekt zelf over ‘initiatieven ter verrijking’ zoals jeugdhonken. Je zou kunnen nadenken over hoe jouw aanbod aansluit bij de behoefte aan offline of alternatieve online activiteiten. Denk aan abonnementsmodellen voor fysieke activiteiten of online communities zonder socialmedia-kenmerken.
+**Als je een team aanstuurt dat socialmedia inzet voor klantcontact**, is het goed om te anticiperen op strengere leeftijdscontroles. Dit kan betekenen dat je minder eenvoudig jongeren bereikt via betaalde advertenties. Een mogelijkheid is om je klantenservice te verplaatsen naar kanalen die wél toegestaan blijven, zoals WhatsApp of Signal. Je zou ook kunnen overwegen om een apart, leeftijdsgeverifieerd kanaal op te zetten voor jongere gebruikers.
 
-**Als je een platform of app beheert waar jongeren actief zijn**, is het zaak om nu al te kijken naar leeftijdsverificatie. In Engeland gaat Ofcom onderzoeken hoe dat het beste kan. In Nederland kun je vooroplopen door vrijwillig een systeem in te bouwen dat controleert of gebruikers oud genoeg zijn. Dat kan reputatieschade voorkomen en je voorbereiden op mogelijke toekomstige wetgeving.
+**Als je in de zorg of het onderwijs werkt met jongeren**, kun je deze ontwikkeling gebruiken om je eigen beleid aan te scherpen. De Britse wet is een duidelijk signaal dat overheden ingrijpen waar techbedrijven nalaten. Je zou kunnen onderzoeken of je eigen organisatie al voldoende doet om jongeren te beschermen tegen schadelijke content. Overweeg om een protocol op te stellen voor het gebruik van socialmedia in contact met minderjarigen.
 
-**Als je een ouder bent en ondernemer**, kun je dit nieuws gebruiken om met andere ouders in gesprek te gaan over schermtijd en alternatieven. Dat versterkt je positie als betrokken ondernemer en kan leiden tot nieuwe klantrelaties. Een mogelijkheid is om een lokale bijeenkomst te organiseren over mediawijsheid, waarbij je jouw product of dienst op een natuurlijke manier onder de aandacht brengt.
+**Als je een internationaal bedrijf bent met vestigingen in het VK**, is het zaak om nu al te inventariseren welke platforms je gebruikt voor communicatie met Britse klanten onder de zestien. De wet treedt pas in 2027 in werking, maar de voorbereidingen beginnen nu. Je zou kunnen overwegen om een werkgroep op te zetten die de impact van deze wet op je marketing- en communicatiestrategie in kaart brengt.
 
 Bron: [Emerce](https://www.emerce.nl/nieuws/engeland-verbiedt-socialmedia-kinderen-tot-16-jaar)
