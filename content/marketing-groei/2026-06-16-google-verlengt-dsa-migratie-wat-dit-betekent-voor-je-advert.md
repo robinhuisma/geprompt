@@ -1,32 +1,34 @@
 ---
 title: "Google verlengt DSA-migratie: wat dit betekent voor je advertentiebudget"
-date: 2026-06-16T02:10:59.155Z
+date: 2026-06-16T06:09:45.227Z
 tags: ["google ads", "dynamic search ads", "ai max", "migratie"]
 categorieen: ["marketing-groei"]
-summary: "Google geeft tot februari 2027 om Dynamic Search Ads om te zetten naar AI Max."
+summary: "Google geeft adverteerders tot februari 2027 om over te stappen van Dynamic Search Ads naar AI Max."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/google-extends-dynamic-search-ads-migration-deadline/579074/"
 ---
 
-Je hebt tot februari 2027 de tijd om je Dynamic Search Ads (DSA) om te zetten naar de nieuwe AI Max-campagnes. Google heeft de migratiedeadline verlengd, waardoor je als ondernemer meer ruimte hebt om de overstap zorgvuldig te plannen zonder dat je advertentieprestaties in gevaar komen.
+IMAGE_PROGRESS: a row of server racks with blinking blue LEDs in a dim data center corridor, cables neatly bundled
+
+Google heeft de deadline voor de migratie van Dynamic Search Ads (DSA) naar AI Max verlengd tot februari 2027. Dat geeft adverteerders bijna twee jaar extra om de overstap te plannen en uit te voeren zonder dat hun campagnes onverwacht worden stilgelegd.
 
 ## Wat er aan de hand is
 
-Google heeft aangekondigd dat de verplichte migratie van Dynamic Search Ads naar AI Max-campagnes is uitgesteld tot februari 2027. Dynamic Search Ads zijn campagnes die automatisch advertenties genereren op basis van de inhoud van je website, zonder dat je zelf zoekwoorden hoeft in te voeren. AI Max is de opvolger die gebruikmaakt van geavanceerdere AI om zoekopdrachten te matchen en biedingen te optimaliseren. Volgens Search Engine Journal geeft deze deadlineverlenging adverteerders meer tijd om zich voor te bereiden op de overstap, die oorspronkelijk eerder moest plaatsvinden.
+Google kondigde eerder aan dat Dynamic Search Ads, een campagnevorm die automatisch advertenties genereert op basis van de inhoud van je website, zou worden vervangen door AI Max. De oorspronkelijke deadline lag in 2025. Nu heeft Google die datum verschoven naar februari 2027. Dat betekent dat bestaande DSA-campagnes nog ruim anderhalf jaar blijven draaien zoals gewoonlijk. Nieuwe DSA-campagnes kun je nog steeds aanmaken, maar Google raadt aan om alvast te experimenteren met AI Max. De aankondiging staat op de officiële Google Ads-help pagina en is bevestigd door Search Engine Journal.
 
 ## Wat dit betekent
 
-Voor MKB-ondernemers die DSA gebruiken, betekent dit concreet dat je niet in paniek hoeft te schakelen. Je kunt de migratie spreiden over de komende jaren, wat vooral handig is als je meerdere campagnes draait of als je afhankelijk bent van externe specialisten. De impact is het grootst voor bedrijven die veel vertrouwen op automatische targeting, zoals webshops met grote productcatalogi of dienstverleners met wisselende aanbiedingen. Omdat AI Max andere optimalisatiemogelijkheden biedt, kan het zijn dat je huidige DSA-strategie niet één-op-één over te zetten is. De deadlineverlenging geeft je de kans om te testen en bij te sturen zonder dat je direct resultaten verliest.
+Voor adverteerders die afhankelijk zijn van Dynamic Search Ads is dit uitstel een kans om de overstap zorgvuldig te plannen in plaats van onder tijdsdruk. AI Max is een andere technologie dan DSA: het gebruikt machine learning om zoekopdrachten te interpreteren en advertenties te genereren, terwijl DSA vooral vertrouwt op de structuur van je website. Dat betekent dat campagnes die goed presteren in DSA niet één-op-één over te zetten zijn naar AI Max. Vooral bedrijven met complexe productcatalogi of veel dynamische content moeten rekening houden met een leercurve. De impact is het grootst voor webshops, dienstverleners met veel variabele aanbiedingen en bedrijven die sterk leunen op automatisch gegenereerde advertenties.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt met honderden producten**, kun je de komende maanden gebruiken om je productfeed te optimaliseren. AI Max werkt namelijk beter met gestructureerde data. Overweeg om je productcategorieën te herzien en ervoor te zorgen dat elke pagina duidelijke titels en beschrijvingen heeft. Je zou kunnen beginnen met een testcampagne in AI Max voor je bestverkopende productgroep, zodat je de resultaten kunt vergelijken met je huidige DSA-campagne.
+**Als je een webshop runt met honderden producten**, dan is het verstandig om nu al een testcampagne in AI Max op te zetten naast je bestaande DSA-campagne. Je kunt de prestaties van beide campagnes vergelijken zonder dat je huidige resultaten in gevaar komen. Begin met een kleine subset van producten, bijvoorbeeld de top 20 best verkopende items, en kijk hoe AI Max reageert op zoekopdrachten. Dit geeft je inzicht in de leerperiode en eventuele afwijkingen in conversies.
 
-**Als je een dienstverlener bent met wisselende aanbiedingen**, is het verstandig om te kijken hoe AI Max omgaat met landingspagina’s die regelmatig veranderen. Een optie is om een aparte AI Max-campagne op te zetten voor je vaste diensten, terwijl je DSA nog gebruikt voor tijdelijke acties. Op die manier kun je de prestaties van beide systemen naast elkaar leggen en bepalen welke het beste werkt voor jouw situatie.
+**Als je een team aanstuurt dat verantwoordelijk is voor Google Ads**, overweeg dan om een migratieplanning te maken met mijlpalen. Het uitstel tot 2027 betekent niet dat je kunt wachten tot 2026. Plan een kwartaal waarin je de technische verschillen tussen DSA en AI Max documenteert, een testfase inricht en je team traint op de nieuwe interface. Zo voorkom je dat de deadline je overvalt en dat je in de laatste maanden moet schakelen.
 
-**Als je een marketingteam aanstuurt**, kun je de extra tijd gebruiken om je team of externe specialisten te trainen in AI Max. Overweeg om een interne roadmap te maken met mijlpalen, zoals het opzetten van een testcampagne in het eerste kwartaal en het evalueren van resultaten na drie maanden. Je zou ook kunnen overwegen om een deel van je budget te reserveren voor experimenten met AI Max, zodat je niet afhankelijk bent van een last-minute migratie.
+**Als je in een sector werkt met seizoensgebonden campagnes**, zoals de reisbranche of de detailhandel, dan kun je het beste de overstap plannen in een rustige periode. Gebruik de extra tijd om AI Max te testen tijdens een laagseizoen, zodat eventuele prestatieverliezen minder impact hebben. Je zou kunnen overwegen om in het najaar van 2025 een eerste proefcampagne te draaien en de resultaten te analyseren voordat je in 2026 de volledige migratie uitvoert.
 
-**Als je een klein budget hebt en DSA gebruikt**, is de deadlineverlenging een kans om rustig te leren. Je zou kunnen beginnen met een minimale AI Max-campagne met een laag dagbudget, bijvoorbeeld 10 euro per dag, om te zien hoe het systeem presteert. Een mogelijkheid is om de resultaten te vergelijken met je huidige DSA-campagne en op basis daarvan te beslissen of je volledig overstapt of een hybride aanpak kiest.
+**Als je afhankelijk bent van externe bureaus of specialisten**, vraag hen dan om een concrete roadmap voor de migratie. Het uitstel geeft je de ruimte om offertes te vergelijken en een partner te kiezen die ervaring heeft met AI Max. Vraag naar voorbeelden van vergelijkbare migraties en naar de verwachte leercurve voor jouw type campagne. Zo kun je voorkomen dat je halsoverkop een bureau inschakelt dat niet bekend is met de nieuwe technologie.
 
-Bron: Search Engine Journal (https://www.searchenginejournal.com/google-extends-dynamic-search-ads-migration-deadline/579074/)
+Bron: [Search Engine Journal](https://www.searchenginejournal.com/google-extends-dynamic-search-ads-migration-deadline/579074/)
