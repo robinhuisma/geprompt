@@ -1,34 +1,34 @@
 ---
 title: "Minder content, betere SEO: hoe je scoort in AI-zoekmachines"
-date: 2026-06-17T10:08:47.593Z
-tags: ["seo", "ai-zoekmachines", "contentstrategie"]
+date: 2026-06-17T14:07:10.048Z
+tags: ["seo", "contentstrategie", "ai-zoekmachines"]
 categorieen: ["marketing-groei"]
-summary: "AI-zoekmachines belonen precieze content, niet veel content. Minder publiceren kan je zichtbaarheid verbeteren."
+summary: "AI-beloningen semantische precisie boven volume. Minder, maar scherpere content verbetert je zichtbaarheid."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/"
 ---
 
-Het antwoord is simpel: AI-zoekmachines belonen semantische precisie boven contentvolume. Meer publiceren maakt je SEO niet beter, maar slechter. Wie hoger wil scoren in tools als Google’s Search Generative Experience (SGE) of Bing Chat, moet stoppen met bulkproductie en inzetten op minder, maar diepgaandere content.
+Het antwoord is simpel: stop met het publiceren van veel content en focus op minder, maar preciezere artikelen. AI-zoekmachines belonen semantische precisie boven volume. Hoe meer oppervlakkige pagina’s je hebt, hoe slechter je scoort. Dit is geen mening, maar een verschuiving in hoe retrieval-systemen zoals Google’s AI-modellen informatie verwerken.
 
 ## Wat er aan de hand is
 
-AI-gestuurde zoekmachines werken fundamenteel anders dan traditionele algoritmes. Waar klassieke SEO draaide om keywords, backlinks en regelmatige publicatie, beoordelen AI-retrieval systemen of een pagina een vraag écht beantwoordt. Ze wegen semantische precisie: hoe goed de inhoud aansluit bij de intentie van de gebruiker. Grote hoeveelheden dunne, overlappende content worden gestraft omdat ze ruis veroorzaken. Volgens Search Engine Journal maakt overmatig publiceren je SEO actief slechter. Het is een verschuiving van kwantiteit naar kwaliteit, waarbij elke pagina op zichzelf moet staan als een complete, accurate bron.
+AI-retrieval-systemen, zoals die gebruikt worden in moderne zoekmachines, belonen semantische precisie boven contentvolume. Dat betekent dat het publiceren van overmatige hoeveelheden content je SEO juist kan verslechteren. Volgens Search Engine Journal is dit een direct gevolg van hoe AI-modellen informatie rangschikken: ze zoeken naar diepgang, relevantie en unieke inzichten, niet naar een veelheid aan pagina’s die dezelfde oppervlakkige informatie herhalen. Deze trend is een breuk met het verleden, waarin meer content vaak leidde tot meer vindbaarheid. Nu draait het om kwaliteit en focus.
 
 ## Wat dit betekent
 
-Voor ondernemers en marketeers betekent dit een directe koerswijziging. Als je een blog hebt met honderden korte artikelen die dezelfde onderwerpen vanuit net iets andere hoeken behandelen, dan werken die tegen je. AI-zoekmachines zien dat als redundantie en geven de voorkeur aan één uitgebreid, goed onderbouwd stuk. Dit raakt vooral bedrijven die jarenlang ‘meer is beter’ toepasten: webshops met productpagina’s vol dunne tekst, dienstverleners met wekelijkse blogs van 300 woorden, of bedrijven die contentfarms inhuurden. De impact is het grootst in concurrerende sectoren zoals juridisch, financieel, gezondheid en tech, waar gebruikers specifieke antwoorden verwachten. Kleinere bedrijven met een niche kunnen juist profiteren: zij hebben vaak al diepgaande kennis, maar versnipperen die over te veel pagina’s.
+Voor ondernemers en marketeers betekent dit een fundamentele herziening van hun contentstrategie. Het oude adagium ‘hoe meer, hoe beter’ werkt niet meer. In plaats daarvan moeten bedrijven investeren in minder, maar diepgravendere artikelen die een specifiek onderwerp volledig behandelen. Dit raakt vooral sectoren waar veel generieke blogposts worden gepubliceerd, zoals e-commerce, dienstverlening en lokale bedrijven. Een webshop met honderden productpagina’s die alleen de basis beschrijven, zal minder goed scoren dan een winkel met twintig pagina’s die elk product tot in detail uitleggen, inclusief gebruiksscenario’s en klantvragen. De impact is direct: minder werk, betere resultaten.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt met honderden productpagina’s**, overweeg om elke pagina te herzien op diepgang. Een productbeschrijving van twee zinnen werkt niet meer. Je zou kunnen beginnen met de tien best verkopende producten en per pagina een complete koopgids schrijven: wat lost het op, voor wie, hoe gebruik je het, wat zijn de alternatieven. AI-zoekmachines belonen pagina’s die een vraag volledig beantwoorden, dus zorg dat elke productpagina een op zichzelf staande bron is.
+**Als je een webshop runt**, overweeg om productpagina’s te herzien. In plaats van voor elk product een korte beschrijving, kun je een aantal kernproducten uitkiezen en daar uitgebreide handleidingen, vergelijkingen en klantcases aan toevoegen. Een mogelijkheid is om je top-20 producten te voorzien van unieke content die antwoord geeft op specifieke zoekvragen, zoals ‘hoe onderhoud ik dit product?’ of ‘wat is het verschil met model X?’. Dit verhoogt de semantische dichtheid en maakt je pagina’s relevanter voor AI-zoekmachines.
 
-**Als je een blog beheert met wekelijkse artikelen**, is een mogelijke aanpak om een contentaudit uit te voeren. Identificeer clusters van artikelen over hetzelfde onderwerp, bijvoorbeeld ‘hoe kies je een boekhouder’ in vijf varianten. Je zou die kunnen samenvoegen tot één uitgebreid artikel van 2000 woorden met duidelijke kopjes, een inhoudsopgave en praktische voorbeelden. De oude URL’s kun je doorverwijzen naar de nieuwe pagina. Dit vermindert ruis en versterkt de semantische precisie.
+**Als je een team aanstuurt**, kun je een content-audit starten. Identificeer pagina’s die weinig verkeer genereren of hoge bouncepercentages hebben. Overweeg om deze samen te voegen tot één uitgebreid artikel dat alle aspecten van een onderwerp dekt. Een optie is om een ‘hub-and-spoke’-model te gebruiken: één centrale pagina met een overzicht en links naar diepgravende subpagina’s. Dit helpt AI-systemen om de structuur van je kennis te begrijpen.
 
-**Als je in een niche werkt met veel vaktermen**, is een optie om je content te herschrijven vanuit de vraag van de klant, niet vanuit je eigen jargon. AI-zoekmachines begrijpen context, maar alleen als die expliciet wordt gemaakt. Een juridisch kantoor zou bijvoorbeeld een pagina kunnen maken die niet alleen ‘huurrecht’ uitlegt, maar ook de specifieke situaties benoemt waarin huurders en verhuurders tegenover elkaar staan, met concrete stappen. Hoe preciezer de match met de zoekintentie, hoe beter de ranking.
+**Als je in de dienstverlening werkt**, zoals een consultancy of advocatenkantoor, kun je je blogposts herzien. In plaats van wekelijks een kort artikel over een actueel onderwerp, kun je maandelijks een diepgaande analyse publiceren die een specifiek probleem van je doelgroep oplost. Een mogelijkheid is om een bestaand artikel uit te breiden met casestudies, stappenplannen en veelgestelde vragen. Dit verhoogt de kans dat AI-systemen je content als autoriteit beschouwen.
 
-**Als je een team aanstuurt dat content produceert**, kun je overwegen om een ‘publicatiestop’ in te stellen voor nieuwe content en de komende maand alleen te besteden aan het optimaliseren van bestaande pagina’s. Richt je op de 20 procent van je pagina’s die het meeste verkeer genereren. Maak die pagina’s langer, voeg bronnen toe, verbeter de leesbaarheid en zorg dat ze antwoord geven op de vragen die in de zoekresultaten worden getoond. Dit is vaak effectiever dan tien nieuwe artikelen schrijven.
+**Als je een lokaal bedrijf runt**, zoals een restaurant of kapper, kun je je Google Business Profile en website optimaliseren. Overweeg om één pagina te maken die alle diensten, openingstijden, routebeschrijvingen en klantrecensies combineert, in plaats van losse pagina’s voor elke dienst. Dit zorgt voor een semantisch rijke bron die AI-zoekmachines gemakkelijk kunnen indexeren en rangschikken.
 
-**Als je twijfelt of jouw content voldoet**, is een praktische test om een AI-tool zoals ChatGPT of Google’s SGE te vragen een vraag te beantwoorden die jij belangrijk vindt. Kijk of jouw pagina in het antwoord wordt genoemd of als bron wordt gebruikt. Zo niet, dan weet je dat je content semantisch niet precies genoeg is. Je kunt dan gericht verbeteren zonder te gokken.
+**Als je een B2B-bedrijf hebt**, kun je je whitepapers en case studies hergebruiken. In plaats van aparte blogposts over elk onderdeel, kun je een lang artikel maken dat een compleet probleem behandelt, met verwijzingen naar je eigen onderzoek. Een optie is om een ‘ultieme gids’ te schrijven voor een specifiek thema, zoals ‘hoe kies je de juiste software voor je bedrijf’. Dit trekt niet alleen AI-zoekmachines aan, maar ook menselijke lezers die op zoek zijn naar diepgang.
 
-Bron: Search Engine Journal
+Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/)
