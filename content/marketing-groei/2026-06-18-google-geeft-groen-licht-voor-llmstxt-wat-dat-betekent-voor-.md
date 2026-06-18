@@ -1,32 +1,34 @@
 ---
 title: "Google geeft groen licht voor LLMs.txt: wat dat betekent voor je AI-vindbaarheid"
-date: 2026-06-18T06:09:02.491Z
-tags: ["ai seo", "llms.txt", "google", "vindbaarheid"]
+date: 2026-06-18T10:09:23.687Z
+tags: ["ai-seo", "llms.txt", "google", "vindbaarheid"]
 categorieen: ["marketing-groei"]
-summary: "Google vindt het nu prima om LLMs.txt te gebruiken voor AI SEO. Zo pas je het toe."
+summary: "Google vindt het nu oké om LLMs.txt te gebruiken. Zo pas je het toe voor betere vindbaarheid in AI-tools."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/"
 ---
 
-Google heeft zijn richtlijnen bijgewerkt en zegt nu dat het “prima” is om LLMs.txt te gebruiken voor AI SEO. Dit bestand helpt AI-tools zoals chatbots en zoekmachines om jouw website beter te begrijpen en te citeren.
+Google heeft zijn richtlijnen aangepast en zegt nu dat het “prima” is om LLMs.txt te gebruiken voor AI SEO. Dit bestand helpt AI-tools zoals chatbots en zoekmachines om jouw website beter te begrijpen en te presenteren in AI-antwoorden.
 
 ## Wat er aan de hand is
 
-Google heeft zijn officiële standpunt over LLMs.txt versoepeld. Waar het bedrijf eerder terughoudend was over het gebruik van speciale markup en markdown voor AI SEO, zegt het nu expliciet dat het gebruik van LLMs.txt “fine” is. Dit staat in een update van de zoekmachinegigant, gemeld door Search Engine Journal. LLMs.txt is een eenvoudig tekstbestand dat je op je website plaatst. Het vertelt AI-modellen, zoals de chatbots die steeds vaker worden gebruikt voor informatie, welke pagina’s belangrijk zijn en hoe ze samenhangen. Het is vergelijkbaar met een robots.txt-bestand, maar dan specifiek voor AI. Deze verschuiving is belangrijk omdat het een signaal is dat Google AI-gestuurde zoekopdrachten serieus neemt en bedrijven aanmoedigt om zich voor te bereiden op een toekomst waarin AI een grotere rol speelt in hoe mensen informatie vinden.
+Google heeft zijn officiële richtlijnen voor SEO bijgewerkt. Waar het bedrijf eerder terughoudend was over het gebruik van LLMs.txt, speciale markup en markdown voor AI-gestuurde zoekresultaten, klinkt de toon nu een stuk milder. Volgens Search Engine Journal zegt Google nu expliciet dat het “fine” is om deze technieken toe te passen. LLMs.txt is een eenvoudig tekstbestand dat je op je website plaatst. Het vertelt AI-modellen welke inhoud belangrijk is en hoe ze die moeten interpreteren. Dit is een verschuiving ten opzichte van eerdere standpunten, waarin Google waarschuwde voor mogelijke manipulatie van AI-systemen. De update betekent dat Google AI-optimalisatie niet langer als een risico ziet, maar als een legitieme manier om je content vindbaar te maken voor AI-tools.
 
 ## Wat dit betekent
 
-Voor ondernemers betekent dit dat je nu officieel toestemming hebt van Google om je website te optimaliseren voor AI-tools. Dat is een directe kans om je zichtbaarheid te vergroten in de antwoorden die AI-chatbots geven. Stel dat een klant een AI-tool vraagt: “Welke boekhouder in Utrecht is gespecialiseerd in zzp’ers?” Als jouw website een LLMs.txt-bestand heeft dat die informatie helder structureert, is de kans groter dat de AI jouw bedrijf noemt. Dit is vooral relevant voor lokale dienstverleners, webshops en kennisintensieve bedrijven. De impact is het grootst voor bedrijven die afhankelijk zijn van organisch verkeer, omdat AI-antwoorden steeds vaker de traditionele zoekresultaten vervangen. Het is een relatief eenvoudige technische aanpassing die een groot verschil kan maken in hoe AI jouw bedrijf ziet.
+Voor ondernemers en marketeers is dit een directe kans om hun online zichtbaarheid te vergroten in een tijd waarin AI-tools zoals ChatGPT, Bard en andere chatbots steeds vaker worden gebruikt voor informatiezoekopdrachten. Waar traditionele SEO zich richt op Google’s zoekmachine, richt AI SEO zich op hoe AI-modellen jouw content verwerken en presenteren. Dit is vooral relevant voor bedrijven die afhankelijk zijn van organisch verkeer, zoals webshops, dienstverleners en contentplatforms. Door LLMs.txt te implementeren, geef je AI-tools een gestructureerd overzicht van je belangrijkste pagina’s, producten of diensten. Dit kan ertoe leiden dat jouw informatie vaker en accurater wordt getoond in AI-antwoorden, zonder dat je daarvoor ingewikkelde technische aanpassingen hoeft te doen. Google’s goedkeuring verlaagt de drempel voor MKB’ers om hiermee aan de slag te gaan.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een lokale dienstverlener bent, zoals een loodgieter of administratiekantoor.** Je zou een LLMs.txt-bestand kunnen maken met een overzicht van je diensten, je werkgebied en je contactgegevens. Een mogelijkheid is om per dienst een korte beschrijving te geven in duidelijke, natuurlijke taal. Overweeg om ook veelgestelde vragen op te nemen, zodat AI-tools direct een antwoord kunnen geven. Dit bestand plaats je eenvoudig in de root van je website, bijvoorbeeld op jouwbedrijf.nl/llms.txt.
+**Als je een webshop runt**, kun je LLMs.txt gebruiken om AI-tools te vertellen welke productcategorieën en bestsellers het belangrijkst zijn. Maak een eenvoudig tekstbestand met een lijst van je top 10 producten, elk met een korte beschrijving en de URL. Plaats dit bestand in de root van je website, bijvoorbeeld op `jouwdomein.nl/llms.txt`. Overweeg om ook een sectie toe te voegen met veelgestelde vragen over verzending en retouren, zodat AI-chatbots direct accurate antwoorden kunnen geven aan klanten.
 
-**Als je een webshop runt.** Je kunt in je LLMs.txt-bestand de belangrijkste productcategorieën en topartikelen benoemen. Een optie is om per categorie een korte samenvatting te geven van wat je verkoopt en wat de unieke verkoopargumenten zijn. Je zou ook kunnen aangeven welke producten het meest populair zijn of welke acties er lopen. Zo help je AI-tools om jouw assortiment te begrijpen en aan te bevelen.
+**Als je een dienstverlener bent**, zoals een advocaat, consultant of coach, kun je in LLMs.txt je belangrijkste diensten en specialisaties opsommen. Voeg per dienst een beknopte uitleg toe en link naar de relevante pagina op je site. Een mogelijkheid is om ook je contactgegevens en werkgebied te vermelden, zodat AI-tools deze informatie kunnen gebruiken in antwoorden op vragen als “zoek een marketingadviseur in Utrecht”. Dit vergroot de kans dat jouw bedrijf wordt genoemd in AI-aanbevelingen.
 
-**Als je een kennisplatform of blog beheert.** Overweeg om in je LLMs.txt-bestand een overzicht te geven van je belangrijkste artikelen, gegroepeerd per onderwerp. Je zou per artikel de titel, een korte samenvatting en de URL kunnen opnemen. Een mogelijkheid is om aan te geven welke artikelen het meest actueel of het meest geraadpleegd worden. Dit vergroot de kans dat AI-tools jouw content als bron gebruiken voor antwoorden.
+**Als je een contentplatform beheert**, zoals een blog of kennisbank, kun je LLMs.txt gebruiken om AI-tools te wijzen op je belangrijkste artikelen of gidsen. Maak een hiërarchische lijst van je top 10 of 20 pagina’s, gerangschikt op relevantie. Overweeg om per artikel een korte samenvatting toe te voegen, zodat AI-modellen de context sneller begrijpen. Dit kan helpen om jouw content vaker te laten verschijnen in AI-antwoorden op vragen binnen jouw niche.
 
-**Als je een team aanstuurt en niet technisch bent.** De praktische toepassing hangt af van jouw situatie, maar je kunt een eenvoudig tekstbestand maken in een programma als Kladblok of Notepad. Schrijf in duidelijke zinnen wat je bedrijf doet, wat je aanbiedt en wat belangrijk is. Vraag je webdeveloper of hostingpartij om het bestand te plaatsen. Het is een kleine moeite die je vindbaarheid in AI-tools direct kan verbeteren.
+**Als je een lokaal bedrijf hebt**, zoals een restaurant of winkel, kun je in LLMs.txt je adres, openingstijden en menu of productaanbod opnemen. Een optie is om ook een sectie met veelgestelde vragen over reserveringen of parkeren toe te voegen. Dit maakt het voor AI-assistenten eenvoudiger om accurate informatie over jouw bedrijf te geven aan gebruikers die via spraak of chat zoeken.
 
-Bron: [Search Engine Journal](https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/)
+De praktische toepassing hangt af van jouw situatie, maar het principe is eenvoudig: maak een tekstbestand, zet er de belangrijkste informatie in die AI-tools moeten weten, en plaats het op je server. Google’s goedkeuring betekent dat je dit zonder risico kunt doen.
+
+Bron: Search Engine Journal (https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/)
