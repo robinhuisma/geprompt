@@ -1,34 +1,34 @@
 ---
 title: "Adobe Firefly onthoudt jouw ontwerpen: minder herhalen, sneller resultaat"
-date: 2026-06-18T18:10:34.627Z
+date: 2026-06-18T22:11:54.394Z
 tags: ["adobe", "firefly", "ai-design", "creatief"]
 categorieen: ["creatief"]
-summary: "Adobe’s Firefly AI studio krijgt ‘persistent context’ en herbruikbare assets, zodat je ontwerpen sneller afmaakt."
+summary: "Adobe Firefly krijgt een redesign met geheugen voor jouw stijlen en objecten, zodat je niet steeds opnieuw hoeft te beginnen."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update"
 ---
 
-Het antwoord
+Het antwoord: Adobe’s AI-assistent Firefly krijgt een grote update die jouw ontwerpen onthoudt. Je kunt personages, objecten en achtergronden een naam geven en ze in nieuwe projecten hergebruiken zonder dat je steeds opnieuw hoeft te beginnen. Dit bespaart tijd en maakt AI-ontwerpen consistenter, zonder dat je een technische expert hoeft te zijn.
 
-Adobe’s Firefly AI-assistent onthoudt vanaf nu wat je eerder hebt gemaakt. Door personages, objecten en achtergronden een naam te geven, kun je ze in nieuwe ontwerpen hergebruiken zonder dat het ontwerp verandert. Dit bespaart ondernemers die zelf ontwerpen maken tijd en voorkomt dat je steeds opnieuw moet beginnen.
+## Wat er aan de hand is
 
-Wat er aan de hand is
+Adobe heeft een vernieuwde versie van Firefly aangekondigd, de AI-studio die sinds september 2023 bestaat. De nieuwe ervaring, die nu in private bèta is, biedt volgens Adobe ‘persistent context, reusable assets, and organized workflows’. Concreet betekent dit dat Firefly onthoudt wat je eerder hebt gemaakt. Je kunt elementen zoals een specifiek personage, een object of een achtergrond een naam geven. Wanneer je een nieuw ontwerp start, herkent de AI die elementen en past ze consistent toe. Dit is een belangrijke stap voorbij de huidige generatie AI-tools, die elk ontwerp als een losse, unieke opdracht behandelen.
 
-Adobe introduceert een nieuwe ervaring voor zijn Firefly AI-assistent, die vandaag in private bèta gaat. Het gaat om een ‘heringerichte’ AI-studio waarin je ontwerpen kunt bewerken en genereren vanuit één enkel scherm. De nieuwe Firefly-ervaring geeft volgens Adobe ‘persistent context, reusable assets, and organized workflows’ over je projecten heen. Dit moet het makkelijker maken om van een idee naar een productieklaar ontwerp te komen zonder te schakelen tussen verschillende apps. Het is de nieuwste in een reeks grote aanpassingen aan Adobe’s Firefly AI-hub, die in september 2023 voor het eerst werd gelanceerd.
+## Wat dit betekent
 
-Wat dit betekent
+Voor ondernemers die zelf ontwerpen – denk aan webshop-eigenaren, marketeers, freelancers of kleine bureaus – betekent dit een flinke tijdsbesparing. Tot nu toe moest je voor elk nieuw ontwerp dezelfde stijl, kleuren en vormen opnieuw omschrijven in een prompt. Dat leidde vaak tot kleine variaties die je daarna handmatig moest corrigeren. Met de nieuwe Firefly kun je een ‘huisstijl’ of een terugkerend personage eenmalig vastleggen. De AI past die vervolgens automatisch toe in nieuwe ontwerpen. Dit verlaagt de drempel voor ondernemers die geen ontwerper in dienst hebben, maar wel consistentie willen in hun visuele uitingen. Het betekent ook dat je minder tijd kwijt bent aan het finetunen van prompts en meer tijd overhoudt voor het echte werk.
 
-Voor ondernemers die zelf visuele content maken – denk aan social media posts, productafbeeldingen, presentaties of marketingmateriaal – betekent dit concreet minder herhaalwerk. Waar je eerder voor elke nieuwe variant een aparte prompt moest typen en hopen dat de stijl consistent bleef, kun je nu een ontwerpelement een naam geven en dat in latere ontwerpen oproepen. De AI onthoudt de context van je project, zodat kleuren, vormen en stijlen consistent blijven. Dit is vooral relevant voor kleine bedrijven zonder eigen ontwerper, die nu sneller een professionele uitstraling kunnen neerzetten zonder dat het uren kost.
+## Hoe je dit kunt toepassen
 
-Hoe je dit kunt toepassen
+**Als je een webshop runt en productafbeeldingen maakt.** Stel dat je een serie afbeeldingen nodig hebt voor een nieuwe collectie. Je kunt een basisstijl vastleggen, zoals een bepaalde achtergrondkleur of een specifieke belichting. Door die stijl een naam te geven, kun je in één prompt een hele reeks productfoto’s genereren die er consistent uitzien. Dat scheelt uren handmatig nabewerken en zorgt voor een professionele uitstraling.
 
-**Als je een webshop runt en zelf productafbeeldingen maakt**, kun je een specifiek product of een achtergrond een naam geven. Stel dat je een nieuw product fotografeert of genereert, en je wilt dat het op dezelfde manier wordt weergegeven als eerdere producten. Door het element een naam te geven, kun je het in nieuwe composities hergebruiken zonder dat de stijl of belichting verandert. Een mogelijkheid is om een ‘huisstijl-achtergrond’ te maken die je voor al je productfoto’s gebruikt.
+**Als je social media content maakt voor je bedrijf.** Je maakt wekelijks posts voor LinkedIn, Instagram of Facebook. Door een ‘reusable asset’ aan te maken voor je logo, je merklettertype of een terugkerende illustratie, kun je elke post snel genereren zonder dat de stijl verspringt. Je zou kunnen beginnen met het benoemen van je bestaande huisstijl in Firefly en daarna per post alleen de tekst en het onderwerp aanpassen.
 
-**Als je een team aanstuurt dat social media content maakt**, kun je met herbruikbare assets zorgen dat alle ontwerpen dezelfde look hebben. Geef bijvoorbeeld je logo, een terugkerend icoon of een specifieke kleur een naam. Iedereen in je team kan die dan oproepen, zonder dat ze de exacte hex-code of het juiste bestand hoeven te zoeken. Overweeg om een set van vaste elementen te maken voor je merk, zoals knoppen, kaders en achtergronden.
+**Als je een team aanstuurt dat visuele content produceert.** Werk je met een freelance ontwerper of een stagiair? Dan kun je in Firefly een set ‘persistent context’ aanmaken die de basis vormt voor alle ontwerpen. Iedereen in het team werkt dan vanuit dezelfde stijl, zonder dat je steeds handmatig hoeft uit te leggen hoe het eruit moet zien. Een optie is om een project aan te maken met daarin de vaste elementen, en die te delen met je team.
 
-**Als je als zelfstandige presentaties of offertes maakt**, kun je een consistente stijl aanhouden zonder dat je elke keer een nieuw sjabloon hoeft te maken. Geef je standaard lay-out of een terugkerend grafiek-element een naam. Een optie is om een basisontwerp voor je offertes te maken en dat als herbruikbaar asset op te slaan. Zo hoef je alleen de inhoud aan te passen en blijft de vormgeving professioneel.
+**Als je een fysiek product ontwerpt of verpakt.** Denk aan etiketten, doosjes of stickers. Door een object, zoals een specifiek flesje of een doos, een naam te geven, kun je in Firefly snel verschillende varianten van het ontwerp genereren. Je zou kunnen experimenteren met kleuren en patronen, terwijl de vorm van het object hetzelfde blijft. Dit versnelt het ontwerpproces en maakt het makkelijker om meerdere opties aan een leverancier te laten zien.
 
-**Als je in de zorg of educatie werkt en visuele uitleg maakt**, kun je personages of objecten een naam geven die je in meerdere uitlegvideo’s of infographics gebruikt. Stel dat je een terugkerend figuur hebt dat een proces uitlegt. Door dat figuur een naam te geven, kun je het in verschillende contexten plaatsen zonder dat het ontwerp verandert. Een mogelijkheid is om een set van standaard uitleg-iconen te maken die je in al je materiaal gebruikt.
+De praktische toepassing hangt af van jouw situatie, maar de kern is dat je niet langer elke keer het wiel opnieuw hoeft uit te vinden. Door eenmalig tijd te investeren in het vastleggen van je stijl en elementen, bespaar je bij elk volgend ontwerp tijd en moeite.
 
 Bron: The Verge (https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update)
