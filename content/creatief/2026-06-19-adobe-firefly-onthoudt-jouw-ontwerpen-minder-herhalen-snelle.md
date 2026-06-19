@@ -1,34 +1,36 @@
 ---
 title: "Adobe Firefly onthoudt jouw ontwerpen: minder herhalen, sneller resultaat"
-date: 2026-06-19T10:12:33.426Z
-tags: ["adobe", "firefly", "ai-design", "marketingmateriaal"]
+date: 2026-06-19T14:10:52.022Z
+tags: ["adobe firefly", "ai ontwerp", "grafisch ontwerp", "mkb"]
 categorieen: ["creatief"]
-summary: "Adobe’s AI-studio onthoudt stijlen en objecten, zodat jij niet steeds opnieuw hoeft te beginnen."
+summary: "Adobe Firefly krijgt een geheugen voor jouw stijl, zodat je ontwerpen sneller kunt hergebruiken en aanpassen."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update"
 ---
 
-Adobe’s Firefly AI-studio krijgt een grote update die het maken van marketingmateriaal een stuk eenvoudiger maakt. De nieuwe functie onthoudt wat je eerder hebt gemaakt, zodat je stijlen, objecten en achtergronden kunt hergebruiken zonder steeds opnieuw te beginnen. Dit bespaart tijd en voorkomt dat je voor elk nieuw ontwerp het wiel opnieuw moet uitvinden.
+IMAGE_PROTOCOL: a clean wooden desk with a tablet displaying a colorful vector illustration, a stylus pen, and a small potted plant in soft daylight
 
-## Wat er aan de hand is
+Het antwoord
 
-Adobe heeft een vernieuwde versie van zijn Firefly AI-studio aangekondigd, die momenteel in private bèta beschikbaar is. De belangrijkste vernieuwing is ‘persistent context’: de AI onthoudt de stijl, kleuren en objecten die je in een project hebt gebruikt. Je kunt personages, objecten en achtergronden een naam geven, zodat je ze later eenvoudig kunt hergebruiken zonder dat het ontwerp verandert. Dit is de nieuwste in een reeks updates sinds de lancering van Firefly in september 2023. Het doel is om van Firefly één centrale plek te maken waar je van idee tot eindproduct kunt werken, zonder te schakelen tussen verschillende apps.
+Adobe’s AI-assistent Firefly krijgt een geheugen voor jouw ontwerpen. Vanaf nu kun je personages, objecten en achtergronden een naam geven, zodat de AI ze in nieuwe ontwerpen precies hetzelfde kan hergebruiken. Dit bespaart uren handmatig werk en maakt het eenvoudiger om een consistente stijl vast te houden, zonder dat je steeds opnieuw hoeft uit te leggen wat je bedoelt.
 
-## Wat dit betekent
+Wat er aan de hand is
 
-Voor ondernemers die zelf hun marketingmateriaal maken, betekent dit een flinke tijdsbesparing. Denk aan het consistent houden van je huisstijl in social media posts, nieuwsbrieven of advertenties. Waar je normaal gesproken handmatig kleuren, lettertypes en elementen moet kopiëren, onthoudt Firefly nu wat je eerder hebt gemaakt. Dit maakt het makkelijker om een herkenbare look te behouden, zonder dat je een grafisch ontwerper hoeft in te schakelen. Voor kleine bedrijven zonder eigen designer kan dit het verschil maken tussen een professionele uitstraling en een rommelige mix van stijlen.
+Adobe heeft een nieuwe versie van Firefly gelanceerd, die nu in private bèta beschikbaar is. De AI-studio is compleet vernieuwd en biedt wat Adobe noemt ‘persistent context, reusable assets, and organized workflows’. Concreet betekent dit dat Firefly onthoudt wat je eerder hebt gemaakt. Geef een ontwerpelement – zoals een karakter, een logo of een achtergrond – een naam, en de AI kan dat element in latere ontwerpen exact reproduceren zonder dat je het opnieuw hoeft te beschrijven. De nieuwe interface combineert bewerken en genereren in één scherm, zodat je niet meer tussen verschillende apps hoeft te schakelen. Dit is de grootste update sinds de lancering van Firefly in september 2023.
 
-## Hoe je dit kunt toepassen
+Wat dit betekent
 
-**Als je een webshop runt en regelmatig social media posts maakt voor nieuwe producten.** Je kunt een vaste stijl aanmaken voor je productfoto’s, zoals een specifieke achtergrondkleur of een bepaalde belichting. Door die stijl een naam te geven, kun je bij elk nieuw product dezelfde look toepassen zonder handmatig aanpassingen te doen. Overweeg om een set van drie vaste stijlen te maken voor verschillende doeleinden, zoals aanbiedingen, nieuwe collecties en klantverhalen.
+Voor ondernemers en professionals in het MKB betekent dit een flinke versnelling in het ontwerpproces. Vooral als je regelmatig dezelfde stijl gebruikt – denk aan een webshop met productafbeeldingen, een bedrijfspresentatie met vaste elementen, of social media visuals met een herkenbare look – wordt het werk eenvoudiger. Je hoeft niet elke keer opnieuw uit te leggen aan de AI hoe een product eruitziet of welke kleuren bij je merk horen. De AI onthoudt dat. Dit bespaart niet alleen tijd, maar ook kosten, omdat je minder snel een externe ontwerper hoeft in te schakelen voor kleine aanpassingen. Het maakt AI-ontwerp toegankelijker voor bedrijven zonder eigen grafisch ontwerper.
 
-**Als je een team aanstuurt dat meerdere kanalen beheert, zoals Instagram, LinkedIn en e-mail.** Je kunt per kanaal een aparte stijl definiëren die past bij het formaat en de toon. De AI onthoudt die instellingen, zodat elk teamlid consistent kan werken zonder dat jij elke keer de richtlijnen hoeft uit te leggen. Een mogelijkheid is om een ‘brand kit’ aan te maken in Firefly met de vaste kleuren, lettertypes en veelgebruikte objecten.
+Hoe je dit kunt toepassen
 
-**Als je een dienstverlener bent en regelmatig offertes of presentaties maakt met visuele elementen.** Je kunt een vaste set iconen of illustraties aanmaken die passen bij jouw diensten. Door deze een naam te geven, kun je ze in elke nieuwe presentatie of offerte hergebruiken. Dit zorgt voor een professionele en herkenbare uitstraling, zonder dat je elke keer een ontwerper hoeft in te schakelen.
+**Als je een webshop runt met een eigen productlijn**, kun je elk product een naam geven in Firefly. Stel, je verkoopt handgemaakte kaarsen in verschillende kleuren. Geef de kaars een naam en een basisvorm, en de AI kan die kaars in elke nieuwe setting plaatsen – op een tafel, in een winkelstraat, naast een cadeauverpakking – zonder dat de vorm of textuur verandert. Je zou kunnen beginnen met het benoemen van je vijf bestverkopende producten en daar variaties op laten maken voor je webshop of social media.
 
-**Als je in de evenementenbranche werkt en posters of flyers maakt voor terugkerende evenementen.** Je kunt de stijl van een vorig evenement opslaan en deze eenvoudig aanpassen voor de volgende editie. De AI onthoudt de basislay-out en kleuren, zodat je alleen de datum en sprekers hoeft te wijzigen. Dit bespaart uren werk per evenement.
+**Als je een team aanstuurt dat regelmatig presentaties of rapporten maakt**, kun je vaste elementen zoals logo’s, pictogrammen of achtergronden een naam geven. De AI onthoudt die elementen, zodat elk teamlid ze kan hergebruiken zonder dat iemand steeds het juiste bestand moet opzoeken. Een optie is om een bibliotheek aan te leggen van de tien meest gebruikte visuele elementen van je bedrijf en die in Firefly op te slaan.
 
-De praktische toepassing hangt af van jouw situatie, maar de kern is dat je met deze update minder tijd kwijt bent aan herhaling en meer tijd overhoudt voor creativiteit.
+**Als je in de creatieve sector werkt en voor meerdere klanten ontwerpt**, kun je per klant een set ‘reusable assets’ aanmaken. Denk aan een specifiek kleurenpalet, een karakter of een achtergrond die bij die klant hoort. De AI onthoudt per project welke elementen bij welke klant horen. Overweeg om voor elke vaste klant een apart project aan te maken in Firefly en daarin de unieke elementen een naam te geven.
+
+**Als je social media content maakt voor je bedrijf**, kun je een vaste stijl aanmaken met een herkenbaar element, zoals een mascotte of een achtergrondpatroon. Geef dat element een naam, en de AI kan het in elke post hergebruiken. Je zou kunnen experimenteren met het maken van een reeks posts waarin hetzelfde element in verschillende situaties terugkomt, zonder dat je het elke keer opnieuw hoeft te tekenen.
 
 Bron: The Verge (https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update)
