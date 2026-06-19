@@ -1,34 +1,32 @@
 ---
 title: "Meer content publiceren schaadt je SEO: focus op semantische precisie"
-date: 2026-06-19T18:07:07.824Z
-tags: ["seo", "contentstrategie", "semantische precisie", "mkb"]
+date: 2026-06-19T22:07:30.579Z
+tags: ["seo", "contentstrategie", "ai", "mkb"]
 categorieen: ["marketing-groei"]
-summary: "AI-retrieval beloont semantische precisie, niet volume. Stop met massaal publiceren en herzie je bestaande content."
+summary: "AI-retrieval beloont semantische precisie, niet volume. Stop met massaal bloggen."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/"
 ---
 
-Het antwoord
+Het antwoord is simpel: meer content publiceren maakt je SEO slechter. AI-retrieval-systemen belonen semantische precisie, niet volume. Als je blijft inzetten op kwantiteit in plaats van kwaliteit, straf je je eigen vindbaarheid af.
 
-Meer content publiceren maakt je SEO slechter, niet beter. AI-retrieval-systemen belonen semantische precisie boven volume, waardoor overmatig publiceren averechts werkt voor moderne zichtbaarheid in zoekmachines. De oplossing is niet meer schrijven, maar bestaande content herzien met focus op exacte, relevante taal.
+## Wat er aan de hand is
 
-Wat er aan de hand is
+Search Engine Journal meldt dat AI-retrieval-systemen, zoals die van Google, steeds beter worden in het herkennen van de echte betekenis van content. Ze belonen semantische precisie: hoe precies en relevant jouw tekst is voor een specifieke zoekvraag. Massaal bloggen met dunne, oppervlakkige artikelen werkt averechts. Het verwatert je autoriteit en maakt het voor AI moeilijker om te bepalen waar je écht over gaat. De verschuiving is duidelijk: van keyword stuffing en volume naar diepgang en context.
 
-Volgens Search Engine Journal belonen AI-retrieval-systemen zoals die van Google semantische precisie boven contentvolume. Dat betekent dat zoekmachines steeds beter worden in het herkennen of een pagina daadwerkelijk antwoord geeft op een specifieke vraag, of alleen maar zoektermen bevat. Waar vroeger volume en keyword density werkten, straffen de nieuwe systemen oppervlakkige, brede content af. De verschuiving is fundamenteel: het gaat niet meer om wie de meeste pagina’s heeft, maar om wie de beste, meest precieze antwoorden biedt. Dit raakt elke ondernemer die blogt, productpagina’s vult of handleidingen schrijft.
+## Wat dit betekent
 
-Wat dit betekent
+Voor jou als MKB-ondernemer betekent dit dat de oude strategie van 'hoe meer blogposts, hoe beter' niet langer werkt. Het is niet alleen inefficiënt, het is schadelijk. Elke keer dat je een oppervlakkig artikel publiceert, voeg je ruis toe aan je domein. AI-systemen kunnen daardoor minder goed bepalen wat jouw kernonderwerpen zijn. Dit raakt vooral sectoren waar veel concurrentie is op specifieke zoektermen, zoals consultancy, dienstverlening, e-commerce en lokale bedrijven. Je verliest niet alleen tijd en geld, je verliest ook zichtbaarheid.
 
-Voor MKB-ondernemers betekent dit dat de oude strategie van ‘veel publiceren om kans te maken’ niet alleen niet werkt, maar actief schadelijk is. Elke pagina die geen scherp, semantisch precies antwoord geeft op een specifieke vraag, verzwakt de algehele kwaliteitsscore van je domein. Zoekmachines zien een site met veel vage, overlappende content als minder betrouwbaar. Vooral sectoren zoals e-commerce, dienstverlening en lokale bedrijven merken dit: hun productbeschrijvingen of dienstenpagina’s lijken op elkaar, maar bieden geen uniek antwoord. Het gevolg is dat concurrerende sites met minder, maar preciezere content hoger ranken.
+## Hoe je dit kunt toepassen
 
-Hoe je dit kunt toepassen
+**Als je een webshop runt** en je hebt een blog met wekelijkse productupdates of korte beschrijvingen, overweeg dan om die frequentie te halveren. Richt je in plaats daarvan op één diepgravend artikel per maand dat een compleet probleem van je klant oplost. Een voorbeeld: in plaats van tien losse blogs over 'hoe kies je een fiets', schrijf je één uitgebreide gids met alle overwegingen, materialen en prijsklassen. Die ene pagina wordt dan de autoriteit op dat onderwerp.
 
-**Als je een webshop runt met honderden productpagina’s die op elkaar lijken**, overweeg om per productcategorie één sterke, semantisch precieze pagina te maken in plaats van aparte pagina’s voor elk product. Je zou kunnen beginnen met de producten die het meeste verkeer trekken en controleren of elke pagina een unieke vraag beantwoordt, zoals ‘welke maat past bij een smalle voet’ in plaats van alleen ‘schoen maat 42’.
+**Als je een team aanstuurt** en je hebt een contentkalender vol met 'quick wins', is het tijd om die te herzien. Bespreek met je team dat elk stuk content een specifieke, semantische vraag moet beantwoorden. Niet 'tips voor betere klantenservice', maar 'hoe reageer je op een klacht over een vertraagde levering in de meubelbranche'. Hoe specifieker, hoe beter. Je kunt ook bestaande content herzien: kijk welke pagina's al goed scoren en breid die uit met meer diepgang, in plaats van nieuwe pagina's te maken.
 
-**Als je een blog beheert met tientallen artikelen over hetzelfde onderwerp**, is een mogelijke aanpak om die artikelen samen te voegen tot één diepgaand stuk. Je zou kunnen kijken naar artikelen die meer dan 50 procent overlappen in kernwoorden en die bundelen. Een voorbeeld: in plaats van drie losse blogs over ‘hoe kies je een boekhouder’, maak je één pagina die alle varianten dekt, van zzp’er tot mkb met personeel.
+**Als je in de zorg werkt** en je publiceert regelmatig blogs over algemene gezondheidsthema's, focus dan op één onderwerp waar je écht in uitblinkt. Bijvoorbeeld 'fysiotherapie bij hardloopblessures' in plaats van 'tips voor een gezond leven'. Maak die ene pagina zo compleet dat een AI-systeem er geen twijfel over heeft: dit is de beste bron. Je kunt overwegen om alle andere, minder relevante artikelen te verwijderen of samen te voegen.
 
-**Als je dienstenpagina’s hebt voor verschillende regio’s of doelgroepen**, overweeg om te controleren of elke pagina een echt uniek semantisch profiel heeft. Je zou kunnen testen of de pagina voor ‘schoonmaakbedrijf Amsterdam’ wezenlijk andere taal gebruikt dan die voor ‘schoonmaakbedrijf Utrecht’. Als het antwoord nee is, kun je beter één sterke landelijke pagina maken met lokale secties.
+**Als je een lokale dienstverlener bent**, zoals een loodgieter of advocaat, is het verleidelijk om voor elke dienst een aparte pagina te maken. Maar AI-systemen waarderen een overzichtelijke, semantisch samenhangende structuur meer. Combineer bijvoorbeeld 'noodloodgieter', 'leiding reparatie' en 'cv-ketel onderhoud' in één sterke pagina over 'loodgietersdiensten in [jouw stad]' met duidelijke subkoppen. Dit versterkt de semantische precisie en maakt het voor AI makkelijker om je te vinden.
 
-**Als je een team aanstuurt dat content produceert**, is een optie om een wekelijkse ‘semantische audit’ in te voeren. Laat iemand controleren of nieuwe content een vraag beantwoordt die nog niet elders op de site staat. Je zou kunnen afspreken dat elk nieuw artikel minimaal drie unieke, specifieke vragen moet beantwoorden die niet in bestaande content voorkomen.
-
-Bron: Search Engine Journal
+Bron: [Search Engine Journal](https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/)
