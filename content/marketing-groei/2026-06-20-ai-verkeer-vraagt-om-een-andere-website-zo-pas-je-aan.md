@@ -1,34 +1,36 @@
 ---
 title: "AI-verkeer vraagt om een andere website: zo pas je aan"
-date: 2026-06-20T18:08:57.163Z
+date: 2026-06-20T22:10:19.731Z
 tags: ["ai-verkeer", "website-optimalisatie", "conversie", "mkb"]
 categorieen: ["marketing-groei"]
-summary: "AI-bezoekers willen binnen 30 seconden hun taak voltooien. Check of jouw site dat aankan."
+summary: "AI-bezoekers willen binnen 30 seconden hun taak voltooien. Check of jouw site daarvoor klaar is."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/ai-mode-sends-a-different-visitor-your-website-wasnt-built-for-them/576185/"
 ---
 
-AI-zoekmachines sturen een ander type bezoeker naar je website. Deze bezoeker heeft geen tijd voor laadtijden, lange teksten of onduidelijke navigatie. De vraag is niet of je site er mooi uitziet, maar of die bezoeker binnen dertig seconden kan vinden waarvoor hij komt. Als het antwoord nee is, loop je omzet mis.
+IMAGE_PROGRESS: a clean white desk with a tablet showing a simple landing page, a small hourglass next to it, morning light
+
+Het antwoord op de vraag of jouw website klaar is voor bezoekers die via AI-modus binnenkomen, is waarschijnlijk ‘nee’. Die bezoeker heeft een ander doel en een ander gedrag dan iemand die via Google komt. Je site is niet voor hen gebouwd, maar je kunt hem wel aanpassen.
 
 ## Wat er aan de hand is
 
-Volgens Search Engine Journal stuurt de AI-modus van zoekmachines zoals Google een ander type bezoeker dan traditionele zoekopdrachten. Deze bezoeker komt met een specifieke taak: een product kopen, een offerte aanvragen of contact opnemen. De website is daar vaak niet op gebouwd. Waar een gewone bezoeker nog wat rondkijkt, verwacht een AI-bezoeker direct antwoord. De AI heeft de context al geanalyseerd en stuurt iemand die klaar is om te converteren. Als de site die verwachting niet waarmaakt, vertrekt de bezoeker binnen enkele seconden.
+AI-modus, zoals die in zoekmachines en chatbots steeds vaker wordt gebruikt, stuurt een ander type bezoeker naar websites. Waar een gewone zoeker vaak nog oriënteert, vergelijkt en leest, komt een AI-bezoeker met een specifiek doel: een taak voltooien. Uit onderzoek en praktijkervaring blijkt dat deze bezoeker binnen dertig seconden moet kunnen vinden wat hij zoekt. Lukt dat niet, dan vertrekt hij. Het probleem is dat de meeste websites zijn ingericht op een bezoeker die tijd neemt, niet op iemand die direct wil converteren. Volgens Search Engine Journal is het zaak om je top-AI-landingspagina’s te identificeren en te testen of een bezoeker daar binnen een halve minuut zijn doel kan bereiken.
 
 ## Wat dit betekent
 
-Voor ondernemers betekent dit dat je niet langer kunt vertrouwen op een algemene, mooie website. De AI-bezoeker is ongeduldig en doelgericht. Dat heeft gevolgen voor sectoren waar snelheid en duidelijkheid cruciaal zijn: e-commerce, dienstverlening, horeca en lokale bedrijven. Een webshop met een trage laadtijd of een contactformulier dat drie stappen vraagt, verliest deze bezoeker. Hetzelfde geldt voor een website waar de prijs niet direct zichtbaar is of waar de route naar de checkout onlogisch is. De AI-bezoeker is geen toevallige passant, maar een gekwalificeerde lead die je binnen een halve minuut moet overtuigen.
+Voor ondernemers en marketeers betekent dit dat je niet langer kunt vertrouwen op dezelfde landingspagina’s voor al je verkeer. AI-verkeer is vaak gericht op een specifieke vraag of actie: een prijs opvragen, een offerte aanvragen, een product kopen, een contactformulier invullen. Als jouw pagina vol staat met lange teksten, menu’s en afleidingen, dan haakt de AI-bezoeker af. Dit raakt vooral sectoren waar snelheid en directheid belangrijk zijn: e-commerce, dienstverlening met een duidelijke call-to-action, en B2B-bedrijven met een eenvoudig product. Het betekent ook dat je analytics moet aanpassen om AI-verkeer te herkennen en apart te meten.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een webshop runt** met AI-verkeer, kun je de top vijf landingspagina’s uit je AI-referrals analyseren. Laad elke pagina op een mobiel apparaat en stel jezelf de vraag: kan een bezoeker binnen dertig seconden een product vinden en in het winkelwagentje leggen? Als de laadtijd langer is dan twee seconden of als de zoekfunctie niet direct zichtbaar is, overweeg dan om de pagina te versimpelen. Een mogelijke aanpassing is het toevoegen van een directe ‘koop nu’-knop bovenaan de pagina, zonder dat de bezoeker hoeft te scrollen.
+**Als je een webshop runt en merkt dat AI-verkeer snel afhaakt.** Trek de top vijf landingspagina’s waar AI-bezoekers binnenkomen. Vraag jezelf af: kan iemand binnen dertig seconden een product vinden, in de winkelmand stoppen en naar de checkout gaan? Als het antwoord nee is, overweeg dan om een aparte, minimalistische versie van die pagina te maken. Haal alle overbodige tekst weg, zet de ‘koop nu’-knop bovenaan en zorg dat het formulier maar drie velden heeft.
 
-**Als je een dienstverlenend bedrijf hebt**, zoals een advocaat, coach of consultant, dan komt AI-verkeer vaak met een specifieke vraag. Controleer of je landingspagina direct antwoord geeft op de meest voorkomende vragen. Als een bezoeker bijvoorbeeld zoekt naar ‘offerte zonnepanelen’, moet die offerte binnen dertig seconden aangevraagd kunnen worden. Overweeg om een kort contactformulier met alleen naam en e-mail direct op de pagina te plaatsen, in plaats van een uitgebreid formulier met meerdere stappen.
+**Als je een dienstverlener bent en AI-verkeer stuurt naar je contactpagina.** Test of een bezoeker binnen dertig seconden een offerte kan aanvragen. Een mogelijkheid is om een kort formulier direct op de pagina te plaatsen, zonder dat iemand eerst door een menu hoeft te klikken. Je zou ook kunnen overwegen om een chatbot in te zetten die de eerste vragen stelt, zodat de bezoeker niet hoeft te typen.
 
-**Als je een lokale onderneming bent**, zoals een restaurant of kapper, dan verwacht de AI-bezoeker directe actie: een reservering of een afspraak. Check of je website een duidelijke ‘boek nu’-knop heeft die binnen de eerste paar seconden zichtbaar is. Als die knop pas na het lezen van een hele pagina verschijnt, loop je kans dat de bezoeker weggaat. Een optie is om een vaste balk onderaan het scherm te plaatsen met de belangrijkste actie, zoals ‘bel nu’ of ‘plan direct’.
+**Als je een B2B-bedrijf hebt en AI-verkeer naar je productpagina’s leidt.** Kijk of de belangrijkste informatie – prijs, specificaties, call-to-action – boven de vouw staat. Overweeg om een ‘direct contact’-knop toe te voegen die een kort formulier opent, in plaats van een aparte contactpagina. Je kunt ook een samenvatting van dertig seconden bovenaan de pagina zetten, met de kernvraag die de bezoeker beantwoordt.
 
-**Als je een B2B-bedrijf hebt** dat leads genereert via content, dan is de kans groot dat AI-bezoekers naar specifieke artikelen of whitepapers komen. Zorg dat die pagina’s een duidelijke call-to-action bevatten, zoals ‘download de whitepaper’ of ‘vraag een demo aan’, en dat die actie binnen dertig seconden uitvoerbaar is. Vermijd pop-ups die eerst om een e-mail vragen voordat de bezoeker de inhoud kan zien. Overweeg om de pop-up pas te tonen nadat de bezoeker een paar seconden op de pagina is, of plaats de actie direct in de tekst.
+**Als je een contentwebsite hebt en AI-verkeer naar artikelen stuurt.** Zorg dat het belangrijkste antwoord op de vraag van de bezoeker direct in de eerste alinea staat. Vermijd lange inleidingen. Voeg een duidelijke volgende stap toe: ‘download de gids’, ‘vraag een demo aan’ of ‘bekijk de prijzen’. Test of een bezoeker die stap binnen dertig seconden kan zetten.
 
-**Als je een team aanstuurt** dat verantwoordelijk is voor de website, kun je een eenvoudige audit doen. Laat elk teamlid de top drie AI-landingspagina’s bezoeken en noteer hoe lang het duurt om de belangrijkste taak te voltooien. Als dat gemiddeld langer is dan dertig seconden, is er werk aan de winkel. Een mogelijke verbetering is het verwijderen van overbodige elementen zoals grote afbeeldingen, lange introductieteksten of meerdere menu-opties die afleiden van de kernactie.
+**Als je een lokale onderneming bent, zoals een kapper of een restaurant.** AI-verkeer komt vaak binnen op de pagina met openingstijden of het menu. Zorg dat die informatie direct zichtbaar is, zonder scrollen. Voeg een ‘direct reserveren’-knop toe die naar een kort formulier leidt. Overweeg om een aparte, eenvoudige pagina te maken voor AI-bezoekers, zonder navigatie en met alleen de essentie.
 
-Bron: Search Engine Journal
+Bron: [Search Engine Journal](https://www.searchenginejournal.com/ai-mode-sends-a-different-visitor-your-website-wasnt-built-for-them/576185/)
