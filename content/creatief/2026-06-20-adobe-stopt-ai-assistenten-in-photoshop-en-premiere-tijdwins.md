@@ -1,34 +1,31 @@
 ---
-title: "Adobe stopt AI-assistenten in Photoshop en Premiere: tijdwinst voor ondernemers"
-date: 2026-06-20T02:10:37.834Z
-tags: ["adobe", "ai-assistent", "creatief", "workflow"]
+title: "Adobe stopt AI-assistenten in Photoshop en Premiere: tijdwinst voor makers"
+date: 2026-06-20T10:11:41.704Z
+tags: ["adobe", "ai-assistent", "photoshop", "premiere"]
 categorieen: ["creatief"]
-summary: "Adobe’s AI-assistenten in Photoshop en Premiere automatiseren taken en besparen tijd voor ondernemers."
+summary: "Adobe's AI-assistenten automatiseren routinetaken in Photoshop, Premiere en andere apps."
 draft: false
 source_name: "The Verge"
 source_url: "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch"
 ---
 
-Adobe stopt AI-assistenten in Photoshop en Premiere: tijdwinst voor ondernemers
+IMAGE_PROOF: a graphic design tablet with a stylus resting on a desk next to a color palette swatch book
 
-Photoshop, Premiere, Illustrator, InDesign en Frame.io krijgen elk een eigen AI-assistent die je helpt met het organiseren van werk en het automatiseren van taken binnen die specifieke app. Deze assistenten maken deel uit van een publieke bèta die vandaag is gelanceerd. Voor ondernemers die regelmatig marketingmateriaal of video’s bewerken, betekent dit een directe besparing op tijd en moeite.
+Adobe stopt AI-assistenten in al zijn grote creatieve apps, waaronder Photoshop, Premiere Pro, Illustrator en InDesign. Deze chatbots, die onderdeel zijn van een publieke bètaversie, kunnen je helpen met het organiseren van je werk en het automatiseren van specifieke taken binnen elke app. Ze worden aangedreven door Adobe's eigen 'conversational creative agent' en werken als een specialist binnen elke applicatie.
 
 ## Wat er aan de hand is
-
-Adobe rolt een nieuwe functie uit in meerdere apps van de Creative Cloud-suite. Het gaat om AI-assistenten die zijn afgestemd op de specifieke taken van elk programma. De assistent in Premiere is bijvoorbeeld getraind op videobewerking, terwijl die in Photoshop zich richt op beeldbewerking. Volgens Adobe worden alle assistenten aangedreven door een ‘conversational creative agent’, maar ze werken onafhankelijk en opereren ‘als een specialist’ binnen elke app. De functie is nu beschikbaar als publieke bèta.
+Adobe heeft aangekondigd dat het zijn Creative Cloud-suite uitbreidt met AI-assistenten. Vanaf vandaag zijn deze chatbots beschikbaar in een publieke bèta voor Photoshop, Premiere Pro, Illustrator, InDesign en Frame.io. Elke assistent is specifiek getraind voor de taken binnen die app. De Premiere-assistent is bijvoorbeeld afgestemd op videobewerkingstaken, terwijl de Photoshop-assistent zich richt op beeldbewerking. Dit is een volgende stap in Adobe's strategie om AI diep te integreren in zijn creatieve tools, waarmee het bedrijf inspeelt op de groeiende vraag naar automatisering en efficiëntie in creatieve workflows.
 
 ## Wat dit betekent
-
-Voor ondernemers die zelf hun visuele content maken, zoals productfoto’s, social media posts of uitlegvideo’s, kunnen deze AI-assistenten routinewerk uit handen nemen. Denk aan het sorteren van lagen in Photoshop, het toevoegen van standaardovergangen in Premiere of het aanpassen van kleurprofielen. De assistenten begrijpen context en kunnen opdrachten uitvoeren op basis van natuurlijke taal. Dit verlaagt de drempel voor ondernemers die niet dagelijks met deze complexe software werken, maar wel professionele output nodig hebben.
+Voor ondernemers en professionals die dagelijks met Adobe-tools werken, betekent dit een directe besparing op tijd en moeite. Routinetaken zoals het organiseren van lagen, het toepassen van standaardbewerkingen of het genereren van variaties kunnen nu via een simpel gesprek met de AI worden uitgevoerd. Dit is vooral relevant voor kleine bedrijven en freelancers die vaak zelf alle creatieve taken doen. In plaats van door menu's te klikken of handleidingen te raadplegen, kun je de assistent in natuurlijke taal vertellen wat je nodig hebt. De impact is het grootst voor wie veel repetitief werk heeft, zoals het bewerken van productfoto's voor een webshop of het monteren van social media-video's.
 
 ## Hoe je dit kunt toepassen
+**Als je een webshop runt en dagelijks productfoto's bewerkt.** Je zou de AI-assistent in Photoshop kunnen vragen om een batch foto's te voorzien van een standaard achtergrond of om de belichting van meerdere afbeeldingen gelijk te trekken. Een mogelijkheid is om een prompt te geven als 'pas dezelfde witbalans toe als op de eerste foto' of 'verwijder de achtergrond van alle geselecteerde lagen'. Dit bespaart je de tijd van handmatig elke foto individueel bewerken.
 
-**Als je een webshop runt en regelmatig productfoto’s bewerkt**, kun je de AI-assistent in Photoshop gebruiken om handmatige stappen over te slaan. Vraag de assistent bijvoorbeeld om de achtergrond van een serie foto’s te verwijderen of om alle afbeeldingen in hetzelfde kleurprofiel te zetten. Een mogelijkheid is om een batch bewerkingen in te stellen via een gesprek met de assistent, in plaats van elke foto apart te openen.
+**Als je video's maakt voor social media of je bedrijf.** In Premiere Pro kun je de assistent vragen om een ruwe montage te maken van je clips op basis van een script of om automatisch ondertitels te genereren. Overweeg om de assistent te gebruiken voor het organiseren van je projectbestanden: vraag hem om alle clips van een bepaalde dag in een aparte map te zetten. Dit versnelt de voorbereiding van je project aanzienlijk.
 
-**Als je een team aanstuurt dat video’s maakt voor social media**, overweeg dan om de Premiere-assistent in te zetten voor het structureren van ruwe footage. Je zou de assistent kunnen vragen om alle clips op basis van een bepaalde tag te groeperen of om automatisch een ruwe montage te maken van de beste takes. Dit bespaart uren aan handmatig sorteren en knippen.
+**Als je een team van ontwerpers aanstuurt.** Je kunt de AI-assistent gebruiken om consistentie in ontwerpen te waarborgen. Vraag de assistent in Illustrator om een sjabloon te maken voor social media posts met de juiste afmetingen en merkstijlen. Een optie is om de assistent te instrueren om alle lagen in een InDesign-document te hernoemen volgens een vaste conventie, zodat het werk van verschillende teamleden makkelijker te combineren is.
 
-**Als je als zelfstandig ontwerper werkt en meerdere Adobe-apps gebruikt**, kun je de assistent in Illustrator of InDesign gebruiken om herhalende taken te automatiseren. Denk aan het genereren van variaties op een logo of het opmaken van een brochure op basis van een sjabloon. Een optie is om de assistent te vragen om alle tekstvakken in een document te controleren op consistentie, zoals lettertype en grootte.
-
-**Als je in de zorg of een andere sector werkt waar je instructievideo’s maakt**, kun je de Premiere-assistent gebruiken om standaard ondertiteling of overgangen toe te voegen. Vraag de assistent om een intro en outro te plaatsen bij elke nieuwe video, of om automatisch een transcript te genereren van de gesproken tekst. Dit maakt het maken van uitlegmateriaal een stuk eenvoudiger.
+**Als je een freelance ontwerper bent en je workflow wilt stroomlijnen.** Gebruik de assistent in Frame.io om feedback van klanten te verwerken. Je zou de assistent kunnen vragen om alle opmerkingen uit een review-sessie te bundelen en te vertalen naar een takenlijst in je project. Dit helpt je om overzicht te houden en geen feedback te missen, zonder dat je handmatig door alle opmerkingen hoeft te scrollen.
 
 Bron: [The Verge](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch)
