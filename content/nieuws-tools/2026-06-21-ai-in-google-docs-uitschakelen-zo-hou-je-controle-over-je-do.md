@@ -1,29 +1,32 @@
 ---
 title: "AI in Google Docs uitschakelen: zo hou je controle over je documenten"
-date: 2026-06-21T10:06:48.325Z
-tags: ["google docs", "ai uitschakelen", "productiviteit", "ondernemers"]
+date: 2026-06-21T22:06:43.107Z
+tags: ["google docs", "ai uitschakelen", "privacy", "productiviteit"]
 categorieen: ["nieuws-tools"]
-summary: "Stap-voor-stap hoe je Gemini-assistentie in Google Docs uitschakelt voor meer focus."
+summary: "Stap-voor-stap hoe je Gemini-functies in Google Docs uitzet zonder je workflow te verstoren."
 draft: false
 source_name: "Techcrunch"
 source_url: "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/"
 ---
 
-Het antwoord: Je kunt de AI-assistentie in Google Docs uitschakelen via de instellingen, zodat je niet langer wordt gestoord door pop-ups en suggesties van Gemini. Dit geef je direct meer controle over je documenten zonder afleiding van automatische hulpmiddelen.
+Het antwoord op de vraag hoe je AI in Google Docs uitschakelt is simpel: je kunt de Gemini-functies per document of voor je hele account uitzetten via het menu ‘Extra’ of de accountinstellingen. Dit voorkomt dat pop-ups en suggesties je werk onderbreken, terwijl je gewoon kunt blijven typen en samenwerken.
 
 ## Wat er aan de hand is
-Google heeft AI-assistentie, aangedreven door Gemini, geïntegreerd in Google Docs. Dit betekent dat je tijdens het typen automatisch suggesties krijgt, zoals ‘schrijf met Gemini’ of andere hulp bij het opstellen van tekst. Voor sommige gebruikers is dit handig, maar voor ondernemers die snel en ongestoord willen werken, kan het juist storend zijn. TechCrunch meldt dat het uitschakelen van deze functie eenvoudig is via de instellingen van Google Docs. Het is onderdeel van een bredere trend waarin AI steeds vaker standaard wordt ingebouwd in productiviteitstools, maar niet iedereen zit daarop te wachten.
+
+Google heeft de afgelopen maanden steeds meer AI-functionaliteit ingebouwd in Google Docs, onder de naam ‘Gemini’. Denk aan automatische schrijfsuggesties, samenvattingen en de mogelijkheid om met AI te brainstormen. Voor veel gebruikers verschijnt er een pop-up met de tekst ‘Write with Gemini’ zodra je een nieuw document opent of een lege regel begint. Volgens TechCrunch is er geen centrale ‘uit-knop’ voor alle AI-functies tegelijk, maar zijn er wel een paar eenvoudige manieren om ze uit te schakelen. Dit nieuws is relevant omdat steeds meer ondernemers aangeven dat de AI-suggesties afleiden of niet aansluiten bij hun manier van werken.
 
 ## Wat dit betekent
-Voor ondernemers betekent dit dat je niet langer gedwongen wordt om met AI te werken als je dat niet wilt. De pop-ups en suggesties kunnen afleiden, vooral als je snel een document wilt afronden of vertrouwelijke informatie verwerkt. Door AI uit te schakelen, behoud je de volledige controle over je schrijfproces. Dit is relevant voor sectoren zoals juridisch advies, financiële dienstverlening of contentcreatie, waar precisie en eigen inbreng essentieel zijn. Het is een kleine aanpassing die een groot verschil kan maken in je dagelijkse workflow.
+
+Voor ondernemers die Google Docs zakelijk gebruiken, betekent dit dat je niet langer hoeft te accepteren dat AI je werk onderbreekt. Of je nu een offerte schrijft, een contract opstelt of interne notities maakt, de pop-ups kunnen storend zijn. Het uitschakelen van AI heeft geen invloed op de basisfunctionaliteit van Google Docs: je kunt nog steeds samenwerken, opmaak gebruiken en documenten delen. Het enige wat verandert is dat je geen suggesties meer krijgt van Gemini. Dit is vooral handig voor sectoren waar vertrouwelijkheid of een strakke schrijfstijl belangrijk is, zoals juridisch advies, financiële dienstverlening of consultancy.
 
 ## Hoe je dit kunt toepassen
-**Als je een ondernemer bent die snel documenten moet opstellen zonder afleiding.** Je kunt de AI-assistentie uitschakelen door naar de instellingen van Google Docs te gaan. Klik op ‘Extra’ in het menu, dan op ‘Instellingen’, en schakel de optie ‘Schrijf met Gemini’ uit. Dit stopt alle pop-ups en suggesties. Overweeg om dit te doen voordat je een belangrijk document opent, zodat je niet wordt onderbroken.
 
-**Als je een team aanstuurt dat samenwerkt aan documenten.** Je kunt overwegen om voor je hele team de AI-assistentie standaard uit te schakelen. Dit doe je via de beheerconsole van Google Workspace, waar je per organisatie of groep kunt instellen of Gemini zichtbaar is. Een mogelijkheid is om dit te bespreken in een teamoverleg en te vragen wie de functie wil behouden en wie niet, zodat je een balans vindt tussen productiviteit en controle.
+**Als je een offerte of contract schrijft en geen AI-suggesties wilt zien.** Open het document waarin je werkt. Klik bovenaan op ‘Extra’ en vervolgens op ‘Gemini’. Zet de schakelaar bij ‘Schrijfsuggesties’ uit. Dit werkt alleen voor het huidige document. Herhaal dit voor elk document waar je de AI uit wilt hebben. Een alternatief is om een lege regel te typen en op de ‘X’ te klikken in de pop-up ‘Write with Gemini’. Die verdwijnt dan voor de rest van de sessie.
 
-**Als je in een sector werkt waar vertrouwelijkheid belangrijk is.** Het uitschakelen van AI kan helpen om te voorkomen dat gevoelige informatie per ongeluk wordt gedeeld met externe AI-systemen. Je zou kunnen overwegen om een aparte Google Workspace-omgeving in te richten voor vertrouwelijke documenten, waar AI standaard is uitgeschakeld. Dit geeft je gemoedsrust zonder dat je elke keer handmatig instellingen hoeft aan te passen.
+**Als je voor je hele account AI in Google Docs wilt uitschakelen.** Ga naar je Google-accountinstellingen via het pictogram rechtsboven in Gmail of Google Drive. Klik op ‘Beheer je Google-account’ en ga naar het tabblad ‘Gegevens en privacy’. Scroll naar ‘AI en aanpassingen’. Zet hier de schakelaar voor ‘Gemini in Documenten’ uit. Let op: dit kan ook andere Google-diensten beïnvloeden, zoals Gmail of Sheets. Overweeg om dit alleen te doen als je zeker weet dat je nergens AI-suggesties wilt.
 
-**Als je merkt dat AI-suggesties je creativiteit in de weg zitten.** Soms werken automatische hulpmiddelen averechts als je zelf een unieke toon of stijl wilt behouden. Je kunt de AI uitschakelen en later, als het document klaar is, de functie weer inschakelen voor een laatste controle. Een optie is om een vaste routine te maken: schrijf eerst zonder AI, schakel het daarna in voor suggesties, en beoordeel of het iets toevoegt.
+**Als je een team aanstuurt en consistentie wilt behouden.** Als je met meerdere mensen samenwerkt aan documenten, kun je overwegen om een korte instructie te delen. Stuur een e-mail of zet een notitie in jullie gedeelde omgeving: ‘Zet Gemini uit via Extra > Gemini als je geen schrijfsuggesties wilt.’ Dit voorkomt dat teamleden per ongeluk AI-gegenereerde tekst in een document laten staan die niet past bij jullie stijl. Je kunt ook een template maken waarin de AI al standaard is uitgeschakeld.
+
+**Als je af en toe AI wilt gebruiken, maar niet altijd.** Je hoeft de functie niet permanent uit te schakelen. Een optie is om Gemini alleen aan te zetten voor documenten waar je echt hulp nodig hebt, zoals een eerste opzet voor een blog of een brainstorm. Gebruik dan de sneltoets Ctrl+Shift+G (Windows) of Cmd+Shift+G (Mac) om Gemini te openen wanneer je het nodig hebt. Zo blijf je zelf bepalen wanneer AI meedenkt.
 
 Bron: TechCrunch (https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/)
