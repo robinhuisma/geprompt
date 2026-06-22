@@ -1,34 +1,34 @@
 ---
-title: "OpenAI verbetert gezondheidsantwoorden in gratis ChatGPT: wat dat betekent voor jouw bedrijf"
-date: 2026-06-22T06:04:50.034Z
-tags: ["chatgpt", "gezondheid", "ai", "mkb"]
+title: "OpenAI verbetert gezondheidsantwoorden in gratis ChatGPT: wat dit betekent voor jouw bedrijf"
+date: 2026-06-22T14:03:50.026Z
+tags: ["chatgpt", "gezondheid", "mkb", "ai"]
 categorieen: ["nieuws-tools"]
-summary: "Gratis ChatGPT geeft nu betrouwbaardere gezondheidsinformatie, vergelijkbaar met betaalde modellen."
+summary: "Gratis ChatGPT geeft nu betere antwoorden op gezondheidsvragen, vergelijkbaar met betaalde modellen."
 draft: false
 source_name: "Search Engine Journal"
 source_url: "https://www.searchenginejournal.com/openai-brings-improved-health-responses-to-free-chatgpt/579919/"
 ---
 
-Het gratis ChatGPT-model, GPT-5.5 Instant, geeft nu gezondheidsantwoorden die volgens OpenAI vergelijkbaar zijn met de beste betaalde modellen. Voor ondernemers betekent dit dat je zonder extra kosten toegang hebt tot betrouwbaardere informatie over gezondheid en welzijn, bijvoorbeeld voor personeelsbeleid of het beantwoorden van klantvragen.
+Het gratis ChatGPT-model, standaard beschikbaar voor alle gebruikers, geeft nu antwoorden op gezondheidsvragen die volgens OpenAI vergelijkbaar zijn met de prestaties van de duurdere, geavanceerdere modellen. Dit betekent dat kleine ondernemers zonder extra kosten toegang hebben tot betrouwbaardere gezondheidsinformatie, bijvoorbeeld voor het beantwoorden van vragen van medewerkers of klanten.
 
 ## Wat er aan de hand is
 
-OpenAI heeft aangekondigd dat het standaard gratis ChatGPT-model, GPT-5.5 Instant, is verbeterd op het gebied van gezondheidsvragen. Volgens het bedrijf presteert dit model nu op hetzelfde niveau als de duurdere ‘frontier’-modellen in interne gezondheidsevaluaties. De update is doorgevoerd zonder dat gebruikers iets hoeven te doen; het werkt direct in de gratis versie van ChatGPT. Dit nieuws, oorspronkelijk gemeld door Search Engine Journal, laat zien dat OpenAI blijft investeren in de kwaliteit van gratis AI-toegang, vooral op gevoelige domeinen zoals gezondheid.
+OpenAI heeft aangekondigd dat het gratis standaardmodel, dat het bedrijf GPT-5.5 Instant noemt, nu op de eigen gezondheidsevaluaties van OpenAI even goed presteert als de topmodellen. De verbetering is doorgevoerd zonder dat gebruikers iets hoeven te doen: wie de gratis versie van ChatGPT gebruikt, krijgt sinds kort automatisch accuratere antwoorden op vragen over gezondheid en welzijn. Het bedrijf heeft geen details gedeeld over hoe de verbetering precies is gerealiseerd, maar stelt dat het model nu beter in staat is om medisch gerelateerde vragen te beantwoorden.
 
 ## Wat dit betekent
 
-Voor ondernemers en professionals in het MKB is dit relevant omdat gezondheidsinformatie vaak een rol speelt in bedrijfsvoering. Denk aan het opstellen van een gezondheidsbeleid voor medewerkers, het beantwoorden van vragen over verzuim of het informeren van klanten over producten met gezondheidsclaims. Voorheen was het risico op foutieve of onvolledige antwoorden groter bij gratis modellen. Nu de kwaliteit volgens OpenAI is verbeterd, kun je met meer vertrouwen gebruikmaken van gratis ChatGPT voor dit soort taken. Het bespaart kosten omdat je geen duur AI-abonnement nodig hebt voor betrouwbare informatie.
+Voor ondernemers in het mkb opent dit een nieuwe mogelijkheid om laagdrempelig gezondheidsinformatie te raadplegen, zonder dat ze daarvoor een duur abonnement op ChatGPT Plus of Enterprise nodig hebben. Denk aan vragen over veelvoorkomende klachten, preventieve maatregelen of uitleg over medicijngebruik. De impact is het grootst voor bedrijven zonder eigen bedrijfsarts of arbodienst, waar medewerkers nu sneller een eerste indicatie kunnen krijgen. Let wel: het blijft AI, geen arts. OpenAI benadrukt niet dat de antwoorden medisch advies vervangen. Voor sectoren zoals horeca, retail of logistiek, waar personeel regelmatig met gezondheidsvragen zit, kan dit een praktisch hulpmiddel zijn.
 
 ## Hoe je dit kunt toepassen
 
-**Als je een klein team aanstuurt en een gezondheidsbeleid wilt opstellen.** Je kunt ChatGPT vragen naar richtlijnen voor een gezonde werkplek, zoals advies over beeldschermwerk, stressmanagement of ergonomie. Vraag bijvoorbeeld: ‘Geef me een overzicht van de belangrijkste punten voor een gezondheidsbeleid in een kantooromgeving.’ Gebruik de antwoorden als basis voor een eigen document, maar controleer altijd met officiële bronnen zoals de Arbowet.
+**Als je een team aanstuurt en medewerkers vragen hebben over gezondheid op de werkvloer**, overweeg om ChatGPT in te zetten als eerste informatiebron. Stel dat een medewerker vraagt of hoofdpijn na een lange dag achter de computer normaal is. Je kunt het gratis model vragen naar mogelijke oorzaken en eenvoudige tips, zoals een pauze nemen of de monitorhoogte aanpassen. Het antwoord is geen vervanging van een bezoek aan de huisarts, maar kan helpen om ongerustheid weg te nemen of te bepalen of verder overleg nodig is.
 
-**Als je in de horeca of retail werkt en klanten vragen stelt over producten.** Stel dat een klant vraagt of een product geschikt is voor mensen met een bepaalde allergie. Je kunt ChatGPT vragen om een lijst met veelvoorkomende allergenen en hoe je die kunt herkennen in ingrediënten. Een mogelijke prompt is: ‘Welke allergenen komen het meest voor in voedingsproducten en hoe communiceer ik dat duidelijk naar klanten?’ Gebruik de output als hulpmiddel, niet als vervanging van etiketinformatie.
+**Als je een webshop runt en klanten vragen stellen over gezondheidsproducten**, zoals supplementen of ergonomische hulpmiddelen, kun je ChatGPT gebruiken om algemene informatie te geven. Een klant die vraagt of een bepaald product geschikt is voor rugklachten, krijgt van het verbeterde model een genuanceerder antwoord dan voorheen. Je kunt deze antwoorden gebruiken als basis voor een FAQ op je website, mits je duidelijk aangeeft dat het geen medisch advies is.
 
-**Als je personeelszaken regelt en vragen krijgt over verzuim of ziekte.** Medewerkers kunnen vragen stellen over hun rechten bij ziekte of hoe ze zich kunnen ziekmelden. ChatGPT kan helpen met een overzicht van basisregels, zoals de wachtdagen of de rol van de bedrijfsarts. Vraag bijvoorbeeld: ‘Wat zijn de verplichtingen van een werkgever bij langdurig verzuim in Nederland?’ Gebruik de antwoorden om je eigen kennis aan te vullen, maar raadpleeg altijd een jurist of arbodienst voor specifieke situaties.
+**Als je in de horeca werkt en te maken krijgt met vragen over allergieën of dieetwensen**, kun je ChatGPT raadplegen voor uitleg over veelvoorkomende allergenen of voedingsstoffen. Een gast die vraagt of een gerecht gluten bevat, kun je met behulp van het model sneller een eerste check doen. Het is verstandig om altijd de eigen ingrediëntenlijst te controleren, maar de AI kan je helpen om snel te achterhalen waar je op moet letten.
 
-**Als je een fitness- of welzijnsbedrijf runt en content maakt.** Je kunt ChatGPT gebruiken om informatieve teksten te schrijven over onderwerpen als slaap, voeding of beweging. Vraag: ‘Schrijf een korte uitleg over de voordelen van dagelijks bewegen voor kantoorpersoneel.’ De verbeterde gezondheidsantwoorden maken de output betrouwbaarder, maar voeg altijd een disclaimer toe dat het geen medisch advies is.
+**Als je een klein kantoor runt zonder vast gezondheidsbeleid**, kun je het gratis model gebruiken om eenvoudige richtlijnen op te stellen, bijvoorbeeld over zitten, beeldschermwerk of stress. Vraag ChatGPT naar tips voor een gezonde werkplek of naar signalen van overbelasting. De antwoorden zijn nu betrouwbaarder, maar je moet ze altijd toetsen aan officiële bronnen zoals het RIVM of de Arbowet.
 
-**Als je een webshop hebt met gezondheidsproducten.** Gebruik ChatGPT om veelgestelde vragen over supplementen of vitamines te beantwoorden. Vraag bijvoorbeeld: ‘Wat zijn de aanbevolen dagelijkse hoeveelheden van vitamine D voor volwassenen?’ Gebruik de antwoorden om een FAQ-pagina op te zetten. Vermeld duidelijk dat de informatie is gegenereerd door AI en dat klanten bij twijfel een arts moeten raadplegen.
+**Als je in de zorg of welzijn werkt en snel informatie wilt over een aandoening of medicijn**, biedt het gratis model nu een extra hulpmiddel. Een verpleegkundige of receptionist kan een eerste uitleg krijgen over bijwerkingen of doseringen, zonder dat daarvoor een duur abonnement nodig is. Ook hier geldt: gebruik het als naslagwerk, niet als definitief oordeel.
 
 Bron: Search Engine Journal (https://www.searchenginejournal.com/openai-brings-improved-health-responses-to-free-chatgpt/579919/)
